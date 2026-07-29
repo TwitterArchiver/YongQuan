@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057970906786574775",
+    "created_at": "2026-05-22T23:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057970906786574775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1282010191748186117",
+          "start": 3,
+          "username": "mengqing5208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057970906786574775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057519748217467218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengqing5208: 🥺能不能给我推推流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057970906786574775",
+        "created_at": "2026-05-22T23:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057970906786574775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1282010191748186117",
+              "start": 3,
+              "username": "mengqing5208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057970906786574775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057519748217467218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengqing5208: 🥺能不能给我推推流"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282010191748186117",
+        "conversation_id": "2057519748217467218",
+        "created_at": "2026-05-21T17:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057519748217467218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057519748217467218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🥺能不能给我推推流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9959,
+          "following_count": 4363,
+          "like_count": 46942,
+          "listed_count": 30,
+          "media_count": 3642,
+          "tweet_count": 12874
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-11T17:53:51.000Z",
+        "description": "14岁/二元跨女（不等于男娘…😿）/在hrt/喜欢女孩子…😿/我会尽力对大家友好的😿希望得到大家的喜爱或者至少不讨厌捏……/不涉黄，尽量不涉政/政治中立学术派/中英双语/好朋友：@freequan2025   @vicoOci_Olvidar    @SujitGund\n🥺❤️😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "freequan2025"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "SujitGund"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/B3FHIhpHrJ"
+              }
+            ]
+          }
+        },
+        "id": "1282010191748186117",
+        "location": "Japan",
+        "name": "梦情🏳️‍⚧️",
+        "pinned_tweet_id": "1386698578932899843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021455778482470912/bLsOSTw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 255,
+          "like_count": 3772,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/B3FHIhpHrJ",
+        "username": "mengqing5208",
+        "verified": false
+      }
+    ]
+  }
+}

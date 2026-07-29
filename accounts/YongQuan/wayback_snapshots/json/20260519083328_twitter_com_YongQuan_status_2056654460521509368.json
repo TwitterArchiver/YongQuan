@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2056452192660271475",
+    "created_at": "2026-05-19T08:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056654460521509368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "872833914083188737",
+          "start": 0,
+          "username": "City_Xtra"
+        },
+        {
+          "end": 21,
+          "id": "111556576",
+          "start": 11,
+          "username": "MailSport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056654460521509368",
+    "in_reply_to_user_id": "872833914083188737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Pep is 100% a legend, no question. But looking at the past two seasons, the coaching has honestly been the biggest issue. Getting a new manager is definitely a good thing.\nWinning a couple more trophies before leaving is a decent way to go out on his own terms. Hope both Pep and City have a bright future ahead."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056452192660271475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@City_Xtra @MailSport Pep is 100% a legend, no question. But looking at the past two seasons, the coaching has honestly been the biggest issue. Getting a new manager is definitely a good thing.\nWinning a couple more trophies before leaving is a decent way to go out on his own terms. Hope both Pep and"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2056452164080263169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn8WQGWYAE4Yip.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2056452192660271475",
+        "created_at": "2026-05-19T08:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056654460521509368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "872833914083188737",
+              "start": 0,
+              "username": "City_Xtra"
+            },
+            {
+              "end": 21,
+              "id": "111556576",
+              "start": 11,
+              "username": "MailSport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056654460521509368",
+        "in_reply_to_user_id": "872833914083188737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Pep is 100% a legend, no question. But looking at the past two seasons, the coaching has honestly been the biggest issue. Getting a new manager is definitely a good thing.\nWinning a couple more trophies before leaving is a decent way to go out on his own terms. Hope both Pep and City have a bright future ahead."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056452192660271475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@City_Xtra @MailSport Pep is 100% a legend, no question. But looking at the past two seasons, the coaching has honestly been the biggest issue. Getting a new manager is definitely a good thing.\nWinning a couple more trophies before leaving is a decent way to go out on his own terms. Hope both Pep and"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056452164080263169"
+          ]
+        },
+        "author_id": "872833914083188737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2056452192660271475",
+        "created_at": "2026-05-18T19:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056452192660271475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "ManCity"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 100,
+              "id": "111556576",
+              "start": 90,
+              "username": "MailSport"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Q3f1h8wg1",
+              "end": 125,
+              "expanded_url": "https://x.com/City_Xtra/status/2056452192660271475/photo/1",
+              "media_key": "3_2056452164080263169",
+              "start": 102,
+              "url": "https://t.co/9Q3f1h8wg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056452192660271475",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 999,
+          "impression_count": 4557318,
+          "like_count": 29190,
+          "quote_count": 2867,
+          "reply_count": 1486,
+          "retweet_count": 3155
+        },
+        "reply_settings": "everyone",
+        "text": "MAJOR BREAKING: Pep Guardiola will leave #ManCity at the end of the 2025/26 season.\n\n[via @MailSport] https://t.co/9Q3f1h8wg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 4299,
+          "like_count": 45984,
+          "listed_count": 30,
+          "media_count": 3518,
+          "tweet_count": 12523
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-08T15:13:16.000Z",
+        "description": "Multi-award winning #ManCity coverage: News, Quotes, Transfers, Live Match Commentary • Enquiries: contact@cityxtra.co.uk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "ManCity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cityxtra.co.uk",
+                "end": 23,
+                "expanded_url": "http://cityxtra.co.uk",
+                "start": 0,
+                "url": "https://t.co/jdx6qE9010"
+              }
+            ]
+          }
+        },
+        "id": "872833914083188737",
+        "location": "Manchester, England",
+        "name": "City Xtra",
+        "pinned_tweet_id": "2056452192660271475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034012445711241216/9lxA0NkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837955,
+          "following_count": 1000,
+          "like_count": 27370,
+          "listed_count": 2057,
+          "media_count": 42028,
+          "tweet_count": 119062
+        },
+        "url": "https://t.co/jdx6qE9010",
+        "username": "City_Xtra",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-05T10:19:11.000Z",
+        "description": "Your home for the latest news, videos and viral moments from the world of sport! 📸🎙️🟢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mailsport",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mailsport",
+                "start": 0,
+                "url": "https://t.co/IYVv2jRjkS"
+              }
+            ]
+          }
+        },
+        "id": "111556576",
+        "name": "Daily Mail Sport",
+        "pinned_tweet_id": "2056448435755081851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919768555718901760/yJNOoour_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650145,
+          "following_count": 944,
+          "like_count": 1294,
+          "listed_count": 3074,
+          "media_count": 154409,
+          "tweet_count": 500696
+        },
+        "url": "https://t.co/IYVv2jRjkS",
+        "username": "MailSport",
+        "verified": true
+      }
+    ]
+  }
+}

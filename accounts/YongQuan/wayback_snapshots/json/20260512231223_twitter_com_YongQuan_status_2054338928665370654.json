@@ -1,0 +1,754 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054338921610563584"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "882153604341153792",
+          "name": "Faker"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "882153604341153792",
+          "name": "Faker"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "882153604341153792",
+          "name": "Faker"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288168909422518272",
+          "name": "Esports players"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "id": "882153604341153792",
+          "name": "Faker"
+        }
+      }
+    ],
+    "conversation_id": "2053596763144024300",
+    "created_at": "2026-05-12T23:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054338928665370654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707095214702153728",
+          "start": 0,
+          "username": "Sheep_Esports"
+        },
+        {
+          "end": 50,
+          "id": "1653450192828366849",
+          "start": 41,
+          "username": "BLGBinGe"
+        },
+        {
+          "end": 63,
+          "id": "1085994975181979648",
+          "start": 57,
+          "username": "faker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERHoLJ7hoE",
+          "end": 88,
+          "expanded_url": "https://x.com/YongQuan/status/2054338928665370654/photo/1",
+          "media_key": "3_2054338921610563584",
+          "start": 65,
+          "url": "https://t.co/ERHoLJ7hoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054338928665370654",
+    "in_reply_to_user_id": "1707095214702153728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053596763144024300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep_Esports Doesn‘t anyone think like @BLGBinGe &amp; @Faker? https://t.co/ERHoLJ7hoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054338921610563584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ6XWbbUAA4q3c.jpg",
+        "width": 921
+      },
+      {
+        "height": 542,
+        "media_key": "3_2053593795472613376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_UrTQXYAAvD8A.png",
+        "width": 688
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2053596688648957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_XTtLW8AAcgLm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054338921610563584"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "882153604341153792",
+              "name": "Faker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "882153604341153792",
+              "name": "Faker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "882153604341153792",
+              "name": "Faker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "id": "882153604341153792",
+              "name": "Faker"
+            }
+          }
+        ],
+        "conversation_id": "2053596763144024300",
+        "created_at": "2026-05-12T23:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054338928665370654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707095214702153728",
+              "start": 0,
+              "username": "Sheep_Esports"
+            },
+            {
+              "end": 50,
+              "id": "1653450192828366849",
+              "start": 41,
+              "username": "BLGBinGe"
+            },
+            {
+              "end": 63,
+              "id": "1085994975181979648",
+              "start": 57,
+              "username": "faker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERHoLJ7hoE",
+              "end": 88,
+              "expanded_url": "https://x.com/YongQuan/status/2054338928665370654/photo/1",
+              "media_key": "3_2054338921610563584",
+              "start": 65,
+              "url": "https://t.co/ERHoLJ7hoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054338928665370654",
+        "in_reply_to_user_id": "1707095214702153728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053596763144024300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep_Esports Doesn‘t anyone think like @BLGBinGe &amp; @Faker? https://t.co/ERHoLJ7hoE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053593795472613376",
+            "3_2053596688648957952"
+          ]
+        },
+        "author_id": "1707095214702153728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2053596763144024300",
+        "created_at": "2026-05-10T22:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053596763144024300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCS2DHvLvx",
+              "end": 124,
+              "expanded_url": "https://x.com/Sheep_Esports/status/2053596763144024300/photo/1",
+              "media_key": "3_2053593795472613376",
+              "start": 101,
+              "url": "https://t.co/jCS2DHvLvx"
+            },
+            {
+              "display_url": "pic.x.com/jCS2DHvLvx",
+              "end": 124,
+              "expanded_url": "https://x.com/Sheep_Esports/status/2053596763144024300/photo/1",
+              "media_key": "3_2053596688648957952",
+              "start": 101,
+              "url": "https://t.co/jCS2DHvLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053596763144024300",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 1053114,
+          "like_count": 11077,
+          "quote_count": 152,
+          "reply_count": 57,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "T1 Esports Academy Rookies Toplaner Midir 🇰🇷 is going viral for his striking resemblance to Faker 🇰🇷 https://t.co/jCS2DHvLvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9717,
+          "following_count": 4233,
+          "like_count": 45167,
+          "listed_count": 29,
+          "media_count": 3351,
+          "tweet_count": 12117
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T18:10:11.000Z",
+        "description": "Esports leaks, roster news, highlights, interviews, stats, business & clips! \n\nPowered by @WinamaxSport\nVALORANT: @Sheep_VALORANT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "WinamaxSport"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Sheep_VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://www.sheepesports.com/",
+                "start": 0,
+                "url": "https://t.co/jT5E7G91hQ"
+              }
+            ]
+          }
+        },
+        "id": "1707095214702153728",
+        "name": "Sheep Esports",
+        "pinned_tweet_id": "2035378161366503870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712839672345350144/Almbh25T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165965,
+          "following_count": 23,
+          "like_count": 1441,
+          "listed_count": 239,
+          "media_count": 5913,
+          "tweet_count": 9644
+        },
+        "url": "https://t.co/jT5E7G91hQ",
+        "username": "Sheep_Esports",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T17:23:52.000Z",
+        "description": "BLG top laner Bin",
+        "id": "1653450192828366849",
+        "name": "Bin",
+        "pinned_tweet_id": "1656686882191712258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653451826442666006/103pxgC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65829,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 60,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "BLGBinGe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T20:19:13.000Z",
+        "description": "Mid lane for @T1LoL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "T1LoL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/faker",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/faker",
+                "start": 0,
+                "url": "https://t.co/bN5LSAxfsS"
+              }
+            ]
+          }
+        },
+        "id": "1085994975181979648",
+        "location": "대한민국 서울",
+        "name": "T1 Faker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1201069332152717312/57qljjiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750612,
+          "following_count": 16,
+          "like_count": 10,
+          "listed_count": 948,
+          "media_count": 27,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/bN5LSAxfsS",
+        "username": "faker",
+        "verified": false
+      }
+    ]
+  }
+}
