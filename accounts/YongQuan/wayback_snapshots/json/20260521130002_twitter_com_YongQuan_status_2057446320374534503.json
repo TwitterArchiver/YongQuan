@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055632123680460800"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2057446320374534503",
+    "created_at": "2026-05-21T13:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057446320374534503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "107238136",
+          "start": 6,
+          "username": "duolingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nd5SEPlLNb",
+          "end": 39,
+          "expanded_url": "https://x.com/YongQuan/status/2057446320374534503/photo/1",
+          "media_key": "3_2055632123680460800",
+          "start": 16,
+          "url": "https://t.co/Nd5SEPlLNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057446320374534503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好变态的多儿@duolingo https://t.co/Nd5SEPlLNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2055632123680460800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcShnjbEAAPBAn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055632123680460800"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2057446320374534503",
+        "created_at": "2026-05-21T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057446320374534503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "107238136",
+              "start": 6,
+              "username": "duolingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nd5SEPlLNb",
+              "end": 39,
+              "expanded_url": "https://x.com/YongQuan/status/2057446320374534503/photo/1",
+              "media_key": "3_2055632123680460800",
+              "start": 16,
+              "url": "https://t.co/Nd5SEPlLNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446320374534503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好变态的多儿@duolingo https://t.co/Nd5SEPlLNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940,
+          "following_count": 4335,
+          "like_count": 46507,
+          "listed_count": 30,
+          "media_count": 3584,
+          "tweet_count": 12728
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "Free education for the world. Available on Android, iOS, and the web.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@duolingo",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@duolingo",
+                "start": 0,
+                "url": "https://t.co/sLUHIFpERW"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029235320680538112/UhrkIbZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029806,
+          "following_count": 512,
+          "like_count": 24264,
+          "listed_count": 2778,
+          "media_count": 2047,
+          "tweet_count": 54064
+        },
+        "url": "https://t.co/sLUHIFpERW",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

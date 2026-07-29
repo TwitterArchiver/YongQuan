@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060528073897058305"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060888999192035502",
+    "created_at": "2026-05-31T01:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060888999192035502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZlxMkooPv",
+          "end": 34,
+          "expanded_url": "https://x.com/YongQuan/status/2060888999192035502/photo/1",
+          "media_key": "3_2060528073897058305",
+          "start": 11,
+          "url": "https://t.co/oZlxMkooPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060888999192035502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "康神开播了？真的假的 https://t.co/oZlxMkooPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2060528073897058305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJh3XbZaoAE51YO.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060528073897058305"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060888999192035502",
+        "created_at": "2026-05-31T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060888999192035502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZlxMkooPv",
+              "end": 34,
+              "expanded_url": "https://x.com/YongQuan/status/2060888999192035502/photo/1",
+              "media_key": "3_2060528073897058305",
+              "start": 11,
+              "url": "https://t.co/oZlxMkooPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060888999192035502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "康神开播了？真的假的 https://t.co/oZlxMkooPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10241,
+          "following_count": 4430,
+          "like_count": 47893,
+          "listed_count": 31,
+          "media_count": 3877,
+          "tweet_count": 13349
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

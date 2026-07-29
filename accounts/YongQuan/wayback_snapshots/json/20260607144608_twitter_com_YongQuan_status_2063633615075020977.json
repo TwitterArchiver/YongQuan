@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2063443783304487258",
+    "created_at": "2026-06-07T14:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063633615075020977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046417309879951360",
+          "start": 0,
+          "username": "UnclePaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063633615075020977",
+    "in_reply_to_user_id": "2046417309879951360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063443783304487258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnclePaoX 所以来点互动🥺开个小铃铛谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063443783304487258",
+        "created_at": "2026-06-07T14:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063633615075020977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046417309879951360",
+              "start": 0,
+              "username": "UnclePaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063633615075020977",
+        "in_reply_to_user_id": "2046417309879951360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063443783304487258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnclePaoX 所以来点互动🥺开个小铃铛谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046417309879951360",
+        "conversation_id": "2063443783304487258",
+        "created_at": "2026-06-07T02:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063443783304487258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063443783304487258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2627,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我算是发现了，要不是算法强制要求互动，\n\n咱们中区的人是真的不愿意评论啊……\n\n动手的极限操作就是点个赞了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "F1"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063602153240076289/gx2qUQ8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10542,
+          "following_count": 4516,
+          "like_count": 49002,
+          "listed_count": 31,
+          "media_count": 4081,
+          "tweet_count": 13803
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T02:37:26.000Z",
+        "description": "深耕互联网二十年｜江湖人送外号:老鲍\n\n项目全栈实战派\n\n分享一线干货｜拒绝空谈\n\nDaily insights & hands-on strategies\n\n想要财务自由？关注我 带你飞\n\n盘主出海资源 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laobao.chuhai.store",
+                "end": 23,
+                "expanded_url": "https://laobao.chuhai.store",
+                "start": 0,
+                "url": "https://t.co/fHoKrZjBPy"
+              }
+            ]
+          }
+        },
+        "id": "2046417309879951360",
+        "location": "东京热",
+        "name": "老鲍叔",
+        "pinned_tweet_id": "2059153028952035639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046418098820100096/QQibhfUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 737,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/fHoKrZjBPy",
+        "username": "UnclePaoX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2063347975875875104",
+    "created_at": "2026-06-07T14:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063631386049978781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        },
+        {
+          "end": 28,
+          "id": "1704469304077611008",
+          "start": 13,
+          "username": "jiaoyanboluooo"
+        },
+        {
+          "end": 36,
+          "id": "2063266311254552576",
+          "start": 29,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063631386049978781",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063372328021688669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 @jiaoyanboluooo @17nuun 他自己承认了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-07T14:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063631386049978781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 28,
+              "id": "1704469304077611008",
+              "start": 13,
+              "username": "jiaoyanboluooo"
+            },
+            {
+              "end": 36,
+              "id": "2063266311254552576",
+              "start": 29,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063631386049978781",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063372328021688669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @jiaoyanboluooo @17nuun 他自己承认了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-06T21:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063372328021688669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            },
+            {
+              "end": 23,
+              "id": "2063266311254552576",
+              "start": 16,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063372328021688669",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1009,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063365606284669279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo @17nuun 这是唐毓文蒸馏的17的skill 貌似是推文数据和一些聊天记录 严格来说 还是唐毓文本人🫠但是我感觉这样做有点过分……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "F1"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063602153240076289/gx2qUQ8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10542,
+          "following_count": 4516,
+          "like_count": 48995,
+          "listed_count": 31,
+          "media_count": 4081,
+          "tweet_count": 13800
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 329,
+          "like_count": 1596,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 3727,
+          "like_count": 26620,
+          "listed_count": 11,
+          "media_count": 1393,
+          "tweet_count": 5671
+        },
+        "username": "jiaoyanboluooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

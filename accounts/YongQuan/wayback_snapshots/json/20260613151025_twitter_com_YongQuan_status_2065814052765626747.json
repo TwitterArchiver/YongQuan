@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065787892039864592",
+    "created_at": "2026-06-13T15:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065814052765626747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505515130888638467",
+          "start": 0,
+          "username": "t1_aphelios"
+        },
+        {
+          "end": 27,
+          "id": "1707095214702153728",
+          "start": 13,
+          "username": "Sheep_Esports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065814052765626747",
+    "in_reply_to_user_id": "1505515130888638467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065788599379857458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t1_aphelios @Sheep_Esports 是这样的 Knight在Carry整个队伍的三把一次没有牺牲 说明人家确实是团队的主心骨啊\n反倒是T1 你们打得过GenG嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065787892039864592",
+        "created_at": "2026-06-13T15:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065814052765626747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505515130888638467",
+              "start": 0,
+              "username": "t1_aphelios"
+            },
+            {
+              "end": 27,
+              "id": "1707095214702153728",
+              "start": 13,
+              "username": "Sheep_Esports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065814052765626747",
+        "in_reply_to_user_id": "1505515130888638467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065788599379857458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t1_aphelios @Sheep_Esports 是这样的 Knight在Carry整个队伍的三把一次没有牺牲 说明人家确实是团队的主心骨啊\n反倒是T1 你们打得过GenG嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505515130888638467",
+        "conversation_id": "2065787892039864592",
+        "created_at": "2026-06-13T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065788599379857458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707095214702153728",
+              "start": 0,
+              "username": "Sheep_Esports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788599379857458",
+        "in_reply_to_user_id": "1707095214702153728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 659,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065787892039864592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep_Esports a selfish player. He’s not willing to make sacrifices for the team, which is why he’ll never win Worlds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 4536,
+          "like_count": 50025,
+          "listed_count": 35,
+          "media_count": 4245,
+          "tweet_count": 14202
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T12:02:56.000Z",
+        "description": "❤️T1👑(Z)DOF(G)PK ★ 🤍RMA👑Fede Valverde 8 ★ HLE🧡Guma•Zeus ★ DK🩵Smashie•Career•Siwoo ★ NS Diable  ★ KT Bdd ★ BFX Clear ★ KRX Willer ★ BRO Teddy ★ DNS DuDu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t1.gg",
+                "end": 23,
+                "expanded_url": "https://www.t1.gg/",
+                "start": 0,
+                "url": "https://t.co/Wn396tWKOI"
+              }
+            ]
+          }
+        },
+        "id": "1505515130888638467",
+        "location": "⭐⭐⭐⭐⭐⭐",
+        "name": "T1.Aphelios",
+        "pinned_tweet_id": "2035697872218251445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050918896614494208/maiD3qC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 491,
+          "like_count": 17610,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/Wn396tWKOI",
+        "username": "t1_aphelios",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T18:10:11.000Z",
+        "description": "Esports leaks, roster news, highlights, interviews, stats, business & clips! \n\nPowered by @Polymarketlol\nVALORANT: @Sheep_VALORANT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Polymarketlol"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "Sheep_VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://www.sheepesports.com/",
+                "start": 0,
+                "url": "https://t.co/jT5E7G9z7o"
+              }
+            ]
+          }
+        },
+        "id": "1707095214702153728",
+        "name": "Sheep Esports",
+        "pinned_tweet_id": "2062195366540272119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712839672345350144/Almbh25T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165633,
+          "following_count": 25,
+          "like_count": 1531,
+          "listed_count": 239,
+          "media_count": 6458,
+          "tweet_count": 10292
+        },
+        "url": "https://t.co/jT5E7G9z7o",
+        "username": "Sheep_Esports",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059265671163461855",
+    "created_at": "2026-05-27T03:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059482824777023558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1105278946168397824",
+          "start": 0,
+          "username": "iseki_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059482824777023558",
+    "in_reply_to_user_id": "1105278946168397824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059482517292683663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iseki_zero 的确是\n\n但是我现在更想要纯粹一点 所以后面只是发图不拿钱了\n算是上岸了（？不过确实没有这个工资多\n\n除非真的需要的话 就当存钱罐好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059265671163461855",
+        "created_at": "2026-05-27T03:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059482824777023558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1105278946168397824",
+              "start": 0,
+              "username": "iseki_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059482824777023558",
+        "in_reply_to_user_id": "1105278946168397824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059482517292683663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iseki_zero 的确是\n\n但是我现在更想要纯粹一点 所以后面只是发图不拿钱了\n算是上岸了（？不过确实没有这个工资多\n\n除非真的需要的话 就当存钱罐好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105278946168397824",
+        "conversation_id": "2059265671163461855",
+        "created_at": "2026-05-27T03:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059482517292683663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059482517292683663",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059482138257625575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 竟然这么多😭其实还好啦，主要是出现了一些比较低级的，交互起来完全没有真人感觉的存在。Quan好好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10071,
+          "following_count": 4404,
+          "like_count": 47556,
+          "listed_count": 30,
+          "media_count": 3786,
+          "tweet_count": 13175
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-12T01:26:50.000Z",
+        "description": "26🚹中国人です | ミクを渡せ。さもなければ、社会ごと巻き添えにしてやる。日本語を勉強してる。鍵垢 @iseki_stderr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "iseki_stderr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iseki.space",
+                "end": 23,
+                "expanded_url": "https://iseki.space",
+                "start": 0,
+                "url": "https://t.co/Rszp41wncX"
+              }
+            ]
+          }
+        },
+        "id": "1105278946168397824",
+        "location": "Next⇒神様いる場所",
+        "name": "iseki",
+        "pinned_tweet_id": "2034968369758445588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223461934428614657/HelElVGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1547,
+          "like_count": 31475,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 8564
+        },
+        "url": "https://t.co/Rszp41wncX",
+        "username": "iseki_zero",
+        "verified": true
+      }
+    ]
+  }
+}

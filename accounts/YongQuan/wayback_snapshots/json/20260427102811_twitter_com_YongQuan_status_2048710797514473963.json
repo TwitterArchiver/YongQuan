@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2048632527842418865",
+    "created_at": "2026-04-27T10:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048710797514473963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        },
+        {
+          "end": 23,
+          "id": "1647979969111261186",
+          "start": 9,
+          "username": "permanent_yin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048710797514473963",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048647118177661188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 @permanent_yin 看看b50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2048632527842418865",
+        "created_at": "2026-04-27T10:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048710797514473963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            },
+            {
+              "end": 23,
+              "id": "1647979969111261186",
+              "start": 9,
+              "username": "permanent_yin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048710797514473963",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048647118177661188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 @permanent_yin 看看b50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819327280482865152",
+        "conversation_id": "2048632527842418865",
+        "created_at": "2026-04-27T06:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048647118177661188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647979969111261186",
+              "start": 0,
+              "username": "permanent_yin"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 15,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048647118177661188",
+        "in_reply_to_user_id": "1647979969111261186",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048642316953600292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@permanent_yin @YongQuan 50？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9139,
+          "following_count": 4153,
+          "like_count": 43309,
+          "listed_count": 28,
+          "media_count": 2951,
+          "tweet_count": 11272
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil｜软萌无脑小英茎男同@nagiexpress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "nagiexpress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2FrPI"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "pinned_tweet_id": "2011048079143932386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009487619999322117/0IC52jbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 474,
+          "like_count": 74222,
+          "listed_count": 1,
+          "media_count": 1214,
+          "tweet_count": 12066
+        },
+        "url": "https://t.co/QY9nt2FrPI",
+        "username": "hzyj772",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️\namateur radio operator \ncall sign BH6RJM",
+        "id": "1647979969111261186",
+        "location": "Japan",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 433,
+          "like_count": 6211,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2344
+        },
+        "username": "permanent_yin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066460984534061246",
+    "created_at": "2026-06-16T04:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066743686105374751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        },
+        {
+          "end": 32,
+          "id": "1513307980845879302",
+          "start": 16,
+          "username": "yuukiasuna10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066743686105374751",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066460984534061246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 @yuukiasuna10086 骗你的 确定关系后更严重……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066460984534061246",
+        "created_at": "2026-06-16T04:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066743686105374751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 32,
+              "id": "1513307980845879302",
+              "start": 16,
+              "username": "yuukiasuna10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066743686105374751",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066460984534061246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @yuukiasuna10086 骗你的 确定关系后更严重……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2066460984534061246",
+        "created_at": "2026-06-15T10:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066460984534061246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066460984534061246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 282,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候，你还没有真正和某个人恋爱，就已经常常为了他内耗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10663,
+          "following_count": 4563,
+          "like_count": 50359,
+          "listed_count": 35,
+          "media_count": 4308,
+          "tweet_count": 14361
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12802,
+          "following_count": 3108,
+          "like_count": 40737,
+          "listed_count": 41,
+          "media_count": 4351,
+          "tweet_count": 22643
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-11T00:08:45.000Z",
+        "description": "｜INFP-T｜ADHD｜07｜摩羯｜手柄FPS玩家｜\n上海、东京随机刷新\n欢迎找我打apex",
+        "id": "1513307980845879302",
+        "location": "卧室床上",
+        "name": "Rosario",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023626372128927745/ZLjjc2yZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 564,
+          "like_count": 47989,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 5384
+        },
+        "username": "yuukiasuna10086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078893802358763545",
+    "created_at": "2026-07-19T17:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078893802358763545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078893802358763545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078884736051904860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @aoim33: 请你永远不要讨好别人，不要为了别人而委屈自己\n请你一直做最好的自己，请你放手，让那些人像流水一般流走\n在你筛选掉一批批跟你性格不合，理念不合，做法不合或者只是让你感到不舒服的人之后，总会有人停下来\n总会有人因为你只是你、只是你自己而停留下来，ta们理解你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078893802358763545",
+        "created_at": "2026-07-19T17:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078893802358763545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078893802358763545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078884736051904860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @aoim33: 请你永远不要讨好别人，不要为了别人而委屈自己\n请你一直做最好的自己，请你放手，让那些人像流水一般流走\n在你筛选掉一批批跟你性格不合，理念不合，做法不合或者只是让你感到不舒服的人之后，总会有人停下来\n总会有人因为你只是你、只是你自己而停留下来，ta们理解你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2078884736051904860",
+        "created_at": "2026-07-19T16:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078884736051904860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078884736051904860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "请你永远不要讨好别人，不要为了别人而委屈自己\n请你一直做最好的自己，请你放手，让那些人像流水一般流走\n在你筛选掉一批批跟你性格不合，理念不合，做法不合或者只是让你感到不舒服的人之后，总会有人停下来\n总会有人因为你只是你、只是你自己而停留下来，ta们理解你，欣你，赞美你，喜欢你\n\n请不要再因为不值得的人伤心而不愿放手\n请你向前看，看看那些你爱的人，爱你的人，看看那些值得的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "请你永远不要讨好别人，不要为了别人而委屈自己\n请你一直做最好的自己，请你放手，让那些人像流水一般流走\n在你筛选掉一批批跟你性格不合，理念不合，做法不合或者只是让你感到不舒服的人之后，总会有人停下来\n总会有人因为你只是你、只是你自己而停留下来，ta们理解你，欣你，赞美你，喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11138,
+          "following_count": 4744,
+          "like_count": 52518,
+          "listed_count": 38,
+          "media_count": 5238,
+          "tweet_count": 16125
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6481,
+          "following_count": 3124,
+          "like_count": 56505,
+          "listed_count": 22,
+          "media_count": 3619,
+          "tweet_count": 14710
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

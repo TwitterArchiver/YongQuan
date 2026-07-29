@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052040824293052416"
+      ],
+      "media_source_tweet_id": [
+        "2052040844652261665"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      }
+    ],
+    "conversation_id": "2052201717320814628",
+    "created_at": "2026-05-07T01:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052201717320814628"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "TogetherAs1"
+        },
+        {
+          "end": 99,
+          "start": 88,
+          "tag": "T1Birthday"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "288074896",
+          "start": 3,
+          "username": "T1LoL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65ApqDsMQL",
+          "end": 123,
+          "expanded_url": "https://x.com/T1LoL/status/2052040844652261665/photo/1",
+          "media_key": "3_2052040824293052416",
+          "start": 100,
+          "url": "https://t.co/65ApqDsMQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052201717320814628",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052040844652261665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T1LoL: 🐐 Happy ‘Faker’ Day 🐐\n\n5월 7일은 T1 LoL 팀의 'Faker' 이상혁 선수의 생일입니다!\n\n#TogetherAs1 #T1Birthday https://t.co/65ApqDsMQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2052040824293052416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpQQeyWUAAjlKI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052040824293052416"
+          ],
+          "media_source_tweet_id": [
+            "2052040844652261665"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          }
+        ],
+        "conversation_id": "2052201717320814628",
+        "created_at": "2026-05-07T01:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052201717320814628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "TogetherAs1"
+            },
+            {
+              "end": 99,
+              "start": 88,
+              "tag": "T1Birthday"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "288074896",
+              "start": 3,
+              "username": "T1LoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65ApqDsMQL",
+              "end": 123,
+              "expanded_url": "https://x.com/T1LoL/status/2052040844652261665/photo/1",
+              "media_key": "3_2052040824293052416",
+              "start": 100,
+              "url": "https://t.co/65ApqDsMQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052201717320814628",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052040844652261665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T1LoL: 🐐 Happy ‘Faker’ Day 🐐\n\n5월 7일은 T1 LoL 팀의 'Faker' 이상혁 선수의 생일입니다!\n\n#TogetherAs1 #T1Birthday https://t.co/65ApqDsMQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052040824293052416"
+          ]
+        },
+        "author_id": "288074896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          }
+        ],
+        "conversation_id": "2052040844652261665",
+        "created_at": "2026-05-06T15:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052040844652261665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "TogetherAs1"
+            },
+            {
+              "end": 88,
+              "start": 77,
+              "tag": "T1Birthday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65ApqDsMQL",
+              "end": 112,
+              "expanded_url": "https://x.com/T1LoL/status/2052040844652261665/photo/1",
+              "media_key": "3_2052040824293052416",
+              "start": 89,
+              "url": "https://t.co/65ApqDsMQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052040844652261665",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 561,
+          "impression_count": 720171,
+          "like_count": 36830,
+          "quote_count": 1804,
+          "reply_count": 368,
+          "retweet_count": 10148
+        },
+        "reply_settings": "everyone",
+        "text": "🐐 Happy ‘Faker’ Day 🐐\n\n5월 7일은 T1 LoL 팀의 'Faker' 이상혁 선수의 생일입니다!\n\n#TogetherAs1 #T1Birthday https://t.co/65ApqDsMQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@0KJ7A｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "0KJ7A"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "JDGaming"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 4202,
+          "like_count": 44545,
+          "listed_count": 29,
+          "media_count": 3198,
+          "tweet_count": 11763
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-26T06:01:59.000Z",
+        "description": "The Official X Page of T1 League of Legends 📩: info@t1.gg 🔗: https://t.co/9LWmRqr3jt #TogetherAs1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 85,
+                "tag": "TogetherAs1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "litt.ly/t1esports",
+                "end": 84,
+                "expanded_url": "https://litt.ly/t1esports",
+                "start": 61,
+                "url": "https://t.co/9LWmRqr3jt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t1.gg",
+                "end": 23,
+                "expanded_url": "http://t1.gg",
+                "start": 0,
+                "url": "https://t.co/PZioYT775R"
+              }
+            ]
+          }
+        },
+        "id": "288074896",
+        "location": "Seoul.Korea",
+        "name": "T1 LoL",
+        "pinned_tweet_id": "2010275662406557960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008102129345642497/SxpS8bdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162893,
+          "following_count": 44,
+          "like_count": 1983,
+          "listed_count": 1897,
+          "media_count": 13123,
+          "tweet_count": 20604
+        },
+        "url": "https://t.co/PZioYT775R",
+        "username": "T1LoL",
+        "verified": true
+      }
+    ]
+  }
+}

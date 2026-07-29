@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066225732947149174",
+    "created_at": "2026-06-14T18:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066225732947149174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744296665312362496",
+          "start": 3,
+          "username": "yunshn125943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066225732947149174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066218166397665603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunshn125943: 解答少男疑惑，解读少女心事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066225732947149174",
+        "created_at": "2026-06-14T18:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066225732947149174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744296665312362496",
+              "start": 3,
+              "username": "yunshn125943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066225732947149174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066218166397665603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunshn125943: 解答少男疑惑，解读少女心事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744296665312362496",
+        "conversation_id": "2066218166397665603",
+        "created_at": "2026-06-14T17:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066218166397665603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066218166397665603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "解答少男疑惑，解读少女心事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10639,
+          "following_count": 4548,
+          "like_count": 50154,
+          "listed_count": 35,
+          "media_count": 4277,
+          "tweet_count": 14264
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T09:55:16.000Z",
+        "description": "寻自身，悟明道，修正心",
+        "id": "1744296665312362496",
+        "location": "In your heart",
+        "name": "佐倉瀬津美",
+        "pinned_tweet_id": "2007798131057099184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050573221464821760/CvxccnCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 356,
+          "like_count": 14617,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3158
+        },
+        "username": "yunshn125943",
+        "verified": false
+      }
+    ]
+  }
+}

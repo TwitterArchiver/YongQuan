@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051786495191896064",
+        "3_2051786495191875584"
+      ],
+      "media_source_tweet_id": [
+        "2051786504570286347",
+        "2051786504570286347"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052004662853919155",
+    "created_at": "2026-05-06T12:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052004662853919155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CAJhDbWgsd",
+          "end": 71,
+          "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+          "media_key": "3_2051786495191896064",
+          "start": 48,
+          "url": "https://t.co/CAJhDbWgsd"
+        },
+        {
+          "display_url": "pic.x.com/CAJhDbWgsd",
+          "end": 71,
+          "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+          "media_key": "3_2051786495191875584",
+          "start": 48,
+          "url": "https://t.co/CAJhDbWgsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052004662853919155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051786504570286347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 我不知道到底是谁会喜欢这种美颜堆到自己都不认识的机器人皮下男账号 https://t.co/CAJhDbWgsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051786495191896064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlo8lDbUAA4TKS.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051786495191875584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlo8lDbAAAF-36.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051786495191896064",
+            "3_2051786495191875584"
+          ],
+          "media_source_tweet_id": [
+            "2051786504570286347",
+            "2051786504570286347"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052004662853919155",
+        "created_at": "2026-05-06T12:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052004662853919155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAJhDbWgsd",
+              "end": 71,
+              "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+              "media_key": "3_2051786495191896064",
+              "start": 48,
+              "url": "https://t.co/CAJhDbWgsd"
+            },
+            {
+              "display_url": "pic.x.com/CAJhDbWgsd",
+              "end": 71,
+              "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+              "media_key": "3_2051786495191875584",
+              "start": 48,
+              "url": "https://t.co/CAJhDbWgsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052004662853919155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051786504570286347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 我不知道到底是谁会喜欢这种美颜堆到自己都不认识的机器人皮下男账号 https://t.co/CAJhDbWgsd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051786495191896064",
+            "3_2051786495191875584"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2051786504570286347",
+        "created_at": "2026-05-05T22:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051786504570286347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAJhDbWgsd",
+              "end": 56,
+              "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+              "media_key": "3_2051786495191896064",
+              "start": 33,
+              "url": "https://t.co/CAJhDbWgsd"
+            },
+            {
+              "display_url": "pic.x.com/CAJhDbWgsd",
+              "end": 56,
+              "expanded_url": "https://x.com/smiroyama/status/2051786504570286347/photo/1",
+              "media_key": "3_2051786495191875584",
+              "start": 33,
+              "url": "https://t.co/CAJhDbWgsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051786504570286347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5170,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道到底是谁会喜欢这种美颜堆到自己都不认识的机器人皮下男账号 https://t.co/CAJhDbWgsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9455,
+          "following_count": 4193,
+          "like_count": 44363,
+          "listed_count": 29,
+          "media_count": 3183,
+          "tweet_count": 11733
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4460,
+          "following_count": 2154,
+          "like_count": 10120,
+          "listed_count": 12,
+          "media_count": 1494,
+          "tweet_count": 6057
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

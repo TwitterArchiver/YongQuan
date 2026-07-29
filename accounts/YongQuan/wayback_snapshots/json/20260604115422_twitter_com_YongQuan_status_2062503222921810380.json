@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061244312764194910",
+    "created_at": "2026-06-04T11:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062503222921810380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829411930458718208",
+          "start": 0,
+          "username": "FNEM_CIT"
+        },
+        {
+          "end": 24,
+          "id": "1884745808605818880",
+          "start": 10,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062503222921810380",
+    "in_reply_to_user_id": "1829411930458718208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062501771298394515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FNEM_CIT @Bunbohue40037 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061244312764194910",
+        "created_at": "2026-06-04T11:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062503222921810380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829411930458718208",
+              "start": 0,
+              "username": "FNEM_CIT"
+            },
+            {
+              "end": 24,
+              "id": "1884745808605818880",
+              "start": 10,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062503222921810380",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062501771298394515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FNEM_CIT @Bunbohue40037 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829411930458718208",
+        "conversation_id": "2061244312764194910",
+        "created_at": "2026-06-04T11:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062501771298394515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 15,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062501771298394515",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061329542837620769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 @YongQuan 一个是贩毒的，\n一个是帮信的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10455,
+          "following_count": 4485,
+          "like_count": 48558,
+          "listed_count": 31,
+          "media_count": 4000,
+          "tweet_count": 13654
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "我是一只小猪咪",
+        "id": "1829411930458718208",
+        "location": "Paju-si, Republic of Korea",
+        "name": "希涵爱小熊",
+        "pinned_tweet_id": "2061337018416951360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056022141343330304/-1oAdp6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 1415,
+          "like_count": 27373,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 304
+        },
+        "username": "FNEM_CIT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 475,
+          "like_count": 167367,
+          "listed_count": 0,
+          "media_count": 1278,
+          "tweet_count": 18802
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

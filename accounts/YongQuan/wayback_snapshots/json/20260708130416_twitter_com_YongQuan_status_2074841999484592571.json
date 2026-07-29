@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074841987979636736"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074792529187201188",
+    "created_at": "2026-07-08T13:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074841999484592571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1290122040977088512",
+          "start": 0,
+          "username": "T1Brasil_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GyJPuXps8x",
+          "end": 42,
+          "expanded_url": "https://x.com/YongQuan/status/2074841999484592571/photo/1",
+          "media_key": "3_2074841987979636736",
+          "start": 19,
+          "url": "https://t.co/GyJPuXps8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074841999484592571",
+    "in_reply_to_user_id": "1290122040977088512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074792529187201188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T1Brasil_ belike： https://t.co/GyJPuXps8x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2074841987979636736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtRy4qXcAA53Vt.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2074792523403280384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMskzqwWwAAm8Yk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074841987979636736"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074792529187201188",
+        "created_at": "2026-07-08T13:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074841999484592571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1290122040977088512",
+              "start": 0,
+              "username": "T1Brasil_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyJPuXps8x",
+              "end": 42,
+              "expanded_url": "https://x.com/YongQuan/status/2074841999484592571/photo/1",
+              "media_key": "3_2074841987979636736",
+              "start": 19,
+              "url": "https://t.co/GyJPuXps8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074841999484592571",
+        "in_reply_to_user_id": "1290122040977088512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792529187201188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T1Brasil_ belike： https://t.co/GyJPuXps8x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792523403280384"
+          ]
+        },
+        "author_id": "1290122040977088512",
+        "conversation_id": "2074792529187201188",
+        "created_at": "2026-07-08T09:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074792529187201188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRUwfbVpuW",
+              "end": 304,
+              "expanded_url": "https://x.com/T1Brasil_/status/2074792529187201188/photo/1",
+              "media_key": "3_2074792523403280384",
+              "start": 281,
+              "url": "https://t.co/yRUwfbVpuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792529187201188",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36258,
+          "like_count": 364,
+          "quote_count": 24,
+          "reply_count": 68,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Esse time é uma merda \n\nTem um imbecil no top \nUma anta na jungle \nUm aposentado no mid \n\nN importa o que acontece no bot pq o resto de vocês não consegue fazer NADA \n\nDORAN VOCÊ É UMA DESGRAÇA \n\nVCS SÃO RIDÍCULOS \n\nOLHA O QUE O ADC DE VOCÊS ESTÁ FAZENDO E MESMO ASSIM NÃO IMPORTA https://t.co/yRUwfbVpuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "老婆 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\n\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11059,
+          "following_count": 4704,
+          "like_count": 52048,
+          "listed_count": 37,
+          "media_count": 4916,
+          "tweet_count": 15628
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-03T03:07:25.000Z",
+        "description": "Torcida do maior e melhor time do mundo, @T1LoL. #T1WIN CONTA DE HUMOR 🚨 FANpage 🚨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "T1WIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "T1LoL"
+              }
+            ]
+          }
+        },
+        "id": "1290122040977088512",
+        "name": "T1 Brasil 🇧🇷🇰🇷",
+        "pinned_tweet_id": "2074803219109130284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990826344008077312/2oGpfnEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22084,
+          "following_count": 233,
+          "like_count": 11284,
+          "listed_count": 18,
+          "media_count": 4583,
+          "tweet_count": 14385
+        },
+        "url": "",
+        "username": "T1Brasil_",
+        "verified": true
+      }
+    ]
+  }
+}

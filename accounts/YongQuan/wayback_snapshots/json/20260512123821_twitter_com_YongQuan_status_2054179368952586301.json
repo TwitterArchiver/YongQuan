@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054146631860371564",
+    "created_at": "2026-05-12T12:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054179368952586301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3a4kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054179368952586301",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054177890510745804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3a4kura 这是观槿吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2054177884940734464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHn5yFbEAAYzaB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054146631860371564",
+        "created_at": "2026-05-12T12:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054179368952586301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3a4kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054179368952586301",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054177890510745804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3a4kura 这是观槿吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054177884940734464"
+          ]
+        },
+        "author_id": "1502290571833995266",
+        "conversation_id": "2054146631860371564",
+        "created_at": "2026-05-12T12:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054177890510745804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtMPemufwO",
+              "end": 46,
+              "expanded_url": "https://x.com/3a4kura/status/2054177890510745804/photo/1",
+              "media_key": "3_2054177884940734464",
+              "start": 23,
+              "url": "https://t.co/dtMPemufwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054177890510745804",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054146631860371564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 等一下，格调业主？这个？ https://t.co/dtMPemufwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9715,
+          "following_count": 4233,
+          "like_count": 45169,
+          "listed_count": 29,
+          "media_count": 3340,
+          "tweet_count": 12097
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "name": "3a4kura",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046881278033850368/Qrs1K5JZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 254,
+          "like_count": 21181,
+          "listed_count": 1,
+          "media_count": 2817,
+          "tweet_count": 9312
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3a4kura",
+        "verified": false
+      }
+    ]
+  }
+}

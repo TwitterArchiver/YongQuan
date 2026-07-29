@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067823486203040208",
+    "created_at": "2026-06-19T14:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067984153656647747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031948561093705731",
+          "start": 0,
+          "username": "kumaw10359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067984153656647747",
+    "in_reply_to_user_id": "2031948561093705731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067823486203040208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumaw10359 如果为了保持账号纯净的话 取关真的很正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067823486203040208",
+        "created_at": "2026-06-19T14:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067984153656647747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031948561093705731",
+              "start": 0,
+              "username": "kumaw10359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067984153656647747",
+        "in_reply_to_user_id": "2031948561093705731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067823486203040208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumaw10359 如果为了保持账号纯净的话 取关真的很正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031948561093705731",
+        "conversation_id": "2067823486203040208",
+        "created_at": "2026-06-19T04:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067823486203040208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067823486203040208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于全部回关完了，点关注麻烦的要死，关注再取关的人真不嫌麻烦吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10697,
+          "following_count": 4597,
+          "like_count": 51090,
+          "listed_count": 35,
+          "media_count": 4419,
+          "tweet_count": 14655
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T04:21:13.000Z",
+        "description": "人格：intp\n关注必回，主页博客里写了很多教程，也随时欢迎来tg群聊天\n导航站里精选部分的所有东西都是我自己用过的\n备用梯子：https://t.co/MUtwwD9jH3\n导航站：https://t.co/3F55M3ax6c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "良心云.com/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://xn--9kqz23b19z.com/#/register?code=JqeGhNxH",
+                "start": 64,
+                "url": "https://t.co/MUtwwD9jH3"
+              },
+              {
+                "display_url": "dh.xcfake150.asia",
+                "end": 115,
+                "expanded_url": "https://dh.xcfake150.asia/",
+                "start": 92,
+                "url": "https://t.co/3F55M3ax6c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.xcfake150.asia",
+                "end": 23,
+                "expanded_url": "https://blog.xcfake150.asia/",
+                "start": 0,
+                "url": "https://t.co/WMFLBPyV2b"
+              }
+            ]
+          }
+        },
+        "id": "2031948561093705731",
+        "name": "非牛顿皮卡丘",
+        "pinned_tweet_id": "2064689069800485225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051619826569818115/UW58fqIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 791,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/WMFLBPyV2b",
+        "username": "kumaw10359",
+        "verified": true
+      }
+    ]
+  }
+}

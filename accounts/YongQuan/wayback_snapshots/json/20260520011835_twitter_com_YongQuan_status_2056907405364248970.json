@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056862049905373184"
+      ],
+      "media_source_tweet_id": [
+        "2056863068387266579"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056907405364248970",
+    "created_at": "2026-05-20T01:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056907405364248970"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "炒冷饭"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "欢迎小女孩小男娘互fo"
+        },
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "520想圈点钱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980410903850885120",
+          "start": 3,
+          "username": "mmshuxing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7EKn8RAzFF",
+          "end": 79,
+          "expanded_url": "https://x.com/mmshuxing/status/2056863068387266579/photo/1",
+          "media_key": "3_2056862049905373184",
+          "start": 56,
+          "url": "https://t.co/7EKn8RAzFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056907405364248970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056863068387266579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmshuxing: 我只是一个小屁孩，还我流量 #炒冷饭 #欢迎小女孩小男娘互fo #520想圈点钱 https://t.co/7EKn8RAzFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056862049905373184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItxIvyXcAAmPqR.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056862049905373184"
+          ],
+          "media_source_tweet_id": [
+            "2056863068387266579"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056907405364248970",
+        "created_at": "2026-05-20T01:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056907405364248970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "炒冷饭"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "欢迎小女孩小男娘互fo"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "520想圈点钱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980410903850885120",
+              "start": 3,
+              "username": "mmshuxing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EKn8RAzFF",
+              "end": 79,
+              "expanded_url": "https://x.com/mmshuxing/status/2056863068387266579/photo/1",
+              "media_key": "3_2056862049905373184",
+              "start": 56,
+              "url": "https://t.co/7EKn8RAzFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056907405364248970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056863068387266579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmshuxing: 我只是一个小屁孩，还我流量 #炒冷饭 #欢迎小女孩小男娘互fo #520想圈点钱 https://t.co/7EKn8RAzFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056862049905373184"
+          ]
+        },
+        "author_id": "1980410903850885120",
+        "conversation_id": "2056863068387266579",
+        "created_at": "2026-05-19T22:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056863068387266579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "炒冷饭"
+            },
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "欢迎小女孩小男娘互fo"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "520想圈点钱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EKn8RAzFF",
+              "end": 64,
+              "expanded_url": "https://x.com/mmshuxing/status/2056863068387266579/photo/1",
+              "media_key": "3_2056862049905373184",
+              "start": 41,
+              "url": "https://t.co/7EKn8RAzFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056863068387266579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是一个小屁孩，还我流量 #炒冷饭 #欢迎小女孩小男娘互fo #520想圈点钱 https://t.co/7EKn8RAzFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923,
+          "following_count": 4306,
+          "like_count": 46111,
+          "listed_count": 30,
+          "media_count": 3538,
+          "tweet_count": 12572
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 我喜欢@MmeTuT\n喜欢哥哥 餐券 抑焦 割手\n11年 INTP-T 顺女 友跨（🏳️‍🌈）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2051418460626841658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055704957580357632/nRR1FFfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 99,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

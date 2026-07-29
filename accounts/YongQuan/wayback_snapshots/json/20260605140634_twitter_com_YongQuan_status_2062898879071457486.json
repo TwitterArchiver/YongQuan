@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062847611892318208"
+      ],
+      "media_source_tweet_id": [
+        "2062847617143652411"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062898879071457486",
+    "created_at": "2026-06-05T14:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062898879071457486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995266194576961536",
+          "start": 3,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YVsS9u98aF",
+          "end": 51,
+          "expanded_url": "https://x.com/skyseafor/status/2062847617143652411/photo/1",
+          "media_key": "3_2062847611892318208",
+          "start": 28,
+          "url": "https://t.co/YVsS9u98aF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062898879071457486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062847617143652411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyseafor: 雌二醇 药拟 原创 重发 https://t.co/YVsS9u98aF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2062847611892318208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0-TyawAAwd6W.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847611892318208"
+          ],
+          "media_source_tweet_id": [
+            "2062847617143652411"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062898879071457486",
+        "created_at": "2026-06-05T14:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062898879071457486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995266194576961536",
+              "start": 3,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVsS9u98aF",
+              "end": 51,
+              "expanded_url": "https://x.com/skyseafor/status/2062847617143652411/photo/1",
+              "media_key": "3_2062847611892318208",
+              "start": 28,
+              "url": "https://t.co/YVsS9u98aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062898879071457486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062847617143652411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyseafor: 雌二醇 药拟 原创 重发 https://t.co/YVsS9u98aF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847611892318208"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062847617143652411",
+        "created_at": "2026-06-05T10:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062847617143652411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVsS9u98aF",
+              "end": 36,
+              "expanded_url": "https://x.com/skyseafor/status/2062847617143652411/photo/1",
+              "media_key": "3_2062847611892318208",
+              "start": 13,
+              "url": "https://t.co/YVsS9u98aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847617143652411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇 药拟 原创 重发 https://t.co/YVsS9u98aF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10470,
+          "following_count": 4490,
+          "like_count": 48738,
+          "listed_count": 31,
+          "media_count": 4028,
+          "tweet_count": 13711
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 53,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 128
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

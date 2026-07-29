@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2060660111480107140",
+    "created_at": "2026-05-30T13:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060712815179231592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874887449404448769",
+          "start": 0,
+          "username": "youngstockuser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060712815179231592",
+    "in_reply_to_user_id": "1874887449404448769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060660111480107140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youngstockuser （探头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2060660111480107140",
+        "created_at": "2026-05-30T13:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060712815179231592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874887449404448769",
+              "start": 0,
+              "username": "youngstockuser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060712815179231592",
+        "in_reply_to_user_id": "1874887449404448769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060660111480107140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youngstockuser （探头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874887449404448769",
+        "conversation_id": "2060660111480107140",
+        "created_at": "2026-05-30T09:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060660111480107140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060660111480107140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1505,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了一圈X，突然有点恍惚。\n\n中文区蓝V是不是就这么多人了？\n时间线里来来回回，还是那些熟脸。\n\n不是不想互动，\n是想找几个新面孔都像在大海捞针。\n\n别让这个圈子越来越像熟人局，\n给新面孔一点机会，也给自己一点新鲜感。\n\n所以！\n\n蓝V新面孔在哪？\n\n#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10182,
+          "following_count": 4427,
+          "like_count": 47849,
+          "listed_count": 29,
+          "media_count": 3866,
+          "tweet_count": 13327
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T18:36:28.000Z",
+        "description": "美股ai板块的狂热投资者 现在是ai时代坚定投资ai板块 每日分享ai板块好股\n分享自己炒股经验 仅做分享不构成投资建议",
+        "id": "1874887449404448769",
+        "name": "爱炒美股的young",
+        "pinned_tweet_id": "2060472088624832513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874887586293919744/NBkxBvzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 287,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 144
+        },
+        "username": "youngstockuser",
+        "verified": true
+      }
+    ]
+  }
+}

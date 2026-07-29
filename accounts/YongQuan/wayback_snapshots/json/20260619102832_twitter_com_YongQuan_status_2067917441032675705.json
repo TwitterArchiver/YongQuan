@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067618177757143298",
+    "created_at": "2026-06-19T10:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067917441032675705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035034096980959234",
+          "start": 0,
+          "username": "Sssjrsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067917441032675705",
+    "in_reply_to_user_id": "2035034096980959234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067618177757143298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sssjrsf 相信康神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067618177757143298",
+        "created_at": "2026-06-19T10:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067917441032675705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035034096980959234",
+              "start": 0,
+              "username": "Sssjrsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067917441032675705",
+        "in_reply_to_user_id": "2035034096980959234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067618177757143298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sssjrsf 相信康神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035034096980959234",
+        "conversation_id": "2067618177757143298",
+        "created_at": "2026-06-18T14:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067618177757143298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067618177757143298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57878,
+          "like_count": 267,
+          "quote_count": 6,
+          "reply_count": 172,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "明天edg赢了我两周不自慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10693,
+          "following_count": 4591,
+          "like_count": 51015,
+          "listed_count": 35,
+          "media_count": 4414,
+          "tweet_count": 14620
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T16:42:18.000Z",
+        "description": "不线下 喜欢会回关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%80%81%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%80%81%E5%85%AC%E5%81%9A0%E8%A2%AB%E6%88%91%E7%82%B9",
+                "start": 0,
+                "url": "https://t.co/h5YYnWjkNz"
+              }
+            ]
+          }
+        },
+        "id": "2035034096980959234",
+        "location": "中国",
+        "name": "老公做0被我点",
+        "pinned_tweet_id": "2058071979366965632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058069925605068800/eNUhy1wO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 47,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/h5YYnWjkNz",
+        "username": "Sssjrsf",
+        "verified": false
+      }
+    ]
+  }
+}

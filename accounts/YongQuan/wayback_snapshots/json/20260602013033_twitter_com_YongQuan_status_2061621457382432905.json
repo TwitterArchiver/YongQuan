@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061621447307808768"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061415301342970273",
+    "created_at": "2026-06-02T01:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061621457382432905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1422490726022074378",
+          "start": 0,
+          "username": "HupuEsports"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/muPwrLlc7H",
+          "end": 36,
+          "expanded_url": "https://x.com/YongQuan/status/2061621457382432905/photo/1",
+          "media_key": "3_2061621447307808768",
+          "start": 13,
+          "url": "https://t.co/muPwrLlc7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061621457382432905",
+    "in_reply_to_user_id": "1422490726022074378",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061415301342970273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HupuEsports https://t.co/muPwrLlc7H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2061621447307808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxZyIwb0AAqy8_.png",
+        "width": 736
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2061415299044536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJueSuoa8AAi0vX.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061621447307808768"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061415301342970273",
+        "created_at": "2026-06-02T01:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061621457382432905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1422490726022074378",
+              "start": 0,
+              "username": "HupuEsports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/muPwrLlc7H",
+              "end": 36,
+              "expanded_url": "https://x.com/YongQuan/status/2061621457382432905/photo/1",
+              "media_key": "3_2061621447307808768",
+              "start": 13,
+              "url": "https://t.co/muPwrLlc7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061621457382432905",
+        "in_reply_to_user_id": "1422490726022074378",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061415301342970273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HupuEsports https://t.co/muPwrLlc7H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061415299044536320"
+          ]
+        },
+        "author_id": "1422490726022074378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061415301342970273",
+        "created_at": "2026-06-01T11:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061415301342970273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "LPL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jlsrm3KPeE",
+              "end": 170,
+              "expanded_url": "https://x.com/HupuEsports/status/2061415301342970273/photo/1",
+              "media_key": "3_2061415299044536320",
+              "start": 147,
+              "url": "https://t.co/Jlsrm3KPeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061415301342970273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 145839,
+          "like_count": 2160,
+          "quote_count": 183,
+          "reply_count": 24,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "WE sweeps AL! Here are the ratings from the HUPU Community (all games included):\n\nEveryone on AL is lower than a 4.\n\nMonki and Erha get 10s.\n\n#LPL https://t.co/Jlsrm3KPeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10372,
+          "following_count": 4448,
+          "like_count": 48093,
+          "listed_count": 30,
+          "media_count": 3930,
+          "tweet_count": 13464
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T09:33:27.000Z",
+        "description": "Esports media coverage from China, focusing on League of Legends (for now)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gg.hupu.com",
+                "end": 23,
+                "expanded_url": "https://gg.hupu.com/",
+                "start": 0,
+                "url": "https://t.co/WV2rsy9ldJ"
+              }
+            ]
+          }
+        },
+        "id": "1422490726022074378",
+        "name": "HUPU Esports",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422491093157834752/i6hzbPj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43244,
+          "following_count": 562,
+          "like_count": 3103,
+          "listed_count": 101,
+          "media_count": 3959,
+          "tweet_count": 5724
+        },
+        "url": "https://t.co/WV2rsy9ldJ",
+        "username": "HupuEsports",
+        "verified": false
+      }
+    ]
+  }
+}

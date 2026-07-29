@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      }
+    ],
+    "conversation_id": "2073350746440183893",
+    "created_at": "2026-07-05T04:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073624668649513043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945846244641030144",
+          "start": 0,
+          "username": "igenico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073624668649513043",
+    "in_reply_to_user_id": "1945846244641030144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073350746440183893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igenico blg打t1的战术板被暴露，其实不止影响blg吧，t1还没被淘汰还有败者组，这相当于暴露了blg的战术储备和blg对t1的研究\n🤔LCK那边是想让韩华赢吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 329,
+        "media_key": "3_2073350089150697472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYE68baEAALoBF.png",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2073350746440183893",
+        "created_at": "2026-07-05T04:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073624668649513043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945846244641030144",
+              "start": 0,
+              "username": "igenico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624668649513043",
+        "in_reply_to_user_id": "1945846244641030144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073350746440183893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igenico blg打t1的战术板被暴露，其实不止影响blg吧，t1还没被淘汰还有败者组，这相当于暴露了blg的战术储备和blg对t1的研究\n🤔LCK那边是想让韩华赢吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073350089150697472"
+          ]
+        },
+        "author_id": "1945846244641030144",
+        "conversation_id": "2073350746440183893",
+        "created_at": "2026-07-04T10:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073350746440183893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twBpLD8qzh",
+              "end": 282,
+              "expanded_url": "https://x.com/igenico/status/2073350746440183893/photo/1",
+              "media_key": "3_2073350089150697472",
+              "start": 259,
+              "url": "https://t.co/twBpLD8qzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073350746440183893",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 370658,
+          "like_count": 1768,
+          "quote_count": 94,
+          "reply_count": 88,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "Ok so now that game 5 P/B is over...\n\nRIOT. STOP LEAKING TEAM STRATS.\n\nThis is from the coach cam in game 3. You can clearly make out the entire page of draft strats Daeny is holding, including most of the champs. Genuinely amazed Riot allowed this to happen https://t.co/twBpLD8qzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11056,
+          "following_count": 4703,
+          "like_count": 51774,
+          "listed_count": 37,
+          "media_count": 4826,
+          "tweet_count": 15474
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:01:18.000Z",
+        "description": "LPL enjoyer, GBF player (read: slacker), 21EDG/Meiko is my GOAT",
+        "id": "1945846244641030144",
+        "name": "Igenico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976939852840288257/UL2qakMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 190,
+          "like_count": 10272,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 2277
+        },
+        "url": "",
+        "username": "igenico",
+        "verified": false
+      }
+    ]
+  }
+}

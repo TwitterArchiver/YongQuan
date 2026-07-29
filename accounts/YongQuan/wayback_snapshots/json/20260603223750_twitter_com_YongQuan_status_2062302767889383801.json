@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062217088299913501",
+    "created_at": "2026-06-03T22:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T23:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062302767889383801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1460554372438380553",
+          "start": 0,
+          "username": "LPLfanclub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062302767889383801",
+    "in_reply_to_user_id": "1460554372438380553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062217088299913501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LPLfanclub Bin可能发现风评太好对自己赛场表现有副作用，第一赛段被喷的天昏地暗结果夺冠了，第二赛段常规赛风评太好了，搞一波降一下风评"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41247,
+        "height": 720,
+        "media_key": "13_2062216981932277760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062216981932277760/img/xR0HYjiQIAxNkK7e.jpg",
+        "public_metrics": {
+          "view_count": 6931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062216981932277760/vid/avc1/480x270/F8AmSuQh2PMtOGWY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062216981932277760/vid/avc1/640x360/Updd3EjB86YEHUG9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062216981932277760/vid/avc1/1280x720/tp4h1hF2xVm_zgbQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062216981932277760/pl/bDGr16t_UoJNd2rm.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062217088299913501",
+        "created_at": "2026-06-03T22:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062302767889383801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1460554372438380553",
+              "start": 0,
+              "username": "LPLfanclub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062302767889383801",
+        "in_reply_to_user_id": "1460554372438380553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062217088299913501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LPLfanclub Bin可能发现风评太好对自己赛场表现有副作用，第一赛段被喷的天昏地暗结果夺冠了，第二赛段常规赛风评太好了，搞一波降一下风评"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062216981932277760"
+          ]
+        },
+        "author_id": "1460554372438380553",
+        "conversation_id": "2062217088299913501",
+        "created_at": "2026-06-03T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062217088299913501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMVQMnh0eL",
+              "end": 83,
+              "expanded_url": "https://x.com/LPLfanclub/status/2062217088299913501/video/1",
+              "media_key": "13_2062216981932277760",
+              "start": 60,
+              "url": "https://t.co/UMVQMnh0eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217088299913501",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17849,
+          "like_count": 85,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Bin didn't do fan high-fives during today’s player walkout😅 https://t.co/UMVQMnh0eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10433,
+          "following_count": 4474,
+          "like_count": 48396,
+          "listed_count": 31,
+          "media_count": 3983,
+          "tweet_count": 13593
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T10:24:54.000Z",
+        "description": "Former LPLfanclub\nPassion/Accurate/Reliable",
+        "id": "1460554372438380553",
+        "location": "Shanghai",
+        "name": "Fanclub LoL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046804598653149184/qdVsagGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39506,
+          "following_count": 545,
+          "like_count": 4127,
+          "listed_count": 121,
+          "media_count": 7850,
+          "tweet_count": 11628
+        },
+        "username": "LPLfanclub",
+        "verified": true
+      }
+    ]
+  }
+}

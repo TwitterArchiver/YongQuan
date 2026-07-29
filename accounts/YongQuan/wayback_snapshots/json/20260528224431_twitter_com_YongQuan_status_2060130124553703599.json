@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059951078511460815",
+    "created_at": "2026-05-28T22:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060130124553703599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060130124553703599",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059951078511460815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent 骗你的 不取关也会被shadowban/Ghostban/searchban"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059951078511460815",
+        "created_at": "2026-05-28T22:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060130124553703599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060130124553703599",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059951078511460815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent 骗你的 不取关也会被shadowban/Ghostban/searchban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2059951078511460815",
+        "created_at": "2026-05-28T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059951078511460815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059951078511460815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 537,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说那些搞蓝v互关的，你真没必要骗关之后把别人取消，频繁关注取消，你的账号会被shadowban，即限流，别人搜不到你的账号和贴子，你的贴子也不会出现在主页推荐里，简单来说就是：失信=失败。大号取消了几个偷摸取关我的蓝v，被暂ban，休息几天，以后我不会取关任何已经关注的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10136,
+          "following_count": 4420,
+          "like_count": 47774,
+          "listed_count": 30,
+          "media_count": 3827,
+          "tweet_count": 13259
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜backup｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1468153903384756230",
+        "location": "main account：moonlight_ruri",
+        "name": "月璃_LunaRuri_V2",
+        "pinned_tweet_id": "2057795759194685752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059948074538340352/3PjIS8w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 353,
+          "like_count": 758,
+          "listed_count": 8,
+          "media_count": 152,
+          "tweet_count": 3792
+        },
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

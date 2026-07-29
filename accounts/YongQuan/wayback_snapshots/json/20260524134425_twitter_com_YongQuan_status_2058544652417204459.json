@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058494115193487564",
+    "created_at": "2026-05-24T13:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058544652417204459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058544652417204459",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058494115193487564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv 至少跨境支付 港卡还是可以用的\n偶尔薅羊毛还不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2058494090593832960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE9eBIWEAAxy0V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058494115193487564",
+        "created_at": "2026-05-24T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058544652417204459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058544652417204459",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058494115193487564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv 至少跨境支付 港卡还是可以用的\n偶尔薅羊毛还不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058494090593832960"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "conversation_id": "2058494115193487564",
+        "created_at": "2026-05-24T10:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058494115193487564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "港卡"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "美股"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G05XGcwjXD",
+              "end": 56,
+              "expanded_url": "https://x.com/e5ogv/status/2058494115193487564/photo/1",
+              "media_key": "3_2058494090593832960",
+              "start": 33,
+              "url": "https://t.co/G05XGcwjXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058494115193487564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 59978,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现一个问题，美股不让买了，港卡还有什么用？\n#港卡 #美股 https://t.co/G05XGcwjXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10032,
+          "following_count": 4387,
+          "like_count": 47261,
+          "listed_count": 30,
+          "media_count": 3719,
+          "tweet_count": 13037
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "pinned_tweet_id": "2057990897975902538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11237,
+          "following_count": 2244,
+          "like_count": 3243,
+          "listed_count": 15,
+          "media_count": 1039,
+          "tweet_count": 15334
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      }
+    ]
+  }
+}

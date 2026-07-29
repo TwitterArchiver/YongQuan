@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059976077875843384",
+    "created_at": "2026-05-28T23:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060142498413207748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "175479505",
+          "start": 0,
+          "username": "redbullgaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060142498413207748",
+    "in_reply_to_user_id": "175479505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059976077875843384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redbullgaming 现在所有队伍里 辅助都是锦上添花的作用\n能影响战局的的辅助就只有Keria一个人\n别的队伍都只是说说 T1真能玩辅助核心"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25733,
+        "height": 1080,
+        "media_key": "13_2059976010053902342",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059976010053902342/img/uIe-BY5UkcuQMbew.jpg",
+        "public_metrics": {
+          "view_count": 20376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059976010053902342/vid/avc1/1920x1080/Uv7mC_gsoOahOlOO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059976010053902342/vid/avc1/1280x720/7EIheH7gLCcTNr-c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059976010053902342/pl/AfoipbbwqnKtK8J7.m3u8?v=51a"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059976010053902342/vid/avc1/640x360/gUIpFdlTg-U4dKyI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059976010053902342/vid/avc1/480x270/ANHuatuf-Hi4DIXt.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059976077875843384",
+        "created_at": "2026-05-28T23:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060142498413207748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "175479505",
+              "start": 0,
+              "username": "redbullgaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060142498413207748",
+        "in_reply_to_user_id": "175479505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976077875843384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redbullgaming 现在所有队伍里 辅助都是锦上添花的作用\n能影响战局的的辅助就只有Keria一个人\n别的队伍都只是说说 T1真能玩辅助核心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059976010053902342"
+          ]
+        },
+        "author_id": "175479505",
+        "conversation_id": "2059976077875843384",
+        "created_at": "2026-05-28T12:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059976077875843384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1vvZC6tSk",
+              "end": 58,
+              "expanded_url": "https://x.com/redbullgaming/status/2059976077875843384/video/1",
+              "media_key": "13_2059976010053902342",
+              "start": 35,
+              "url": "https://t.co/T1vvZC6tSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976077875843384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 49229,
+          "like_count": 2667,
+          "quote_count": 35,
+          "reply_count": 5,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "A 4 MAN SERAPHINE ULT FROM KERIA 🤯 https://t.co/T1vvZC6tSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10138,
+          "following_count": 4420,
+          "like_count": 47777,
+          "listed_count": 30,
+          "media_count": 3828,
+          "tweet_count": 13263
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-06T18:35:09.000Z",
+        "description": "Giving wiiings to Gamers!",
+        "id": "175479505",
+        "location": "Worldwide",
+        "name": "Red Bull Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772543605036429312/HrmuDnzj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390192,
+          "following_count": 937,
+          "like_count": 61514,
+          "listed_count": 1347,
+          "media_count": 18749,
+          "tweet_count": 51080
+        },
+        "username": "redbullgaming",
+        "verified": true
+      }
+    ]
+  }
+}

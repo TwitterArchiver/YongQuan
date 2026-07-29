@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2069059205584085406",
+    "created_at": "2026-06-22T14:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069060006885183668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980410903850885120",
+          "start": 0,
+          "username": "mmshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069060006885183668",
+    "in_reply_to_user_id": "1980410903850885120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069059205584085406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmshuxing xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069059193483694080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbGX8baEAA4doI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2069059205584085406",
+        "created_at": "2026-06-22T14:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069060006885183668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980410903850885120",
+              "start": 0,
+              "username": "mmshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069060006885183668",
+        "in_reply_to_user_id": "1980410903850885120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069059205584085406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmshuxing xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069059193483694080"
+          ]
+        },
+        "author_id": "1980410903850885120",
+        "conversation_id": "2069059205584085406",
+        "created_at": "2026-06-22T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069059205584085406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOkd7FX6pb",
+              "end": 31,
+              "expanded_url": "https://x.com/mmshuxing/status/2069059205584085406/photo/1",
+              "media_key": "3_2069059193483694080",
+              "start": 8,
+              "url": "https://t.co/OOkd7FX6pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069059205584085406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是白丝控 https://t.co/OOkd7FX6pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10764,
+          "following_count": 4617,
+          "like_count": 51392,
+          "listed_count": 34,
+          "media_count": 4505,
+          "tweet_count": 14882
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 2011年 喜欢哥哥 \n残圈 抑焦 割手 病娇 双向 \nINTP-T  顺女 友跨（🏳️‍🌈）",
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2068630417427546211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068331566460182528/ZMuctgjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 109,
+          "like_count": 4567,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

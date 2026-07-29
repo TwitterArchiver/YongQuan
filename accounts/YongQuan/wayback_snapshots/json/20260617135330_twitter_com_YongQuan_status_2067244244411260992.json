@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067244244411260992",
+    "created_at": "2026-06-17T13:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067244244411260992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1253698139510341632",
+          "start": 3,
+          "username": "ChangNing26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244244411260992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067094807663788435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChangNing26: 好想做爱 好想亲嘴 好想牵手 好想贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067244244411260992",
+        "created_at": "2026-06-17T13:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244244411260992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253698139510341632",
+              "start": 3,
+              "username": "ChangNing26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244244411260992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067094807663788435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChangNing26: 好想做爱 好想亲嘴 好想牵手 好想贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253698139510341632",
+        "conversation_id": "2067094807663788435",
+        "created_at": "2026-06-17T03:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067094807663788435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067094807663788435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1070,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想做爱 好想亲嘴 好想牵手 好想贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10676,
+          "following_count": 4580,
+          "like_count": 50578,
+          "listed_count": 35,
+          "media_count": 4341,
+          "tweet_count": 14459
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-24T14:51:58.000Z",
+        "description": "06男大 交友and聊天💬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/skyfor16",
+                "end": 23,
+                "expanded_url": "https://t.me/skyfor16",
+                "start": 0,
+                "url": "https://t.co/KMmOl0m84M"
+              }
+            ]
+          }
+        },
+        "id": "1253698139510341632",
+        "location": "更迭",
+        "name": "Sway.海猫咖啡🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051506949737586688/EtiRxelh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7127,
+          "following_count": 379,
+          "like_count": 35415,
+          "listed_count": 20,
+          "media_count": 354,
+          "tweet_count": 12261
+        },
+        "url": "https://t.co/KMmOl0m84M",
+        "username": "ChangNing26",
+        "verified": false
+      }
+    ]
+  }
+}

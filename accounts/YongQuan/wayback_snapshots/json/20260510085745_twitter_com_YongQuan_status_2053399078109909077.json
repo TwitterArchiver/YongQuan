@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053397689023500634",
+    "created_at": "2026-05-10T08:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399078109909077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 53,
+          "expanded_url": "https://x.com/yongquan/status/2053398429167149449?s=46",
+          "start": 30,
+          "url": "https://t.co/h0EXvsEHJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399078109909077",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053398429167149449",
+        "type": "quoted"
+      },
+      {
+        "id": "2053397689023500634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 来抽！\n至少好歹是不一样的旅行体验🥺\nhttps://t.co/h0EXvsEHJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2053397669620678656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8iTRhbAAAgUWE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053397689023500634",
+        "created_at": "2026-05-10T08:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053399078109909077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 53,
+              "expanded_url": "https://x.com/yongquan/status/2053398429167149449?s=46",
+              "start": 30,
+              "url": "https://t.co/h0EXvsEHJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053399078109909077",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053398429167149449",
+            "type": "quoted"
+          },
+          {
+            "id": "2053397689023500634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 来抽！\n至少好歹是不一样的旅行体验🥺\nhttps://t.co/h0EXvsEHJC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053398429167149449",
+        "created_at": "2026-05-10T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053398429167149449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2053397689023500634",
+              "start": 67,
+              "url": "https://t.co/UJGTUh14as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053398429167149449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053397689023500634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很特殊的生日了！\n不过说真的 态度真的很好 \n\n盖了一些戳\n转发这条引用抽20张中南海的戳！\n（毕竟17支马上要搬家了😭且盖且珍惜） https://t.co/UJGTUh14as"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053397669620678656"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2053397689023500634",
+        "created_at": "2026-05-10T08:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053397689023500634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1545277694325116928",
+              "start": 16,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBhEJn621n",
+              "end": 49,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2053397689023500634/photo/1",
+              "media_key": "3_2053397669620678656",
+              "start": 26,
+              "url": "https://t.co/eBhEJn621n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053397689023500634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么去趟中南海玩还被坑上警车了\n@YongQuan https://t.co/eBhEJn621n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9642,
+          "following_count": 4210,
+          "like_count": 44846,
+          "listed_count": 29,
+          "media_count": 3286,
+          "tweet_count": 11972
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 2191,
+          "like_count": 29354,
+          "listed_count": 26,
+          "media_count": 1265,
+          "tweet_count": 4907
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

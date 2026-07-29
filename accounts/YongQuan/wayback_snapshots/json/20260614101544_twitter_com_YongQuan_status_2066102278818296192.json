@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066102278818296192",
+    "created_at": "2026-06-14T10:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066102278818296192"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "成都"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2005739449058230272",
+          "start": 3,
+          "username": "usagimm208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066102278818296192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066093780584054986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagimm208: 成都诚寻女友一名，小药娘也可以 #成都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066102278818296192",
+        "created_at": "2026-06-14T10:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066102278818296192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "成都"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2005739449058230272",
+              "start": 3,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066102278818296192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066093780584054986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagimm208: 成都诚寻女友一名，小药娘也可以 #成都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2066093780584054986",
+        "created_at": "2026-06-14T09:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066093780584054986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "成都"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066093780584054986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成都诚寻女友一名，小药娘也可以 #成都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10637,
+          "following_count": 4549,
+          "like_count": 50071,
+          "listed_count": 35,
+          "media_count": 4265,
+          "tweet_count": 14238
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "我想把头发染成绿的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "小绿",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 34,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

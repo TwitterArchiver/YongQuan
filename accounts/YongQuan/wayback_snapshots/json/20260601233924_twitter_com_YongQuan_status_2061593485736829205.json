@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      }
+    ],
+    "conversation_id": "2061417714174881882",
+    "created_at": "2026-06-01T23:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061593485736829205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026261916499451904",
+          "start": 0,
+          "username": "Nerd_Lokii"
+        },
+        {
+          "end": 22,
+          "id": "1593590077048987649",
+          "start": 12,
+          "username": "DKInfosBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061593485736829205",
+    "in_reply_to_user_id": "2026261916499451904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061513401470201958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nerd_Lokii @DKInfosBR 我在看LCK的时候 主队是DK 偶尔能刷到DKInfosBR（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2061417714174881882",
+        "created_at": "2026-06-01T23:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061593485736829205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026261916499451904",
+              "start": 0,
+              "username": "Nerd_Lokii"
+            },
+            {
+              "end": 22,
+              "id": "1593590077048987649",
+              "start": 12,
+              "username": "DKInfosBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061593485736829205",
+        "in_reply_to_user_id": "2026261916499451904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061513401470201958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nerd_Lokii @DKInfosBR 我在看LCK的时候 主队是DK 偶尔能刷到DKInfosBR（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026261916499451904",
+        "conversation_id": "2061417714174881882",
+        "created_at": "2026-06-01T18:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061513401470201958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 20,
+              "id": "1593590077048987649",
+              "start": 10,
+              "username": "DKInfosBR"
+            },
+            {
+              "end": 55,
+              "id": "1593590077048987649",
+              "start": 45,
+              "username": "DKInfosBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061513401470201958",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061441625373729096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @DKInfosBR Jamais imaginaria que o @DKInfosBR chegaria até a china kkkkkkkkkkkkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 4446,
+          "like_count": 48064,
+          "listed_count": 30,
+          "media_count": 3923,
+          "tweet_count": 13451
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T11:44:27.000Z",
+        "description": "",
+        "id": "2026261916499451904",
+        "name": "Loki",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 644
+        },
+        "username": "Nerd_Lokii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T13:01:11.000Z",
+        "description": "Tudo sobre a @DplusKIA. 🇰🇷🇧🇷\n\n🗞️ informações\n📊 estatísticas\n📔 curiosidades\n\n🏆 3x LCK Champions\n🏆 1x World Champions",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "DplusKIA"
+              }
+            ]
+          }
+        },
+        "id": "1593590077048987649",
+        "name": "DK Infos 🇧🇷",
+        "pinned_tweet_id": "2054563536580305018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057649172342280192/hN9gUXQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 253,
+          "like_count": 21214,
+          "listed_count": 3,
+          "media_count": 2123,
+          "tweet_count": 8915
+        },
+        "username": "DKInfosBR",
+        "verified": true
+      }
+    ]
+  }
+}

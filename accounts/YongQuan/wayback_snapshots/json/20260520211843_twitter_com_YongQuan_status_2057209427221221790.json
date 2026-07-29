@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057121960623006162",
+    "created_at": "2026-05-20T21:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T22:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057209427221221790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1532693504413028354",
+          "start": 0,
+          "username": "EWC_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057209427221221790",
+    "in_reply_to_user_id": "1532693504413028354",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057121960623006162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EWC_EN Paris. No wonder BLG doesn‘t want to go."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2057114851298689025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxXDuXWwAEdEyI.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057121960623006162",
+        "created_at": "2026-05-20T21:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057209427221221790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1532693504413028354",
+              "start": 0,
+              "username": "EWC_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057209427221221790",
+        "in_reply_to_user_id": "1532693504413028354",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121960623006162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EWC_EN Paris. No wonder BLG doesn‘t want to go."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057114851298689025"
+          ]
+        },
+        "author_id": "1532693504413028354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057121960623006162",
+        "created_at": "2026-05-20T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057121960623006162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unj2g6qW4h",
+              "end": 101,
+              "expanded_url": "https://x.com/EWC_EN/status/2057121960623006162/photo/1",
+              "media_key": "3_2057114851298689025",
+              "start": 78,
+              "url": "https://t.co/unj2g6qW4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057121960623006162",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 3436088,
+          "like_count": 11045,
+          "quote_count": 874,
+          "reply_count": 335,
+          "retweet_count": 1813
+        },
+        "reply_settings": "everyone",
+        "text": "Esports World Cup 2026 is coming to Paris 🇫🇷\n\nJuly 6 - August 23\n\nÀ bientôt ! https://t.co/unj2g6qW4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9932,
+          "following_count": 4321,
+          "like_count": 46357,
+          "listed_count": 30,
+          "media_count": 3563,
+          "tweet_count": 12669
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T12:00:00.000Z",
+        "description": "The biggest stage in competitive esports. \nParis, July 6 - August 23, 2026 \nMore EWC: @EWC_Extra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "EWC_Extra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/esportsworldcup",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/esportsworldcup",
+                "start": 0,
+                "url": "https://t.co/ecmHotROtx"
+              }
+            ]
+          }
+        },
+        "id": "1532693504413028354",
+        "location": "EWC26 Live from Paris",
+        "name": "Esports World Cup",
+        "pinned_tweet_id": "2057121960623006162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057122057100423168/2scdgQ2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205278,
+          "following_count": 1478,
+          "like_count": 6201,
+          "listed_count": 363,
+          "media_count": 9095,
+          "tweet_count": 11797
+        },
+        "url": "https://t.co/ecmHotROtx",
+        "username": "EWC_EN",
+        "verified": true
+      }
+    ]
+  }
+}

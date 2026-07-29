@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075201814035644416"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      }
+    ],
+    "conversation_id": "2075183576967237749",
+    "created_at": "2026-07-09T12:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075201827394420779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "614754689",
+          "start": 0,
+          "username": "lolesports"
+        },
+        {
+          "end": 27,
+          "id": "1466606036647772165",
+          "start": 12,
+          "username": "BilibiliGaming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxz1RdoPHo",
+          "end": 329,
+          "expanded_url": "https://x.com/YongQuan/status/2075201827394420779/photo/1",
+          "media_key": "3_2075201814035644416",
+          "start": 306,
+          "url": "https://t.co/rxz1RdoPHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075201827394420779",
+    "in_reply_to_user_id": "614754689",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Bin & Zeus\nThe screen is filled with a gentle pink atmosphere, delicately capturing the fluttering emotions of a youthful crush. Hidden within the scenes are the cautious, tender feelings between a boy and a girl; the camera freezes the moment they meet, while fragments of heartfelt confessions spread across the frame. Every shot carries a sweetness that belongs only to youth.\n\nThere is no dramatic or cliché storyline — only the softness and sincerity of two people slowly moving toward each other. The long-buried words “I like you” are gently spoken at last, making this a healing, sweet romance film perfect to watch with someone you like."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075183576967237749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolesports @BilibiliGaming Bin &amp; Zeus\nThe screen is filled with a gentle pink atmosphere, delicately capturing the fluttering emotions of a youthful crush. Hidden within the scenes are the cautious, tender feelings between a boy and a girl; the camera freezes the moment they meet, while fragments of https://t.co/rxz1RdoPHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2075201814035644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyZDhLXQAAkc9G.jpg",
+        "width": 1126
+      },
+      {
+        "height": 2732,
+        "media_key": "3_2075183401775386624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyITyKb0AA_RzZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075201814035644416"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2075183576967237749",
+        "created_at": "2026-07-09T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075201827394420779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "614754689",
+              "start": 0,
+              "username": "lolesports"
+            },
+            {
+              "end": 27,
+              "id": "1466606036647772165",
+              "start": 12,
+              "username": "BilibiliGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxz1RdoPHo",
+              "end": 329,
+              "expanded_url": "https://x.com/YongQuan/status/2075201827394420779/photo/1",
+              "media_key": "3_2075201814035644416",
+              "start": 306,
+              "url": "https://t.co/rxz1RdoPHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075201827394420779",
+        "in_reply_to_user_id": "614754689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Bin & Zeus\nThe screen is filled with a gentle pink atmosphere, delicately capturing the fluttering emotions of a youthful crush. Hidden within the scenes are the cautious, tender feelings between a boy and a girl; the camera freezes the moment they meet, while fragments of heartfelt confessions spread across the frame. Every shot carries a sweetness that belongs only to youth.\n\nThere is no dramatic or cliché storyline — only the softness and sincerity of two people slowly moving toward each other. The long-buried words “I like you” are gently spoken at last, making this a healing, sweet romance film perfect to watch with someone you like."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075183576967237749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolesports @BilibiliGaming Bin &amp; Zeus\nThe screen is filled with a gentle pink atmosphere, delicately capturing the fluttering emotions of a youthful crush. Hidden within the scenes are the cautious, tender feelings between a boy and a girl; the camera freezes the moment they meet, while fragments of https://t.co/rxz1RdoPHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075183401775386624"
+          ]
+        },
+        "author_id": "614754689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "La gran final del Mid Season Invitational 2022 se llevó a cabo este 29 de mayo. RNG triunfó 3-2 sobre T1 para llevarse su tercera victoria en este campeonato.\n\nAquí puedes seguir todas las novedad a través de Tweets de medios de videojuegos, periodistas y gamers ⬇️ ",
+              "id": "1523957230462111744",
+              "name": "MSI2022: RNG vence a T1 y se convierte en tricampeón del torneo 🏆"
+            }
+          }
+        ],
+        "conversation_id": "2075183576967237749",
+        "created_at": "2026-07-09T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075183576967237749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "MSI2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1466606036647772165",
+              "start": 37,
+              "username": "BilibiliGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xD8WI1tEx8",
+              "end": 77,
+              "expanded_url": "https://x.com/lolesports/status/2075183576967237749/photo/1",
+              "media_key": "3_2075183401775386624",
+              "start": 54,
+              "url": "https://t.co/xD8WI1tEx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075183576967237749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 29199,
+          "like_count": 921,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "YOUR FIRST #MSI2026 GRAND FINALISTS: @BILIBILIGAMING! https://t.co/xD8WI1tEx8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "老婆 ❤️@XUEQIUxka/@Xyliaxka\n日记本@yqua_｜剧本草稿@RenYueAny\nEnby.｜教练｜赛事评论员｜发meme和日常的\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "username": "yqua_"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11066,
+          "following_count": 4707,
+          "like_count": 52126,
+          "listed_count": 37,
+          "media_count": 4944,
+          "tweet_count": 15676
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-22T01:55:13.000Z",
+        "description": "Up next at #MSI2026:\nG2 vs LYON\n\nWatch on https://t.co/RwFjaLauAw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "MSI2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 65,
+                "expanded_url": "http://lolesports.com",
+                "start": 42,
+                "url": "https://t.co/RwFjaLauAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 23,
+                "expanded_url": "http://www.lolesports.com",
+                "start": 0,
+                "url": "https://t.co/7dbNykDLyS"
+              }
+            ]
+          }
+        },
+        "id": "614754689",
+        "location": "Worldwide",
+        "name": "LoL Esports",
+        "pinned_tweet_id": "2075182329732231395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066491475806859264/qscg_Tkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566701,
+          "following_count": 613,
+          "like_count": 7789,
+          "listed_count": 4398,
+          "media_count": 40210,
+          "tweet_count": 76595
+        },
+        "url": "https://t.co/7dbNykDLyS",
+        "username": "lolesports",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T03:12:10.000Z",
+        "description": "Cheers for the faith ll #BLGWIN ll All about Bilibili Gaming \nContacts: https://t.co/VXMoCCkPGo \nBusiness: BLG_BD@bilibili.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "BLGWIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5926660141",
+                "end": 95,
+                "expanded_url": "http://weibo.com/u/5926660141",
+                "start": 72,
+                "url": "https://t.co/VXMoCCkPGo"
+              }
+            ]
+          }
+        },
+        "id": "1466606036647772165",
+        "location": "Shanghai, China",
+        "name": "Bilibili Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468849720625795074/72hzL5e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44410,
+          "following_count": 48,
+          "like_count": 126,
+          "listed_count": 112,
+          "media_count": 825,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "BilibiliGaming",
+        "verified": false
+      }
+    ]
+  }
+}

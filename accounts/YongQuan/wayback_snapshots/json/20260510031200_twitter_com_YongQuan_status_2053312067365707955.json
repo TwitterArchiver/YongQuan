@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052979914245292032"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053312067365707955",
+    "created_at": "2026-05-10T03:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053312067365707955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5SpufAaGg",
+          "end": 30,
+          "expanded_url": "https://x.com/YongQuan/status/2053312067365707955/photo/1",
+          "media_key": "3_2052979914245292032",
+          "start": 7,
+          "url": "https://t.co/n5SpufAaGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053312067365707955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用的还是我们 https://t.co/n5SpufAaGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2052979914245292032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2mWteaQAA8cXG.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052979914245292032"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053312067365707955",
+        "created_at": "2026-05-10T03:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053312067365707955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5SpufAaGg",
+              "end": 30,
+              "expanded_url": "https://x.com/YongQuan/status/2053312067365707955/photo/1",
+              "media_key": "3_2052979914245292032",
+              "start": 7,
+              "url": "https://t.co/n5SpufAaGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053312067365707955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用的还是我们 https://t.co/n5SpufAaGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9633,
+          "following_count": 4211,
+          "like_count": 44813,
+          "listed_count": 29,
+          "media_count": 3280,
+          "tweet_count": 11958
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

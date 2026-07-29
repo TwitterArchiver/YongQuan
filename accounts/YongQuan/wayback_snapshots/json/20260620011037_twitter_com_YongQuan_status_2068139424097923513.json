@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949136130789826560",
+        "3_1949136130794020864",
+        "3_1949136130831736833"
+      ],
+      "media_source_tweet_id": [
+        "1949136617006100811",
+        "1949136617006100811",
+        "1949136617006100811"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2068139424097923513",
+    "created_at": "2026-06-20T01:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068139424097923513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933203967703724038",
+          "start": 3,
+          "username": "nina02880521506"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FBO2BQwk5V",
+          "end": 109,
+          "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+          "media_key": "3_1949136130789826560",
+          "start": 86,
+          "url": "https://t.co/FBO2BQwk5V"
+        },
+        {
+          "display_url": "pic.x.com/FBO2BQwk5V",
+          "end": 109,
+          "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+          "media_key": "3_1949136130794020864",
+          "start": 86,
+          "url": "https://t.co/FBO2BQwk5V"
+        },
+        {
+          "display_url": "pic.x.com/FBO2BQwk5V",
+          "end": 109,
+          "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+          "media_key": "3_1949136130831736833",
+          "start": 86,
+          "url": "https://t.co/FBO2BQwk5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068139424097923513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949136617006100811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nina02880521506: 金主大人真的喜欢我吗？像亲爱的一样喜欢我嘛～那愿意再花一晚上操操我吗…我终究只是下海的人…而不是你的妻子\n       亲爱的… https://t.co/FBO2BQwk5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949136130789826560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwy4--abYAA4bxR.jpg",
+        "width": 899
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949136130794020864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwy4--bbYAA9NVW.jpg",
+        "width": 899
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949136130831736833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwy4--ka4AEq7Zc.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949136130789826560",
+            "3_1949136130794020864",
+            "3_1949136130831736833"
+          ],
+          "media_source_tweet_id": [
+            "1949136617006100811",
+            "1949136617006100811",
+            "1949136617006100811"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068139424097923513",
+        "created_at": "2026-06-20T01:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068139424097923513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933203967703724038",
+              "start": 3,
+              "username": "nina02880521506"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 109,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130789826560",
+              "start": 86,
+              "url": "https://t.co/FBO2BQwk5V"
+            },
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 109,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130794020864",
+              "start": 86,
+              "url": "https://t.co/FBO2BQwk5V"
+            },
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 109,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130831736833",
+              "start": 86,
+              "url": "https://t.co/FBO2BQwk5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068139424097923513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949136617006100811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nina02880521506: 金主大人真的喜欢我吗？像亲爱的一样喜欢我嘛～那愿意再花一晚上操操我吗…我终究只是下海的人…而不是你的妻子\n       亲爱的… https://t.co/FBO2BQwk5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949136130789826560",
+            "3_1949136130794020864",
+            "3_1949136130831736833"
+          ]
+        },
+        "author_id": "1933203967703724038",
+        "conversation_id": "1949136617006100811",
+        "created_at": "2025-07-26T15:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949136617006100811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 88,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130789826560",
+              "start": 65,
+              "url": "https://t.co/FBO2BQwk5V"
+            },
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 88,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130794020864",
+              "start": 65,
+              "url": "https://t.co/FBO2BQwk5V"
+            },
+            {
+              "display_url": "pic.x.com/FBO2BQwk5V",
+              "end": 88,
+              "expanded_url": "https://x.com/nina02880521506/status/1949136617006100811/photo/1",
+              "media_key": "3_1949136130831736833",
+              "start": 65,
+              "url": "https://t.co/FBO2BQwk5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949136617006100811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21819,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "金主大人真的喜欢我吗？像亲爱的一样喜欢我嘛～那愿意再花一晚上操操我吗…我终究只是下海的人…而不是你的妻子\n       亲爱的… https://t.co/FBO2BQwk5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10700,
+          "following_count": 4599,
+          "like_count": 51134,
+          "listed_count": 35,
+          "media_count": 4433,
+          "tweet_count": 14706
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T16:46:08.000Z",
+        "description": "08年老年药娘含糖。线下可约，礼貌问价即可，常驻广州，喜欢喝各种茶饮料，喜欢烟草！QQ是2275833392\n 温柔的对待我….谢谢..",
+        "id": "1933203967703724038",
+        "location": "广州",
+        "name": "池咲恋厌孤.柠檬冰.泪千🍥（互推且扩列）",
+        "pinned_tweet_id": "1949136617006100811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034650391535816704/P4Ymf7_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 201,
+          "like_count": 76,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "nina02880521506",
+        "verified": false
+      }
+    ]
+  }
+}

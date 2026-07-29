@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055636232680722434"
+      ],
+      "media_source_tweet_id": [
+        "2055636298602553503"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056650299713224968",
+    "created_at": "2026-05-19T08:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056650299713224968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707095214702153728",
+          "start": 3,
+          "username": "Sheep_Esports"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXjU4TcJlk",
+          "end": 133,
+          "expanded_url": "https://x.com/gureusi/status/2055636298602553503/video/1",
+          "media_key": "13_2055636232680722434",
+          "start": 110,
+          "url": "https://t.co/MXjU4TcJlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056650299713224968",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 987
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055638118137565474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sheep_Esports: Match MVP 👑, Taeyoon 🇰🇷 threw away the Nongshim jersey after this series win with FearX 😭\n\nhttps://t.co/MXjU4TcJlk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7545,
+        "height": 720,
+        "media_key": "13_2055636232680722434",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055636232680722434/img/h5SwwT7gA9C6B1Lz.jpg",
+        "public_metrics": {
+          "view_count": 288847
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055636232680722434/vid/avc1/480x270/CaD17POQ7H3ybcAJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055636232680722434/vid/avc1/640x360/Osqc9ifngtebDN5E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055636232680722434/vid/avc1/1280x720/3v7rKmwuQR-J1NyM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055636232680722434/pl/CRpT2QwT9CP0dOuI.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055636232680722434"
+          ],
+          "media_source_tweet_id": [
+            "2055636298602553503"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056650299713224968",
+        "created_at": "2026-05-19T08:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056650299713224968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707095214702153728",
+              "start": 3,
+              "username": "Sheep_Esports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXjU4TcJlk",
+              "end": 133,
+              "expanded_url": "https://x.com/gureusi/status/2055636298602553503/video/1",
+              "media_key": "13_2055636232680722434",
+              "start": 110,
+              "url": "https://t.co/MXjU4TcJlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056650299713224968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 987
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055638118137565474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sheep_Esports: Match MVP 👑, Taeyoon 🇰🇷 threw away the Nongshim jersey after this series win with FearX 😭\n\nhttps://t.co/MXjU4TcJlk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055636232680722434"
+          ],
+          "media_source_tweet_id": [
+            "2055636298602553503"
+          ]
+        },
+        "author_id": "1707095214702153728",
+        "conversation_id": "2055638118137565474",
+        "created_at": "2026-05-16T13:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055638118137565474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXjU4TcJlk",
+              "end": 114,
+              "expanded_url": "https://x.com/gureusi/status/2055636298602553503/video/1",
+              "media_key": "13_2055636232680722434",
+              "start": 91,
+              "url": "https://t.co/MXjU4TcJlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055638118137565474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 809411,
+          "like_count": 11435,
+          "quote_count": 249,
+          "reply_count": 50,
+          "retweet_count": 987
+        },
+        "reply_settings": "everyone",
+        "text": "Match MVP 👑, Taeyoon 🇰🇷 threw away the Nongshim jersey after this series win with FearX 😭\n\nhttps://t.co/MXjU4TcJlk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 4296,
+          "like_count": 45980,
+          "listed_count": 30,
+          "media_count": 3517,
+          "tweet_count": 12516
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T18:10:11.000Z",
+        "description": "Esports leaks, roster news, highlights, interviews, stats, business & clips! \n\nPowered by @WinamaxSport\nVALORANT: @Sheep_VALORANT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "WinamaxSport"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Sheep_VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://www.sheepesports.com/",
+                "start": 0,
+                "url": "https://t.co/jT5E7G91hQ"
+              }
+            ]
+          }
+        },
+        "id": "1707095214702153728",
+        "name": "Sheep Esports",
+        "pinned_tweet_id": "2035378161366503870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712839672345350144/Almbh25T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166892,
+          "following_count": 23,
+          "like_count": 1446,
+          "listed_count": 238,
+          "media_count": 6019,
+          "tweet_count": 9774
+        },
+        "url": "https://t.co/jT5E7G91hQ",
+        "username": "Sheep_Esports",
+        "verified": true
+      }
+    ]
+  }
+}

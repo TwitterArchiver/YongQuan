@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057401010503741808",
+    "created_at": "2026-05-22T05:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057688894985179371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "770570869026398208",
+          "start": 0,
+          "username": "wbxshuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057688894985179371",
+    "in_reply_to_user_id": "770570869026398208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057687151895326911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbxshuai 至少我玩人渣的时候 国人还没那么不堪🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057401010503741808",
+        "created_at": "2026-05-22T05:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057688894985179371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "770570869026398208",
+              "start": 0,
+              "username": "wbxshuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057688894985179371",
+        "in_reply_to_user_id": "770570869026398208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057687151895326911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbxshuai 至少我玩人渣的时候 国人还没那么不堪🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770570869026398208",
+        "conversation_id": "2057401010503741808",
+        "created_at": "2026-05-22T04:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057687151895326911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057687151895326911",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057401010503741808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 那他要碰到中国玩家，早就抢的连地基都不剩了。中国人上班时间比他长多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9937,
+          "following_count": 4335,
+          "like_count": 46576,
+          "listed_count": 30,
+          "media_count": 3608,
+          "tweet_count": 12773
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-30T10:36:26.000Z",
+        "description": "我們度盡的年歲好像一聲歎息。 (詩篇 90:9 )",
+        "id": "770570869026398208",
+        "location": "Pambansang Punong Rehiyon, Rep",
+        "name": "Bosco Wang 王念竹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975281591913271296/It-pyKVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 108,
+          "like_count": 10613,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 7418
+        },
+        "username": "wbxshuai",
+        "verified": true
+      }
+    ]
+  }
+}

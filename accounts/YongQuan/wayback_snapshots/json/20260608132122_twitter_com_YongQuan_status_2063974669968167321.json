@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063974664838483968"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063958047853277211",
+    "created_at": "2026-06-08T13:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063974669968167321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1422490726022074378",
+          "start": 0,
+          "username": "HupuEsports"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4BqMjdYcrN",
+          "end": 58,
+          "expanded_url": "https://x.com/YongQuan/status/2063974669968167321/photo/1",
+          "media_key": "3_2063974664838483968",
+          "start": 35,
+          "url": "https://t.co/4BqMjdYcrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063974669968167321",
+    "in_reply_to_user_id": "1422490726022074378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063958047853277211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HupuEsports 无奖竞猜：请问这里最后几波团哪个ad作用大 https://t.co/4BqMjdYcrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 143,
+        "media_key": "3_2063974664838483968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS2BbMakAAMw_5.jpg",
+        "width": 914
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2063958030996414464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSm5NTbIAA2EVr.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063974664838483968"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063958047853277211",
+        "created_at": "2026-06-08T13:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063974669968167321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1422490726022074378",
+              "start": 0,
+              "username": "HupuEsports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BqMjdYcrN",
+              "end": 58,
+              "expanded_url": "https://x.com/YongQuan/status/2063974669968167321/photo/1",
+              "media_key": "3_2063974664838483968",
+              "start": 35,
+              "url": "https://t.co/4BqMjdYcrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063974669968167321",
+        "in_reply_to_user_id": "1422490726022074378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063958047853277211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HupuEsports 无奖竞猜：请问这里最后几波团哪个ad作用大 https://t.co/4BqMjdYcrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063958030996414464"
+          ]
+        },
+        "author_id": "1422490726022074378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063958047853277211",
+        "created_at": "2026-06-08T12:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063958047853277211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "LPL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxwbCBHAeB",
+              "end": 187,
+              "expanded_url": "https://x.com/HupuEsports/status/2063958047853277211/photo/1",
+              "media_key": "3_2063958030996414464",
+              "start": 164,
+              "url": "https://t.co/rxwbCBHAeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063958047853277211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6809,
+          "like_count": 157,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "BLG beats AL 3-0! Here are the ratings from the HUPU Community (all games included):\n\nKael leads the rating for AL.\n\nBin and Knight lead the ratings for BLG.\n\n#LPL https://t.co/rxwbCBHAeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10573,
+          "following_count": 4520,
+          "like_count": 49211,
+          "listed_count": 31,
+          "media_count": 4115,
+          "tweet_count": 13855
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T09:33:27.000Z",
+        "description": "Esports media coverage from China, focusing on League of Legends (for now)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gg.hupu.com",
+                "end": 23,
+                "expanded_url": "https://gg.hupu.com/",
+                "start": 0,
+                "url": "https://t.co/WV2rsy9ldJ"
+              }
+            ]
+          }
+        },
+        "id": "1422490726022074378",
+        "name": "HUPU Esports",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422491093157834752/i6hzbPj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43252,
+          "following_count": 561,
+          "like_count": 3103,
+          "listed_count": 101,
+          "media_count": 3965,
+          "tweet_count": 5730
+        },
+        "url": "https://t.co/WV2rsy9ldJ",
+        "username": "HupuEsports",
+        "verified": false
+      }
+    ]
+  }
+}

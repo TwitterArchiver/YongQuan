@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051295105487958118",
+    "created_at": "2026-05-04T14:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051311830224748630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051311830224748630",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051295105487958118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@careforme123 我去问问藤藤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_2051295103248158720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeqBzaa0AAOteX.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051295105487958118",
+        "created_at": "2026-05-04T14:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051311830224748630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051311830224748630",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051295105487958118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 我去问问藤藤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051295103248158720"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051295105487958118",
+        "created_at": "2026-05-04T13:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051295105487958118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beDEDr2tAf",
+              "end": 67,
+              "expanded_url": "https://x.com/careforme123/status/2051295105487958118/photo/1",
+              "media_key": "3_2051295103248158720",
+              "start": 44,
+              "url": "https://t.co/beDEDr2tAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051295105487958118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们屏蔽我前，能不能说下为啥？\n\n有些时候点进你们主页一看，莫名其妙就收获了野爹证🤔🤔 https://t.co/beDEDr2tAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9365,
+          "following_count": 4183,
+          "like_count": 44012,
+          "listed_count": 29,
+          "media_count": 3131,
+          "tweet_count": 11608
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 447,
+          "like_count": 4786,
+          "listed_count": 5,
+          "media_count": 539,
+          "tweet_count": 1982
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052975879379439616"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053233550309077110",
+    "created_at": "2026-05-09T22:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053233550309077110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqHcloW6O5",
+          "end": 29,
+          "expanded_url": "https://x.com/YongQuan/status/2053233550309077110/photo/1",
+          "media_key": "3_2052975879379439616",
+          "start": 6,
+          "url": "https://t.co/XqHcloW6O5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053233550309077110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《边界感》 https://t.co/XqHcloW6O5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2052975879379439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2ir2bbUAAGjqh.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052975879379439616"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053233550309077110",
+        "created_at": "2026-05-09T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053233550309077110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqHcloW6O5",
+              "end": 29,
+              "expanded_url": "https://x.com/YongQuan/status/2053233550309077110/photo/1",
+              "media_key": "3_2052975879379439616",
+              "start": 6,
+              "url": "https://t.co/XqHcloW6O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053233550309077110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《边界感》 https://t.co/XqHcloW6O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9632,
+          "following_count": 4206,
+          "like_count": 44785,
+          "listed_count": 29,
+          "media_count": 3272,
+          "tweet_count": 11943
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2070763317422129297",
+    "created_at": "2026-06-27T13:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860758423162922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1028139778536079360",
+          "start": 0,
+          "username": "kohakumito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860758423162922",
+    "in_reply_to_user_id": "1028139778536079360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070850994070814803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohakumito 全关门了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2070763317422129297",
+        "created_at": "2026-06-27T13:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860758423162922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028139778536079360",
+              "start": 0,
+              "username": "kohakumito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860758423162922",
+        "in_reply_to_user_id": "1028139778536079360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070850994070814803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohakumito 全关门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028139778536079360",
+        "conversation_id": "2070763317422129297",
+        "created_at": "2026-06-27T12:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070850994070814803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070850994070814803",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070763317422129297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 所以，这家居广场左边那肯德基….关门了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10875,
+          "following_count": 4659,
+          "like_count": 51438,
+          "listed_count": 34,
+          "media_count": 4630,
+          "tweet_count": 15122
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "location": "中華民國",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 913,
+          "like_count": 19067,
+          "listed_count": 11,
+          "media_count": 267,
+          "tweet_count": 4025
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true
+      }
+    ]
+  }
+}

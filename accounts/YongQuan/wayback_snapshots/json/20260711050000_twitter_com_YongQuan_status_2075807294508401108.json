@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075579661011341312"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075807294508401108",
+    "created_at": "2026-07-11T05:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075807294508401108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQ05Yqvaxo",
+          "end": 41,
+          "expanded_url": "https://x.com/YongQuan/status/2075807294508401108/photo/1",
+          "media_key": "3_2075579661011341312",
+          "start": 18,
+          "url": "https://t.co/xQ05Yqvaxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075807294508401108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "单点麦当劳可乐苹果片，最落魄的时候 https://t.co/xQ05Yqvaxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2075579661011341312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3wtG2bUAA0Ob7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075579661011341312"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075807294508401108",
+        "created_at": "2026-07-11T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075807294508401108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQ05Yqvaxo",
+              "end": 41,
+              "expanded_url": "https://x.com/YongQuan/status/2075807294508401108/photo/1",
+              "media_key": "3_2075579661011341312",
+              "start": 18,
+              "url": "https://t.co/xQ05Yqvaxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075807294508401108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单点麦当劳可乐苹果片，最落魄的时候 https://t.co/xQ05Yqvaxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "老婆 ❤️@XUEQIUxka\n日记本@yqua_｜剧本草稿@RenYueAny\nEnby.｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11137,
+          "following_count": 4742,
+          "like_count": 52294,
+          "listed_count": 38,
+          "media_count": 4993,
+          "tweet_count": 15768
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

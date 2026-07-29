@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053630717587071263",
+    "created_at": "2026-05-11T20:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T21:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053943109290172729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1731651381914910720",
+          "start": 0,
+          "username": "Chensir2022Sir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053943109290172729",
+    "in_reply_to_user_id": "1731651381914910720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053768674864202058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chensir2022Sir 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053630717587071263",
+        "created_at": "2026-05-11T20:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053943109290172729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1731651381914910720",
+              "start": 0,
+              "username": "Chensir2022Sir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053943109290172729",
+        "in_reply_to_user_id": "1731651381914910720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053768674864202058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chensir2022Sir 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731651381914910720",
+        "conversation_id": "2053630717587071263",
+        "created_at": "2026-05-11T09:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053768674864202058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053768674864202058",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053630717587071263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 有感觉了有感觉吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9700,
+          "following_count": 4218,
+          "like_count": 44985,
+          "listed_count": 29,
+          "media_count": 3323,
+          "tweet_count": 12041
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T12:27:27.000Z",
+        "description": "",
+        "id": "1731651381914910720",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Ringo Chén🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033137501129637888/E2dRiwHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 285,
+          "like_count": 2165,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "Chensir2022Sir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065791899072380928"
+      ],
+      "media_source_tweet_id": [
+        "2065791919964188845"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065820430225850663",
+    "created_at": "2026-06-13T15:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065820430225850663"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "BLGWIN"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "MSI2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1466606036647772165",
+          "start": 3,
+          "username": "BilibiliGaming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yx4D3y8Q6b",
+          "end": 82,
+          "expanded_url": "https://x.com/BilibiliGaming/status/2065791919964188845/photo/1",
+          "media_key": "3_2065791899072380928",
+          "start": 59,
+          "url": "https://t.co/Yx4D3y8Q6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065820430225850663",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065791919964188845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BilibiliGaming: MSI, here we come! 🚀\n\n#BLGWIN #MSI2026 https://t.co/Yx4D3y8Q6b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065791899072380928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsqyYQWwAA3xnL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065791899072380928"
+          ],
+          "media_source_tweet_id": [
+            "2065791919964188845"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065820430225850663",
+        "created_at": "2026-06-13T15:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065820430225850663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "BLGWIN"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "MSI2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1466606036647772165",
+              "start": 3,
+              "username": "BilibiliGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx4D3y8Q6b",
+              "end": 82,
+              "expanded_url": "https://x.com/BilibiliGaming/status/2065791919964188845/photo/1",
+              "media_key": "3_2065791899072380928",
+              "start": 59,
+              "url": "https://t.co/Yx4D3y8Q6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065820430225850663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791919964188845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BilibiliGaming: MSI, here we come! 🚀\n\n#BLGWIN #MSI2026 https://t.co/Yx4D3y8Q6b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065791899072380928"
+          ]
+        },
+        "author_id": "1466606036647772165",
+        "conversation_id": "2065791919964188845",
+        "created_at": "2026-06-13T13:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065791919964188845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "BLGWIN"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "MSI2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx4D3y8Q6b",
+              "end": 62,
+              "expanded_url": "https://x.com/BilibiliGaming/status/2065791919964188845/photo/1",
+              "media_key": "3_2065791899072380928",
+              "start": 39,
+              "url": "https://t.co/Yx4D3y8Q6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065791919964188845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3532,
+          "like_count": 177,
+          "quote_count": 17,
+          "reply_count": 3,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "MSI, here we come! 🚀\n\n#BLGWIN #MSI2026 https://t.co/Yx4D3y8Q6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 4536,
+          "like_count": 50032,
+          "listed_count": 35,
+          "media_count": 4246,
+          "tweet_count": 14205
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T03:12:10.000Z",
+        "description": "Cheers for the faith ll #BLGWIN ll All about Bilibili Gaming \nContacts: https://t.co/VXMoCCkPGo \nBusiness: BLG_BD@bilibili.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "BLGWIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5926660141",
+                "end": 95,
+                "expanded_url": "http://weibo.com/u/5926660141",
+                "start": 72,
+                "url": "https://t.co/VXMoCCkPGo"
+              }
+            ]
+          }
+        },
+        "id": "1466606036647772165",
+        "location": "Shanghai, China",
+        "name": "Bilibili Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468849720625795074/72hzL5e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42948,
+          "following_count": 48,
+          "like_count": 115,
+          "listed_count": 110,
+          "media_count": 815,
+          "tweet_count": 954
+        },
+        "username": "BilibiliGaming",
+        "verified": false
+      }
+    ]
+  }
+}

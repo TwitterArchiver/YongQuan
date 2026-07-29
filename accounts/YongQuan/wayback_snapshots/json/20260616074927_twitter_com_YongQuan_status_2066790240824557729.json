@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066506005522022446",
+    "created_at": "2026-06-16T07:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066790240824557729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596720691360866305",
+          "start": 0,
+          "username": "_QWEOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066790240824557729",
+    "in_reply_to_user_id": "1596720691360866305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066682693979648188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QWEOVO 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066506005522022446",
+        "created_at": "2026-06-16T07:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066790240824557729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596720691360866305",
+              "start": 0,
+              "username": "_QWEOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066790240824557729",
+        "in_reply_to_user_id": "1596720691360866305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066682693979648188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QWEOVO 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596720691360866305",
+        "conversation_id": "2066506005522022446",
+        "created_at": "2026-06-16T00:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066682693979648188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066682693979648188",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2572,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066506005522022446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 这文章绝对是傻逼写的，令牌token和ai输入输出的token都分不清"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10663,
+          "following_count": 4565,
+          "like_count": 50398,
+          "listed_count": 35,
+          "media_count": 4311,
+          "tweet_count": 14368
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T04:21:17.000Z",
+        "description": "19岁奶1喵 | LGBTQ+🏳️‍🌈 | furry | 特别爱撒娇的那种哦 | 在西安喵(快来找我玩，我超乖巧)\n最好的弟弟:@lanhaoyi0426\n放个匿名箱https://t.co/YFd29GigJ0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "lanhaoyi0426"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qweovo",
+                "end": 107,
+                "expanded_url": "https://ngl.link/qweovo",
+                "start": 84,
+                "url": "https://t.co/YFd29GigJ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qweovo123",
+                "end": 23,
+                "expanded_url": "https://t.me/qweovo123",
+                "start": 0,
+                "url": "https://t.co/W9U8tg0m8B"
+              }
+            ]
+          }
+        },
+        "id": "1596720691360866305",
+        "location": "陕西",
+        "name": "QWEOVO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066713463095992320/xla1cwTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 270,
+          "like_count": 4364,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/W9U8tg0m8B",
+        "username": "_QWEOVO",
+        "verified": false
+      }
+    ]
+  }
+}

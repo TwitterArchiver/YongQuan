@@ -1,0 +1,678 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Classic NASCAR races from years past.",
+          "id": "10000611012",
+          "name": "NASCAR Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Racing action from the NASCAR Cup Series.",
+          "id": "10055595313",
+          "name": "NASCAR Cup Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "NASCAR",
+          "id": "852178354279022592",
+          "name": "NASCAR"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASCAR",
+          "id": "852178354279022592",
+          "name": "NASCAR"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509480440733704193",
+          "name": "Stock car racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042758282",
+          "name": "NASCAR"
+        }
+      }
+    ],
+    "conversation_id": "2057577365543301405",
+    "created_at": "2026-05-22T17:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057880722631991722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "49153854",
+          "start": 0,
+          "username": "NASCAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057880722631991722",
+    "in_reply_to_user_id": "49153854",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057577365543301405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NASCAR Absolute legend, NASCAR CUP series 762 games in 24 years, 35 strokes, 63 wins, 395 top ten times (NASCA did not have a podium), 2 championships (NASCA has a playoffs, and the championship is not so easy to win)."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2057577344487886848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI37sXwXkAAcwMt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Classic NASCAR races from years past.",
+              "id": "10000611012",
+              "name": "NASCAR Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Racing action from the NASCAR Cup Series.",
+              "id": "10055595313",
+              "name": "NASCAR Cup Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "NASCAR",
+              "id": "852178354279022592",
+              "name": "NASCAR"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASCAR",
+              "id": "852178354279022592",
+              "name": "NASCAR"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509480440733704193",
+              "name": "Stock car racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758282",
+              "name": "NASCAR"
+            }
+          }
+        ],
+        "conversation_id": "2057577365543301405",
+        "created_at": "2026-05-22T17:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057880722631991722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "49153854",
+              "start": 0,
+              "username": "NASCAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057880722631991722",
+        "in_reply_to_user_id": "49153854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057577365543301405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NASCAR Absolute legend, NASCAR CUP series 762 games in 24 years, 35 strokes, 63 wins, 395 top ten times (NASCA did not have a podium), 2 championships (NASCA has a playoffs, and the championship is not so easy to win)."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057577344487886848"
+          ]
+        },
+        "author_id": "49153854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Classic NASCAR races from years past.",
+              "id": "10000611012",
+              "name": "NASCAR Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "NASCAR",
+              "id": "852178354279022592",
+              "name": "NASCAR"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Kyle Busch",
+              "id": "831534403499155456",
+              "name": "Kyle Busch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kyle Busch",
+              "id": "831534403499155456",
+              "name": "Kyle Busch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASCAR",
+              "id": "852178354279022592",
+              "name": "NASCAR"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509480440733704193",
+              "name": "Stock car racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758282",
+              "name": "NASCAR"
+            }
+          }
+        ],
+        "conversation_id": "2057577365543301405",
+        "created_at": "2026-05-21T21:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057577365543301405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FARIF6OKrw",
+              "end": 298,
+              "expanded_url": "https://x.com/NASCAR/status/2057577365543301405/photo/1",
+              "media_key": "3_2057577344487886848",
+              "start": 275,
+              "url": "https://t.co/FARIF6OKrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057577365543301405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "We are saddened and heartbroken to share the news of the passing of Kyle Busch, a two-time Cup champion and one of our sport's greatest and fiercest drivers. He was 41 years old.\n\nWe extend our deepest condolences to the Busch family, Richard Childress Racing and the entire motorsports community."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4442,
+          "impression_count": 23165024,
+          "like_count": 123354,
+          "quote_count": 14680,
+          "reply_count": 7039,
+          "retweet_count": 30586
+        },
+        "reply_settings": "everyone",
+        "text": "We are saddened and heartbroken to share the news of the passing of Kyle Busch, a two-time Cup champion and one of our sport's greatest and fiercest drivers. He was 41 years old.\n\nWe extend our deepest condolences to the Busch family, Richard Childress Racing and the entire https://t.co/FARIF6OKrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9954,
+          "following_count": 4359,
+          "like_count": 46872,
+          "listed_count": 30,
+          "media_count": 3625,
+          "tweet_count": 12848
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-20T23:13:52.000Z",
+        "description": "Can we getta hell yeah?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/NASCAR",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/NASCAR",
+                "start": 0,
+                "url": "https://t.co/ZOM08yHUwZ"
+              }
+            ]
+          }
+        },
+        "id": "49153854",
+        "name": "NASCAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057089538611113984/bRPdMLta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643344,
+          "following_count": 378,
+          "like_count": 9684,
+          "listed_count": 11034,
+          "media_count": 83068,
+          "tweet_count": 176207
+        },
+        "url": "https://t.co/ZOM08yHUwZ",
+        "username": "NASCAR",
+        "verified": true
+      }
+    ]
+  }
+}

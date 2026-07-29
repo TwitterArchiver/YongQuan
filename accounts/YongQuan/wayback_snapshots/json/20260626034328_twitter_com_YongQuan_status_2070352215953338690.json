@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2070349662641369384",
+    "created_at": "2026-06-26T03:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070352215953338690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070352215953338690",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070349662641369384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 所以我很好奇X真的越来越微信化了吗🤔\n\n以及X Money可不可以用ITIN 前两天刚拿到ITIN的CP565信函（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24050,
+        "height": 2880,
+        "media_key": "13_2070245292784730112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070245292784730112/img/5VVYa_DT7jStFPiQ.jpg",
+        "public_metrics": {
+          "view_count": 626178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/720x720/1ZJgJR2D8U9vimIe.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/320x320/xJwPzq93HN6B9_xG.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/1080x1080/Sgkc6fYwdEfgHh-i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/pl/QUjo7dFlLeHJ957Y.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/2880x2880/f5E9mA4Pf6Emo5Dw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/540x540/eIDyPCXgiufFN1lJ.mp4"
+          }
+        ],
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2070349662641369384",
+        "created_at": "2026-06-26T03:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070352215953338690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070352215953338690",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070349662641369384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 所以我很好奇X真的越来越微信化了吗🤔\n\n以及X Money可不可以用ITIN 前两天刚拿到ITIN的CP565信函（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070245292784730112"
+          ],
+          "media_source_tweet_id": [
+            "2070245446749204788"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "2070349662641369384",
+        "created_at": "2026-06-26T03:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070349662641369384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EN8Jq5MT8j",
+              "end": 461,
+              "expanded_url": "https://x.com/benjitaylor/status/2070245446749204788/video/1",
+              "media_key": "13_2070245292784730112",
+              "start": 438,
+              "url": "https://t.co/EN8Jq5MT8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070349662641369384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 375,
+                "start": 368,
+                "tag": "XMoney"
+              },
+              {
+                "end": 381,
+                "start": 376,
+                "tag": "𝕏新功能"
+              },
+              {
+                "end": 387,
+                "start": 382,
+                "tag": "金融自由"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/benjitaylor/st…",
+                "end": 461,
+                "expanded_url": "https://x.com/benjitaylor/status/2070245446749204788/video/1",
+                "start": 438,
+                "url": "https://t.co/EN8Jq5MT8j"
+              }
+            ]
+          },
+          "text": "🔥好消息：𝕏 Money 杀疯了！🚀\n\n今天起，Premium+ 用户陆续收到邀请\nX 终于把“社交”玩成了“财富”！\n\n一张定制金属 Visa 卡，免费全球 ATM + 零外汇手续费；\n随时给朋友、房东、任何人转账，像发消息一样简单；\n余额自动赚行业顶尖利息，睡着了钱都在涨；\n\nPasskey 安全 + 最高 1000 万美元 FDIC 保险，把钱放 X，比银行还放心！\n\n从此以后，你的 X 不再只是刷帖的地方～\n它就是你的银行、你的钱包、你的财富入口。\n\nX Money，不是又一个支付工具\n而是把整个金融系统塞进 X 的降维打击！\n\n还没收到邀请的 Premium+ 朋友们，赶紧去设置里看看！\n\n已经收到的，欢迎来评论区晒卡/晒收益 🔥\n\n未来已来，你准备好把钱交给 X 了吗？\n\n转发让更多人看到，这波红利别错过！💰✨\n\n#XMoney #𝕏新功能 #金融自由​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ https://t.co/EN8Jq5MT8j"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥好消息：𝕏 Money 杀疯了！🚀\n\n今天起，Premium+ 用户陆续收到邀请\nX 终于把“社交”玩成了“财富”！\n\n一张定制金属 Visa 卡，免费全球 ATM + 零外汇手续费；\n随时给朋友、房东、任何人转账，像发消息一样简单；\n余额自动赚行业顶尖利息，睡着了钱都在涨；\n\nPasskey 安全 + 最高 1000 万美元 FDIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10829,
+          "following_count": 4643,
+          "like_count": 51290,
+          "listed_count": 34,
+          "media_count": 4590,
+          "tweet_count": 15025
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语区独立观察者｜猫神官方账号｜YouTube《猫神漫谈》博主\n坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心❤️那束光\n吃瓜是表象、热点看真相｜愿在网络世界里，与有温度、有力量的您同行🔥",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "2040610424287011115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222543,
+          "following_count": 6989,
+          "like_count": 4380,
+          "listed_count": 522,
+          "media_count": 6033,
+          "tweet_count": 17870
+        },
+        "url": "",
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1308398176978698241",
+          "name": "Among Us"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308398176978698241",
+          "name": "Among Us"
+        }
+      }
+    ],
+    "conversation_id": "2063057286713467047",
+    "created_at": "2026-06-07T06:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063505622365352207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313780486062452736",
+          "start": 0,
+          "username": "AmongUsGame"
+        },
+        {
+          "end": 28,
+          "id": "1227487348671184897",
+          "start": 13,
+          "username": "ShiinaMizuki29"
+        },
+        {
+          "end": 44,
+          "id": "1902878692491362304",
+          "start": 29,
+          "username": "LeadsterInkest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063505622365352207",
+    "in_reply_to_user_id": "1313780486062452736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063084118112604539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmongUsGame @ShiinaMizuki29 @LeadsterInkest us=ass"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1308398176978698241",
+              "name": "Among Us"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308398176978698241",
+              "name": "Among Us"
+            }
+          }
+        ],
+        "conversation_id": "2063057286713467047",
+        "created_at": "2026-06-07T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063505622365352207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313780486062452736",
+              "start": 0,
+              "username": "AmongUsGame"
+            },
+            {
+              "end": 28,
+              "id": "1227487348671184897",
+              "start": 13,
+              "username": "ShiinaMizuki29"
+            },
+            {
+              "end": 44,
+              "id": "1902878692491362304",
+              "start": 29,
+              "username": "LeadsterInkest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063505622365352207",
+        "in_reply_to_user_id": "1313780486062452736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063084118112604539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmongUsGame @ShiinaMizuki29 @LeadsterInkest us=ass"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313780486062452736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1308398176978698241",
+              "name": "Among Us"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308398176978698241",
+              "name": "Among Us"
+            }
+          }
+        ],
+        "conversation_id": "2063057286713467047",
+        "created_at": "2026-06-06T02:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063084118112604539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902878692491362304",
+              "start": 0,
+              "username": "LeadsterInkest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063084118112604539",
+        "in_reply_to_user_id": "1902878692491362304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3410,
+          "impression_count": 1620657,
+          "like_count": 49970,
+          "quote_count": 174,
+          "reply_count": 232,
+          "retweet_count": 8546
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063057286713467047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeadsterInkest among ass"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "F1"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10525,
+          "following_count": 4507,
+          "like_count": 48908,
+          "listed_count": 31,
+          "media_count": 4072,
+          "tweet_count": 13781
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T09:59:17.000Z",
+        "description": "✦ made of 1 bone ✦ PC, mobile, Switch, Xbox, PlayStation, @AmongUs3DGame ✦ By @InnerslothDevs ✦ Support: support@innersloth.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "AmongUs3DGame"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "InnerslothDevs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "innersloth.com/games/among-us/",
+                "end": 23,
+                "expanded_url": "https://www.innersloth.com/games/among-us/",
+                "start": 0,
+                "url": "https://t.co/QoChniuOqZ"
+              }
+            ]
+          }
+        },
+        "id": "1313780486062452736",
+        "location": "sneezing in MIRA HQ",
+        "name": "Among Us",
+        "pinned_tweet_id": "2063035145423081779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041905058884018176/VT7JYN1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499630,
+          "following_count": 2,
+          "like_count": 19485,
+          "listed_count": 1224,
+          "media_count": 1254,
+          "tweet_count": 36112
+        },
+        "url": "https://t.co/QoChniuOqZ",
+        "username": "AmongUsGame",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T06:59:33.000Z",
+        "description": "ISFP｜Made in China🇨🇳｜2006.08.29｜💥已炸柜｜无证含糖🍥｜不割手不鉴证｜坚持古法编程，喜欢乱转发乱关注，随机发疯，打不好CounterStrike所以学了ComputerScience（哦不）｜图灵派（？）｜搬💩在@mzk2992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 121,
+                "username": "mzk2992"
+              }
+            ]
+          }
+        },
+        "id": "1227487348671184897",
+        "location": "Jinan,Shandong,China",
+        "name": "辞染秋栖🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014892394676666368/B82391Z-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 326,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "ShiinaMizuki29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T00:23:47.000Z",
+        "description": "I’m currently 16 (minor), I animate, and I make art, enjoy! Discord SERVER: https://t.co/t2XIScsCIW\nDiscord: leadster_inkest",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/wcpsNn838R",
+                "end": 99,
+                "expanded_url": "https://discord.gg/wcpsNn838R",
+                "start": 76,
+                "url": "https://t.co/t2XIScsCIW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@animationstud…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@animationstudio678?si=v3KOuntX9ntPEmTq",
+                "start": 0,
+                "url": "https://t.co/Jz85O0laUE"
+              }
+            ]
+          }
+        },
+        "id": "1902878692491362304",
+        "location": "Mickey Mouse Clubhouse ",
+        "name": "Leadster-COMMS OPEN",
+        "pinned_tweet_id": "2042015389622636586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969587990855905280/k7wVqs6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 313,
+          "like_count": 6420,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/Jz85O0laUE",
+        "username": "LeadsterInkest",
+        "verified": true
+      }
+    ]
+  }
+}

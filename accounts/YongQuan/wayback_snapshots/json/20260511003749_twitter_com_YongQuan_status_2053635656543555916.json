@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053475227359690914",
+    "created_at": "2026-05-11T00:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053635656543555916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1473626629016461312",
+          "start": 0,
+          "username": "valesports_cn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 38,
+          "expanded_url": "https://x.com/yongquan/status/2053630717587071263?s=46",
+          "start": 15,
+          "url": "https://t.co/Laoa5HQa2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053635656543555916",
+    "in_reply_to_user_id": "1473626629016461312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053630717587071263",
+        "type": "quoted"
+      },
+      {
+        "id": "2053475227359690914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@valesports_cn https://t.co/Laoa5HQa2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_2053630597617295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_2Jd7aIAA2Yli.png",
+        "width": 455
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2053474453632217091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9oIsQWcAMqiuq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053475227359690914",
+        "created_at": "2026-05-11T00:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053635656543555916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1473626629016461312",
+              "start": 0,
+              "username": "valesports_cn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 38,
+              "expanded_url": "https://x.com/yongquan/status/2053630717587071263?s=46",
+              "start": 15,
+              "url": "https://t.co/Laoa5HQa2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053635656543555916",
+        "in_reply_to_user_id": "1473626629016461312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053630717587071263",
+            "type": "quoted"
+          },
+          {
+            "id": "2053475227359690914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@valesports_cn https://t.co/Laoa5HQa2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053630597617295360"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053630717587071263",
+        "created_at": "2026-05-11T00:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053630717587071263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzZkL3ogUH",
+              "end": 33,
+              "expanded_url": "https://x.com/YongQuan/status/2053630717587071263/photo/1",
+              "media_key": "3_2053630597617295360",
+              "start": 10,
+              "url": "https://t.co/uzZkL3ogUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053630717587071263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "康神的大狙就是吊！ https://t.co/uzZkL3ogUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053474453632217091"
+          ]
+        },
+        "author_id": "1473626629016461312",
+        "conversation_id": "2053475227359690914",
+        "created_at": "2026-05-10T14:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053475227359690914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "VCTCN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "771633320736149504",
+              "start": 16,
+              "username": "EDG_Edward"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AtT7TIvEK",
+              "end": 93,
+              "expanded_url": "https://x.com/valesports_cn/status/2053475227359690914/photo/1",
+              "media_key": "3_2053474453632217091",
+              "start": 70,
+              "url": "https://t.co/5AtT7TIvEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053475227359690914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 55929,
+          "like_count": 1392,
+          "quote_count": 83,
+          "reply_count": 18,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "After 470 days, @EDG_Edward get the Champions Trophy at #VCTCN again! https://t.co/5AtT7TIvEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9666,
+          "following_count": 4209,
+          "like_count": 44902,
+          "listed_count": 29,
+          "media_count": 3304,
+          "tweet_count": 12004
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-22T12:09:20.000Z",
+        "description": "Official account for the VALORANT Champions Tour CN #VCTCN | IL of 2024 VALORANT World Champions @EDG_Edward",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "VCTCN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "EDG_Edward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/valorantesport…",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/valorantesports_cn",
+                "start": 0,
+                "url": "https://t.co/FItyA1htlt"
+              }
+            ]
+          }
+        },
+        "id": "1473626629016461312",
+        "location": "Shanghai",
+        "name": "VALORANT Champions Tour CN",
+        "pinned_tweet_id": "2053475227359690914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046181471162130432/T4a3cMsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36302,
+          "following_count": 268,
+          "like_count": 1581,
+          "listed_count": 91,
+          "media_count": 9385,
+          "tweet_count": 11719
+        },
+        "url": "https://t.co/FItyA1htlt",
+        "username": "valesports_cn",
+        "verified": true
+      }
+    ]
+  }
+}

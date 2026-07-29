@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057768382875996546",
+    "created_at": "2026-05-22T10:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057768962759573812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2327204155",
+          "start": 0,
+          "username": "hbotv2043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057768962759573812",
+    "in_reply_to_user_id": "2327204155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057768382875996546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hbotv2043 骗你的 老手蓝V已经进入流量下滑倒计时了（\n\nmeme现在出现了一种本末倒置的情况 我感觉不太对劲（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057768382875996546",
+        "created_at": "2026-05-22T10:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057768962759573812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2327204155",
+              "start": 0,
+              "username": "hbotv2043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057768962759573812",
+        "in_reply_to_user_id": "2327204155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057768382875996546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hbotv2043 骗你的 老手蓝V已经进入流量下滑倒计时了（\n\nmeme现在出现了一种本末倒置的情况 我感觉不太对劲（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2327204155",
+        "conversation_id": "2057768382875996546",
+        "created_at": "2026-05-22T10:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057768382875996546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057768382875996546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了很多新手蓝v没有粉丝量，新人要主动一点，大声的说出来的，你需要互动，我从来对任何蓝v的关爱都是来者不拒，作为优质蓝v，估计这是最后的机会让大家快速添加粉丝了，你还不抓住这个机会添加你自己的粉丝数字，很可能以后会很难操作了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9946,
+          "following_count": 4345,
+          "like_count": 46645,
+          "listed_count": 30,
+          "media_count": 3613,
+          "tweet_count": 12802
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-04T14:22:14.000Z",
+        "description": "龙虎山正一派传人｜前华泰证券分析师｜Daliio 友人\n大周期金融分析师 & 风水命理师（36+年）\n用宏观大势 + 风水智慧，助你把握人生决策与财富时机\n每周分享：周期洞见 × 个人运势",
+        "id": "2327204155",
+        "name": "Master DAYIN",
+        "pinned_tweet_id": "2052573462779376102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048024188850728960/Sq8eR6eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 3077,
+          "like_count": 298,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 3634
+        },
+        "username": "hbotv2043",
+        "verified": true
+      }
+    ]
+  }
+}

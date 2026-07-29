@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052574494967922727",
+    "created_at": "2026-05-08T03:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052586632893661278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052586632893661278",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052574494967922727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv 更正：5月8日23:59（UTC+0）\n也就是BJT5月9日7:59\n\n但一般都是10点左右\n\n好处就是正好生日发工资！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052574481147731968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw1nZfXoAAY2lE.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052574481122545666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw1nZZXUAIYV6X.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052574494967922727",
+        "created_at": "2026-05-08T03:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052586632893661278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052586632893661278",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052574494967922727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv 更正：5月8日23:59（UTC+0）\n也就是BJT5月9日7:59\n\n但一般都是10点左右\n\n好处就是正好生日发工资！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052574481147731968",
+            "3_2052574481122545666"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "conversation_id": "2052574494967922727",
+        "created_at": "2026-05-08T02:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052574494967922727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDjhAOCjQE",
+              "end": 116,
+              "expanded_url": "https://x.com/e5ogv/status/2052574494967922727/photo/1",
+              "media_key": "3_2052574481147731968",
+              "start": 93,
+              "url": "https://t.co/mDjhAOCjQE"
+            },
+            {
+              "display_url": "pic.x.com/mDjhAOCjQE",
+              "end": 116,
+              "expanded_url": "https://x.com/e5ogv/status/2052574494967922727/photo/1",
+              "media_key": "3_2052574481122545666",
+              "start": 93,
+              "url": "https://t.co/mDjhAOCjQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052574494967922727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月8日晚00点：准时发放本月的第一批“工资”中文区将迎来新的高潮期😎\n\n但是我想说的是，千万别倒在黎明前，检查自己账号，以往的帖子，还有评论区，该删的删，别不舍得，对自己账号狠一点😱\n\n今天有很多人，本可以拿到属于自己的“奖励”却被系统卡掉，问题应该有，排查一下，不知道哪里错了，可以咨询grok它虽然有点傻，但是也可以帮你检测账号问题，。\n\n最后总结：慧姐从1月12号开始玩X一直不绑卡，不进群，不漂洋过海进修，主打就是一个“原创” 今天看来，我是正确的😎\n\n看到这里\n你认为慧姐是傻逼还是大聪明？\n评论区告诉我🤭🤭🤭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5月8日晚00点：准时发放本月的第一批“工资”中文区将迎来新的高潮期😎\n\n但是我想说的是，千万别倒在黎明前，检查自己账号，以往的帖子，还有评论区，该删的删，别不舍得，对自己账号狠一点😱 https://t.co/mDjhAOCjQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9466,
+          "following_count": 4202,
+          "like_count": 44727,
+          "listed_count": 28,
+          "media_count": 3227,
+          "tweet_count": 11836
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "pinned_tweet_id": "2052544705703944481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10216,
+          "following_count": 2317,
+          "like_count": 3003,
+          "listed_count": 12,
+          "media_count": 897,
+          "tweet_count": 13057
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      }
+    ]
+  }
+}

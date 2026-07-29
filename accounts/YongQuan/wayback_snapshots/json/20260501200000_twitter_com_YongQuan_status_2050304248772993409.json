@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048271540098351104"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2050304248772993409",
+    "created_at": "2026-05-01T20:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050304248772993409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMcIvU4PwE",
+          "end": 23,
+          "expanded_url": "https://x.com/YongQuan/status/2050304248772993409/photo/1",
+          "media_key": "3_2048271540098351104",
+          "start": 0,
+          "url": "https://t.co/rMcIvU4PwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050304248772993409",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rMcIvU4PwE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2048271540098351104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzsHQ8awAA5u3v.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048271540098351104"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2050304248772993409",
+        "created_at": "2026-05-01T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050304248772993409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMcIvU4PwE",
+              "end": 23,
+              "expanded_url": "https://x.com/YongQuan/status/2050304248772993409/photo/1",
+              "media_key": "3_2048271540098351104",
+              "start": 0,
+              "url": "https://t.co/rMcIvU4PwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050304248772993409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rMcIvU4PwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9206,
+          "following_count": 4165,
+          "like_count": 43679,
+          "listed_count": 28,
+          "media_count": 3065,
+          "tweet_count": 11466
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055638177797615616"
+      ],
+      "media_source_tweet_id": [
+        "2055638455074574627"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056647401646289195",
+    "created_at": "2026-05-19T08:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056647401646289195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1285050175266799616",
+          "start": 3,
+          "username": "LCK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xja9Bv4Vq9",
+          "end": 36,
+          "expanded_url": "https://x.com/LCK/status/2055638455074574627/video/1",
+          "media_key": "13_2055638177797615616",
+          "start": 13,
+          "url": "https://t.co/xja9Bv4Vq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056647401646289195",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1984
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055638455074574627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LCK: ☝️🦊 https://t.co/xja9Bv4Vq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8340,
+        "height": 1080,
+        "media_key": "13_2055638177797615616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055638177797615616/img/9am1I149wleU_5u9.jpg",
+        "public_metrics": {
+          "view_count": 145086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055638177797615616/pl/ny6XTulw46dRa95c.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638177797615616/vid/avc1/1920x1080/Rd7n7nJGtdQVvH7Z.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638177797615616/vid/avc1/480x270/F-x2Y6lI3KQTuDHb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638177797615616/vid/avc1/1280x720/MoztjBJHeAKYTaH3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638177797615616/vid/avc1/640x360/9byS1DpoDDz5K6_-.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055638177797615616"
+          ],
+          "media_source_tweet_id": [
+            "2055638455074574627"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056647401646289195",
+        "created_at": "2026-05-19T08:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056647401646289195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1285050175266799616",
+              "start": 3,
+              "username": "LCK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xja9Bv4Vq9",
+              "end": 36,
+              "expanded_url": "https://x.com/LCK/status/2055638455074574627/video/1",
+              "media_key": "13_2055638177797615616",
+              "start": 13,
+              "url": "https://t.co/xja9Bv4Vq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056647401646289195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055638455074574627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LCK: ☝️🦊 https://t.co/xja9Bv4Vq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055638177797615616"
+          ]
+        },
+        "author_id": "1285050175266799616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055638455074574627",
+        "created_at": "2026-05-16T13:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055638455074574627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xja9Bv4Vq9",
+              "end": 27,
+              "expanded_url": "https://x.com/LCK/status/2055638455074574627/video/1",
+              "media_key": "13_2055638177797615616",
+              "start": 4,
+              "url": "https://t.co/xja9Bv4Vq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055638455074574627",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 583336,
+          "like_count": 9348,
+          "quote_count": 412,
+          "reply_count": 28,
+          "retweet_count": 1984
+        },
+        "reply_settings": "everyone",
+        "text": "☝️🦊 https://t.co/xja9Bv4Vq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 4296,
+          "like_count": 45976,
+          "listed_count": 30,
+          "media_count": 3517,
+          "tweet_count": 12509
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-20T03:13:56.000Z",
+        "description": "Official Global Twitter of #LCK l Youtube: LCK Global, Twitch: LCK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "LCK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/LCKglobal",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/LCKglobal",
+                "start": 0,
+                "url": "https://t.co/3qUfKWYrCR"
+              }
+            ]
+          }
+        },
+        "id": "1285050175266799616",
+        "location": "South Korea",
+        "name": "LCK",
+        "pinned_tweet_id": "2034842442416148890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037384095341408256/c-TXNz7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358645,
+          "following_count": 123,
+          "like_count": 368,
+          "listed_count": 706,
+          "media_count": 9772,
+          "tweet_count": 14222
+        },
+        "url": "https://t.co/3qUfKWYrCR",
+        "username": "LCK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2055026098849628216",
+    "created_at": "2026-05-14T23:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T00:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055070883601920457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879644163769335808",
+          "start": 0,
+          "username": "WhiteHouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055070883601920457",
+    "in_reply_to_user_id": "1879644163769335808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055026098849628216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteHouse 民为邦本，本固邦宁，愿友好发展，世界和平。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2055025572477063168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITq3sPW0AAKNvv.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2055026098849628216",
+        "created_at": "2026-05-14T23:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055070883601920457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879644163769335808",
+              "start": 0,
+              "username": "WhiteHouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055070883601920457",
+        "in_reply_to_user_id": "1879644163769335808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055026098849628216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteHouse 民为邦本，本固邦宁，愿友好发展，世界和平。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055025572477063168"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "conversation_id": "2055026098849628216",
+        "created_at": "2026-05-14T20:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055026098849628216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH2DJ9SWYV",
+              "end": 66,
+              "expanded_url": "https://x.com/WhiteHouse/status/2055026098849628216/photo/1",
+              "media_key": "3_2055025572477063168",
+              "start": 43,
+              "url": "https://t.co/CH2DJ9SWYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055026098849628216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 310119,
+          "like_count": 16828,
+          "quote_count": 143,
+          "reply_count": 830,
+          "retweet_count": 2040
+        },
+        "reply_settings": "everyone",
+        "text": "📍 Temple of Heaven, Beijing | May 14, 2026 https://t.co/CH2DJ9SWYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9772,
+          "following_count": 4249,
+          "like_count": 45392,
+          "listed_count": 30,
+          "media_count": 3394,
+          "tweet_count": 12249
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619981,
+          "following_count": 6,
+          "like_count": 263,
+          "listed_count": 8696,
+          "media_count": 5477,
+          "tweet_count": 15001
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

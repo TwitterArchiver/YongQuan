@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2064252370582913159",
+    "created_at": "2026-06-09T08:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064259776440393930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560640265433387008",
+          "start": 0,
+          "username": "krimiddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064259776440393930",
+    "in_reply_to_user_id": "1560640265433387008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064258506174472367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krimiddd 比较可惜 因为我最近一次线下观赛还是MSI2025\n上大学之后几乎没有出境的机会了\n希望今年下半年我搬到广州能够有比赛看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2064252370582913159",
+        "created_at": "2026-06-09T08:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064259776440393930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560640265433387008",
+              "start": 0,
+              "username": "krimiddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064259776440393930",
+        "in_reply_to_user_id": "1560640265433387008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064258506174472367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krimiddd 比较可惜 因为我最近一次线下观赛还是MSI2025\n上大学之后几乎没有出境的机会了\n希望今年下半年我搬到广州能够有比赛看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560640265433387008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2064252370582913159",
+        "created_at": "2026-06-09T08:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064258506174472367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064258506174472367",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064258055903322174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 彼らが参加してるなら名古屋に観に行く予定だったんだ、本当に悲しいよ😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 4521,
+          "like_count": 49297,
+          "listed_count": 31,
+          "media_count": 4133,
+          "tweet_count": 13887
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T14:50:18.000Z",
+        "description": "ORIX\"Losing isn't an option.\" ガンダムSEED大好き。20TES/23JDG/24,25,26BLG LPLファン #BLGWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "BLGWIN"
+              }
+            ]
+          }
+        },
+        "id": "1560640265433387008",
+        "location": "Knight fan",
+        "name": "⚡️切身⚡️",
+        "pinned_tweet_id": "1956467325479367088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476926148513792/cGFeHPNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 149,
+          "like_count": 42624,
+          "listed_count": 1,
+          "media_count": 926,
+          "tweet_count": 13137
+        },
+        "username": "krimiddd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057080283904811142",
+    "created_at": "2026-05-20T12:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057080283904811142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1838370893187395584",
+          "start": 3,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 32,
+          "id": "1904539885769457665",
+          "start": 21,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057080283904811142",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057052838426300451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cherry_BombY458: @yanmin1105"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057080283904811142",
+        "created_at": "2026-05-20T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057080283904811142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1838370893187395584",
+              "start": 3,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 32,
+              "id": "1904539885769457665",
+              "start": 21,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057080283904811142",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057052838426300451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cherry_BombY458: @yanmin1105"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "2057052838426300451",
+        "created_at": "2026-05-20T10:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057052838426300451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XmeowwoemX_017…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/XmeowwoemX_017/status/2057008350550986819",
+              "start": 12,
+              "url": "https://t.co/Ln1xZNWDij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057052838426300451",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057008350550986819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 https://t.co/Ln1xZNWDij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9930,
+          "following_count": 4317,
+          "like_count": 46283,
+          "listed_count": 30,
+          "media_count": 3551,
+          "tweet_count": 12641
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+        "id": "1838370893187395584",
+        "location": "your heart",
+        "name": "-4°",
+        "pinned_tweet_id": "1932803561873899837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051646450636120064/AhHTwXKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 942,
+          "like_count": 2728,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1090
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨随缘互fo，只fo眼熟和xyn丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 405,
+          "like_count": 3452,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1399
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

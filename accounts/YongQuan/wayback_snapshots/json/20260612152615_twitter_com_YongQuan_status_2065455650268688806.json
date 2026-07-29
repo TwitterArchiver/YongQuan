@@ -1,0 +1,788 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      }
+    ],
+    "conversation_id": "2065335796702257257",
+    "created_at": "2026-06-12T15:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455650268688806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "288074896",
+          "start": 0,
+          "username": "T1LoL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 30,
+          "expanded_url": "https://x.com/yongquan/status/2065454910062117130?s=46",
+          "start": 7,
+          "url": "https://t.co/zMnRXXXDc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455650268688806",
+    "in_reply_to_user_id": "288074896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065454910062117130",
+        "type": "quoted"
+      },
+      {
+        "id": "2065402910880780483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T1LoL https://t.co/zMnRXXXDc7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2065402706752409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnI0Z4bkAA6r63.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2065335796702257257",
+        "created_at": "2026-06-12T15:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455650268688806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "288074896",
+              "start": 0,
+              "username": "T1LoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 30,
+              "expanded_url": "https://x.com/yongquan/status/2065454910062117130?s=46",
+              "start": 7,
+              "url": "https://t.co/zMnRXXXDc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455650268688806",
+        "in_reply_to_user_id": "288074896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065454910062117130",
+            "type": "quoted"
+          },
+          {
+            "id": "2065402910880780483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T1LoL https://t.co/zMnRXXXDc7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2065454910062117130",
+        "created_at": "2026-06-12T15:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065454910062117130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "T1WIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065454910062117130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "T1WIN"
+              }
+            ]
+          },
+          "text": "#T1WIN \n\nT1’s draft today was honestly way too weird. In game 3, even though they knew Seraphine was still available, they picked Renekton and just gifted the opponent Lee Sin + Seraphine — both strong in the current LCK meta. They had no choice but to try and counter with Galio, but Faker isn’t Chovy. He can’t just blind-pick Galio into anything and still hold his own in lane.\nThen in the last game, picking Azir top into Yone was also really strange. They had no choice but to force bot lane into Aphelios + Thresh, even though it’s obvious Keria doesn’t play Thresh. On top of that, they let the opponent pick Blitzcrank, and no one on T1’s side could deal with the hooks. Hook supports were everywhere throughout the series — did the coach seriously not consider that? In the end they just let the opponent freely draft a comp that can win the game by simply farming CS. If I were a T1 player, I wouldn’t even know how to win that draft.\nThey’re also giving full priority to top/jungle/mid while completely abandoning bot lane. Anyone who’s watched T1’s recent games knows that right now the team needs Keria to step up if they want to win. But their current draft strategy is: give the top laner an early-game strong champion and have mid + jungle play around him. Rumble and Renekton are both examples of this. Bot lane gets ignored in the first round and just picks up scraps in the second round. The opponent can just hard-ban Ashe and Seraphine, and that’s it. In previous series, when bot lane was in this situation they would at least consider something like Lux + Caitlyn or Pyke + Mel. Now they’re just straight-up giving up on bot lane and not even trying."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#T1WIN \n\nT1’s draft today was honestly way too weird. In game 3, even though they knew Seraphine was still available, they picked Renekton and just gifted the opponent Lee Sin + Seraphine — both strong in the current LCK meta. They had no choice but to try and counter with Galio,"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065402706752409600"
+          ]
+        },
+        "author_id": "288074896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2065335796702257257",
+        "created_at": "2026-06-12T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065402910880780483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 118,
+              "tag": "TogetherAs1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8cQMJewL3",
+              "end": 154,
+              "expanded_url": "https://x.com/T1LoL/status/2065402910880780483/photo/1",
+              "media_key": "3_2065402706752409600",
+              "start": 131,
+              "url": "https://t.co/A8cQMJewL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065402910880780483",
+        "in_reply_to_user_id": "288074896",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 155737,
+          "like_count": 1135,
+          "quote_count": 1094,
+          "reply_count": 376,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065335796702257257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[2026 Road to MSI vs HLE]\n\n돌아오는 일요일, 마지막 기회를 반드시 잡겠습니다.\nThis Sunday, we will seize our final chance no matter what. \n\n#TogetherAs1 https://t.co/A8cQMJewL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10617,
+          "following_count": 4535,
+          "like_count": 49901,
+          "listed_count": 34,
+          "media_count": 4216,
+          "tweet_count": 14118
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-26T06:01:59.000Z",
+        "description": "The Official X Page of T1 League of Legends 📩: info@t1.gg 🔗: https://t.co/9LWmRqr3jt #TogetherAs1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 85,
+                "tag": "TogetherAs1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "litt.ly/t1esports",
+                "end": 84,
+                "expanded_url": "https://litt.ly/t1esports",
+                "start": 61,
+                "url": "https://t.co/9LWmRqr3jt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t1.gg",
+                "end": 23,
+                "expanded_url": "http://t1.gg",
+                "start": 0,
+                "url": "https://t.co/PZioYT775R"
+              }
+            ]
+          }
+        },
+        "id": "288074896",
+        "location": "Seoul.Korea",
+        "name": "T1 LoL",
+        "pinned_tweet_id": "2058863095578034473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008102129345642497/SxpS8bdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167393,
+          "following_count": 44,
+          "like_count": 1983,
+          "listed_count": 1890,
+          "media_count": 13206,
+          "tweet_count": 20691
+        },
+        "url": "https://t.co/PZioYT775R",
+        "username": "T1LoL",
+        "verified": true
+      }
+    ]
+  }
+}

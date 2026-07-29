@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067972565516308793",
+    "created_at": "2026-06-20T00:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068128985712570723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1554936634139090944",
+          "start": 0,
+          "username": "tukesiwomenzou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068128985712570723",
+    "in_reply_to_user_id": "1554936634139090944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067972565516308793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tukesiwomenzou1 竞圈这种 头部战队不搞饭圈化那俱乐部的收入还是太少了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067972565516308793",
+        "created_at": "2026-06-20T00:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068128985712570723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1554936634139090944",
+              "start": 0,
+              "username": "tukesiwomenzou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068128985712570723",
+        "in_reply_to_user_id": "1554936634139090944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067972565516308793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tukesiwomenzou1 竞圈这种 头部战队不搞饭圈化那俱乐部的收入还是太少了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554936634139090944",
+        "conversation_id": "2067972565516308793",
+        "created_at": "2026-06-19T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067972565516308793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067972565516308793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19057,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真是求了别把追星那一套带到电竞圈来行不行，lol也是现在瓦也是真让人恶心啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10701,
+          "following_count": 4601,
+          "like_count": 51118,
+          "listed_count": 35,
+          "media_count": 4430,
+          "tweet_count": 14681
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T21:06:08.000Z",
+        "description": "我本就是最干净纯粹光明正大的存在",
+        "id": "1554936634139090944",
+        "location": "距你-1m",
+        "name": "Coconut",
+        "pinned_tweet_id": "2055634228990394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889040074643513344/08Ciy0ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 77,
+          "like_count": 7218,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "tukesiwomenzou1",
+        "verified": false
+      }
+    ]
+  }
+}

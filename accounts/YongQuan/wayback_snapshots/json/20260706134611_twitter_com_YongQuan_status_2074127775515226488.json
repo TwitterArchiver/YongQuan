@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      }
+    ],
+    "conversation_id": "2073658998457614807",
+    "created_at": "2026-07-06T13:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074127775515226488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        },
+        {
+          "end": 25,
+          "id": "1175210745224736768",
+          "start": 11,
+          "username": "FelipeVillas7"
+        },
+        {
+          "end": 35,
+          "id": "1443345798402506756",
+          "start": 26,
+          "username": "tttttyuc"
+        },
+        {
+          "end": 52,
+          "id": "1028508123290431488",
+          "start": 39,
+          "username": "TOP_Esports_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074127775515226488",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074126404028187094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukmoon97 @FelipeVillas7 @tttttyuc 不是 @TOP_Esports_ 出局了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          }
+        ],
+        "conversation_id": "2073658998457614807",
+        "created_at": "2026-07-06T13:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074127775515226488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            },
+            {
+              "end": 25,
+              "id": "1175210745224736768",
+              "start": 11,
+              "username": "FelipeVillas7"
+            },
+            {
+              "end": 35,
+              "id": "1443345798402506756",
+              "start": 26,
+              "username": "tttttyuc"
+            },
+            {
+              "end": 52,
+              "id": "1028508123290431488",
+              "start": 39,
+              "username": "TOP_Esports_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074127775515226488",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074126404028187094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukmoon97 @FelipeVillas7 @tttttyuc 不是 @TOP_Esports_ 出局了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "conversation_id": "2073658998457614807",
+        "created_at": "2026-07-06T13:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074126404028187094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 24,
+              "id": "1175210745224736768",
+              "start": 10,
+              "username": "FelipeVillas7"
+            },
+            {
+              "end": 34,
+              "id": "1443345798402506756",
+              "start": 25,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074126404028187094",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074122573072482731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @FelipeVillas7 @tttttyuc 巴西出局了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11052,
+          "following_count": 4702,
+          "like_count": 51872,
+          "listed_count": 37,
+          "media_count": 4860,
+          "tweet_count": 15526
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 前 #伪娘｜现 #跨性别 女 ｜#AI + #Office 初心者 🌸 Fmr #crossdresser #CD｜Curr #MtF #transgender #TS｜AI+Office beginner 🌸 元 #女装子｜今や #ニューハーフ ｜AI+Office 初心者 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "伪娘"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "跨性别"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Office"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "CD"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "MtF"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "transgender"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "TS"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "女装子"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2071829726910619815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7126,
+          "following_count": 6283,
+          "like_count": 103392,
+          "listed_count": 7,
+          "media_count": 2000,
+          "tweet_count": 18030
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-21T00:51:01.000Z",
+        "description": "Fã de MMA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/DelVilla",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/DelVilla",
+                "start": 0,
+                "url": "https://t.co/m9H2Pu1RFQ"
+              }
+            ]
+          }
+        },
+        "id": "1175210745224736768",
+        "location": "Void",
+        "name": "Villas",
+        "pinned_tweet_id": "1983924682328879311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030516474985447424/b-4y80rN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1706,
+          "like_count": 364032,
+          "listed_count": 0,
+          "media_count": 1423,
+          "tweet_count": 44988
+        },
+        "url": "https://t.co/m9H2Pu1RFQ",
+        "username": "FelipeVillas7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T22:44:04.000Z",
+        "description": "CN/EN, 22JDG/23BLG/ZOFGK/23OMG, LEC LCS enjoyer, She/her/hers",
+        "id": "1443345798402506756",
+        "name": "Yuuu - lifeitsfkingmove",
+        "pinned_tweet_id": "2071762625860645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987675060681973760/peun9lwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16744,
+          "following_count": 664,
+          "like_count": 95448,
+          "listed_count": 54,
+          "media_count": 8507,
+          "tweet_count": 51132
+        },
+        "url": "",
+        "username": "tttttyuc",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-12T05:07:00.000Z",
+        "description": "Official Twitter Account for TOP ESPORTS (TES) 滔搏电子竞技俱乐部官方推特账号 Follow us on Instagram:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/topesports_off…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/topesports_official/",
+                "start": 0,
+                "url": "https://t.co/DmMz3R7fRC"
+              }
+            ]
+          }
+        },
+        "id": "1028508123290431488",
+        "name": "TOPESPORTS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446269609508864/vMvSU06r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54118,
+          "following_count": 131,
+          "like_count": 749,
+          "listed_count": 317,
+          "media_count": 1069,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/DmMz3R7fRC",
+        "username": "TOP_Esports_",
+        "verified": false
+      }
+    ]
+  }
+}

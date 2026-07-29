@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062883930689392877",
+    "created_at": "2026-06-06T03:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063100081369383286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063100081369383286",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063100046879641787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062883930689392877",
+        "created_at": "2026-06-06T03:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063100081369383286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063100081369383286",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063100046879641787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243491753019101184",
+        "conversation_id": "2062883930689392877",
+        "created_at": "2026-06-06T03:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063100046879641787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063100046879641787",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063099690066100567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 回关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10493,
+          "following_count": 4496,
+          "like_count": 48782,
+          "listed_count": 31,
+          "media_count": 4040,
+          "tweet_count": 13730
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "14年校园霸凌亲历者｜反一切压迫剥削｜民主社会主义｜最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜反对废除死刑｜支持严肃处刑毒贩｜顺直丨非被迫不销号，欢迎互fo，记得私信",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "pinned_tweet_id": "2062883930689392877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058166498984939520/dMcDyeOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 159,
+          "like_count": 5914,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2596
+        },
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057271382090842539",
+    "created_at": "2026-05-21T04:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057310664419680600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "870584023587766274",
+          "start": 0,
+          "username": "CangerStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057310664419680600",
+    "in_reply_to_user_id": "870584023587766274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057290161562800539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CangerStar 天眼是8个人一个包厢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057271382090842539",
+        "created_at": "2026-05-21T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057310664419680600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "870584023587766274",
+              "start": 0,
+              "username": "CangerStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057310664419680600",
+        "in_reply_to_user_id": "870584023587766274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057290161562800539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CangerStar 天眼是8个人一个包厢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "870584023587766274",
+        "conversation_id": "2057271382090842539",
+        "created_at": "2026-05-21T02:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057290161562800539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057290161562800539",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057271382090842539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 会和自己没兴趣的人单独坐摩天轮吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9936,
+          "following_count": 4324,
+          "like_count": 46452,
+          "listed_count": 30,
+          "media_count": 3573,
+          "tweet_count": 12697
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-02T10:13:00.000Z",
+        "description": "",
+        "id": "870584023587766274",
+        "location": "无处不在",
+        "name": "慢鱼小饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718595865902993408/4CZL6zm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 99,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "CangerStar",
+        "verified": false
+      }
+    ]
+  }
+}

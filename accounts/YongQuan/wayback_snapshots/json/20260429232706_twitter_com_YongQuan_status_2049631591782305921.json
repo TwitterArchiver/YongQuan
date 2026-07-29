@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049490913429512192"
+      ],
+      "media_source_tweet_id": [
+        "2049490924850323498"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2049631591782305921",
+    "created_at": "2026-04-29T23:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049631591782305921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893167873209856000",
+          "start": 3,
+          "username": "mxyzcdb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7qdhdXDs4",
+          "end": 62,
+          "expanded_url": "https://x.com/mxyzcdb/status/2049490924850323498/photo/1",
+          "media_key": "3_2049490913429512192",
+          "start": 39,
+          "url": "https://t.co/R7qdhdXDs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049631591782305921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049490924850323498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mxyzcdb: 论我为什么讨厌\n我说的话是一句不理\n专程恶心我来了 https://t.co/R7qdhdXDs4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2049490913429512192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFBIIlbYAAnMa2.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049490913429512192"
+          ],
+          "media_source_tweet_id": [
+            "2049490924850323498"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2049631591782305921",
+        "created_at": "2026-04-29T23:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049631591782305921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893167873209856000",
+              "start": 3,
+              "username": "mxyzcdb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7qdhdXDs4",
+              "end": 62,
+              "expanded_url": "https://x.com/mxyzcdb/status/2049490924850323498/photo/1",
+              "media_key": "3_2049490913429512192",
+              "start": 39,
+              "url": "https://t.co/R7qdhdXDs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049631591782305921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049490924850323498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mxyzcdb: 论我为什么讨厌\n我说的话是一句不理\n专程恶心我来了 https://t.co/R7qdhdXDs4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049490913429512192"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2049490924850323498",
+        "created_at": "2026-04-29T14:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049490924850323498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7qdhdXDs4",
+              "end": 49,
+              "expanded_url": "https://x.com/mxyzcdb/status/2049490924850323498/photo/1",
+              "media_key": "3_2049490913429512192",
+              "start": 26,
+              "url": "https://t.co/R7qdhdXDs4"
+            },
+            {
+              "display_url": "x.com/teamrain_2024/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/teamrain_2024/status/2049481141309284487",
+              "start": 50,
+              "url": "https://t.co/4I66ifAYrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049490924850323498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1885,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049481141309284487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "论我为什么讨厌\n我说的话是一句不理\n专程恶心我来了 https://t.co/R7qdhdXDs4 https://t.co/4I66ifAYrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9198,
+          "following_count": 4165,
+          "like_count": 43540,
+          "listed_count": 28,
+          "media_count": 3018,
+          "tweet_count": 11382
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q3uqu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2048978988438011994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 365,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/rpnd1q3uqu",
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

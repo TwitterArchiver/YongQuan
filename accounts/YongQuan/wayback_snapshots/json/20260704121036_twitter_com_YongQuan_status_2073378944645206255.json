@@ -1,0 +1,664 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219791229052829696",
+          "name": "League of Legends Pro League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219791229052829696",
+          "name": "League of Legends Pro League"
+        }
+      }
+    ],
+    "conversation_id": "2073361847508459973",
+    "created_at": "2026-07-04T12:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073378944645206255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "944091487817539584",
+          "start": 0,
+          "username": "lplenglish"
+        },
+        {
+          "end": 27,
+          "id": "1466606036647772165",
+          "start": 12,
+          "username": "BilibiliGaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073378944645206255",
+    "in_reply_to_user_id": "944091487817539584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "真是拿你没办法，坐好了！在这场万众瞩目的BLG对阵T1的BO5巅峰对决中，BLG最终以3-2的比分惊险拿下胜利，时隔777天再次在国际赛场击败T1。而这场荡气回肠的胜利背后，Xun在决胜局掏出的绝活千珏，绝对是神一般的存在！\n决胜局中，Xun的千珏从开局就展现了恐怖的统治力，完美诠释了什么是极致的打野节奏。前期他不仅在野区疯狂发育，更是精准控到了整整七层印记，将千珏的印记机制利用到了极致。面对Oner巨魔的入侵，他不仅没有退缩，反而利用大招极限拉扯，配合队友支援完成反杀拿下一血，直接将T1的野区撕开了一道巨大的缺口。\n随着比赛进入中后期，Xun的千珏已经化作一头无法阻挡的野兽。在关键的大龙团战中，T1试图偷龙扭转局势，却被BLG敏锐察觉。Xun不仅果断进场抢下大龙，更配合队友打出0换4的毁灭性团战，顺势收下土龙魂。在随后的高地决战中，多兰的小纳尔甚至无法承受Xun千珏的火力，见面即被融化。最终，BLG大军压境强拆基地，而Xun也以3/0/6的完美战绩、90%的超高参团率，毫无悬念地斩获了决胜局MVP。他用一场游龙般的表现，彻底打穿了T1的防线，堪称BLG赢下比赛的最大功臣！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073361847508459973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lplenglish @BilibiliGaming 真是拿你没办法，坐好了！在这场万众瞩目的BLG对阵T1的BO5巅峰对决中，BLG最终以3-2的比分惊险拿下胜利，时隔777天再次在国际赛场击败T1。而这场荡气回肠的胜利背后，Xun在决胜局掏出的绝活千珏，绝对是神一般的存在！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073361325581803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYPI_ZWIAA9D4H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          }
+        ],
+        "conversation_id": "2073361847508459973",
+        "created_at": "2026-07-04T12:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073378944645206255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "944091487817539584",
+              "start": 0,
+              "username": "lplenglish"
+            },
+            {
+              "end": 27,
+              "id": "1466606036647772165",
+              "start": 12,
+              "username": "BilibiliGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073378944645206255",
+        "in_reply_to_user_id": "944091487817539584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真是拿你没办法，坐好了！在这场万众瞩目的BLG对阵T1的BO5巅峰对决中，BLG最终以3-2的比分惊险拿下胜利，时隔777天再次在国际赛场击败T1。而这场荡气回肠的胜利背后，Xun在决胜局掏出的绝活千珏，绝对是神一般的存在！\n决胜局中，Xun的千珏从开局就展现了恐怖的统治力，完美诠释了什么是极致的打野节奏。前期他不仅在野区疯狂发育，更是精准控到了整整七层印记，将千珏的印记机制利用到了极致。面对Oner巨魔的入侵，他不仅没有退缩，反而利用大招极限拉扯，配合队友支援完成反杀拿下一血，直接将T1的野区撕开了一道巨大的缺口。\n随着比赛进入中后期，Xun的千珏已经化作一头无法阻挡的野兽。在关键的大龙团战中，T1试图偷龙扭转局势，却被BLG敏锐察觉。Xun不仅果断进场抢下大龙，更配合队友打出0换4的毁灭性团战，顺势收下土龙魂。在随后的高地决战中，多兰的小纳尔甚至无法承受Xun千珏的火力，见面即被融化。最终，BLG大军压境强拆基地，而Xun也以3/0/6的完美战绩、90%的超高参团率，毫无悬念地斩获了决胜局MVP。他用一场游龙般的表现，彻底打穿了T1的防线，堪称BLG赢下比赛的最大功臣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073361847508459973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lplenglish @BilibiliGaming 真是拿你没办法，坐好了！在这场万众瞩目的BLG对阵T1的BO5巅峰对决中，BLG最终以3-2的比分惊险拿下胜利，时隔777天再次在国际赛场击败T1。而这场荡气回肠的胜利背后，Xun在决胜局掏出的绝活千珏，绝对是神一般的存在！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073361325581803520"
+          ]
+        },
+        "author_id": "944091487817539584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          }
+        ],
+        "conversation_id": "2073361847508459973",
+        "created_at": "2026-07-04T11:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073361847508459973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W59ZE01Xs8",
+              "end": 96,
+              "expanded_url": "https://x.com/lplenglish/status/2073361847508459973/photo/1",
+              "media_key": "3_2073361325581803520",
+              "start": 73,
+              "url": "https://t.co/W59ZE01Xs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073361847508459973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2476,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "XUN \n\nTurns past regrets into a shot toward the future 🎯\n\nCALL YOUR SHOT https://t.co/W59ZE01Xs8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11050,
+          "following_count": 4696,
+          "like_count": 51699,
+          "listed_count": 37,
+          "media_count": 4807,
+          "tweet_count": 15429
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-22T06:25:25.000Z",
+        "description": "The official Twitter for the #LPL┃YouTube: LPL┃Twitch: LPL┃Instagram: lpl.official. Find schedule at: https://t.co/dscbajw2Iu…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "LPL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lolesports.com/schedule?leagu",
+                "end": 125,
+                "expanded_url": "http://lolesports.com/schedule?leagu",
+                "start": 102,
+                "url": "https://t.co/dscbajw2Iu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/lpl",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/lpl",
+                "start": 0,
+                "url": "https://t.co/taERuZzmL9"
+              }
+            ]
+          }
+        },
+        "id": "944091487817539584",
+        "location": "Shanghai Hongqiao World IE Hub",
+        "name": "LPL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070096423098441728/wSD_R1na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246829,
+          "following_count": 201,
+          "like_count": 3487,
+          "listed_count": 779,
+          "media_count": 15503,
+          "tweet_count": 18556
+        },
+        "url": "https://t.co/taERuZzmL9",
+        "username": "lplenglish",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T03:12:10.000Z",
+        "description": "Cheers for the faith ll #BLGWIN ll All about Bilibili Gaming \nContacts: https://t.co/VXMoCCkPGo \nBusiness: BLG_BD@bilibili.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "BLGWIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5926660141",
+                "end": 95,
+                "expanded_url": "http://weibo.com/u/5926660141",
+                "start": 72,
+                "url": "https://t.co/VXMoCCkPGo"
+              }
+            ]
+          }
+        },
+        "id": "1466606036647772165",
+        "location": "Shanghai, China",
+        "name": "Bilibili Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468849720625795074/72hzL5e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43797,
+          "following_count": 48,
+          "like_count": 118,
+          "listed_count": 112,
+          "media_count": 821,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "BilibiliGaming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065423074670059712",
+    "created_at": "2026-06-12T23:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065577190909964729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021630560041611264",
+          "start": 0,
+          "username": "sabr94162"
+        },
+        {
+          "end": 23,
+          "id": "1422490726022074378",
+          "start": 11,
+          "username": "HupuEsports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065577190909964729",
+    "in_reply_to_user_id": "2021630560041611264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065576726525362356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sabr94162 @HupuEsports 哇 还有MSI冠不如S冠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065423074670059712",
+        "created_at": "2026-06-12T23:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065577190909964729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021630560041611264",
+              "start": 0,
+              "username": "sabr94162"
+            },
+            {
+              "end": 23,
+              "id": "1422490726022074378",
+              "start": 11,
+              "username": "HupuEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065577190909964729",
+        "in_reply_to_user_id": "2021630560041611264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065576726525362356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sabr94162 @HupuEsports 哇 还有MSI冠不如S冠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021630560041611264",
+        "conversation_id": "2065423074670059712",
+        "created_at": "2026-06-12T23:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065576726525362356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 22,
+              "id": "1422490726022074378",
+              "start": 10,
+              "username": "HupuEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065576726525362356",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065448476448628770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @HupuEsports 然后拿了几个MSI呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10618,
+          "following_count": 4535,
+          "like_count": 49917,
+          "listed_count": 34,
+          "media_count": 4225,
+          "tweet_count": 14134
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T17:01:18.000Z",
+        "description": "",
+        "id": "2021630560041611264",
+        "name": "Lilian Sabri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021630638479355909/-t1duIHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "sabr94162",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T09:33:27.000Z",
+        "description": "Esports media coverage from China, focusing on League of Legends (for now)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gg.hupu.com",
+                "end": 23,
+                "expanded_url": "https://gg.hupu.com/",
+                "start": 0,
+                "url": "https://t.co/WV2rsy9ldJ"
+              }
+            ]
+          }
+        },
+        "id": "1422490726022074378",
+        "name": "HUPU Esports",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422491093157834752/i6hzbPj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43243,
+          "following_count": 561,
+          "like_count": 3103,
+          "listed_count": 101,
+          "media_count": 3966,
+          "tweet_count": 5731
+        },
+        "url": "https://t.co/WV2rsy9ldJ",
+        "username": "HupuEsports",
+        "verified": false
+      }
+    ]
+  }
+}

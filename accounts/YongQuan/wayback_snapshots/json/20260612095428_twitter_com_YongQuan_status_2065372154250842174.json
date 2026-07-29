@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065372142548746240"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065372154250842174",
+    "created_at": "2026-06-12T09:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065372154250842174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1368897611672018953",
+          "start": 5,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 64,
+          "id": "1285050175266799616",
+          "start": 60,
+          "username": "LCK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyUGEOVzEL",
+          "end": 303,
+          "expanded_url": "https://x.com/YongQuan/status/2065372154250842174/photo/1",
+          "media_key": "3_2065372142548746240",
+          "start": 280,
+          "url": "https://t.co/iyUGEOVzEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065372154250842174",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 409,
+            "start": 405,
+            "tag": "LCK"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1368897611672018953",
+            "start": 5,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 64,
+            "id": "1285050175266799616",
+            "start": 60,
+            "username": "LCK"
+          }
+        ]
+      },
+      "text": "When @XUEQIUxka left me alone in Hangzhou, I chose to watch @LCK.\nAlright, serious talk.\nOner was insane in game 1.\nHe kept ganking top and mid, fattening up Ryze and Jayce super nicely.\nOut of T1’s four young players, the only ones who have shown real achievements without Faker are Gumayusi and Zeus.\nThe jungler and support are mistaking the team’s platform for their own personal skill.\nDo you agree?\n#LCK"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "When @XUEQIUxka left me alone in Hangzhou, I chose to watch @LCK.\nAlright, serious talk.\nOner was insane in game 1.\nHe kept ganking top and mid, fattening up Ryze and Jayce super nicely.\nOut of T1’s four young players, the only ones who have shown real achievements without Faker https://t.co/iyUGEOVzEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2065372142548746240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmtBVWbAAAoen2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065372142548746240"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065372154250842174",
+        "created_at": "2026-06-12T09:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065372154250842174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 64,
+              "id": "1285050175266799616",
+              "start": 60,
+              "username": "LCK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyUGEOVzEL",
+              "end": 303,
+              "expanded_url": "https://x.com/YongQuan/status/2065372154250842174/photo/1",
+              "media_key": "3_2065372142548746240",
+              "start": 280,
+              "url": "https://t.co/iyUGEOVzEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065372154250842174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 409,
+                "start": 405,
+                "tag": "LCK"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "id": "1368897611672018953",
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 64,
+                "id": "1285050175266799616",
+                "start": 60,
+                "username": "LCK"
+              }
+            ]
+          },
+          "text": "When @XUEQIUxka left me alone in Hangzhou, I chose to watch @LCK.\nAlright, serious talk.\nOner was insane in game 1.\nHe kept ganking top and mid, fattening up Ryze and Jayce super nicely.\nOut of T1’s four young players, the only ones who have shown real achievements without Faker are Gumayusi and Zeus.\nThe jungler and support are mistaking the team’s platform for their own personal skill.\nDo you agree?\n#LCK"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "When @XUEQIUxka left me alone in Hangzhou, I chose to watch @LCK.\nAlright, serious talk.\nOner was insane in game 1.\nHe kept ganking top and mid, fattening up Ryze and Jayce super nicely.\nOut of T1’s four young players, the only ones who have shown real achievements without Faker https://t.co/iyUGEOVzEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10621,
+          "following_count": 4538,
+          "like_count": 49852,
+          "listed_count": 32,
+          "media_count": 4208,
+          "tweet_count": 14081
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9060,
+          "following_count": 2386,
+          "like_count": 31726,
+          "listed_count": 25,
+          "media_count": 1903,
+          "tweet_count": 5978
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-20T03:13:56.000Z",
+        "description": "Official Global Twitter of #LCK l Youtube: LCK Global, Twitch: LCK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "LCK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/LCKglobal",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/LCKglobal",
+                "start": 0,
+                "url": "https://t.co/3qUfKWYrCR"
+              }
+            ]
+          }
+        },
+        "id": "1285050175266799616",
+        "location": "South Korea",
+        "name": "LCK",
+        "pinned_tweet_id": "2063615520340168717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037384095341408256/c-TXNz7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364324,
+          "following_count": 123,
+          "like_count": 368,
+          "listed_count": 710,
+          "media_count": 9876,
+          "tweet_count": 14373
+        },
+        "url": "https://t.co/3qUfKWYrCR",
+        "username": "LCK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067466978839908799",
+    "created_at": "2026-06-19T14:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067980254170210723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757832018845708290",
+          "start": 0,
+          "username": "HY_SundiFavor"
+        },
+        {
+          "end": 31,
+          "id": "1614421186334851075",
+          "start": 15,
+          "username": "HoneyWhiteCloud"
+        },
+        {
+          "end": 43,
+          "id": "69546024",
+          "start": 32,
+          "username": "moreoronce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067980254170210723",
+    "in_reply_to_user_id": "1757832018845708290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067979804021030921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HY_SundiFavor @HoneyWhiteCloud @moreoronce B站的卡确实是有3个月大会员的活动 这个是一直都在的\n据我所知 天津很多支行以前是有存款送礼的 但是现在很多支行砍掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067466978839908799",
+        "created_at": "2026-06-19T14:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067980254170210723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757832018845708290",
+              "start": 0,
+              "username": "HY_SundiFavor"
+            },
+            {
+              "end": 31,
+              "id": "1614421186334851075",
+              "start": 15,
+              "username": "HoneyWhiteCloud"
+            },
+            {
+              "end": 43,
+              "id": "69546024",
+              "start": 32,
+              "username": "moreoronce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980254170210723",
+        "in_reply_to_user_id": "1757832018845708290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067979804021030921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY_SundiFavor @HoneyWhiteCloud @moreoronce B站的卡确实是有3个月大会员的活动 这个是一直都在的\n据我所知 天津很多支行以前是有存款送礼的 但是现在很多支行砍掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757832018845708290",
+        "conversation_id": "2067466978839908799",
+        "created_at": "2026-06-19T14:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067979804021030921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 26,
+              "id": "1614421186334851075",
+              "start": 10,
+              "username": "HoneyWhiteCloud"
+            },
+            {
+              "end": 38,
+              "id": "69546024",
+              "start": 27,
+              "username": "moreoronce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067979804021030921",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067978654873772524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @HoneyWhiteCloud @moreoronce 窝的上一位是一个哥哥，他好像是来办那个办卡可以送B站会员的那个活动的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 4594,
+          "like_count": 51088,
+          "listed_count": 35,
+          "media_count": 4418,
+          "tweet_count": 14644
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T18:20:30.000Z",
+        "description": "逐渐淡推 ing……Play：WOT/WT＆cs2＆Minecraft＆大部分游戏，还有……推止于推\n\n梦想：等以后有钱了，就在荒郊野岭盖一个彩钢房，然后买一屋子液化气罐，全都打开，坐在里面…BOOOOM，这样应该也没有痛苦，也不会炸到别人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/108125866",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/108125866",
+                "start": 0,
+                "url": "https://t.co/kDjlX17AID"
+              }
+            ]
+          }
+        },
+        "id": "1757832018845708290",
+        "location": "被困在时钟里的时锺",
+        "name": "时锺时钟",
+        "pinned_tweet_id": "1993305226213048430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848274418218483712/P14KZGo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1477,
+          "like_count": 12757,
+          "listed_count": 1,
+          "media_count": 489,
+          "tweet_count": 5267
+        },
+        "url": "https://t.co/kDjlX17AID",
+        "username": "HY_SundiFavor",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T00:36:43.000Z",
+        "description": "From台灣新北🇹🇼 | 上海讀書📖 | Furry | IT/Hardware/AI👨‍💻/Photographer📷 | 現居蘇州 | 私信🆗 | 🔜TKU人工智慧 | 裡推：@cloudbackside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "cloudbackside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywhite.cloud",
+                "end": 23,
+                "expanded_url": "http://www.honeywhite.cloud",
+                "start": 0,
+                "url": "https://t.co/lMq73qdn9N"
+              }
+            ]
+          }
+        },
+        "id": "1614421186334851075",
+        "location": "Suzhou ↔️ New Taipei",
+        "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙｜🌈⛅️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999008985089978369/HM_dxqhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 1429,
+          "like_count": 98051,
+          "listed_count": 2,
+          "media_count": 1950,
+          "tweet_count": 13673
+        },
+        "url": "https://t.co/lMq73qdn9N",
+        "username": "HoneyWhiteCloud",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-28T09:13:13.000Z",
+        "description": "自我迭代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeprouter.org",
+                "end": 23,
+                "expanded_url": "https://deeprouter.org",
+                "start": 0,
+                "url": "https://t.co/JP4wgQA4FJ"
+              }
+            ]
+          }
+        },
+        "id": "69546024",
+        "name": "Lex Parsimoniae🚲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011250033107365888/ziB0RGqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 396,
+          "like_count": 1871,
+          "listed_count": 16,
+          "media_count": 1564,
+          "tweet_count": 49178
+        },
+        "url": "https://t.co/JP4wgQA4FJ",
+        "username": "moreoronce",
+        "verified": true
+      }
+    ]
+  }
+}

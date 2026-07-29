@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055257495300428211",
+    "created_at": "2026-05-15T13:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055282192138346623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "XldMtX"
+        },
+        {
+          "end": 56,
+          "id": "1368897611672018953",
+          "start": 46,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055282192138346623",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055260393136955605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldMtX 我他妈也好奇啊\n不是早轻改电了吗哪来的轻RE45\n\n那天我能在APEX里看到@XUEQIUxka我都不奇怪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055257495300428211",
+        "created_at": "2026-05-15T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055282192138346623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "XldMtX"
+            },
+            {
+              "end": 56,
+              "id": "1368897611672018953",
+              "start": 46,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055282192138346623",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055260393136955605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldMtX 我他妈也好奇啊\n不是早轻改电了吗哪来的轻RE45\n\n那天我能在APEX里看到@XUEQIUxka我都不奇怪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2055257495300428211",
+        "created_at": "2026-05-15T12:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055260393136955605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055260393136955605",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257495300428211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9800,
+          "following_count": 4253,
+          "like_count": 45467,
+          "listed_count": 30,
+          "media_count": 3409,
+          "tweet_count": 12276
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Allenium114"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Allenium114"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Allenium114"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Allenium114"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Allenium114"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Allenium114"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Allenium114"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Allenium114"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Allenium114"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7185,
+          "following_count": 1016,
+          "like_count": 53989,
+          "listed_count": 12,
+          "media_count": 3549,
+          "tweet_count": 29975
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8433,
+          "following_count": 2205,
+          "like_count": 29703,
+          "listed_count": 26,
+          "media_count": 1405,
+          "tweet_count": 5133
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052573953718452271",
+    "created_at": "2026-05-08T06:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052638306161074528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052638306161074528",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052573953718452271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 可是我没钱的时候真的会吃这种……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052302241399484416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs-A9ZasAAPEUM.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052573953718452271",
+        "created_at": "2026-05-08T06:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052638306161074528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052638306161074528",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052573953718452271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 可是我没钱的时候真的会吃这种……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052302241399484416"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2052573953718452271",
+        "created_at": "2026-05-08T02:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052573953718452271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtbfsxjaMc",
+              "end": 35,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052573953718452271/photo/1",
+              "media_key": "3_2052302241399484416",
+              "start": 12,
+              "url": "https://t.co/NtbfsxjaMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052573953718452271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 104240,
+          "like_count": 339,
+          "quote_count": 1,
+          "reply_count": 109,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "两个母亲都爱自己的孩子 https://t.co/NtbfsxjaMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9470,
+          "following_count": 4203,
+          "like_count": 44754,
+          "listed_count": 28,
+          "media_count": 3232,
+          "tweet_count": 11847
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8246,
+          "following_count": 2186,
+          "like_count": 29051,
+          "listed_count": 26,
+          "media_count": 1202,
+          "tweet_count": 4822
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

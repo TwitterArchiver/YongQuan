@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059950370764496896"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059940008425865436",
+    "created_at": "2026-05-28T10:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059950383053910226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "992498473881698304",
+          "start": 0,
+          "username": "esporincom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2i1PCrP5zV",
+          "end": 39,
+          "expanded_url": "https://x.com/YongQuan/status/2059950383053910226/photo/1",
+          "media_key": "3_2059950370764496896",
+          "start": 16,
+          "url": "https://t.co/2i1PCrP5zV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059950383053910226",
+    "in_reply_to_user_id": "992498473881698304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059940008425865436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@esporincom LBL https://t.co/2i1PCrP5zV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2059950370764496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZp8rhaIAAsYvZ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 683,
+        "media_key": "3_2059939296765784067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZf4FqXsAMFiYX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059950370764496896"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059940008425865436",
+        "created_at": "2026-05-28T10:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059950383053910226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "992498473881698304",
+              "start": 0,
+              "username": "esporincom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2i1PCrP5zV",
+              "end": 39,
+              "expanded_url": "https://x.com/YongQuan/status/2059950383053910226/photo/1",
+              "media_key": "3_2059950370764496896",
+              "start": 16,
+              "url": "https://t.co/2i1PCrP5zV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059950383053910226",
+        "in_reply_to_user_id": "992498473881698304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059940008425865436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esporincom LBL https://t.co/2i1PCrP5zV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059939296765784067"
+          ]
+        },
+        "author_id": "992498473881698304",
+        "conversation_id": "2059940008425865436",
+        "created_at": "2026-05-28T10:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059940008425865436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "LPL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5ULqnlmnA",
+              "end": 222,
+              "expanded_url": "https://x.com/esporincom/status/2059940008425865436/photo/1",
+              "media_key": "3_2059939296765784067",
+              "start": 199,
+              "url": "https://t.co/J5ULqnlmnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059940008425865436",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1690,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#LPL Split 2’de sezonun en iyi beşlisi belli oldu!\n\nLPL tarihinde ilk kez sezonun en iyi beşlisindeki tüm oyuncular aynı takımdan seçildi.\n\n🇨🇳 BLG Bin\n🇨🇳 BLG Xun\n🇨🇳 BLG Knight\n🇰🇷 BLG Viper\n🇨🇳 BLG ON https://t.co/J5ULqnlmnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10126,
+          "following_count": 4410,
+          "like_count": 47750,
+          "listed_count": 30,
+          "media_count": 3816,
+          "tweet_count": 13243
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-04T20:17:30.000Z",
+        "description": "Espor haber hapı 💊 \n\n📩info@esporin.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esporincom/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esporincom/",
+                "start": 0,
+                "url": "https://t.co/ndGw3CC7pa"
+              }
+            ]
+          }
+        },
+        "id": "992498473881698304",
+        "name": "Esporin",
+        "pinned_tweet_id": "2059288462143209609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670164578926247937/mUGiYCk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73945,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 103,
+          "media_count": 19304,
+          "tweet_count": 24329
+        },
+        "url": "https://t.co/ndGw3CC7pa",
+        "username": "esporincom",
+        "verified": true
+      }
+    ]
+  }
+}

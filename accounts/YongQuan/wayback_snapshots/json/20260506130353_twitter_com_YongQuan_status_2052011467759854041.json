@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051988157168861522",
+    "created_at": "2026-05-06T13:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052011467759854041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476579675103117314",
+          "start": 0,
+          "username": "mfanyu17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052011467759854041",
+    "in_reply_to_user_id": "1476579675103117314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052011149810708556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mfanyu17 现在已经想不到别的大家爱看的了🥺\nmeme区饱和了估计接下来可能作战记录之类的赛道会更多一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051988157168861522",
+        "created_at": "2026-05-06T13:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052011467759854041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476579675103117314",
+              "start": 0,
+              "username": "mfanyu17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052011467759854041",
+        "in_reply_to_user_id": "1476579675103117314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052011149810708556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mfanyu17 现在已经想不到别的大家爱看的了🥺\nmeme区饱和了估计接下来可能作战记录之类的赛道会更多一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476579675103117314",
+        "conversation_id": "2051988157168861522",
+        "created_at": "2026-05-06T13:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052011149810708556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052011149810708556",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052003774273872047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 你回本了可以啊，我是遥遥无期啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9455,
+          "following_count": 4198,
+          "like_count": 44408,
+          "listed_count": 28,
+          "media_count": 3185,
+          "tweet_count": 11739
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T15:43:44.000Z",
+        "description": "内容创作者|\n币圈老韭菜|\nBTC 和 SUI狂热爱好者|",
+        "id": "1476579675103117314",
+        "location": "Hino-shi, Tokyo",
+        "name": "FelixMeng",
+        "pinned_tweet_id": "2050943349620871402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050423657802121216/ZkR4znWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 3124,
+          "like_count": 5530,
+          "listed_count": 10,
+          "media_count": 170,
+          "tweet_count": 5246
+        },
+        "username": "mfanyu17",
+        "verified": true
+      }
+    ]
+  }
+}

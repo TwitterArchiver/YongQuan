@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053288087976091722",
+    "created_at": "2026-05-10T01:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053288087976091722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917093346956460032",
+          "start": 3,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053288087976091722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 662
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052659593902543323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Readyt01ove: 我换位思考过了 全他妈是你的错￼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053288087976091722",
+        "created_at": "2026-05-10T01:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053288087976091722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917093346956460032",
+              "start": 3,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053288087976091722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 662
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659593902543323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Readyt01ove: 我换位思考过了 全他妈是你的错￼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917093346956460032",
+        "conversation_id": "2052659593902543323",
+        "created_at": "2026-05-08T07:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052659593902543323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052659593902543323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 117672,
+          "like_count": 4025,
+          "quote_count": 49,
+          "reply_count": 108,
+          "retweet_count": 662
+        },
+        "reply_settings": "everyone",
+        "text": "我换位思考过了 全他妈是你的错￼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka｜Best Team #\n@JDGaming & @BilibiliGaming\n#BLGWin #JDGWin\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "BLGWin"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "JDGWin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "JDGaming"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的 好吃！😋",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9633,
+          "following_count": 4211,
+          "like_count": 44800,
+          "listed_count": 29,
+          "media_count": 3275,
+          "tweet_count": 11948
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T05:47:38.000Z",
+        "description": "痛苦的時候逃避就好了",
+        "id": "1917093346956460032",
+        "name": "痕迹器官",
+        "pinned_tweet_id": "1917199874963177557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995014843167117312/-xOFx6eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 156,
+          "like_count": 6790,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

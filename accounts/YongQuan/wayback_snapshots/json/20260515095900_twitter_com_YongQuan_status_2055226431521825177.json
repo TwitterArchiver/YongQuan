@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055199734768300032"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055226431521825177",
+    "created_at": "2026-05-15T09:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055226431521825177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0z524gbme",
+          "end": 60,
+          "expanded_url": "https://x.com/YongQuan/status/2055226431521825177/photo/1",
+          "media_key": "3_2055199734768300032",
+          "start": 37,
+          "url": "https://t.co/Q0z524gbme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055226431521825177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雷总，给马斯克拍照时候，解锁了面部识别，顺便开通了小米贷 (ૢ˃ꌂ˂⁎) https://t.co/Q0z524gbme"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2055199734768300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWJRRVXcAA8b6J.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055199734768300032"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055226431521825177",
+        "created_at": "2026-05-15T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055226431521825177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0z524gbme",
+              "end": 60,
+              "expanded_url": "https://x.com/YongQuan/status/2055226431521825177/photo/1",
+              "media_key": "3_2055199734768300032",
+              "start": 37,
+              "url": "https://t.co/Q0z524gbme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055226431521825177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷总，给马斯克拍照时候，解锁了面部识别，顺便开通了小米贷 (ૢ˃ꌂ˂⁎) https://t.co/Q0z524gbme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9797,
+          "following_count": 4252,
+          "like_count": 45422,
+          "listed_count": 30,
+          "media_count": 3404,
+          "tweet_count": 12262
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Team WE (Esports)",
+          "id": "927937578497536001",
+          "name": "Team WE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "Team WE (Esports)",
+          "id": "927937578497536001",
+          "name": "Team WE"
+        }
+      }
+    ],
+    "conversation_id": "2063957117040578838",
+    "created_at": "2026-06-09T10:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064297514698944898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866324380273504256",
+          "start": 0,
+          "username": "LPL_english"
+        },
+        {
+          "end": 20,
+          "id": "1105711666556071937",
+          "start": 13,
+          "username": "TeamWE"
+        },
+        {
+          "end": 36,
+          "id": "1466606036647772165",
+          "start": 21,
+          "username": "BilibiliGaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064297514698944898",
+    "in_reply_to_user_id": "1866324380273504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063957117040578838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LPL_english @TeamWE @BilibiliGaming 不尬黑，blg这次真的一穿五的话真有点牛逼的算得上一段传奇之旅了\n不过这五个id是能做得到这种事的，当然当初输we时确实想不到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2063956934701481984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSl5ZSWAAADAYP.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Team WE (Esports)",
+              "id": "927937578497536001",
+              "name": "Team WE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Team WE (Esports)",
+              "id": "927937578497536001",
+              "name": "Team WE"
+            }
+          }
+        ],
+        "conversation_id": "2063957117040578838",
+        "created_at": "2026-06-09T10:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064297514698944898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866324380273504256",
+              "start": 0,
+              "username": "LPL_english"
+            },
+            {
+              "end": 20,
+              "id": "1105711666556071937",
+              "start": 13,
+              "username": "TeamWE"
+            },
+            {
+              "end": 36,
+              "id": "1466606036647772165",
+              "start": 21,
+              "username": "BilibiliGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064297514698944898",
+        "in_reply_to_user_id": "1866324380273504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063957117040578838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LPL_english @TeamWE @BilibiliGaming 不尬黑，blg这次真的一穿五的话真有点牛逼的算得上一段传奇之旅了\n不过这五个id是能做得到这种事的，当然当初输we时确实想不到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063956934701481984"
+          ]
+        },
+        "author_id": "1866324380273504256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Team WE (Esports)",
+              "id": "927937578497536001",
+              "name": "Team WE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Team WE (Esports)",
+              "id": "927937578497536001",
+              "name": "Team WE"
+            }
+          }
+        ],
+        "conversation_id": "2063957117040578838",
+        "created_at": "2026-06-08T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063957117040578838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1105711666556071937",
+              "start": 35,
+              "username": "TeamWE"
+            },
+            {
+              "end": 61,
+              "id": "1466606036647772165",
+              "start": 46,
+              "username": "BilibiliGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxyr18TlPz",
+              "end": 85,
+              "expanded_url": "https://x.com/LPL_english/status/2063957117040578838/photo/1",
+              "media_key": "3_2063956934701481984",
+              "start": 62,
+              "url": "https://t.co/cxyr18TlPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063957117040578838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6781,
+          "like_count": 156,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "It all comes to WE and BLG again \n\n@TeamWE vs @BilibiliGaming https://t.co/cxyr18TlPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10592,
+          "following_count": 4526,
+          "like_count": 49330,
+          "listed_count": 32,
+          "media_count": 4135,
+          "tweet_count": 13907
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T03:29:49.000Z",
+        "description": "The unofficial home for everything @lplenglish. Passion, dedication, and love for the league.\n\nBusiness email: lplenglishunofficial@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "lplenglish"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lplenglish",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lplenglish",
+                "start": 0,
+                "url": "https://t.co/y6SUMWLZAN"
+              }
+            ]
+          }
+        },
+        "id": "1866324380273504256",
+        "name": "LPL English",
+        "pinned_tweet_id": "2061007780174024735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868479335801540608/WC0w8UpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6083,
+          "following_count": 207,
+          "like_count": 2168,
+          "listed_count": 21,
+          "media_count": 5560,
+          "tweet_count": 6777
+        },
+        "url": "https://t.co/y6SUMWLZAN",
+        "username": "LPL_english",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-13T06:06:19.000Z",
+        "description": "The Official Twitter for Team WE. WE电子竞技俱乐部官方推特账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/1869429662",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/1869429662",
+                "start": 0,
+                "url": "https://t.co/Q1RZ5To6TY"
+              }
+            ]
+          }
+        },
+        "id": "1105711666556071937",
+        "location": "Xi'an",
+        "name": "TeamWE_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1105712265892749313/aw-hcXAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9279,
+          "following_count": 48,
+          "like_count": 343,
+          "listed_count": 121,
+          "media_count": 628,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/Q1RZ5To6TY",
+        "username": "TeamWE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T03:12:10.000Z",
+        "description": "Cheers for the faith ll #BLGWIN ll All about Bilibili Gaming \nContacts: https://t.co/VXMoCCkPGo \nBusiness: BLG_BD@bilibili.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "BLGWIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5926660141",
+                "end": 95,
+                "expanded_url": "http://weibo.com/u/5926660141",
+                "start": 72,
+                "url": "https://t.co/VXMoCCkPGo"
+              }
+            ]
+          }
+        },
+        "id": "1466606036647772165",
+        "location": "Shanghai, China",
+        "name": "Bilibili Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468849720625795074/72hzL5e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42883,
+          "following_count": 48,
+          "like_count": 114,
+          "listed_count": 109,
+          "media_count": 813,
+          "tweet_count": 950
+        },
+        "username": "BilibiliGaming",
+        "verified": false
+      }
+    ]
+  }
+}

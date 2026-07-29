@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078876857227739416",
+    "created_at": "2026-07-20T03:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079049352861909113"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 20,
+          "start": 11,
+          "tag": "howmaker"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "410611275",
+          "start": 0,
+          "username": "Fusilero1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079049352861909113",
+    "in_reply_to_user_id": "410611275",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078876857227739416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fusilero1 $howmaker"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078876857227739416",
+        "created_at": "2026-07-20T03:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049352861909113"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "howmaker"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "410611275",
+              "start": 0,
+              "username": "Fusilero1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049352861909113",
+        "in_reply_to_user_id": "410611275",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078876857227739416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fusilero1 $howmaker"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410611275",
+        "conversation_id": "2078876857227739416",
+        "created_at": "2026-07-19T16:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078876857227739416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078876857227739416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 48096,
+          "like_count": 2809,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "Issuing an update to the global rankings\n1. Damwon without money \n2. HLE\n3. BLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11155,
+          "following_count": 4755,
+          "like_count": 52541,
+          "listed_count": 38,
+          "media_count": 5250,
+          "tweet_count": 16148
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-12T09:58:22.000Z",
+        "description": "Crazy new concept: a guy on the internet that likes video games\n\nGBVS: Versusia\nSF6: Luke",
+        "id": "410611275",
+        "name": "Fusilero",
+        "pinned_tweet_id": "682039907565592576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1259555801443840002/aZjDmxqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 640,
+          "like_count": 12198,
+          "listed_count": 21,
+          "media_count": 1727,
+          "tweet_count": 43154
+        },
+        "url": "",
+        "username": "Fusilero1",
+        "verified": false
+      }
+    ]
+  }
+}

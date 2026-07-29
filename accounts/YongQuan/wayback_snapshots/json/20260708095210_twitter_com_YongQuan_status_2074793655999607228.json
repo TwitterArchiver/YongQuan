@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074792173024038912"
+      ],
+      "media_source_tweet_id": [
+        "2074792179676131734"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074793655999607228",
+    "created_at": "2026-07-08T09:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074793655999607228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3199462954",
+          "start": 3,
+          "username": "MementoLoL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljsjpu23kT",
+          "end": 71,
+          "expanded_url": "https://x.com/MementoLoL/status/2074792179676131734/photo/1",
+          "media_key": "3_2074792173024038912",
+          "start": 48,
+          "url": "https://t.co/ljsjpu23kT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074793655999607228",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074792179676131734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MementoLoL: MSI top 4 selfie!!!!! GG T1 3-1 https://t.co/ljsjpu23kT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074792173024038912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMskfRfb0AARvSg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792173024038912"
+          ],
+          "media_source_tweet_id": [
+            "2074792179676131734"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074793655999607228",
+        "created_at": "2026-07-08T09:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074793655999607228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3199462954",
+              "start": 3,
+              "username": "MementoLoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljsjpu23kT",
+              "end": 71,
+              "expanded_url": "https://x.com/MementoLoL/status/2074792179676131734/photo/1",
+              "media_key": "3_2074792173024038912",
+              "start": 48,
+              "url": "https://t.co/ljsjpu23kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074793655999607228",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792179676131734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MementoLoL: MSI top 4 selfie!!!!! GG T1 3-1 https://t.co/ljsjpu23kT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792173024038912"
+          ]
+        },
+        "author_id": "3199462954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@S04Memento",
+              "id": "1081293578561773568",
+              "name": "Memento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@S04Memento",
+              "id": "1081293578561773568",
+              "name": "Memento"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@S04Memento",
+              "id": "1081293578561773568",
+              "name": "Memento"
+            }
+          }
+        ],
+        "conversation_id": "2074792179676131734",
+        "created_at": "2026-07-08T09:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074792179676131734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljsjpu23kT",
+              "end": 55,
+              "expanded_url": "https://x.com/MementoLoL/status/2074792179676131734/photo/1",
+              "media_key": "3_2074792173024038912",
+              "start": 32,
+              "url": "https://t.co/ljsjpu23kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792179676131734",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2885,
+          "like_count": 466,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "MSI top 4 selfie!!!!! GG T1 3-1 https://t.co/ljsjpu23kT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "老婆 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\n\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11062,
+          "following_count": 4702,
+          "like_count": 51995,
+          "listed_count": 37,
+          "media_count": 4907,
+          "tweet_count": 15601
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-23T23:01:45.000Z",
+        "description": "Ex pro player | Strategic coach for @G2league https://t.co/6wwFT7Lhb9 | https://t.co/zMyszlc6QZ 🇸🇪🇲🇦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "G2league"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@MementoLoL",
+                "end": 69,
+                "expanded_url": "http://youtube.com/@MementoLoL",
+                "start": 46,
+                "url": "https://t.co/6wwFT7Lhb9"
+              },
+              {
+                "display_url": "twitch.tv/memento_lol",
+                "end": 95,
+                "expanded_url": "http://twitch.tv/memento_lol",
+                "start": 72,
+                "url": "https://t.co/zMyszlc6QZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/memento_lol",
+                "end": 23,
+                "expanded_url": "http://instagram.com/memento_lol",
+                "start": 0,
+                "url": "https://t.co/mksLSc1no9"
+              }
+            ]
+          }
+        },
+        "id": "3199462954",
+        "location": "Stockholm, Sverige",
+        "name": "G2 Memento",
+        "pinned_tweet_id": "1972646640684261583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070118595934441472/mctcNb1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17325,
+          "following_count": 600,
+          "like_count": 15699,
+          "listed_count": 83,
+          "media_count": 1087,
+          "tweet_count": 13600
+        },
+        "url": "https://t.co/mksLSc1no9",
+        "username": "MementoLoL",
+        "verified": true
+      }
+    ]
+  }
+}

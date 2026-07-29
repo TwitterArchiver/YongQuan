@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055633658455945216"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055800466299347202",
+    "created_at": "2026-05-17T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055800466299347202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WtpGiT64mw",
+          "end": 36,
+          "expanded_url": "https://x.com/YongQuan/status/2055800466299347202/photo/1",
+          "media_key": "3_2055633658455945216",
+          "start": 13,
+          "url": "https://t.co/WtpGiT64mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055800466299347202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人怎么可以压抑到这种程度 https://t.co/WtpGiT64mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2055633658455945216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcT69CacAA2hTm.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055633658455945216"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055800466299347202",
+        "created_at": "2026-05-17T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055800466299347202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtpGiT64mw",
+              "end": 36,
+              "expanded_url": "https://x.com/YongQuan/status/2055800466299347202/photo/1",
+              "media_key": "3_2055633658455945216",
+              "start": 13,
+              "url": "https://t.co/WtpGiT64mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055800466299347202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人怎么可以压抑到这种程度 https://t.co/WtpGiT64mw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9862,
+          "following_count": 4269,
+          "like_count": 45672,
+          "listed_count": 30,
+          "media_count": 3448,
+          "tweet_count": 12365
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052424409470631938"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053007058333806727",
+    "created_at": "2026-05-09T07:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053007058333806727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdjonD6BI9",
+          "end": 72,
+          "expanded_url": "https://x.com/YongQuan/status/2053007058333806727/photo/1",
+          "media_key": "3_2052424409470631938",
+          "start": 49,
+          "url": "https://t.co/mdjonD6BI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053007058333806727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把遛狗不栓绳、带狗挤人堆去餐馆的也一块啊\n还有插队的和开车加塞时耷拉着胳膊出来还夹根烟的也放上去 https://t.co/mdjonD6BI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2052424409470631938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHutIE7WgAIr7xl.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052424409470631938"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053007058333806727",
+        "created_at": "2026-05-09T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053007058333806727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdjonD6BI9",
+              "end": 72,
+              "expanded_url": "https://x.com/YongQuan/status/2053007058333806727/photo/1",
+              "media_key": "3_2052424409470631938",
+              "start": 49,
+              "url": "https://t.co/mdjonD6BI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053007058333806727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把遛狗不栓绳、带狗挤人堆去餐馆的也一块啊\n还有插队的和开车加塞时耷拉着胳膊出来还夹根烟的也放上去 https://t.co/mdjonD6BI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9590,
+          "following_count": 4205,
+          "like_count": 44707,
+          "listed_count": 29,
+          "media_count": 3257,
+          "tweet_count": 11910
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2060386495400493162",
+    "created_at": "2026-05-29T16:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060390968772432343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060390968772432343",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060390605822538051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent 铁路工作制服 外面的是长袖西装 里面的是短袖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2060386495400493162",
+        "created_at": "2026-05-29T16:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060390968772432343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060390968772432343",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060390605822538051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent 铁路工作制服 外面的是长袖西装 里面的是短袖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2060386495400493162",
+        "created_at": "2026-05-29T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060390605822538051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060390605822538051",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060390446279639253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 路服是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060385544862150656/EE13jemF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10159,
+          "following_count": 4425,
+          "like_count": 47840,
+          "listed_count": 30,
+          "media_count": 3849,
+          "tweet_count": 13296
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜backup｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1468153903384756230",
+        "location": "main account：moonlight_ruri",
+        "name": "月璃_LunaRuri_V2",
+        "pinned_tweet_id": "2060186185172222422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059948074538340352/3PjIS8w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 368,
+          "like_count": 768,
+          "listed_count": 8,
+          "media_count": 155,
+          "tweet_count": 3821
+        },
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

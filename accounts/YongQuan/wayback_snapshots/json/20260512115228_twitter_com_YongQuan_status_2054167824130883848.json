@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054146631860371564",
+    "created_at": "2026-05-12T11:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054167824130883848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395755728950812676",
+          "start": 0,
+          "username": "shikoch1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054167824130883848",
+    "in_reply_to_user_id": "1395755728950812676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054167291710124446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikoch1n 我们城投是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054146631860371564",
+        "created_at": "2026-05-12T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054167824130883848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395755728950812676",
+              "start": 0,
+              "username": "shikoch1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054167824130883848",
+        "in_reply_to_user_id": "1395755728950812676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054167291710124446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikoch1n 我们城投是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395755728950812676",
+        "conversation_id": "2054146631860371564",
+        "created_at": "2026-05-12T11:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054167291710124446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054167291710124446",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054146631860371564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 神秘格调还在追我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9714,
+          "following_count": 4231,
+          "like_count": 45162,
+          "listed_count": 29,
+          "media_count": 3339,
+          "tweet_count": 12092
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-21T14:58:02.000Z",
+        "description": "自愚可悖的庸人。 Rhythm Gamer / Vibe Coder / Writer Language: Chinese Mandarin, English / Personal Pronoun: any",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shikoch.in",
+                "end": 23,
+                "expanded_url": "https://shikoch.in",
+                "start": 0,
+                "url": "https://t.co/dG4eNB4Ffu"
+              }
+            ]
+          }
+        },
+        "id": "1395755728950812676",
+        "location": "白塔",
+        "name": "西宮 缄",
+        "pinned_tweet_id": "1743677436347494511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909268537098764288/GapRQU9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 241,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/dG4eNB4Ffu",
+        "username": "shikoch1n",
+        "verified": false
+      }
+    ]
+  }
+}

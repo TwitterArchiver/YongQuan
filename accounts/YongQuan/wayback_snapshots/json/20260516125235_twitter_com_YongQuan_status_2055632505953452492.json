@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055624525971436003",
+    "created_at": "2026-05-16T12:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055632505953452492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589272961235619840",
+          "start": 0,
+          "username": "xtony1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055632505953452492",
+    "in_reply_to_user_id": "1589272961235619840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055624525971436003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xtony1314 有一种MtF的美感（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055624525971436003",
+        "created_at": "2026-05-16T12:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055632505953452492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589272961235619840",
+              "start": 0,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055632505953452492",
+        "in_reply_to_user_id": "1589272961235619840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055624525971436003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtony1314 有一种MtF的美感（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589272961235619840",
+        "conversation_id": "2055624525971436003",
+        "created_at": "2026-05-16T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055624525971436003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055624525971436003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3661,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头像就是我本人， 实名上网，\n都认识我这么久了，不会连我是男是女都没搞清楚吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9842,
+          "following_count": 4266,
+          "like_count": 45640,
+          "listed_count": 30,
+          "media_count": 3432,
+          "tweet_count": 12334
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T15:06:27.000Z",
+        "description": "独立交易员 | 网络作家 | 干学创始人\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，币股金银，就在币安：\nhttps://t.co/YaGEmixfJS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=RXZ4V…",
+                "end": 106,
+                "expanded_url": "http://binance.com/join?ref=RXZ4VBCK",
+                "start": 83,
+                "url": "https://t.co/YaGEmixfJS"
+              }
+            ]
+          }
+        },
+        "id": "1589272961235619840",
+        "location": "Telegram: @TonyTraderKing",
+        "name": "逍遥XTony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055566607003615232/KO0mUzeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95513,
+          "following_count": 262,
+          "like_count": 193,
+          "listed_count": 1326,
+          "media_count": 516,
+          "tweet_count": 1581
+        },
+        "username": "xtony1314",
+        "verified": true
+      }
+    ]
+  }
+}

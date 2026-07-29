@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054849210701283476",
+    "created_at": "2026-05-14T12:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054898288185180630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663923642852610049",
+          "start": 0,
+          "username": "yyddjuebudantei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054898288185180630",
+    "in_reply_to_user_id": "1663923642852610049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054876444279668919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyddjuebudantei 但是真的很猎奇啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054849210701283476",
+        "created_at": "2026-05-14T12:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054898288185180630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663923642852610049",
+              "start": 0,
+              "username": "yyddjuebudantei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054898288185180630",
+        "in_reply_to_user_id": "1663923642852610049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054876444279668919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyddjuebudantei 但是真的很猎奇啊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663923642852610049",
+        "conversation_id": "2054849210701283476",
+        "created_at": "2026-05-14T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054876444279668919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054876444279668919",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054849210701283476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 幽默小鬼子  让渡来人给忽悠成弱智了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9757,
+          "following_count": 4246,
+          "like_count": 45358,
+          "listed_count": 29,
+          "media_count": 3384,
+          "tweet_count": 12231
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T15:02:25.000Z",
+        "description": "能谤讥于市朝 闻寡人之耳者  受宫刑",
+        "id": "1663923642852610049",
+        "name": "彭博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663923897203408896/bunZoRSg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 2403
+        },
+        "username": "yyddjuebudantei",
+        "verified": false
+      }
+    ]
+  }
+}

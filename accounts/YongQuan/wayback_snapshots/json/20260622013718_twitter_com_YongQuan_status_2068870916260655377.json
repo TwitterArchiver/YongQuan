@@ -1,0 +1,1066 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "@karriganCSGO",
+          "id": "903688351349276673",
+          "name": "karrigan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "FaZeClan (Esports)",
+          "id": "859465443316080640",
+          "name": "FaZeClan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": "@karriganCSGO",
+          "id": "903688351349276673",
+          "name": "karrigan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "@karriganCSGO",
+          "id": "903688351349276673",
+          "name": "karrigan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288168909422518272",
+          "name": "Esports players"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "description": "@karriganCSGO",
+          "id": "903688351349276673",
+          "name": "karrigan"
+        }
+      }
+    ],
+    "conversation_id": "2068846095577280703",
+    "created_at": "2026-06-22T01:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068870916260655377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1329463960194723847",
+          "start": 0,
+          "username": "FalconsEsport"
+        },
+        {
+          "end": 23,
+          "id": "3351760203",
+          "start": 15,
+          "username": "NiKoCS_"
+        },
+        {
+          "end": 34,
+          "id": "856111457448210432",
+          "start": 24,
+          "username": "FLCm0NESY"
+        },
+        {
+          "end": 47,
+          "id": "1921167563486380032",
+          "start": 35,
+          "username": "FLCkyousuke"
+        },
+        {
+          "end": 56,
+          "id": "884224503890444289",
+          "start": 48,
+          "username": "TesesCS"
+        },
+        {
+          "end": 70,
+          "id": "1417678880",
+          "start": 57,
+          "username": "karriganCSGO"
+        },
+        {
+          "end": 77,
+          "id": "35785788",
+          "start": 71,
+          "username": "zonic"
+        },
+        {
+          "end": 90,
+          "id": "1249010095863758853",
+          "start": 78,
+          "username": "aymeinstein"
+        },
+        {
+          "end": 106,
+          "id": "1170405589475835905",
+          "start": 91,
+          "username": "Xavier_Roussac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068870916260655377",
+    "in_reply_to_user_id": "1329463960194723847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那是2026科隆Major朗盛竞技场的决赛赛场，一场熬走十余年遗憾、击碎全网嘲讽的封神全胜碾压。整座电竞殿堂人声鼎沸，只剩下键鼠敲击的脆响、道具爆破的轰鸣与千万观众悬在嗓子眼的心跳。外界所有人心里都压着一个刻板定论：只要站上Major决赛舞台，NiKo一定会软脚，多年数次临门一脚轰然坠落，波士顿、斯德哥尔摩一场场痛失冠军的画面，早被观众刻成了甩不掉的魔咒标签。Falcons坐拥银河战舰豪华阵容，却长久困在NiKo的决赛心魔里，无数次常规赛大杀四方，决赛关键时刻骤然隐身，空有步枪天花板的名头，Major冠军奖杯永远隔着一层捅不破的窗户纸。谁也不会想到，这场BO5巅峰对决，昔日屡屡折戟决赛的悲情巨星，会彻底撕碎“软脚虾”的枷锁。\n三图打完，比分定格在干脆利落的3:0横扫，Falcons全程没有给FURIA半点喘息翻盘的余地。曾经缠绕NiKo十余年的Major无冠诅咒、决赛软脚的嘲讽标签，在朗盛竞技场漫天灯光里彻底粉碎。过往无数次距离奖杯一步之遥的遗憾、直播间铺天盖地的质疑、一次次决赛拉胯的名场面，全都化作此刻捧起Major冠军奖杯的滚烫荣光。这一场3:0完胜"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068846095577280703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FalconsEsport @NiKoCS_ @FLCm0NESY @FLCkyousuke @TesesCS @karriganCSGO @zonic @aymeinstein @Xavier_Roussac 那是2026科隆Major朗盛竞技场的决赛赛场，一场熬走十余年遗憾、击碎全网嘲讽的封神全胜碾压。整座电竞殿堂人声鼎沸，只剩下键鼠敲击的脆响、道具爆破的轰鸣与千万观众悬在嗓子眼的心跳。外界所有人心里都压着一个刻板定论：只要站上Major决赛舞台，NiKo一定会软脚，多年数次临门一脚轰然坠落，波士顿、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3499,
+        "media_key": "3_2068846090581864448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYEjuQWcAAiBks.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@karriganCSGO",
+              "id": "903688351349276673",
+              "name": "karrigan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "FaZeClan (Esports)",
+              "id": "859465443316080640",
+              "name": "FaZeClan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "@karriganCSGO",
+              "id": "903688351349276673",
+              "name": "karrigan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@karriganCSGO",
+              "id": "903688351349276673",
+              "name": "karrigan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@karriganCSGO",
+              "id": "903688351349276673",
+              "name": "karrigan"
+            }
+          }
+        ],
+        "conversation_id": "2068846095577280703",
+        "created_at": "2026-06-22T01:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068870916260655377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1329463960194723847",
+              "start": 0,
+              "username": "FalconsEsport"
+            },
+            {
+              "end": 23,
+              "id": "3351760203",
+              "start": 15,
+              "username": "NiKoCS_"
+            },
+            {
+              "end": 34,
+              "id": "856111457448210432",
+              "start": 24,
+              "username": "FLCm0NESY"
+            },
+            {
+              "end": 47,
+              "id": "1921167563486380032",
+              "start": 35,
+              "username": "FLCkyousuke"
+            },
+            {
+              "end": 56,
+              "id": "884224503890444289",
+              "start": 48,
+              "username": "TesesCS"
+            },
+            {
+              "end": 70,
+              "id": "1417678880",
+              "start": 57,
+              "username": "karriganCSGO"
+            },
+            {
+              "end": 77,
+              "id": "35785788",
+              "start": 71,
+              "username": "zonic"
+            },
+            {
+              "end": 90,
+              "id": "1249010095863758853",
+              "start": 78,
+              "username": "aymeinstein"
+            },
+            {
+              "end": 106,
+              "id": "1170405589475835905",
+              "start": 91,
+              "username": "Xavier_Roussac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068870916260655377",
+        "in_reply_to_user_id": "1329463960194723847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那是2026科隆Major朗盛竞技场的决赛赛场，一场熬走十余年遗憾、击碎全网嘲讽的封神全胜碾压。整座电竞殿堂人声鼎沸，只剩下键鼠敲击的脆响、道具爆破的轰鸣与千万观众悬在嗓子眼的心跳。外界所有人心里都压着一个刻板定论：只要站上Major决赛舞台，NiKo一定会软脚，多年数次临门一脚轰然坠落，波士顿、斯德哥尔摩一场场痛失冠军的画面，早被观众刻成了甩不掉的魔咒标签。Falcons坐拥银河战舰豪华阵容，却长久困在NiKo的决赛心魔里，无数次常规赛大杀四方，决赛关键时刻骤然隐身，空有步枪天花板的名头，Major冠军奖杯永远隔着一层捅不破的窗户纸。谁也不会想到，这场BO5巅峰对决，昔日屡屡折戟决赛的悲情巨星，会彻底撕碎“软脚虾”的枷锁。\n三图打完，比分定格在干脆利落的3:0横扫，Falcons全程没有给FURIA半点喘息翻盘的余地。曾经缠绕NiKo十余年的Major无冠诅咒、决赛软脚的嘲讽标签，在朗盛竞技场漫天灯光里彻底粉碎。过往无数次距离奖杯一步之遥的遗憾、直播间铺天盖地的质疑、一次次决赛拉胯的名场面，全都化作此刻捧起Major冠军奖杯的滚烫荣光。这一场3:0完胜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068846095577280703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FalconsEsport @NiKoCS_ @FLCm0NESY @FLCkyousuke @TesesCS @karriganCSGO @zonic @aymeinstein @Xavier_Roussac 那是2026科隆Major朗盛竞技场的决赛赛场，一场熬走十余年遗憾、击碎全网嘲讽的封神全胜碾压。整座电竞殿堂人声鼎沸，只剩下键鼠敲击的脆响、道具爆破的轰鸣与千万观众悬在嗓子眼的心跳。外界所有人心里都压着一个刻板定论：只要站上Major决赛舞台，NiKo一定会软脚，多年数次临门一脚轰然坠落，波士顿、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068846090581864448"
+          ]
+        },
+        "author_id": "1329463960194723847",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068846095577280703",
+        "created_at": "2026-06-21T23:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068846095577280703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "IEM"
+            },
+            {
+              "end": 85,
+              "start": 70,
+              "tag": "FalconsAreHere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdPksza2k8",
+              "end": 109,
+              "expanded_url": "https://x.com/FalconsEsport/status/2068846095577280703/photo/1",
+              "media_key": "3_2068846090581864448",
+              "start": 86,
+              "url": "https://t.co/BdPksza2k8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068846095577280703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 58824,
+          "like_count": 4233,
+          "quote_count": 10,
+          "reply_count": 53,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "History never to be forgotten. This one was for all of you 💚🏆\n\n#IEM - #FalconsAreHere https://t.co/BdPksza2k8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10768,
+          "following_count": 4618,
+          "like_count": 51347,
+          "listed_count": 34,
+          "media_count": 4492,
+          "tweet_count": 14854
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-19T16:38:19.000Z",
+        "description": "2x Esports World Cup Champions 🏆 | Your No.1 Spot for everything Falcons Esports. @TeamFalconsGG @Riyadh_Falcons Sponsored by @NEO_SA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "TeamFalconsGG"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "Riyadh_Falcons"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "NEO_SA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TeamFalcons.sa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TeamFalcons.sa",
+                "start": 0,
+                "url": "https://t.co/YOLdnFAgTk"
+              }
+            ]
+          }
+        },
+        "id": "1329463960194723847",
+        "name": "Falcons Esports",
+        "pinned_tweet_id": "2068757298810396686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757327826624513/ZNPnhs-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281938,
+          "following_count": 299,
+          "like_count": 3576,
+          "listed_count": 142,
+          "media_count": 11449,
+          "tweet_count": 15980
+        },
+        "url": "https://t.co/YOLdnFAgTk",
+        "username": "FalconsEsport",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-30T13:41:17.000Z",
+        "description": "Gamer for @FalconsEsport @TeamRazer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "FalconsEsport"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "TeamRazer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/csgoniko",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/csgoniko",
+                "start": 0,
+                "url": "https://t.co/vWf6oHihLf"
+              }
+            ]
+          }
+        },
+        "id": "3351760203",
+        "location": "Bosnia and Herzegovina",
+        "name": "Nikola Kovač",
+        "pinned_tweet_id": "2068799966349266965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912286386972966913/poWzJg6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928573,
+          "following_count": 476,
+          "like_count": 8227,
+          "listed_count": 1440,
+          "media_count": 691,
+          "tweet_count": 6884
+        },
+        "url": "https://t.co/vWf6oHihLf",
+        "username": "NiKoCS_",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-23T11:44:12.000Z",
+        "description": "Professional CS2 player for @FalconsEsport https://t.co/NQDx6L44gz https://t.co/resY2JzpfT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FalconsEsport"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/m0nesy13",
+                "end": 66,
+                "expanded_url": "http://t.me/m0nesy13",
+                "start": 43,
+                "url": "https://t.co/NQDx6L44gz"
+              },
+              {
+                "display_url": "t.me/m0nesygg",
+                "end": 90,
+                "expanded_url": "http://t.me/m0nesygg",
+                "start": 67,
+                "url": "https://t.co/resY2JzpfT"
+              }
+            ]
+          }
+        },
+        "id": "856111457448210432",
+        "name": "IlyaO",
+        "pinned_tweet_id": "1853047149833093251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911776223744647168/4iFPp2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349676,
+          "following_count": 743,
+          "like_count": 1626,
+          "listed_count": 412,
+          "media_count": 82,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "FLCm0NESY",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T11:37:04.000Z",
+        "description": "Professional CS2 Player for @FalconsEsport @TeamFalconsGG 🦅💚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FalconsEsport"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "TeamFalconsGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kyousuke21",
+                "end": 23,
+                "expanded_url": "https://t.me/kyousuke21",
+                "start": 0,
+                "url": "https://t.co/gcbMbq2RrJ"
+              }
+            ]
+          }
+        },
+        "id": "1921167563486380032",
+        "name": "kyousuke616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937141283958468608/qJeDMel-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56303,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 55,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/gcbMbq2RrJ",
+        "username": "FLCkyousuke",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-10T01:35:24.000Z",
+        "description": "Playing for @TeamFalconsGG. Business inquires: renstensig7@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "TeamFalconsGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tesescs/",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/tesescs/",
+                "start": 0,
+                "url": "https://t.co/jPV1NOTghH"
+              }
+            ]
+          }
+        },
+        "id": "884224503890444289",
+        "name": "René \"TeSeS\" Madsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911503413126340608/KkN_3AtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60684,
+          "following_count": 232,
+          "like_count": 2147,
+          "listed_count": 251,
+          "media_count": 29,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/jPV1NOTghH",
+        "username": "TesesCS",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-10T09:46:06.000Z",
+        "description": "Professional CS2 player for @FalconsEsport - MSc in BA and Auditing. Business enquiries: karrigan@forevr.gg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FalconsEsport"
+              }
+            ]
+          }
+        },
+        "id": "1417678880",
+        "location": "Copenhagen, Denmark",
+        "name": "karrigan",
+        "pinned_tweet_id": "1528477478414696449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467863408355815441/qP6IrLhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575180,
+          "following_count": 532,
+          "like_count": 3434,
+          "listed_count": 1256,
+          "media_count": 643,
+          "tweet_count": 5549
+        },
+        "url": "",
+        "username": "karriganCSGO",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-27T16:31:08.000Z",
+        "description": "Head coach of @TeamFalconsGG - Former CS 1.6 professional. MSc in Business Administration & Information Systems - Business inquiries: dannysorensen2@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "TeamFalconsGG"
+              }
+            ]
+          }
+        },
+        "id": "35785788",
+        "location": "Roskilde, Danmark",
+        "name": "Danny Sørensen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923246227140800512/DuKeT0V3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123231,
+          "following_count": 822,
+          "like_count": 9981,
+          "listed_count": 697,
+          "media_count": 348,
+          "tweet_count": 4195
+        },
+        "url": "",
+        "username": "zonic",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T16:23:14.000Z",
+        "description": "Cs Assistant Coach for @falconsesport - 📚EN/FR/ES/AR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "falconsesport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aymeinsteintv",
+                "end": 23,
+                "expanded_url": "http://instagram.com/aymeinsteintv",
+                "start": 0,
+                "url": "https://t.co/DJ0ga9r6R3"
+              }
+            ]
+          }
+        },
+        "id": "1249010095863758853",
+        "name": "Aymeinstein",
+        "pinned_tweet_id": "2010005731370807398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005969929900032/DaIb6yUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5859,
+          "following_count": 195,
+          "like_count": 7562,
+          "listed_count": 8,
+          "media_count": 96,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/DJ0ga9r6R3",
+        "username": "aymeinstein",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-07T18:36:58.000Z",
+        "description": "CS Operations Manager  @TeamFalconsGG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "TeamFalconsGG"
+              }
+            ]
+          }
+        },
+        "id": "1170405589475835905",
+        "location": "Warsaw, Poland",
+        "name": "Xavier Roussac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923107076974207041/bqjun_j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 1138,
+          "like_count": 3315,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "Xavier_Roussac",
+        "verified": true
+      }
+    ]
+  }
+}

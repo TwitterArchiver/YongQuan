@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079011039786737664",
+        "3_2079011039778390016"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078872060374520242",
+    "created_at": "2026-07-20T01:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079011050494779832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在 App Store 下载“CAPCOM”的“Resident Evil Village”。查看截屏、评分及评论、用户提示以及更多类似“Resident Evil Village”的 App。",
+          "display_url": "apps.apple.com/us/app/residen…",
+          "end": 41,
+          "expanded_url": "https://apps.apple.com/us/app/resident-evil-village/id6450980545?l=zh-Hans-CN",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2079011058619215872/u8TD5mnt?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079011058619215872/u8TD5mnt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 18,
+          "status": 200,
+          "title": "Resident Evil Village App - App Store",
+          "unwound_url": "https://apps.apple.com/us/app/resident-evil-village/id6450980545?l=zh-Hans-CN",
+          "url": "https://t.co/kmZbvjLozk"
+        },
+        {
+          "display_url": "pic.x.com/TxYKGqXHY8",
+          "end": 65,
+          "expanded_url": "https://x.com/YongQuan/status/2079011050494779832/photo/1",
+          "media_key": "3_2079011039786737664",
+          "start": 42,
+          "url": "https://t.co/TxYKGqXHY8"
+        },
+        {
+          "display_url": "pic.x.com/TxYKGqXHY8",
+          "end": 65,
+          "expanded_url": "https://x.com/YongQuan/status/2079011050494779832/photo/1",
+          "media_key": "3_2079011039778390016",
+          "start": 42,
+          "url": "https://t.co/TxYKGqXHY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079011050494779832",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078872060374520242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 可以玩这个（\n\nhttps://t.co/kmZbvjLozk https://t.co/TxYKGqXHY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2079011039786737664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNohho6aoAAUuMA.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2079011039778390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNohho4bQAASumD.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078869359280500736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmgqv5bsAAnxx8.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078869359293046784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmgqv8bIAA_v42.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079011039786737664",
+            "3_2079011039778390016"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078872060374520242",
+        "created_at": "2026-07-20T01:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079011050494779832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在 App Store 下载“CAPCOM”的“Resident Evil Village”。查看截屏、评分及评论、用户提示以及更多类似“Resident Evil Village”的 App。",
+              "display_url": "apps.apple.com/us/app/residen…",
+              "end": 41,
+              "expanded_url": "https://apps.apple.com/us/app/resident-evil-village/id6450980545?l=zh-Hans-CN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2079011058619215872/u8TD5mnt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079011058619215872/u8TD5mnt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "Resident Evil Village App - App Store",
+              "unwound_url": "https://apps.apple.com/us/app/resident-evil-village/id6450980545?l=zh-Hans-CN",
+              "url": "https://t.co/kmZbvjLozk"
+            },
+            {
+              "display_url": "pic.x.com/TxYKGqXHY8",
+              "end": 65,
+              "expanded_url": "https://x.com/YongQuan/status/2079011050494779832/photo/1",
+              "media_key": "3_2079011039786737664",
+              "start": 42,
+              "url": "https://t.co/TxYKGqXHY8"
+            },
+            {
+              "display_url": "pic.x.com/TxYKGqXHY8",
+              "end": 65,
+              "expanded_url": "https://x.com/YongQuan/status/2079011050494779832/photo/1",
+              "media_key": "3_2079011039778390016",
+              "start": 42,
+              "url": "https://t.co/TxYKGqXHY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079011050494779832",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078872060374520242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 可以玩这个（\n\nhttps://t.co/kmZbvjLozk https://t.co/TxYKGqXHY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078869359280500736",
+            "3_2078869359293046784"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078872060374520242",
+        "created_at": "2026-07-19T15:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:47:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078869367270645904",
+          "2078872060374520242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOR5eAbzv4",
+              "end": 60,
+              "expanded_url": "https://x.com/quasarne/status/2078872060374520242/photo/1",
+              "media_key": "3_2078869359280500736",
+              "start": 37,
+              "url": "https://t.co/eOR5eAbzv4"
+            },
+            {
+              "display_url": "pic.x.com/eOR5eAbzv4",
+              "end": 60,
+              "expanded_url": "https://x.com/quasarne/status/2078872060374520242/photo/1",
+              "media_key": "3_2078869359293046784",
+              "start": 37,
+              "url": "https://t.co/eOR5eAbzv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078872060374520242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星ない换新手机了\n可以推荐几个3A大作让祂的A19 Pro酣畅淋漓一场吗 https://t.co/eOR5eAbzv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11148,
+          "following_count": 4745,
+          "like_count": 52529,
+          "listed_count": 38,
+          "media_count": 5248,
+          "tweet_count": 16139
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "想留德…｜數碼/科幻/政治/语言学趣味 Wikier 绝望的商科牲｜🚩◼️🌹自意社｜éla 🏳️‍🌈gay/pan🏳️‍⚧️｜🌐漢(吴/普)/English｜社恐，但欢迎来聊天（真的）｜安人Alt @JunenKim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZkgxPtV5OpVmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZkgxPtV5OpVmOTU1",
+                "start": 0,
+                "url": "https://t.co/xRff4RTd9x"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077557118744530944/DVZyIeFB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1143,
+          "like_count": 85417,
+          "listed_count": 6,
+          "media_count": 1502,
+          "tweet_count": 19084
+        },
+        "url": "https://t.co/xRff4RTd9x",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

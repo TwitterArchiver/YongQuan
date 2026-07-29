@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2072584285161500872",
+    "created_at": "2026-07-02T23:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072820291122626712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "841320619484557313",
+          "start": 0,
+          "username": "tangua2022"
+        },
+        {
+          "end": 23,
+          "id": "1904539885769457665",
+          "start": 12,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072820291122626712",
+    "in_reply_to_user_id": "841320619484557313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072722629660651674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangua2022 @yanmin1105 没什么用 ITIN不允许作为金融机构身份核查的身份验证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T23:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072820291122626712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "841320619484557313",
+              "start": 0,
+              "username": "tangua2022"
+            },
+            {
+              "end": 23,
+              "id": "1904539885769457665",
+              "start": 12,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072820291122626712",
+        "in_reply_to_user_id": "841320619484557313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072722629660651674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangua2022 @yanmin1105 没什么用 ITIN不允许作为金融机构身份核查的身份验证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841320619484557313",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T16:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072722629660651674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072722629660651674",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072721458380648870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 明白了 。\n但我好奇这种给外国人的税号，有什么用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11023,
+          "following_count": 4677,
+          "like_count": 51634,
+          "listed_count": 37,
+          "media_count": 4759,
+          "tweet_count": 15342
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-13T16:10:41.000Z",
+        "description": "潜潜水，灌灌水，不参与任何圈子。\n不看私信。",
+        "id": "841320619484557313",
+        "location": "United Kingdom",
+        "name": "TG🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520054807934947332/87ufzu27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 715,
+          "like_count": 1028,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 3174
+        },
+        "url": "",
+        "username": "tangua2022",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 434,
+          "like_count": 3867,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

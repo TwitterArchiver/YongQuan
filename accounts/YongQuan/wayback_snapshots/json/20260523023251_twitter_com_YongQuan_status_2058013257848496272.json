@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057990897975902538",
+    "created_at": "2026-05-23T02:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058013257848496272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        },
+        {
+          "end": 18,
+          "id": "1744267618947899393",
+          "start": 7,
+          "username": "MentorWong"
+        },
+        {
+          "end": 24,
+          "id": "1720665183188922368",
+          "start": 19,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058013257848496272",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058013067842027997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv @MentorWong @grok 没绑定银行账户的确是返回低于最小收益的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057990897975902538",
+        "created_at": "2026-05-23T02:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058013257848496272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            },
+            {
+              "end": 18,
+              "id": "1744267618947899393",
+              "start": 7,
+              "username": "MentorWong"
+            },
+            {
+              "end": 24,
+              "id": "1720665183188922368",
+              "start": 19,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058013257848496272",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058013067842027997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv @MentorWong @grok 没绑定银行账户的确是返回低于最小收益的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818415944064286722",
+        "conversation_id": "2057990897975902538",
+        "created_at": "2026-05-23T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058013067842027997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058013067842027997",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058011204501811254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong @grok 其实第二个月就达标了，我在想是不是因为没有绑卡的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜#小铨的月季花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9961,
+          "following_count": 4365,
+          "like_count": 46998,
+          "listed_count": 30,
+          "media_count": 3648,
+          "tweet_count": 12901
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "pinned_tweet_id": "2056223813159793135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11119,
+          "following_count": 2170,
+          "like_count": 3209,
+          "listed_count": 14,
+          "media_count": 1021,
+          "tweet_count": 14662
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Premium+ User\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9526,
+          "following_count": 9954,
+          "like_count": 15154,
+          "listed_count": 13,
+          "media_count": 298,
+          "tweet_count": 49522
+        },
+        "username": "MentorWong",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763746,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6885,
+          "media_count": 8961471,
+          "tweet_count": 126733698
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

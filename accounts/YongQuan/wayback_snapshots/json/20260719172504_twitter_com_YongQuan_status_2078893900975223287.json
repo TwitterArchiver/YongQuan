@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078878110565699584"
+      ],
+      "media_source_tweet_id": [
+        "2078878118056743001"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078893900975223287",
+    "created_at": "2026-07-19T17:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078893900975223287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609619970811482112",
+          "start": 3,
+          "username": "3ch4O1H"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUHFhUiY6T",
+          "end": 61,
+          "expanded_url": "https://x.com/3ch4O1H/status/2078878118056743001/photo/1",
+          "media_key": "3_2078878110565699584",
+          "start": 38,
+          "url": "https://t.co/PUHFhUiY6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078893900975223287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078878118056743001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3ch4O1H: 许哥不是qu\n许哥是s10和ewc双料冠军中单！ https://t.co/PUHFhUiY6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2078878110565699584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmooI-akAAowps.jpg",
+        "width": 1828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078878110565699584"
+          ]
+        },
+        "author_id": "1609619970811482112",
+        "conversation_id": "2078878118056743001",
+        "created_at": "2026-07-19T16:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078878118056743001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUHFhUiY6T",
+              "end": 48,
+              "expanded_url": "https://x.com/3ch4O1H/status/2078878118056743001/photo/1",
+              "media_key": "3_2078878110565699584",
+              "start": 25,
+              "url": "https://t.co/PUHFhUiY6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078878118056743001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "许哥不是qu\n许哥是s10和ewc双料冠军中单！ https://t.co/PUHFhUiY6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078878110565699584"
+          ],
+          "media_source_tweet_id": [
+            "2078878118056743001"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078893900975223287",
+        "created_at": "2026-07-19T17:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078893900975223287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609619970811482112",
+              "start": 3,
+              "username": "3ch4O1H"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUHFhUiY6T",
+              "end": 61,
+              "expanded_url": "https://x.com/3ch4O1H/status/2078878118056743001/photo/1",
+              "media_key": "3_2078878110565699584",
+              "start": 38,
+              "url": "https://t.co/PUHFhUiY6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078893900975223287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078878118056743001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3ch4O1H: 许哥不是qu\n许哥是s10和ewc双料冠军中单！ https://t.co/PUHFhUiY6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11138,
+          "following_count": 4744,
+          "like_count": 52520,
+          "listed_count": 38,
+          "media_count": 5238,
+          "tweet_count": 16126
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 4303,
+          "like_count": 139153,
+          "listed_count": 2,
+          "media_count": 1454,
+          "tweet_count": 44428
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

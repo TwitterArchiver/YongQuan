@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058451072721551770",
+    "created_at": "2026-05-24T14:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058549524646563985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798675759038603264",
+          "start": 0,
+          "username": "leyu37829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058549524646563985",
+    "in_reply_to_user_id": "1798675759038603264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058451072721551770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leyu37829 其实影视飓风TimPan的梦想就是有一天移民火星\n我觉得 人类上太空这种事情还是太具有前瞻性了 可能我们的下一代会真正普及这个东西\n\n几十年前的设想正在一步一步变为现实。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058451072721551770",
+        "created_at": "2026-05-24T14:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058549524646563985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798675759038603264",
+              "start": 0,
+              "username": "leyu37829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058549524646563985",
+        "in_reply_to_user_id": "1798675759038603264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058451072721551770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leyu37829 其实影视飓风TimPan的梦想就是有一天移民火星\n我觉得 人类上太空这种事情还是太具有前瞻性了 可能我们的下一代会真正普及这个东西\n\n几十年前的设想正在一步一步变为现实。"
+      },
+      {
+        "article": {
+          "title": "SpaceX星舰第12次试飞，彻底改写人类航天史,太空旅游仅需几百美元"
+        },
+        "attachments": {},
+        "author_id": "1798675759038603264",
+        "conversation_id": "2058451072721551770",
+        "created_at": "2026-05-24T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058451072721551770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2058439236253298688",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058439236253298688",
+              "url": "https://t.co/xI8yJlFbtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058451072721551770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4834,
+          "like_count": 14,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xI8yJlFbtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10032,
+          "following_count": 4388,
+          "like_count": 47276,
+          "listed_count": 30,
+          "media_count": 3720,
+          "tweet_count": 13044
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T11:18:33.000Z",
+        "description": "🎨艺术生玩AI | 营销策略师 | 数据分析师\n🎰AI炒股 | 投资有道 | AI分析大数据\n☯️身心灵疗愈赛道创业者（招合伙人）\n㊙️天赋解读 | 金钱卡点 | 家族因果\n📽人生系统迭代 | 人生因果系统创始人",
+        "id": "1798675759038603264",
+        "location": "Petronas Twin Towers",
+        "name": "乐鱼Joyfish",
+        "pinned_tweet_id": "2058451072721551770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023318965557358593/HIYtEGc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 430,
+          "like_count": 1119,
+          "listed_count": 13,
+          "media_count": 1164,
+          "tweet_count": 6530
+        },
+        "username": "leyu37829",
+        "verified": true
+      }
+    ]
+  }
+}

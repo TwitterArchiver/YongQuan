@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055441689389703574",
+    "created_at": "2026-05-16T01:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055459005145788644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787287410554134528",
+          "start": 0,
+          "username": "gary_liu2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055459005145788644",
+    "in_reply_to_user_id": "1787287410554134528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055441689389703574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gary_liu2024 社交（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055441689389703574",
+        "created_at": "2026-05-16T01:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055459005145788644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787287410554134528",
+              "start": 0,
+              "username": "gary_liu2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055459005145788644",
+        "in_reply_to_user_id": "1787287410554134528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055441689389703574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gary_liu2024 社交（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2055441688236363776"
+          ]
+        },
+        "author_id": "1787287410554134528",
+        "conversation_id": "2055441689389703574",
+        "created_at": "2026-05-16T00:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055441689389703574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055441689389703574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们来推特是为了什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9814,
+          "following_count": 4259,
+          "like_count": 45576,
+          "listed_count": 30,
+          "media_count": 3421,
+          "tweet_count": 12307
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T01:05:17.000Z",
+        "description": "分享一下澳洲悉尼的趣事，惨事。\n也分享自己的炒币分析，操作（亏钱经历），不作为投资建议。",
+        "id": "1787287410554134528",
+        "location": "Sydney",
+        "name": "澳洲盖瑞",
+        "pinned_tweet_id": "2031132554443763881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788775803637108736/DrHxFK3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 589,
+          "like_count": 1372,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 3284
+        },
+        "username": "gary_liu2024",
+        "verified": true
+      }
+    ]
+  }
+}

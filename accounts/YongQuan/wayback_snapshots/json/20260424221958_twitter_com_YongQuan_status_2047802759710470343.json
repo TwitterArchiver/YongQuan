@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2047802759710470343",
+    "created_at": "2026-04-24T22:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047802759710470343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1675104920243159040",
+          "start": 3,
+          "username": "114514Xingsui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047802759710470343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030555444956315650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @114514Xingsui: 不明白了，有事让人帮忙拿东西，而且不太要紧，我肯定是在外面的时候顺手给你捎回来，为什么过了些时间再出来看没有快递突然给我摆个臭脸骂我呢？我真不明白这种人的逻辑是什么构成的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2047802759710470343",
+        "created_at": "2026-04-24T22:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047802759710470343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1675104920243159040",
+              "start": 3,
+              "username": "114514Xingsui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047802759710470343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030555444956315650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @114514Xingsui: 不明白了，有事让人帮忙拿东西，而且不太要紧，我肯定是在外面的时候顺手给你捎回来，为什么过了些时间再出来看没有快递突然给我摆个臭脸骂我呢？我真不明白这种人的逻辑是什么构成的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675104920243159040",
+        "conversation_id": "2030555444956315650",
+        "created_at": "2026-03-08T08:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030555444956315650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030555444956315650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不明白了，有事让人帮忙拿东西，而且不太要紧，我肯定是在外面的时候顺手给你捎回来，为什么过了些时间再出来看没有快递突然给我摆个臭脸骂我呢？我真不明白这种人的逻辑是什么构成的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8974,
+          "following_count": 4105,
+          "like_count": 42985,
+          "listed_count": 26,
+          "media_count": 2885,
+          "tweet_count": 11126
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T11:32:00.000Z",
+        "description": "年龄不重要 | 性别不重要 | 性格偶尔会飘忽不定（平常非常正常的哦！） | 喜欢甜食和音乐 目前苦练bass中| 长期胃痛患者（暂且铺设到这）",
+        "id": "1675104920243159040",
+        "name": "星岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705114562834685952/4UAU6G3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 199,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 363
+        },
+        "username": "114514Xingsui",
+        "verified": false
+      }
+    ]
+  }
+}

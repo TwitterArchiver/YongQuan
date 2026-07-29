@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2063390664273088979",
+    "created_at": "2026-06-07T03:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063466167352844785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        },
+        {
+          "end": 32,
+          "id": "1667851059346427914",
+          "start": 16,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063466167352844785",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063390664273088979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo @hoshi_Asuka0089 生日快乐～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063390656534646784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKi3qubkAAJbEH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-07T03:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063466167352844785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            },
+            {
+              "end": 32,
+              "id": "1667851059346427914",
+              "start": 16,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063466167352844785",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063390664273088979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo @hoshi_Asuka0089 生日快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063390656534646784"
+          ]
+        },
+        "author_id": "1351485882696548357",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-06T22:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063390664273088979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSrV6n6bOD",
+              "end": 40,
+              "expanded_url": "https://x.com/OnlyAppleCanDo/status/2063390664273088979/photo/1",
+              "media_key": "3_2063390656534646784",
+              "start": 17,
+              "url": "https://t.co/wSrV6n6bOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063390664273088979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2365,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日，大家可以來戳氣球w https://t.co/wSrV6n6bOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "F1"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10519,
+          "following_count": 4507,
+          "like_count": 48901,
+          "listed_count": 31,
+          "media_count": 4069,
+          "tweet_count": 13775
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "貓不要吃我O_0｜在HKG活動｜可愛得意先係最大本領｜",
+        "id": "1351485882696548357",
+        "location": "Hong Kong",
+        "name": "meow!🐭",
+        "pinned_tweet_id": "2063390664273088979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038936941018906625/oKeygUjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 908,
+          "like_count": 55172,
+          "listed_count": 5,
+          "media_count": 2612,
+          "tweet_count": 12409
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 871,
+          "like_count": 89343,
+          "listed_count": 3,
+          "media_count": 1119,
+          "tweet_count": 15328
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      }
+    ]
+  }
+}

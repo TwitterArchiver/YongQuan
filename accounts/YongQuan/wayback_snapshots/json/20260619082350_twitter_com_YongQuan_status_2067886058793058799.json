@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067886058793058799",
+    "created_at": "2026-06-19T08:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067886058793058799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1222794842880626689",
+          "start": 3,
+          "username": "chenchen_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067886058793058799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067886011473178936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenchen_suki: 谁不想复习准备期末又要赶ddl这时候突然悠哉悠哉看一场伦敦大师赛EDG打PRX呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067886058793058799",
+        "created_at": "2026-06-19T08:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067886058793058799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1222794842880626689",
+              "start": 3,
+              "username": "chenchen_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067886058793058799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067886011473178936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chenchen_suki: 谁不想复习准备期末又要赶ddl这时候突然悠哉悠哉看一场伦敦大师赛EDG打PRX呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222794842880626689",
+        "conversation_id": "2067886011473178936",
+        "created_at": "2026-06-19T08:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067886011473178936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067886011473178936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想复习准备期末又要赶ddl这时候突然悠哉悠哉看一场伦敦大师赛EDG打PRX呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10690,
+          "following_count": 4591,
+          "like_count": 50970,
+          "listed_count": 35,
+          "media_count": 4412,
+          "tweet_count": 14607
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-30T08:13:14.000Z",
+        "description": "腼腆害羞内向社恐文静好色爱哭小男生\n这个人脾气好古怪还是离他远一点吧",
+        "id": "1222794842880626689",
+        "name": "琛琛琛琛琛",
+        "pinned_tweet_id": "1965286319015510144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037139149560700933/cDF9xcTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8258,
+          "following_count": 3710,
+          "like_count": 129727,
+          "listed_count": 11,
+          "media_count": 1685,
+          "tweet_count": 46733
+        },
+        "url": "",
+        "username": "chenchen_suki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057990897975902538",
+    "created_at": "2026-05-23T01:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057991098388353212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        },
+        {
+          "end": 12,
+          "id": "1720665183188922368",
+          "start": 7,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057991098388353212",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057990897975902538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv @grok 22号刚过去1个小时 还在结算 别急（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057990878602399747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9zzOYXEAM1yXt.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057990878594007040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9zzOWXAAA4Bdo.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057990878610837504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9zzOaX0AAiS3s.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057990897975902538",
+        "created_at": "2026-05-23T01:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057991098388353212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            },
+            {
+              "end": 12,
+              "id": "1720665183188922368",
+              "start": 7,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057991098388353212",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057990897975902538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv @grok 22号刚过去1个小时 还在结算 别急（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057990878602399747",
+            "3_2057990878594007040",
+            "3_2057990878610837504"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "conversation_id": "2057990897975902538",
+        "created_at": "2026-05-23T01:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057990897975902538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "创作者收益"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1720665183188922368",
+              "start": 32,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1E4qITJWQ",
+              "end": 69,
+              "expanded_url": "https://x.com/e5ogv/status/2057990897975902538/photo/1",
+              "media_key": "3_2057990878602399747",
+              "start": 46,
+              "url": "https://t.co/S1E4qITJWQ"
+            },
+            {
+              "display_url": "pic.x.com/S1E4qITJWQ",
+              "end": 69,
+              "expanded_url": "https://x.com/e5ogv/status/2057990897975902538/photo/1",
+              "media_key": "3_2057990878594007040",
+              "start": 46,
+              "url": "https://t.co/S1E4qITJWQ"
+            },
+            {
+              "display_url": "pic.x.com/S1E4qITJWQ",
+              "end": 69,
+              "expanded_url": "https://x.com/e5ogv/status/2057990897975902538/photo/1",
+              "media_key": "3_2057990878610837504",
+              "start": 46,
+              "url": "https://t.co/S1E4qITJWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057990897975902538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽特麻！\n\n三个月34000万曝光，一分钱没有？\n\n为什么？\n@grok \n#创作者收益 https://t.co/S1E4qITJWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜#小铨的月季花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9961,
+          "following_count": 4363,
+          "like_count": 46973,
+          "listed_count": 30,
+          "media_count": 3645,
+          "tweet_count": 12890
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "pinned_tweet_id": "2056223813159793135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11106,
+          "following_count": 2162,
+          "like_count": 3209,
+          "listed_count": 14,
+          "media_count": 1019,
+          "tweet_count": 14606
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763659,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6885,
+          "media_count": 8961363,
+          "tweet_count": 126726870
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2068396480105480363",
+    "created_at": "2026-06-26T06:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070387033047011611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1308553485642690565",
+          "start": 0,
+          "username": "heatpress_pro"
+        },
+        {
+          "end": 21,
+          "id": "1908086926391033856",
+          "start": 15,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070387033047011611",
+    "in_reply_to_user_id": "1308553485642690565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070376266629513415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heatpress_pro @yqua_ 大概7月2日吧 因为我在想不是说有人都希望把护照原件寄过去\n所以我接下来准备去北京带着另外一位小伙伴去大使馆做公证\n作为证件材料的两个选项之一来使用\n\n我会详细的把大使馆和领事馆相关内容也会写进文章内 具体的步骤我需要去了才知道 有需要什么主意的点之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068396480105480363",
+        "created_at": "2026-06-26T06:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070387033047011611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1308553485642690565",
+              "start": 0,
+              "username": "heatpress_pro"
+            },
+            {
+              "end": 21,
+              "id": "1908086926391033856",
+              "start": 15,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070387033047011611",
+        "in_reply_to_user_id": "1308553485642690565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070376266629513415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heatpress_pro @yqua_ 大概7月2日吧 因为我在想不是说有人都希望把护照原件寄过去\n所以我接下来准备去北京带着另外一位小伙伴去大使馆做公证\n作为证件材料的两个选项之一来使用\n\n我会详细的把大使馆和领事馆相关内容也会写进文章内 具体的步骤我需要去了才知道 有需要什么主意的点之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1308553485642690565",
+        "conversation_id": "2068396480105480363",
+        "created_at": "2026-06-26T05:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070376266629513415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 16,
+              "id": "1908086926391033856",
+              "start": 10,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070376266629513415",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068618791903252845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @yqua_ 写好了吗？可以用AI辅助一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10827,
+          "following_count": 4644,
+          "like_count": 51296,
+          "listed_count": 34,
+          "media_count": 4591,
+          "tweet_count": 15033
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-22T23:47:26.000Z",
+        "description": "外贸网络服务 | Tailscale + Mac M4 双机高手。2019 币圈老玩家，业务远程零卡顿。分享技术心得💻₿ #外贸网络 #Crypto #有关必回，永不取关！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "外贸网络"
+              },
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "Crypto"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "有关必回"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okekrr.com",
+                "end": 23,
+                "expanded_url": "http://okekrr.com",
+                "start": 0,
+                "url": "https://t.co/fXCQ3hfFly"
+              }
+            ]
+          }
+        },
+        "id": "1308553485642690565",
+        "location": "Texas, USA",
+        "name": "Meiko James 在线互关版",
+        "pinned_tweet_id": "2013620690730262787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347200717816176641/Z-yC7Cee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1902,
+          "like_count": 1074,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/fXCQ3hfFly",
+        "username": "heatpress_pro",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "大号@YongQuan\n❤️@xyliaxka\n\n嘛时候是津门第一呐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "YongQuan"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "xyliaxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨铨睡着了🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 873,
+          "like_count": 11315,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

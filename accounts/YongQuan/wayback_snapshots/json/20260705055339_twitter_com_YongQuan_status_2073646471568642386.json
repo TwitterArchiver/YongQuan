@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2073639457811824810",
+    "created_at": "2026-07-05T05:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073646471568642386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560640265433387008",
+          "start": 0,
+          "username": "krimiddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073646471568642386",
+    "in_reply_to_user_id": "1560640265433387008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073639457811824810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krimiddd 对于中国网友来说 TES输了只会有新的歌可以听（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2073639457811824810",
+        "created_at": "2026-07-05T05:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073646471568642386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560640265433387008",
+              "start": 0,
+              "username": "krimiddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073646471568642386",
+        "in_reply_to_user_id": "1560640265433387008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073639457811824810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krimiddd 对于中国网友来说 TES输了只会有新的歌可以听（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560640265433387008",
+        "conversation_id": "2073639457811824810",
+        "created_at": "2026-07-05T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073639457811824810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073639457811824810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "過去のBO1はマルモバグもあったしまだわかる\nBO5でベトナムに負けたらTESほんまにほんまにやばいぞ、もうリブランドするかチームメンバー全員変えて立て直すしかない、というか国際戦の枠をWEで見たい\n\nでも大丈夫、BLG以外のチームはどんぐりの背比べだから🥴🥴🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11055,
+          "following_count": 4703,
+          "like_count": 51782,
+          "listed_count": 37,
+          "media_count": 4827,
+          "tweet_count": 15478
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T14:50:18.000Z",
+        "description": "ORIX\"Losing isn't an option.\" ガンダムSEED大好き。20TES/23JDG/24,25,26BLG LPLファン #BLGWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "BLGWIN"
+              }
+            ]
+          }
+        },
+        "id": "1560640265433387008",
+        "location": "Knight fan",
+        "name": "⚡️切身⚡️",
+        "pinned_tweet_id": "1956467325479367088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476926148513792/cGFeHPNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 149,
+          "like_count": 44280,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 13589
+        },
+        "url": "",
+        "username": "krimiddd",
+        "verified": false
+      }
+    ]
+  }
+}

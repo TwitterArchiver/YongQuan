@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056444776648413263",
+    "created_at": "2026-05-19T19:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056816094724436210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "907975864360501248",
+          "start": 0,
+          "username": "TheCleanCarClub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056816094724436210",
+    "in_reply_to_user_id": "907975864360501248",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056444776648413263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCleanCarClub Demolish the wall."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2056444768238940160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn1nwcXsAA7tNJ.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056444776648413263",
+        "created_at": "2026-05-19T19:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056816094724436210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "907975864360501248",
+              "start": 0,
+              "username": "TheCleanCarClub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056816094724436210",
+        "in_reply_to_user_id": "907975864360501248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056444776648413263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCleanCarClub Demolish the wall."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056444768238940160"
+          ]
+        },
+        "author_id": "907975864360501248",
+        "conversation_id": "2056444776648413263",
+        "created_at": "2026-05-18T18:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056444776648413263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwRqqRrbrX",
+              "end": 82,
+              "expanded_url": "https://x.com/TheCleanCarClub/status/2056444776648413263/photo/1",
+              "media_key": "3_2056444768238940160",
+              "start": 59,
+              "url": "https://t.co/SwRqqRrbrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056444776648413263",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1230,
+          "impression_count": 10352486,
+          "like_count": 5919,
+          "quote_count": 1389,
+          "reply_count": 6118,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "As a senior driver, reverse or drive forward to remove it? https://t.co/SwRqqRrbrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9918,
+          "following_count": 4305,
+          "like_count": 46069,
+          "listed_count": 30,
+          "media_count": 3531,
+          "tweet_count": 12554
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-13T14:34:50.000Z",
+        "description": "We provide latest trends and professional car advice. Join our community of car enthusiasts. DM for promos or email: cleancarclub01@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cleancarclub",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/cleancarclub",
+                "start": 0,
+                "url": "https://t.co/jkjIL2UbqP"
+              }
+            ]
+          }
+        },
+        "id": "907975864360501248",
+        "location": "Subscribe for 1$",
+        "name": "CLEAN CAR CLUB",
+        "pinned_tweet_id": "2036416706004852805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641580943302443015/va2WK2MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752551,
+          "following_count": 49353,
+          "like_count": 112321,
+          "listed_count": 1137,
+          "media_count": 25382,
+          "tweet_count": 65328
+        },
+        "url": "https://t.co/jkjIL2UbqP",
+        "username": "TheCleanCarClub",
+        "verified": true
+      }
+    ]
+  }
+}

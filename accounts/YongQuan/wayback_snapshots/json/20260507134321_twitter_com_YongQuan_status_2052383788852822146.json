@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052362968692924514",
+    "created_at": "2026-05-07T13:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052383788852822146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 28,
+          "id": "1351754253996584961",
+          "start": 16,
+          "username": "heheheha233"
+        },
+        {
+          "end": 39,
+          "id": "2021505488337416192",
+          "start": 29,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052383788852822146",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052383673799073795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @heheheha233 @HuamanX09 属于捏造了 我的建议是当证据给我用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052362968692924514",
+        "created_at": "2026-05-07T13:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052383788852822146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 28,
+              "id": "1351754253996584961",
+              "start": 16,
+              "username": "heheheha233"
+            },
+            {
+              "end": 39,
+              "id": "2021505488337416192",
+              "start": 29,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052383788852822146",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052383673799073795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @heheheha233 @HuamanX09 属于捏造了 我的建议是当证据给我用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2052362968692924514",
+        "created_at": "2026-05-07T13:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052383673799073795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1351754253996584961",
+              "start": 0,
+              "username": "heheheha233"
+            },
+            {
+              "end": 23,
+              "id": "2021505488337416192",
+              "start": 13,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052383673799073795",
+        "in_reply_to_user_id": "1351754253996584961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052372933411250564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heheheha233 @HuamanX09 環状線从未向她借过钱。如果要環状線还钱的话还请出示借条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9463,
+          "following_count": 4202,
+          "like_count": 44657,
+          "listed_count": 29,
+          "media_count": 3214,
+          "tweet_count": 11813
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 87,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 64,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 805,
+          "like_count": 18500,
+          "listed_count": 9,
+          "media_count": 990,
+          "tweet_count": 5460
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-20T04:51:49.000Z",
+        "description": "秉忠贞之志，守谦退之节",
+        "id": "1351754253996584961",
+        "location": "Canton",
+        "name": "【呵呵呵哈】",
+        "pinned_tweet_id": "1894580907597799864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916768733374398464/-eK4sa0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 630,
+          "like_count": 7409,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3056
+        },
+        "username": "heheheha233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "神！@CyberKanjousen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5XUGTKL",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5XUGTKL",
+                "start": 0,
+                "url": "https://t.co/o0VzlkAATx"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "花漫阳春（海底捞战神）",
+        "pinned_tweet_id": "2052383060768014545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 733,
+          "like_count": 4181,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/o0VzlkAATx",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

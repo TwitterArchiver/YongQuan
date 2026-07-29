@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065712135192150017",
+        "3_2065712135200473089",
+        "3_2065712135196274688",
+        "3_2065712135204646912"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065712176224927927",
+    "created_at": "2026-06-13T08:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065712176224927927"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "小铨到处跑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 115,
+          "id": "908312740455907330",
+          "start": 106,
+          "username": "qiuylove"
+        },
+        {
+          "end": 132,
+          "id": "1663066129923981312",
+          "start": 120,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yPS1rphhl",
+          "end": 186,
+          "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+          "media_key": "3_2065712135192150017",
+          "start": 163,
+          "url": "https://t.co/5yPS1rphhl"
+        },
+        {
+          "display_url": "pic.x.com/5yPS1rphhl",
+          "end": 186,
+          "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+          "media_key": "3_2065712135200473089",
+          "start": 163,
+          "url": "https://t.co/5yPS1rphhl"
+        },
+        {
+          "display_url": "pic.x.com/5yPS1rphhl",
+          "end": 186,
+          "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+          "media_key": "3_2065712135196274688",
+          "start": 163,
+          "url": "https://t.co/5yPS1rphhl"
+        },
+        {
+          "display_url": "pic.x.com/5yPS1rphhl",
+          "end": 186,
+          "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+          "media_key": "3_2065712135204646912",
+          "start": 163,
+          "url": "https://t.co/5yPS1rphhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065712176224927927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#小铨到处跑 厦门！\n两年之后 再到厦门\n感觉只适合更多的来短暂（1-2天都算长了）游玩\n\n中山路 1980烧肉粽 两个人逛吃逛吃 ¥130（约 雪秋买的单）\n分量还是蛮大的\n就是有点晕碳 有点困困的\n回去顺带让@qiuylove 电了一下@Ak1raQ_love \n（给孩子高兴的）\n\n好了 晚上四处溜达一下 有点困困的。 https://t.co/5yPS1rphhl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2065712135192150017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgpXgAEw0YV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135200473089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgrWgAErh_Z.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135196274688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgqWcAAxlga.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135204646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgsWMAAoadG.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065712135192150017",
+            "3_2065712135200473089",
+            "3_2065712135196274688",
+            "3_2065712135204646912"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065712176224927927",
+        "created_at": "2026-06-13T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065712176224927927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "小铨到处跑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 115,
+              "id": "908312740455907330",
+              "start": 106,
+              "username": "qiuylove"
+            },
+            {
+              "end": 132,
+              "id": "1663066129923981312",
+              "start": 120,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135192150017",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135200473089",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135196274688",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135204646912",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065712176224927927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小铨到处跑 厦门！\n两年之后 再到厦门\n感觉只适合更多的来短暂（1-2天都算长了）游玩\n\n中山路 1980烧肉粽 两个人逛吃逛吃 ¥130（约 雪秋买的单）\n分量还是蛮大的\n就是有点晕碳 有点困困的\n回去顺带让@qiuylove 电了一下@Ak1raQ_love \n（给孩子高兴的）\n\n好了 晚上四处溜达一下 有点困困的。 https://t.co/5yPS1rphhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10615,
+          "following_count": 4534,
+          "like_count": 49972,
+          "listed_count": 34,
+          "media_count": 4235,
+          "tweet_count": 14163
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 104,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 81,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcI8h"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "小秋月🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 851,
+          "like_count": 71887,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/paxAwGcI8h",
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 991,
+          "like_count": 189023,
+          "listed_count": 3,
+          "media_count": 826,
+          "tweet_count": 6979
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065662639272038400"
+      ],
+      "media_source_tweet_id": [
+        "2065662649682325833"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065675828122247431",
+    "created_at": "2026-06-13T06:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065675828122247431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjhSg0ViwG",
+          "end": 53,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2065662649682325833/photo/1",
+          "media_key": "3_2065662639272038400",
+          "start": 30,
+          "url": "https://t.co/xjhSg0ViwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065675828122247431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065662649682325833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 欧尼  中考加油（ https://t.co/xjhSg0ViwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2065662639272038400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq1Od-bEAATr48.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065662639272038400"
+          ],
+          "media_source_tweet_id": [
+            "2065662649682325833"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065675828122247431",
+        "created_at": "2026-06-13T06:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065675828122247431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjhSg0ViwG",
+              "end": 53,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2065662649682325833/photo/1",
+              "media_key": "3_2065662639272038400",
+              "start": 30,
+              "url": "https://t.co/xjhSg0ViwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065675828122247431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065662649682325833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 欧尼  中考加油（ https://t.co/xjhSg0ViwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065662639272038400"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2065662649682325833",
+        "created_at": "2026-06-13T05:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065662649682325833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjhSg0ViwG",
+              "end": 33,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2065662649682325833/photo/1",
+              "media_key": "3_2065662639272038400",
+              "start": 10,
+              "url": "https://t.co/xjhSg0ViwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662649682325833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "欧尼  中考加油（ https://t.co/xjhSg0ViwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10614,
+          "following_count": 4534,
+          "like_count": 49952,
+          "listed_count": 34,
+          "media_count": 4231,
+          "tweet_count": 14156
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 301,
+          "like_count": 1333,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 288
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

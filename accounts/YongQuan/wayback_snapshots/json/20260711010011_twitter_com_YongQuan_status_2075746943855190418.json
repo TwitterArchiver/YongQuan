@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075384527355248641"
+      ],
+      "media_source_tweet_id": [
+        "2075384529544679765"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2075746943855190418",
+    "created_at": "2026-07-11T01:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075746943855190418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftwnKQnlvB",
+          "end": 111,
+          "expanded_url": "https://x.com/show5560/status/2075384529544679765/photo/1",
+          "media_key": "3_2075384527355248641",
+          "start": 88,
+          "url": "https://t.co/ftwnKQnlvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075746943855190418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075384529544679765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 今天生日.....我不知道该怎么办了.....我不知道该做什么，如果我没有见过光明就好了\n导致就剩下我一个人....不知道该做什么，好难受.... https://t.co/ftwnKQnlvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2075384527355248641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0_O1VaAAEb6mu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075384527355248641"
+          ],
+          "media_source_tweet_id": [
+            "2075384529544679765"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2075746943855190418",
+        "created_at": "2026-07-11T01:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075746943855190418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftwnKQnlvB",
+              "end": 111,
+              "expanded_url": "https://x.com/show5560/status/2075384529544679765/photo/1",
+              "media_key": "3_2075384527355248641",
+              "start": 88,
+              "url": "https://t.co/ftwnKQnlvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075746943855190418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075384529544679765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 今天生日.....我不知道该怎么办了.....我不知道该做什么，如果我没有见过光明就好了\n导致就剩下我一个人....不知道该做什么，好难受.... https://t.co/ftwnKQnlvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075384527355248641"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075384529544679765",
+        "created_at": "2026-07-10T01:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075384529544679765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftwnKQnlvB",
+              "end": 97,
+              "expanded_url": "https://x.com/show5560/status/2075384529544679765/photo/1",
+              "media_key": "3_2075384527355248641",
+              "start": 74,
+              "url": "https://t.co/ftwnKQnlvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075384529544679765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1190,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天生日.....我不知道该怎么办了.....我不知道该做什么，如果我没有见过光明就好了\n导致就剩下我一个人....不知道该做什么，好难受.... https://t.co/ftwnKQnlvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "老婆 ❤️@XUEQIUxka\n日记本@yqua_｜剧本草稿@RenYueAny\nEnby.｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11135,
+          "following_count": 4742,
+          "like_count": 52282,
+          "listed_count": 38,
+          "media_count": 4989,
+          "tweet_count": 15760
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4766,
+          "following_count": 1735,
+          "like_count": 30795,
+          "listed_count": 12,
+          "media_count": 2171,
+          "tweet_count": 10045
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

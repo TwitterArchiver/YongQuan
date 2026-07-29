@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074792446509388236",
+    "created_at": "2026-07-08T15:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074873565891993605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1608039991883730944",
+          "start": 0,
+          "username": "0xhash7"
+        },
+        {
+          "end": 22,
+          "id": "1435990322702520320",
+          "start": 9,
+          "username": "silverfang88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074873565891993605",
+    "in_reply_to_user_id": "1608039991883730944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074812802322284961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xhash7 @silverfang88 猛在哪🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074792446509388236",
+        "created_at": "2026-07-08T15:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074873565891993605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1608039991883730944",
+              "start": 0,
+              "username": "0xhash7"
+            },
+            {
+              "end": 22,
+              "id": "1435990322702520320",
+              "start": 9,
+              "username": "silverfang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074873565891993605",
+        "in_reply_to_user_id": "1608039991883730944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074812802322284961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xhash7 @silverfang88 猛在哪🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608039991883730944",
+        "conversation_id": "2074792446509388236",
+        "created_at": "2026-07-08T11:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074812802322284961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 23,
+              "id": "1435990322702520320",
+              "start": 10,
+              "username": "silverfang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812802322284961",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792908641693817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @silverfang88 hle看起来明显更猛一点啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "老婆 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\n\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11061,
+          "following_count": 4707,
+          "like_count": 52064,
+          "listed_count": 37,
+          "media_count": 4920,
+          "tweet_count": 15637
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T10:00:07.000Z",
+        "description": "",
+        "id": "1608039991883730944",
+        "name": "0xhash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608040087539060736/DFgfhdb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 152,
+          "like_count": 4772,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "0xhash7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T15:36:07.000Z",
+        "description": "爆仓$15m 彻底失败｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗https://t.co/2xvR6AW4jb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 78,
+                "expanded_url": "http://okx.com",
+                "start": 55,
+                "url": "https://t.co/2xvR6AW4jb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alphat1am",
+                "end": 23,
+                "expanded_url": "https://t.me/alphat1am",
+                "start": 0,
+                "url": "https://t.co/PWhIML27vv"
+              }
+            ]
+          }
+        },
+        "id": "1435990322702520320",
+        "location": "2 steps ahead",
+        "name": "子时",
+        "pinned_tweet_id": "2074010068337787116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95869,
+          "following_count": 3111,
+          "like_count": 21601,
+          "listed_count": 1548,
+          "media_count": 3420,
+          "tweet_count": 18925
+        },
+        "url": "https://t.co/PWhIML27vv",
+        "username": "silverfang88",
+        "verified": true
+      }
+    ]
+  }
+}

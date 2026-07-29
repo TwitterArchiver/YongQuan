@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059146016587476992"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059146033570152959",
+    "created_at": "2026-05-26T05:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059146033570152959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "sohu.com/a/1027688456_1…",
+          "end": 37,
+          "expanded_url": "https://www.sohu.com/a/1027688456_121019331",
+          "start": 14,
+          "unwound_url": "https://www.sohu.com/a/1027688456_121019331",
+          "url": "https://t.co/kLDnBbxKeB"
+        },
+        {
+          "display_url": "pic.x.com/TRCOgiOgTj",
+          "end": 61,
+          "expanded_url": "https://x.com/YongQuan/status/2059146033570152959/photo/1",
+          "media_key": "3_2059146016587476992",
+          "start": 38,
+          "url": "https://t.co/TRCOgiOgTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059146033570152959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真实世界的商战Belike：https://t.co/kLDnBbxKeB https://t.co/TRCOgiOgTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2059146016587476992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOOZGtbcAAGwq1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059146016587476992"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059146033570152959",
+        "created_at": "2026-05-26T05:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059146033570152959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "sohu.com/a/1027688456_1…",
+              "end": 37,
+              "expanded_url": "https://www.sohu.com/a/1027688456_121019331",
+              "start": 14,
+              "unwound_url": "https://www.sohu.com/a/1027688456_121019331",
+              "url": "https://t.co/kLDnBbxKeB"
+            },
+            {
+              "display_url": "pic.x.com/TRCOgiOgTj",
+              "end": 61,
+              "expanded_url": "https://x.com/YongQuan/status/2059146033570152959/photo/1",
+              "media_key": "3_2059146016587476992",
+              "start": 38,
+              "url": "https://t.co/TRCOgiOgTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059146033570152959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真实世界的商战Belike：https://t.co/kLDnBbxKeB https://t.co/TRCOgiOgTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10053,
+          "following_count": 4398,
+          "like_count": 47499,
+          "listed_count": 30,
+          "media_count": 3763,
+          "tweet_count": 13133
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

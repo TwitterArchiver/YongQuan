@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061417714174881882",
+    "created_at": "2026-06-01T13:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061441625373729096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1593590077048987649",
+          "start": 0,
+          "username": "DKInfosBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061441625373729096",
+    "in_reply_to_user_id": "1593590077048987649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061417714174881882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKInfosBR 他喵的，WE都能连斩BLG和AL，我Showmaker也能连斩KT、GENG、HLE/T1！！！\n\n大家把光借给Showmaker！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061417714174881882",
+        "created_at": "2026-06-01T13:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061441625373729096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593590077048987649",
+              "start": 0,
+              "username": "DKInfosBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061441625373729096",
+        "in_reply_to_user_id": "1593590077048987649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061417714174881882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKInfosBR 他喵的，WE都能连斩BLG和AL，我Showmaker也能连斩KT、GENG、HLE/T1！！！\n\n大家把光借给Showmaker！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593590077048987649",
+        "conversation_id": "2061417714174881882",
+        "created_at": "2026-06-01T12:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061417714174881882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LPLinsider_/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/LPLinsider_/status/2061415976407552334",
+              "start": 107,
+              "url": "https://t.co/u1YsCOvJfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061417714174881882",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 981,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061415976407552334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Eu to começando a acreditar que dá pra vencer BRO, KT, GENG e T1/HLE em sequência.\n\nNão existe impossível. https://t.co/u1YsCOvJfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10361,
+          "following_count": 4446,
+          "like_count": 48014,
+          "listed_count": 30,
+          "media_count": 3912,
+          "tweet_count": 13428
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T13:01:11.000Z",
+        "description": "Tudo sobre a @DplusKIA. 🇰🇷🇧🇷\n\n🗞️ informações\n📊 estatísticas\n📔 curiosidades\n\n🏆 3x LCK Champions\n🏆 1x World Champions",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "DplusKIA"
+              }
+            ]
+          }
+        },
+        "id": "1593590077048987649",
+        "name": "DK Infos 🇧🇷",
+        "pinned_tweet_id": "2054563536580305018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057649172342280192/hN9gUXQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 253,
+          "like_count": 21190,
+          "listed_count": 3,
+          "media_count": 2123,
+          "tweet_count": 8911
+        },
+        "username": "DKInfosBR",
+        "verified": true
+      }
+    ]
+  }
+}

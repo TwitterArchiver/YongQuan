@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063417324259119104"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062989150798709127",
+    "created_at": "2026-06-07T00:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063417330756104609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "535756639",
+          "start": 0,
+          "username": "FaZeEsports"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uoKNNBx7rY",
+          "end": 48,
+          "expanded_url": "https://x.com/YongQuan/status/2063417330756104609/photo/1",
+          "media_key": "3_2063417324259119104",
+          "start": 25,
+          "url": "https://t.co/uoKNNBx7rY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063417330756104609",
+    "in_reply_to_user_id": "535756639",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062989150798709127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FaZeEsports BIG Belike： https://t.co/uoKNNBx7rY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2063417324259119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK7H7vaEAAIKEI.jpg",
+        "width": 221
+      },
+      {
+        "height": 254,
+        "media_key": "3_2062989110097145857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE1qlrW8AEmBjh.png",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063417324259119104"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062989150798709127",
+        "created_at": "2026-06-07T00:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063417330756104609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "535756639",
+              "start": 0,
+              "username": "FaZeEsports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoKNNBx7rY",
+              "end": 48,
+              "expanded_url": "https://x.com/YongQuan/status/2063417330756104609/photo/1",
+              "media_key": "3_2063417324259119104",
+              "start": 25,
+              "url": "https://t.co/uoKNNBx7rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063417330756104609",
+        "in_reply_to_user_id": "535756639",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062989150798709127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FaZeEsports BIG Belike： https://t.co/uoKNNBx7rY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062989110097145857"
+          ]
+        },
+        "author_id": "535756639",
+        "conversation_id": "2062989150798709127",
+        "created_at": "2026-06-05T20:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062989150798709127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ewyi2Thfkv",
+              "end": 46,
+              "expanded_url": "https://x.com/FaZeEsports/status/2062989150798709127/photo/1",
+              "media_key": "3_2062989110097145857",
+              "start": 23,
+              "url": "https://t.co/Ewyi2Thfkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062989150798709127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 174054,
+          "like_count": 8593,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "BIG stole our bullshit https://t.co/Ewyi2Thfkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "F1"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10512,
+          "following_count": 4507,
+          "like_count": 48893,
+          "listed_count": 31,
+          "media_count": 4066,
+          "tweet_count": 13771
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-24T22:08:37.000Z",
+        "description": "The most entertaining team in esports. 61-Time Major Champions 🏆 #FaZeUp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 65,
+                "tag": "FaZeUp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fazeproshop.com",
+                "end": 23,
+                "expanded_url": "http://fazeproshop.com",
+                "start": 0,
+                "url": "https://t.co/eMKnorKvqy"
+              }
+            ]
+          }
+        },
+        "id": "535756639",
+        "location": "Frisco, TX",
+        "name": "FaZe Esports",
+        "pinned_tweet_id": "2049504382006206575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039696870205988864/_pgjVBoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322257,
+          "following_count": 154,
+          "like_count": 9628,
+          "listed_count": 294,
+          "media_count": 14118,
+          "tweet_count": 23127
+        },
+        "url": "https://t.co/eMKnorKvqy",
+        "username": "FaZeEsports",
+        "verified": true
+      }
+    ]
+  }
+}

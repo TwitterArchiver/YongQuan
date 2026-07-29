@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066077734829191168"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066309713013453108",
+    "created_at": "2026-06-15T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066309713013453108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQnp8g2EUx",
+          "end": 41,
+          "expanded_url": "https://x.com/YongQuan/status/2066309713013453108/photo/1",
+          "media_key": "3_2066077734829191168",
+          "start": 18,
+          "url": "https://t.co/hQnp8g2EUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066309713013453108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一说一 我真的也会吃小玩具的醋（ https://t.co/hQnp8g2EUx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2682,
+        "media_key": "3_2066077734829191168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwuwNbWcAAJ4Br.jpg",
+        "width": 2392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066077734829191168"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066309713013453108",
+        "created_at": "2026-06-15T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066309713013453108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQnp8g2EUx",
+              "end": 41,
+              "expanded_url": "https://x.com/YongQuan/status/2066309713013453108/photo/1",
+              "media_key": "3_2066077734829191168",
+              "start": 18,
+              "url": "https://t.co/hQnp8g2EUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066309713013453108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一 我真的也会吃小玩具的醋（ https://t.co/hQnp8g2EUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10644,
+          "following_count": 4551,
+          "like_count": 50184,
+          "listed_count": 35,
+          "media_count": 4282,
+          "tweet_count": 14274
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054093001245458615",
+    "created_at": "2026-05-12T06:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054093999280165070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135120566287921153",
+          "start": 0,
+          "username": "Alex_perception"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054093999280165070",
+    "in_reply_to_user_id": "1135120566287921153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054093001245458615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@Alex_perception 老师有没有想过除了DC之外的平台可以用诶（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054093001245458615",
+        "created_at": "2026-05-12T06:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054093999280165070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135120566287921153",
+              "start": 0,
+              "username": "Alex_perception"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054093999280165070",
+        "in_reply_to_user_id": "1135120566287921153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054093001245458615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@Alex_perception 老师有没有想过除了DC之外的平台可以用诶（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135120566287921153",
+        "conversation_id": "2054093001245458615",
+        "created_at": "2026-05-12T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054093001245458615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054093001245458615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "互动社群继续招新人加入~诚心邀请想要多增加曝光的朋友。  ——仅限蓝V\n（1）本群核心目标就是相互给群友的质量贴加热。  \n（2）不设置门槛费，但不遵守群规会请出。   \n（3）注意：这并不是交流群。   \n（4）有兴趣直接帖子下面回复就好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9709,
+          "following_count": 4220,
+          "like_count": 45090,
+          "listed_count": 29,
+          "media_count": 3333,
+          "tweet_count": 12070
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-02T09:46:47.000Z",
+        "description": "YouTuber\n用逻辑和独立思考发掘事物的本质\n经济爱好者\n认清客观事实 友善交流 拒绝情绪宣泄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ganzhi0906",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ganzhi0906",
+                "start": 0,
+                "url": "https://t.co/K9Eg80Ihnp"
+              }
+            ]
+          }
+        },
+        "id": "1135120566287921153",
+        "name": "Alex_感知",
+        "pinned_tweet_id": "2054041277248016432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692350922599596032/Hz0cOlcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43185,
+          "following_count": 868,
+          "like_count": 5064,
+          "listed_count": 366,
+          "media_count": 997,
+          "tweet_count": 20775
+        },
+        "url": "https://t.co/K9Eg80Ihnp",
+        "username": "Alex_perception",
+        "verified": true
+      }
+    ]
+  }
+}

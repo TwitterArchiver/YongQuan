@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072915974865420288"
+      ],
+      "media_source_tweet_id": [
+        "2072916025394286651"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      }
+    ],
+    "conversation_id": "2072916109922066577",
+    "created_at": "2026-07-03T05:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072916109922066577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597240331048820738",
+          "start": 3,
+          "username": "G2League"
+        },
+        {
+          "end": 29,
+          "id": "614754689",
+          "start": 18,
+          "username": "lolesports"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/je2OHtPuES",
+          "end": 53,
+          "expanded_url": "https://x.com/G2League/status/2072916025394286651/photo/1",
+          "media_key": "3_2072915974865420288",
+          "start": 30,
+          "url": "https://t.co/je2OHtPuES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072916109922066577",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072916025394286651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G2League: ??? @lolesports https://t.co/je2OHtPuES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2072915974865420288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR6GKsWAAAZdA7.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072915974865420288"
+          ],
+          "media_source_tweet_id": [
+            "2072916025394286651"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2072916109922066577",
+        "created_at": "2026-07-03T05:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072916109922066577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597240331048820738",
+              "start": 3,
+              "username": "G2League"
+            },
+            {
+              "end": 29,
+              "id": "614754689",
+              "start": 18,
+              "username": "lolesports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/je2OHtPuES",
+              "end": 53,
+              "expanded_url": "https://x.com/G2League/status/2072916025394286651/photo/1",
+              "media_key": "3_2072915974865420288",
+              "start": 30,
+              "url": "https://t.co/je2OHtPuES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072916109922066577",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072916025394286651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G2League: ??? @lolesports https://t.co/je2OHtPuES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072915974865420288"
+          ]
+        },
+        "author_id": "1597240331048820738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2072916025394286651",
+        "created_at": "2026-07-03T05:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072916025394286651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "614754689",
+              "start": 4,
+              "username": "lolesports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/je2OHtPuES",
+              "end": 39,
+              "expanded_url": "https://x.com/G2League/status/2072916025394286651/photo/1",
+              "media_key": "3_2072915974865420288",
+              "start": 16,
+              "url": "https://t.co/je2OHtPuES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072916025394286651",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "??? @lolesports https://t.co/je2OHtPuES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11023,
+          "following_count": 4689,
+          "like_count": 51666,
+          "listed_count": 37,
+          "media_count": 4767,
+          "tweet_count": 15360
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T14:46:35.000Z",
+        "description": "Home of @G2esports League of Legends\nLEC Grand Slam Winners 🏆 \nScrim World Champions 🏆\nMeta World Champions 🏆\n9x (Unofficial) World Champions 🏆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          }
+        },
+        "id": "1597240331048820738",
+        "location": "finals (winning)",
+        "name": "G2 League of Legends",
+        "pinned_tweet_id": "2063704067470159919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040366637682159616/focZCPSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142741,
+          "following_count": 140,
+          "like_count": 37934,
+          "listed_count": 231,
+          "media_count": 10675,
+          "tweet_count": 30442
+        },
+        "url": "",
+        "username": "G2League",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-22T01:55:13.000Z",
+        "description": "Up next at #MSI2026:\nHLE vs TSW\nG2 vs TES\n\nWatch on https://t.co/RwFjaLauAw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "MSI2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 75,
+                "expanded_url": "http://lolesports.com",
+                "start": 52,
+                "url": "https://t.co/RwFjaLauAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 23,
+                "expanded_url": "http://www.lolesports.com",
+                "start": 0,
+                "url": "https://t.co/7dbNykDLyS"
+              }
+            ]
+          }
+        },
+        "id": "614754689",
+        "location": "Worldwide",
+        "name": "LoL Esports",
+        "pinned_tweet_id": "2072912600606908709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066491475806859264/qscg_Tkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564853,
+          "following_count": 606,
+          "like_count": 7771,
+          "listed_count": 4397,
+          "media_count": 39868,
+          "tweet_count": 76228
+        },
+        "url": "https://t.co/7dbNykDLyS",
+        "username": "lolesports",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2063995024837394690",
+    "created_at": "2026-06-08T14:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063996542458179849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956493742602584064",
+          "start": 0,
+          "username": "nya_korii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063996542458179849",
+    "in_reply_to_user_id": "1956493742602584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063995024837394690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nya_korii 羡慕关系🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063995024837394690].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063995024837394690",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063995024837394690"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063995024837394690",
+        "created_at": "2026-06-08T14:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063996542458179849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956493742602584064",
+              "start": 0,
+              "username": "nya_korii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063996542458179849",
+        "in_reply_to_user_id": "1956493742602584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063995024837394690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_korii 羡慕关系🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10575,
+          "following_count": 4520,
+          "like_count": 49225,
+          "listed_count": 31,
+          "media_count": 4117,
+          "tweet_count": 13860
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-15T23:10:41.000Z",
+        "description": "@nya_souta | Le roi est mort vive le roi!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nya_souta"
+              }
+            ]
+          }
+        },
+        "id": "1956493742602584064",
+        "location": "Thiruvananthapuram",
+        "name": "狗大言儿",
+        "pinned_tweet_id": "2062175888415080571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004934759693094912/SMrCoaEW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 187,
+          "like_count": 2950,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1394
+        },
+        "username": "nya_korii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      }
+    ],
+    "conversation_id": "2072993441945125210",
+    "created_at": "2026-07-03T23:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073184901206028579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998344910739759104",
+          "start": 0,
+          "username": "AspasNb7869"
+        },
+        {
+          "end": 22,
+          "id": "2057443382360944642",
+          "start": 13,
+          "username": "tanchibb"
+        },
+        {
+          "end": 36,
+          "id": "1028508123290431488",
+          "start": 23,
+          "username": "TOP_Esports_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073184901206028579",
+    "in_reply_to_user_id": "1998344910739759104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073025243023856025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspasNb7869 @tanchibb @TOP_Esports_ 路边一坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          }
+        ],
+        "conversation_id": "2072993441945125210",
+        "created_at": "2026-07-03T23:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073184901206028579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998344910739759104",
+              "start": 0,
+              "username": "AspasNb7869"
+            },
+            {
+              "end": 22,
+              "id": "2057443382360944642",
+              "start": 13,
+              "username": "tanchibb"
+            },
+            {
+              "end": 36,
+              "id": "1028508123290431488",
+              "start": 23,
+              "username": "TOP_Esports_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073184901206028579",
+        "in_reply_to_user_id": "1998344910739759104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073025243023856025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspasNb7869 @tanchibb @TOP_Esports_ 路边一坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998344910739759104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          }
+        ],
+        "conversation_id": "2072993441945125210",
+        "created_at": "2026-07-03T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073025243023856025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057443382360944642",
+              "start": 0,
+              "username": "tanchibb"
+            },
+            {
+              "end": 23,
+              "id": "1028508123290431488",
+              "start": 10,
+              "username": "TOP_Esports_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073025243023856025",
+        "in_reply_to_user_id": "2057443382360944642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073010786658927059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanchibb @TOP_Esports_ 外战看滔搏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11037,
+          "following_count": 4692,
+          "like_count": 51694,
+          "listed_count": 37,
+          "media_count": 4788,
+          "tweet_count": 15393
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-09T10:53:00.000Z",
+        "description": "",
+        "id": "1998344910739759104",
+        "name": "nb aspas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067169304798449664/VE0NP1uN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "AspasNb7869",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T12:48:55.000Z",
+        "description": "",
+        "id": "2057443382360944642",
+        "name": "贪吃不贪吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057443807277531136/BJMV4Mss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 424,
+          "like_count": 1268,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "tanchibb",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-12T05:07:00.000Z",
+        "description": "Official Twitter Account for TOP ESPORTS (TES) 滔搏电子竞技俱乐部官方推特账号 Follow us on Instagram:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/topesports_off…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/topesports_official/",
+                "start": 0,
+                "url": "https://t.co/DmMz3R7fRC"
+              }
+            ]
+          }
+        },
+        "id": "1028508123290431488",
+        "name": "TOPESPORTS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446269609508864/vMvSU06r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54081,
+          "following_count": 131,
+          "like_count": 749,
+          "listed_count": 317,
+          "media_count": 1067,
+          "tweet_count": 1377
+        },
+        "url": "https://t.co/DmMz3R7fRC",
+        "username": "TOP_Esports_",
+        "verified": false
+      }
+    ]
+  }
+}

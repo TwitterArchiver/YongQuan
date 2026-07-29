@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2075928097438748928",
+    "created_at": "2026-07-12T00:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076097737385267222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1028139778536079360",
+          "start": 0,
+          "username": "kohakumito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076097737385267222",
+    "in_reply_to_user_id": "1028139778536079360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076091983551250663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohakumito 看看你的（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2075928097438748928",
+        "created_at": "2026-07-12T00:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076097737385267222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028139778536079360",
+              "start": 0,
+              "username": "kohakumito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076097737385267222",
+        "in_reply_to_user_id": "1028139778536079360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076091983551250663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohakumito 看看你的（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028139778536079360",
+        "conversation_id": "2075928097438748928",
+        "created_at": "2026-07-11T23:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076091983551250663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076091983551250663",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075928097438748928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 挺有格调（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\nEnby.｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11139,
+          "following_count": 4750,
+          "like_count": 52336,
+          "listed_count": 38,
+          "media_count": 5012,
+          "tweet_count": 15802
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "location": "中華民國",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 951,
+          "like_count": 21105,
+          "listed_count": 11,
+          "media_count": 467,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true
+      }
+    ]
+  }
+}

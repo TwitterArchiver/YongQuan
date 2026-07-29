@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062217568820379683",
+    "created_at": "2026-06-04T01:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062343567423791569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "274961402",
+          "start": 0,
+          "username": "razlol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062343567423791569",
+    "in_reply_to_user_id": "274961402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062340280398033196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@razlol Not 联系，it is 练习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062217568820379683",
+        "created_at": "2026-06-04T01:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062343567423791569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "274961402",
+              "start": 0,
+              "username": "razlol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062343567423791569",
+        "in_reply_to_user_id": "274961402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062340280398033196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@razlol Not 联系，it is 练习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "274961402",
+        "conversation_id": "2062217568820379683",
+        "created_at": "2026-06-04T01:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062340280398033196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062340280398033196",
+        "in_reply_to_user_id": "274961402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062338535450132556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 我联系我的中文呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10438,
+          "following_count": 4485,
+          "like_count": 48490,
+          "listed_count": 31,
+          "media_count": 3985,
+          "tweet_count": 13619
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-31T10:57:12.000Z",
+        "description": "Resident Lucian. LCS & LPL guy💫 🇨🇦",
+        "id": "274961402",
+        "location": "Los Angeles, CA",
+        "name": "Barento",
+        "pinned_tweet_id": "2010632494866210947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060602438466543616/vH1LxX05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48043,
+          "following_count": 2111,
+          "like_count": 95325,
+          "listed_count": 306,
+          "media_count": 13685,
+          "tweet_count": 80858
+        },
+        "username": "razlol",
+        "verified": true
+      }
+    ]
+  }
+}

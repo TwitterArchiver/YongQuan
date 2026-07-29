@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065932229184983150",
+    "created_at": "2026-06-14T01:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065962914788356405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946848637297848320",
+          "start": 0,
+          "username": "adserday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065962914788356405",
+    "in_reply_to_user_id": "1946848637297848320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065960748833276067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adserday 好吃鸭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_2065960731380764672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvEVtnbUAAXNyH.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065932229184983150",
+        "created_at": "2026-06-14T01:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065962914788356405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946848637297848320",
+              "start": 0,
+              "username": "adserday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065962914788356405",
+        "in_reply_to_user_id": "1946848637297848320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065960748833276067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adserday 好吃鸭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065960731380764672"
+          ]
+        },
+        "author_id": "1946848637297848320",
+        "conversation_id": "2065932229184983150",
+        "created_at": "2026-06-14T00:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065960748833276067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8dfeYP4t3",
+              "end": 33,
+              "expanded_url": "https://x.com/adserday/status/2065960748833276067/photo/1",
+              "media_key": "3_2065960731380764672",
+              "start": 10,
+              "url": "https://t.co/T8dfeYP4t3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065960748833276067",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065932229184983150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan https://t.co/T8dfeYP4t3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10626,
+          "following_count": 4540,
+          "like_count": 50034,
+          "listed_count": 35,
+          "media_count": 4257,
+          "tweet_count": 14217
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:24:26.000Z",
+        "description": "✈️已飞0国丨男女混血丨Wild Chicken University丨中国留宿生丨华籍美人丨📱OPPOA5（无SIM）🛍️PDD资深买手🏅丨蜜雪冰城品鉴师☕丨🆔国家级身份证持有者丨雅思托福没考丨恩格尔系数1.00丨诺贝尔奖觊觎者🏄Internet冲浪达人丨熟练掌握🇨🇳语言丨个人存款💰0",
+        "id": "1946848637297848320",
+        "name": "Alois",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065404545916874752/i-rdU538_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 228,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 205
+        },
+        "username": "adserday",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2049080275012092120",
+    "created_at": "2026-04-28T10:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049080275012092120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2048…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2048474192740528128",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2048474192740528128",
+          "url": "https://t.co/WPnI5nC2uA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049080275012092120",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048661429277032751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: https://t.co/WPnI5nC2uA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2049080275012092120",
+        "created_at": "2026-04-28T10:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049080275012092120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2048…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2048474192740528128",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2048474192740528128",
+              "url": "https://t.co/WPnI5nC2uA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049080275012092120",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048661429277032751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: https://t.co/WPnI5nC2uA"
+      },
+      {
+        "article": {
+          "title": "触目惊心的中国跨性別现状"
+        },
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2048661429277032751",
+        "created_at": "2026-04-27T07:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048661429277032751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2048…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2048474192740528128",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2048474192740528128",
+              "url": "https://t.co/WPnI5nC2uA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048661429277032751",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 28888,
+          "like_count": 228,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WPnI5nC2uA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9185,
+          "following_count": 4170,
+          "like_count": 43420,
+          "listed_count": 28,
+          "media_count": 2978,
+          "tweet_count": 11316
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011461446195130369/v137vh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 357,
+          "like_count": 9431,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

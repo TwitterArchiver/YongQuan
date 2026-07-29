@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055966566425227558",
+    "created_at": "2026-05-17T12:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055992015394148753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327187975877353475",
+          "start": 0,
+          "username": "rukuriri_mk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055992015394148753",
+    "in_reply_to_user_id": "1327187975877353475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055990752958947712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukuriri_mk4 是啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055966566425227558",
+        "created_at": "2026-05-17T12:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055992015394148753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327187975877353475",
+              "start": 0,
+              "username": "rukuriri_mk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055992015394148753",
+        "in_reply_to_user_id": "1327187975877353475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055990752958947712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukuriri_mk4 是啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327187975877353475",
+        "conversation_id": "2055966566425227558",
+        "created_at": "2026-05-17T12:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055990752958947712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055990752958947712",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966566425227558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 脱碳那不是氧化氢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9860,
+          "following_count": 4269,
+          "like_count": 45761,
+          "listed_count": 30,
+          "media_count": 3463,
+          "tweet_count": 12404
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-13T09:54:11.000Z",
+        "description": "芝麻人/异端/11248964要愤怒不忘记| 蓝天和麦地，双色旗飘扬🇺🇦/人权·科学·自由/#ガルパンのルクリリさんが大好き/#ドロヘドロ異獸魔都",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 46,
+                "tag": "ガルパンのルクリリさんが大好き"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "tag": "ドロヘドロ異獸魔都"
+              }
+            ]
+          }
+        },
+        "id": "1327187975877353475",
+        "name": "二階堂きりあき(求求了円高い）🤍💙💛",
+        "pinned_tweet_id": "1697988177880088738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028104768917573632/nNdF4lsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 310,
+          "like_count": 69628,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 4124
+        },
+        "username": "rukuriri_mk4",
+        "verified": false
+      }
+    ]
+  }
+}

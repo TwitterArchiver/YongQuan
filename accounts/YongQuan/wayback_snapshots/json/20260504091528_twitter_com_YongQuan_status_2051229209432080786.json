@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048325711975555072"
+      ],
+      "media_source_tweet_id": [
+        "2051149824893047082"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051229209432080786",
+    "created_at": "2026-05-04T09:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051229209432080786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWG2JJgrWW",
+          "end": 41,
+          "expanded_url": "https://x.com/YongQuan/status/2051149824893047082/photo/1",
+          "media_key": "3_2048325711975555072",
+          "start": 18,
+          "url": "https://t.co/gWG2JJgrWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051229209432080786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051149824893047082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 哈基基 https://t.co/gWG2JJgrWW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051229209432080786].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051229209432080786",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051229209432080786"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048325711975555072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0dYe6aIAA9BFK.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048325711975555072"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051149824893047082",
+        "created_at": "2026-05-04T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051149824893047082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWG2JJgrWW",
+              "end": 27,
+              "expanded_url": "https://x.com/YongQuan/status/2051149824893047082/photo/1",
+              "media_key": "3_2048325711975555072",
+              "start": 4,
+              "url": "https://t.co/gWG2JJgrWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051149824893047082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基基 https://t.co/gWG2JJgrWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9348,
+          "following_count": 4183,
+          "like_count": 43980,
+          "listed_count": 29,
+          "media_count": 3124,
+          "tweet_count": 11594
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

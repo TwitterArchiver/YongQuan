@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056542662929641472"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057506706872320447",
+    "created_at": "2026-05-21T17:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057506706872320447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FCehLGncXX",
+          "end": 35,
+          "expanded_url": "https://x.com/YongQuan/status/2057506706872320447/photo/1",
+          "media_key": "3_2056542662929641472",
+          "start": 12,
+          "url": "https://t.co/FCehLGncXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057506706872320447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要不，用洛阳铲的模型？ https://t.co/FCehLGncXX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2056542662929641472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpOp-lbcAADjeu.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056542662929641472"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057506706872320447",
+        "created_at": "2026-05-21T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057506706872320447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCehLGncXX",
+              "end": 35,
+              "expanded_url": "https://x.com/YongQuan/status/2057506706872320447/photo/1",
+              "media_key": "3_2056542662929641472",
+              "start": 12,
+              "url": "https://t.co/FCehLGncXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057506706872320447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不，用洛阳铲的模型？ https://t.co/FCehLGncXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9938,
+          "following_count": 4336,
+          "like_count": 46536,
+          "listed_count": 30,
+          "media_count": 3589,
+          "tweet_count": 12735
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

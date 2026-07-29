@@ -1,0 +1,657 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074169625068093440"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219791229052829696",
+          "name": "League of Legends Pro League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1221666525255364608",
+          "name": "TOP ESPORTS"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219791229052829696",
+          "name": "League of Legends Pro League"
+        }
+      }
+    ],
+    "conversation_id": "2074169635470004361",
+    "created_at": "2026-07-06T16:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074169635470004361"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "MSI2026"
+        },
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "TES"
+        },
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "LPL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qr2tUeYp1q",
+          "end": 298,
+          "expanded_url": "https://x.com/YongQuan/status/2074169635470004361/photo/1",
+          "media_key": "3_2074169625068093440",
+          "start": 275,
+          "url": "https://t.co/Qr2tUeYp1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074169635470004361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 8,
+            "start": 0,
+            "tag": "MSI2026"
+          },
+          {
+            "end": 13,
+            "start": 9,
+            "tag": "TES"
+          },
+          {
+            "end": 18,
+            "start": 14,
+            "tag": "LPL"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 3093,
+            "id": "1028508123290431488",
+            "start": 3080,
+            "username": "TOP_Esports_"
+          }
+        ]
+      },
+      "text": "#MSI2026 #TES #LPL \n\nI was still processing how TES made history by going up 2–0 against G2, then getting reverse swept, giving MSI its first-ever 0–2 reverse sweep on the main stage and adding another chapter to Caps’ Hall of Fame résumé.\n\nBut apparently, that was only the warm-up.\n\nIn one tournament, TES managed to set four records:\n\nA Vietnamese team won an international knockout BO5 for the first time.\n\nAn LPL team lost a BO5 to a Vietnamese team for the first time.\n\nThe LPL got eliminated from MSI without winning a single series for the first time.\n\nJackeyLove became the first player to lose international BO5s to teams from all five major regions.\n\nSo how do you even describe TES vs. TSW?\n\nTES fans who watched it and TES fans who didn’t are no longer living in the same reality.\n\nThe series was so absurd that I almost started coping.\n\nMaybe TES were hiding strats?\n\nMaybe they were saving something for T1 in the lower bracket?\n\nOh, right.\n\nMSI is double elimination.\n\nLose two BO5s and you go home.\n\nNever mind.\n\nIn this series, you had a top laner miscalculate damage, dash into the enemy’s face, and donate his life.\n\nYou had a jungler decide one Rift Scuttler was worth a 1v3 mid-lane dive.\n\nYou had a Ziggs who couldn’t jump over an ice wall and couldn’t find his way home.\n\nYou had a support, surrounded with no way out, firing Q toward his own AD carry.\n\nEverything felt familiar, because this was TES.\n\nEverything felt unfamiliar, because this was the LPL losing to a wildcard region.\n\nBut that’s okay.\n\nLet’s stop treating TES as a League team. Treat them as a band, and suddenly everything makes sense.\n\nZuiAn finished the BO5 with a 3–16 scoreline, got solo killed by everyone, and kept producing sound from start to finish.\n\nNaturally, he is the lead vocalist.\n\nTian is a famous rhythm jungler, so he gets the drums.\n\nCreme is on guitar, trying to preserve the last dignity of the roster.\n\nJackeyLove plays bass, because apparently he can only choose one between presence and Flash.\n\nAs for the new jungler, every game he found a new way to make the audience laugh.\n\nThat’s what you want from a keyboardist: improvisation, live remixing, and always something fresh.\n\nAfter this series, the TES player with the best reputation somehow became 369, who chose to sit out the second split.\n\nAt first, people called him a deserter.\n\nNow we understand.\n\n369 is truly elite. He dodged the timeline where he became a “Vietnam War prisoner” before it even happened.\n\nHe saw further than all of us.\n\nAfter TES lost to Vietnam, their hit single Sudden Topspin — a parody of a 2004 Chinese song that exploded after TES’ FST 2025 disaster and reached over 30 million plays that year — hit 100,000 concurrent listeners and broke 40 million total plays.\n\nEverything felt familiar again.\n\nAfter watching a series where viewers were served a full-course meal of absolute shit, who could refuse one more round of “I heard you say…”?\n\nSigh.\n\nHonestly, this is kind of BLG’s fault too.\n\nIf you’re going to MSI, just bring a team.\n\nWhy the hell did you bring a whole band?\n\n@TOP_Esports_"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#MSI2026 #TES #LPL \n\nI was still processing how TES made history by going up 2–0 against G2, then getting reverse swept, giving MSI its first-ever 0–2 reverse sweep on the main stage and adding another chapter to Caps’ Hall of Fame résumé.\n\nBut apparently, that was only the https://t.co/Qr2tUeYp1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2074169625068093440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjuSNoWwAAdN1_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074169625068093440"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          }
+        ],
+        "conversation_id": "2074169635470004361",
+        "created_at": "2026-07-06T16:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074169635470004361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "MSI2026"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "TES"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "LPL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qr2tUeYp1q",
+              "end": 298,
+              "expanded_url": "https://x.com/YongQuan/status/2074169635470004361/photo/1",
+              "media_key": "3_2074169625068093440",
+              "start": 275,
+              "url": "https://t.co/Qr2tUeYp1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074169635470004361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "TES"
+              },
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "LPL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3093,
+                "id": "1028508123290431488",
+                "start": 3080,
+                "username": "TOP_Esports_"
+              }
+            ]
+          },
+          "text": "#MSI2026 #TES #LPL \n\nI was still processing how TES made history by going up 2–0 against G2, then getting reverse swept, giving MSI its first-ever 0–2 reverse sweep on the main stage and adding another chapter to Caps’ Hall of Fame résumé.\n\nBut apparently, that was only the warm-up.\n\nIn one tournament, TES managed to set four records:\n\nA Vietnamese team won an international knockout BO5 for the first time.\n\nAn LPL team lost a BO5 to a Vietnamese team for the first time.\n\nThe LPL got eliminated from MSI without winning a single series for the first time.\n\nJackeyLove became the first player to lose international BO5s to teams from all five major regions.\n\nSo how do you even describe TES vs. TSW?\n\nTES fans who watched it and TES fans who didn’t are no longer living in the same reality.\n\nThe series was so absurd that I almost started coping.\n\nMaybe TES were hiding strats?\n\nMaybe they were saving something for T1 in the lower bracket?\n\nOh, right.\n\nMSI is double elimination.\n\nLose two BO5s and you go home.\n\nNever mind.\n\nIn this series, you had a top laner miscalculate damage, dash into the enemy’s face, and donate his life.\n\nYou had a jungler decide one Rift Scuttler was worth a 1v3 mid-lane dive.\n\nYou had a Ziggs who couldn’t jump over an ice wall and couldn’t find his way home.\n\nYou had a support, surrounded with no way out, firing Q toward his own AD carry.\n\nEverything felt familiar, because this was TES.\n\nEverything felt unfamiliar, because this was the LPL losing to a wildcard region.\n\nBut that’s okay.\n\nLet’s stop treating TES as a League team. Treat them as a band, and suddenly everything makes sense.\n\nZuiAn finished the BO5 with a 3–16 scoreline, got solo killed by everyone, and kept producing sound from start to finish.\n\nNaturally, he is the lead vocalist.\n\nTian is a famous rhythm jungler, so he gets the drums.\n\nCreme is on guitar, trying to preserve the last dignity of the roster.\n\nJackeyLove plays bass, because apparently he can only choose one between presence and Flash.\n\nAs for the new jungler, every game he found a new way to make the audience laugh.\n\nThat’s what you want from a keyboardist: improvisation, live remixing, and always something fresh.\n\nAfter this series, the TES player with the best reputation somehow became 369, who chose to sit out the second split.\n\nAt first, people called him a deserter.\n\nNow we understand.\n\n369 is truly elite. He dodged the timeline where he became a “Vietnam War prisoner” before it even happened.\n\nHe saw further than all of us.\n\nAfter TES lost to Vietnam, their hit single Sudden Topspin — a parody of a 2004 Chinese song that exploded after TES’ FST 2025 disaster and reached over 30 million plays that year — hit 100,000 concurrent listeners and broke 40 million total plays.\n\nEverything felt familiar again.\n\nAfter watching a series where viewers were served a full-course meal of absolute shit, who could refuse one more round of “I heard you say…”?\n\nSigh.\n\nHonestly, this is kind of BLG’s fault too.\n\nIf you’re going to MSI, just bring a team.\n\nWhy the hell did you bring a whole band?\n\n@TOP_Esports_"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#MSI2026 #TES #LPL \n\nI was still processing how TES made history by going up 2–0 against G2, then getting reverse swept, giving MSI its first-ever 0–2 reverse sweep on the main stage and adding another chapter to Caps’ Hall of Fame résumé.\n\nBut apparently, that was only the https://t.co/Qr2tUeYp1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11054,
+          "following_count": 4702,
+          "like_count": 51889,
+          "listed_count": 37,
+          "media_count": 4864,
+          "tweet_count": 15536
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-12T05:07:00.000Z",
+        "description": "Official Twitter Account for TOP ESPORTS (TES) 滔搏电子竞技俱乐部官方推特账号 Follow us on Instagram:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/topesports_off…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/topesports_official/",
+                "start": 0,
+                "url": "https://t.co/DmMz3R7fRC"
+              }
+            ]
+          }
+        },
+        "id": "1028508123290431488",
+        "name": "TOPESPORTS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446269609508864/vMvSU06r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54117,
+          "following_count": 131,
+          "like_count": 749,
+          "listed_count": 317,
+          "media_count": 1069,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/DmMz3R7fRC",
+        "username": "TOP_Esports_",
+        "verified": false
+      }
+    ]
+  }
+}

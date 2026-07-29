@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051769513063088128"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2052750375195963686",
+    "created_at": "2026-05-08T14:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052750375195963686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "107238136",
+          "start": 8,
+          "username": "duolingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uS0yHqgad2",
+          "end": 91,
+          "expanded_url": "https://x.com/YongQuan/status/2052750375195963686/photo/1",
+          "media_key": "3_2051769513063088128",
+          "start": 68,
+          "url": "https://t.co/uS0yHqgad2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052750375195963686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Why use @Duolingo instead of toilet paper when going to the toilet? https://t.co/uS0yHqgad2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2051769513063088128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlZgFsaAAAYbQE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051769513063088128"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2052750375195963686",
+        "created_at": "2026-05-08T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052750375195963686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "107238136",
+              "start": 8,
+              "username": "duolingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uS0yHqgad2",
+              "end": 91,
+              "expanded_url": "https://x.com/YongQuan/status/2052750375195963686/photo/1",
+              "media_key": "3_2051769513063088128",
+              "start": 68,
+              "url": "https://t.co/uS0yHqgad2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750375195963686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Why use @Duolingo instead of toilet paper when going to the toilet? https://t.co/uS0yHqgad2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9493,
+          "following_count": 4202,
+          "like_count": 44800,
+          "listed_count": 28,
+          "media_count": 3242,
+          "tweet_count": 11864
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "Free education for the world. Available on Android, iOS, and the web.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@duolingo",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@duolingo",
+                "start": 0,
+                "url": "https://t.co/sLUHIFpERW"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029235320680538112/UhrkIbZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031260,
+          "following_count": 513,
+          "like_count": 24278,
+          "listed_count": 2778,
+          "media_count": 2045,
+          "tweet_count": 54060
+        },
+        "url": "https://t.co/sLUHIFpERW",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

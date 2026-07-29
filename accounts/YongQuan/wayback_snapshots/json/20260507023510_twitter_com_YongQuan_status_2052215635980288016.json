@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052215629655224320"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052180309794292164",
+    "created_at": "2026-05-07T02:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052215635980288016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZucX4LC6G",
+          "end": 40,
+          "expanded_url": "https://x.com/YongQuan/status/2052215635980288016/photo/1",
+          "media_key": "3_2052215629655224320",
+          "start": 17,
+          "url": "https://t.co/VZucX4LC6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052215635980288016",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052180309794292164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv 给姐姐沾沾喜气（？ https://t.co/VZucX4LC6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2052215629655224320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrvPfgasAAXGuP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052180297987264516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrPG6yWEAQ6kAc.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052180297987280897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrPG6yWUAEeE8N.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052180297983086598",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrPG6xWUAYu3cP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052180297987301378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrPG6yWoAIvcif.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052215629655224320"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052180309794292164",
+        "created_at": "2026-05-07T02:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052215635980288016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZucX4LC6G",
+              "end": 40,
+              "expanded_url": "https://x.com/YongQuan/status/2052215635980288016/photo/1",
+              "media_key": "3_2052215629655224320",
+              "start": 17,
+              "url": "https://t.co/VZucX4LC6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215635980288016",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052180309794292164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv 给姐姐沾沾喜气（？ https://t.co/VZucX4LC6G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052180297987264516",
+            "3_2052180297987280897",
+            "3_2052180297983086598",
+            "3_2052180297987301378"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "conversation_id": "2052180309794292164",
+        "created_at": "2026-05-07T00:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052180309794292164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWOFov3Clv",
+              "end": 136,
+              "expanded_url": "https://x.com/e5ogv/status/2052180309794292164/photo/1",
+              "media_key": "3_2052180297987264516",
+              "start": 113,
+              "url": "https://t.co/iWOFov3Clv"
+            },
+            {
+              "display_url": "pic.x.com/iWOFov3Clv",
+              "end": 136,
+              "expanded_url": "https://x.com/e5ogv/status/2052180309794292164/photo/1",
+              "media_key": "3_2052180297987280897",
+              "start": 113,
+              "url": "https://t.co/iWOFov3Clv"
+            },
+            {
+              "display_url": "pic.x.com/iWOFov3Clv",
+              "end": 136,
+              "expanded_url": "https://x.com/e5ogv/status/2052180309794292164/photo/1",
+              "media_key": "3_2052180297983086598",
+              "start": 113,
+              "url": "https://t.co/iWOFov3Clv"
+            },
+            {
+              "display_url": "pic.x.com/iWOFov3Clv",
+              "end": 136,
+              "expanded_url": "https://x.com/e5ogv/status/2052180309794292164/photo/1",
+              "media_key": "3_2052180297987301378",
+              "start": 113,
+              "url": "https://t.co/iWOFov3Clv"
+            },
+            {
+              "display_url": "x.com/e5ogv/status/2…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/e5ogv/status/2051671110752833930",
+              "start": 137,
+              "url": "https://t.co/1sEjrNPRLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052180309794292164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 172,
+                "start": 166,
+                "tag": "创作者收益"
+              },
+              {
+                "end": 179,
+                "start": 173,
+                "tag": "领老马工资"
+              },
+              {
+                "end": 184,
+                "start": 180,
+                "tag": "慧姐儿"
+              }
+            ]
+          },
+          "text": "中文区特大好消息！👍\n\n前几天“创作者收益”一直打不开，显示网络频繁，慧姐以为系统限制了通道！\n\n结果今天打开一看，原来是系统升级，画面更改了，比以前画面简洁，增加了一个绑卡通道，删掉了一个“ID重绑”使用起来非常的丝滑……\n\n中文区的筒子们！可以把心放肚子里了，还没充蓝的，赶紧充，没续费的，赶紧续费！让我们继续领“老马低保”\n\n#创作者收益 #领老马工资 #慧姐儿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2439,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051671110752833930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中文区特大好消息！👍\n\n前几天“创作者收益”一直打不开，显示网络频繁，慧姐以为系统限制了通道！\n\n结果今天打开一看，原来是系统升级，画面更改了，比以前画面简洁，增加了一个绑卡通道，删掉了一个“ID重绑”使用起来非常的丝滑…… https://t.co/iWOFov3Clv https://t.co/1sEjrNPRLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 4204,
+          "like_count": 44561,
+          "listed_count": 29,
+          "media_count": 3200,
+          "tweet_count": 11771
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10186,
+          "following_count": 2315,
+          "like_count": 2982,
+          "listed_count": 12,
+          "media_count": 882,
+          "tweet_count": 12889
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054097380400836827",
+    "created_at": "2026-05-12T07:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054097380400836827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rnpgpsl/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rnpgpsl/status/2054097299467354285",
+          "start": 11,
+          "url": "https://t.co/5H59XhC4SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054097380400836827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054097299467354285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "究竟爱都被谁做了？！ https://t.co/5H59XhC4SA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054097380400836827",
+        "created_at": "2026-05-12T07:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054097380400836827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rnpgpsl/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rnpgpsl/status/2054097299467354285",
+              "start": 11,
+              "url": "https://t.co/5H59XhC4SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054097380400836827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054097299467354285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "究竟爱都被谁做了？！ https://t.co/5H59XhC4SA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2054097299467354285",
+        "created_at": "2026-05-12T07:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054097299467354285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DimSumAgain/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/DimSumAgain/status/2053910292917293057",
+              "start": 11,
+              "url": "https://t.co/HRytIQsSml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054097299467354285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053910292917293057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "究竟爱都被谁做了？！ https://t.co/HRytIQsSml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9709,
+          "following_count": 4220,
+          "like_count": 45103,
+          "listed_count": 29,
+          "media_count": 3334,
+          "tweet_count": 12076
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请打电话 | 有tg群,进群🚪/熟人,私信问连接 | qq爆毙别用qq找我 | https://t.co/K0l29xuUmd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lpngpkl",
+                "end": 98,
+                "expanded_url": "http://t.me/lpngpkl",
+                "start": 75,
+                "url": "https://t.co/K0l29xuUmd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "我的4i大姐姐老婆在哪里找.jpg 鴇鵬機工|Tokiho Engineering",
+        "pinned_tweet_id": "2053350127964660128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11365,
+          "following_count": 6889,
+          "like_count": 160194,
+          "listed_count": 26,
+          "media_count": 6748,
+          "tweet_count": 95542
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": true
+      }
+    ]
+  }
+}

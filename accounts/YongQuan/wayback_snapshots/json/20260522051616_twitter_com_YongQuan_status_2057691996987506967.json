@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057650153532829851",
+    "created_at": "2026-05-22T05:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057691996987506967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1311700032228216833",
+          "start": 0,
+          "username": "sherry4869000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057691996987506967",
+    "in_reply_to_user_id": "1311700032228216833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057691006976561607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sherry4869000 这个不兴瞎吃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057650153532829851",
+        "created_at": "2026-05-22T05:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691996987506967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1311700032228216833",
+              "start": 0,
+              "username": "sherry4869000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691996987506967",
+        "in_reply_to_user_id": "1311700032228216833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057691006976561607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sherry4869000 这个不兴瞎吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311700032228216833",
+        "conversation_id": "2057650153532829851",
+        "created_at": "2026-05-22T05:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691006976561607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691006976561607",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057650153532829851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 我是上等马请给我田忌吧！😁😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9939,
+          "following_count": 4337,
+          "like_count": 46580,
+          "listed_count": 30,
+          "media_count": 3608,
+          "tweet_count": 12776
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T16:10:44.000Z",
+        "description": "裏切りは女のアクセサリーみたいなものだわ。 \n臭白菜：@afdtb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 27,
+                "username": "afdtb"
+              }
+            ]
+          }
+        },
+        "id": "1311700032228216833",
+        "location": "广东省, 中山市",
+        "name": "白菜騎士（互fo）",
+        "pinned_tweet_id": "2003329444304551958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998702237313544194/V1rLMTvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 3523,
+          "like_count": 15898,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 2866
+        },
+        "username": "sherry4869000",
+        "verified": false
+      }
+    ]
+  }
+}

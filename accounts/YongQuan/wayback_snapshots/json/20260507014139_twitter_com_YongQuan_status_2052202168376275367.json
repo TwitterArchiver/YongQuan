@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052202168376275367",
+    "created_at": "2026-05-07T01:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052202168376275367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2497458150",
+          "start": 3,
+          "username": "fuckeveryword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052202168376275367",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976561311426154760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckeveryword: fucking bin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052202168376275367",
+        "created_at": "2026-05-07T01:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052202168376275367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2497458150",
+              "start": 3,
+              "username": "fuckeveryword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052202168376275367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976561311426154760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuckeveryword: fucking bin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497458150",
+        "conversation_id": "1976561311426154760",
+        "created_at": "2025-10-10T08:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976561311426154760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976561311426154760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 148713,
+          "like_count": 6096,
+          "quote_count": 22,
+          "reply_count": 13,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "fucking bin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@0KJ7A｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "0KJ7A"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "JDGaming"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 4202,
+          "like_count": 44549,
+          "listed_count": 29,
+          "media_count": 3198,
+          "tweet_count": 11765
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T01:03:46.000Z",
+        "description": "fucking every word in the english language. task 1 (fuck every word in the english language) completed 30 march 2025.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prideandprophecy.com/p/few.html",
+                "end": 23,
+                "expanded_url": "https://www.prideandprophecy.com/p/few.html",
+                "start": 0,
+                "url": "https://t.co/zyepb8SnVT"
+              }
+            ]
+          }
+        },
+        "id": "2497458150",
+        "name": "fucking every word",
+        "pinned_tweet_id": "2033048503329399061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477304353460477954/22GX6xG6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135514,
+          "following_count": 16,
+          "like_count": 4158,
+          "listed_count": 404,
+          "media_count": 10,
+          "tweet_count": 112917
+        },
+        "url": "https://t.co/zyepb8SnVT",
+        "username": "fuckeveryword",
+        "verified": true
+      }
+    ]
+  }
+}

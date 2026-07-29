@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067551733652275542",
+    "created_at": "2026-06-19T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067847728957448298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832952847916224513",
+          "start": 0,
+          "username": "Srathens1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067847728957448298",
+    "in_reply_to_user_id": "1832952847916224513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067551733652275542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Srathens1 EDG再赢两把回家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067551733652275542",
+        "created_at": "2026-06-19T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067847728957448298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832952847916224513",
+              "start": 0,
+              "username": "Srathens1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067847728957448298",
+        "in_reply_to_user_id": "1832952847916224513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067551733652275542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Srathens1 EDG再赢两把回家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832952847916224513",
+        "conversation_id": "2067551733652275542",
+        "created_at": "2026-06-18T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067551733652275542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pprxteam/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/pprxteam/status/2067547879560921432",
+              "start": 80,
+              "url": "https://t.co/Cb9JXMMM7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067551733652275542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16875,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067547879560921432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "EDG 2-0 with ease, Kang Kang is the GOAT, not a single chance in hell for PRX 💯 https://t.co/Cb9JXMMM7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10693,
+          "following_count": 4590,
+          "like_count": 50905,
+          "listed_count": 35,
+          "media_count": 4409,
+          "tweet_count": 14593
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-09T01:23:13.000Z",
+        "description": "18 | VCT + ATL Sports| D1 Hater| \n#NRGWIN #THWIN #GOLEV #FUTWIN #VITWIN #加油EDG #XLGWIN #G2WIN #DoordashFC #icyFC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "NRGWIN"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "THWIN"
+              },
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "GOLEV"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "FUTWIN"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "VITWIN"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "加油EDG"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "XLGWIN"
+              },
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "G2WIN"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "tag": "DoordashFC"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "icyFC"
+              }
+            ]
+          }
+        },
+        "id": "1832952847916224513",
+        "location": "Just joking ❤️",
+        "name": "Srathens 🇨🇳",
+        "pinned_tweet_id": "2052222067794141691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065491674101616640/RLUKGgYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1032,
+          "like_count": 49634,
+          "listed_count": 1,
+          "media_count": 1499,
+          "tweet_count": 11802
+        },
+        "url": "",
+        "username": "Srathens1",
+        "verified": true
+      }
+    ]
+  }
+}

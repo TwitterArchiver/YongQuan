@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2060556144763138532",
+    "created_at": "2026-05-30T02:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060556144763138532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684572167860801536",
+          "start": 3,
+          "username": "kukmoon97"
+        },
+        {
+          "end": 26,
+          "id": "1789657348463837184",
+          "start": 15,
+          "username": "Aiden_1818"
+        },
+        {
+          "end": 39,
+          "id": "1439593497841987586",
+          "start": 27,
+          "username": "RealHanyaHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060556144763138532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060556101553451354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukmoon97: @Aiden_1818 @RealHanyaHu 我也是呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2060556144763138532",
+        "created_at": "2026-05-30T02:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060556144763138532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684572167860801536",
+              "start": 3,
+              "username": "kukmoon97"
+            },
+            {
+              "end": 26,
+              "id": "1789657348463837184",
+              "start": 15,
+              "username": "Aiden_1818"
+            },
+            {
+              "end": 39,
+              "id": "1439593497841987586",
+              "start": 27,
+              "username": "RealHanyaHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060556144763138532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060556101553451354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukmoon97: @Aiden_1818 @RealHanyaHu 我也是呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "conversation_id": "2060505733268152370",
+        "created_at": "2026-05-30T02:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060556101553451354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789657348463837184",
+              "start": 0,
+              "username": "Aiden_1818"
+            },
+            {
+              "end": 24,
+              "id": "1439593497841987586",
+              "start": 12,
+              "username": "RealHanyaHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060556101553451354",
+        "in_reply_to_user_id": "1789657348463837184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060549833174528085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aiden_1818 @RealHanyaHu 我也是呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10168,
+          "following_count": 4429,
+          "like_count": 47849,
+          "listed_count": 30,
+          "media_count": 3860,
+          "tweet_count": 13316
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 生活在斩杀线之下｜前 #伪娘｜现 #跨性别 女 🌸 Live under kill line ｜ Fmr #crossdresser #CD｜Curr #MtF #transgender #TS 🌸 殺戮ラインの下で生きる｜元 #女装子｜今や #ニューハーフ 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "跨性别"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "CD"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "transgender"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "TS"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "女装子"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2060171856532095380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5370,
+          "following_count": 4950,
+          "like_count": 96967,
+          "listed_count": 4,
+          "media_count": 1863,
+          "tweet_count": 14979
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T14:02:38.000Z",
+        "description": "个人投资者｜记录市场与认知\n美股｜加密｜AI｜盈亏同源\n持续更新交易思考与市场观察\n加密行情交流：https://t.co/2poIRezx5Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aiden_1816",
+                "end": 72,
+                "expanded_url": "https://t.me/Aiden_1816",
+                "start": 49,
+                "url": "https://t.co/2poIRezx5Y"
+              }
+            ]
+          }
+        },
+        "id": "1789657348463837184",
+        "name": "𝓐𝓲𝓭𝓮𝓷",
+        "pinned_tweet_id": "2059955673446887863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853410393152237568/c0wgtYkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3724,
+          "following_count": 3532,
+          "like_count": 10999,
+          "listed_count": 5,
+          "media_count": 304,
+          "tweet_count": 7871
+        },
+        "username": "Aiden_1818",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T14:13:49.000Z",
+        "description": "AI时代女性赋能先锋｜硅谷投资人＋网络小说作家｜帮你用AI赚第一桶金  👉关注我  一起飞  🚀 🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "HerPower.ai",
+                "end": 23,
+                "expanded_url": "http://HerPower.ai",
+                "start": 0,
+                "url": "https://t.co/hoXjqu9C76"
+              }
+            ]
+          }
+        },
+        "id": "1439593497841987586",
+        "location": "US",
+        "name": "Hanya Hu",
+        "pinned_tweet_id": "2053619515871863211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056577153224040448/kPjyKFjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20572,
+          "following_count": 3973,
+          "like_count": 50269,
+          "listed_count": 74,
+          "media_count": 1987,
+          "tweet_count": 17833
+        },
+        "url": "https://t.co/hoXjqu9C76",
+        "username": "RealHanyaHu",
+        "verified": true
+      }
+    ]
+  }
+}

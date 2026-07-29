@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063130330966478848"
+      ],
+      "media_source_tweet_id": [
+        "2063130478605930676"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2063198566877913327",
+    "created_at": "2026-06-06T09:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063198566877913327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727493061247107072",
+          "start": 3,
+          "username": "LPLinsider_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92TCTC5FC0",
+          "end": 114,
+          "expanded_url": "https://x.com/LPLinsider_/status/2063130478605930676/photo/1",
+          "media_key": "3_2063130330966478848",
+          "start": 91,
+          "url": "https://t.co/92TCTC5FC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063198566877913327",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063130478605930676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LPLinsider_: JOGÃO NA LOWER DAQUI A POUCO\n\n⚔️ BLG x JDG\n⏰ 6h (BRT)\n\n📺 Bilibili ou Huya https://t.co/92TCTC5FC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063130330966478848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG2GuaXUAAUDl9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063130330966478848"
+          ],
+          "media_source_tweet_id": [
+            "2063130478605930676"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063198566877913327",
+        "created_at": "2026-06-06T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063198566877913327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727493061247107072",
+              "start": 3,
+              "username": "LPLinsider_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92TCTC5FC0",
+              "end": 114,
+              "expanded_url": "https://x.com/LPLinsider_/status/2063130478605930676/photo/1",
+              "media_key": "3_2063130330966478848",
+              "start": 91,
+              "url": "https://t.co/92TCTC5FC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063198566877913327",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063130478605930676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LPLinsider_: JOGÃO NA LOWER DAQUI A POUCO\n\n⚔️ BLG x JDG\n⏰ 6h (BRT)\n\n📺 Bilibili ou Huya https://t.co/92TCTC5FC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063130330966478848"
+          ]
+        },
+        "author_id": "1727493061247107072",
+        "conversation_id": "2063130478605930676",
+        "created_at": "2026-06-06T05:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063130478605930676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92TCTC5FC0",
+              "end": 97,
+              "expanded_url": "https://x.com/LPLinsider_/status/2063130478605930676/photo/1",
+              "media_key": "3_2063130330966478848",
+              "start": 74,
+              "url": "https://t.co/92TCTC5FC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063130478605930676",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "JOGÃO NA LOWER DAQUI A POUCO\n\n⚔️ BLG x JDG\n⏰ 6h (BRT)\n\n📺 Bilibili ou Huya"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "JOGÃO NA LOWER DAQUI A POUCO\n\n⚔️ BLG x JDG\n⏰ 6h (BRT)\n\n📺 Bilibili ou Huya https://t.co/92TCTC5FC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10501,
+          "following_count": 4502,
+          "like_count": 48862,
+          "listed_count": 31,
+          "media_count": 4048,
+          "tweet_count": 13746
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-23T01:03:46.000Z",
+        "description": "Notícias, vazamentos, análises e opiniões sobre a Liga Chinesa de LOL, em português. | ✉ lplinsider2@gmail.com | https://t.co/ASnCvwjV3I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lplinsider",
+                "end": 136,
+                "expanded_url": "http://ko-fi.com/lplinsider",
+                "start": 113,
+                "url": "https://t.co/ASnCvwjV3I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lplinsider.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://lplinsider.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/ZgfVaUbs2L"
+              }
+            ]
+          }
+        },
+        "id": "1727493061247107072",
+        "location": "Brasil",
+        "name": "LPL Insider",
+        "pinned_tweet_id": "2063023661687194095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058721180148764673/D_ornXNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 116,
+          "like_count": 4335,
+          "listed_count": 11,
+          "media_count": 9388,
+          "tweet_count": 12429
+        },
+        "url": "https://t.co/ZgfVaUbs2L",
+        "username": "LPLinsider_",
+        "verified": true
+      }
+    ]
+  }
+}

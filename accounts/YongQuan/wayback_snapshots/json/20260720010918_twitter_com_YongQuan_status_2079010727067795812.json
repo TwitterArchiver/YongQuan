@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2079010727067795812",
+    "created_at": "2026-07-20T01:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079010727067795812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1913535505230442497",
+          "start": 3,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079010727067795812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079002206741860401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3638349600Ogas: 想o爱和陪伴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2079010727067795812",
+        "created_at": "2026-07-20T01:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079010727067795812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1913535505230442497",
+              "start": 3,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079010727067795812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079002206741860401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3638349600Ogas: 想o爱和陪伴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913535505230442497",
+        "conversation_id": "2079002206741860401",
+        "created_at": "2026-07-20T00:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079002206741860401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079002206741860401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想o爱和陪伴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11148,
+          "following_count": 4745,
+          "like_count": 52529,
+          "listed_count": 38,
+          "media_count": 5247,
+          "tweet_count": 16138
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "天赋家庭年龄一样不沾的三无木桶饭。战争雷霆空历导弹猴子陆历沙包。喜欢听泠鸢yousa，MyGo和世界情绪的歌。精神状态崩坏警告。                                       永远喜欢姐姐＆主人：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044584965002903552/3Jb5oEd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 679,
+          "like_count": 1818,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

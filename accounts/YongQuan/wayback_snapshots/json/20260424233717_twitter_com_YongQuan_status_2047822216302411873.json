@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047751028762984448"
+      ],
+      "media_source_tweet_id": [
+        "2047751041400332512"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047822216302411873",
+    "created_at": "2026-04-24T23:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047822216302411873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Etdndp3yEw",
+          "end": 80,
+          "expanded_url": "https://x.com/siyu060910/status/2047751041400332512/photo/1",
+          "media_key": "3_2047751028762984448",
+          "start": 57,
+          "url": "https://t.co/Etdndp3yEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047822216302411873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047751041400332512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 关于该事件的最新动态请持续关注b站\n“小雨天的小雨”\n为本事件增加一点热度，感谢 https://t.co/Etdndp3yEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047751028762984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsSthHbwAA7DFb.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047751028762984448"
+          ],
+          "media_source_tweet_id": [
+            "2047751041400332512"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047822216302411873",
+        "created_at": "2026-04-24T23:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047822216302411873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Etdndp3yEw",
+              "end": 80,
+              "expanded_url": "https://x.com/siyu060910/status/2047751041400332512/photo/1",
+              "media_key": "3_2047751028762984448",
+              "start": 57,
+              "url": "https://t.co/Etdndp3yEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047822216302411873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047751041400332512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: 关于该事件的最新动态请持续关注b站\n“小雨天的小雨”\n为本事件增加一点热度，感谢 https://t.co/Etdndp3yEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047751028762984448"
+          ]
+        },
+        "author_id": "1824324977379905537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047751041400332512",
+        "created_at": "2026-04-24T18:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047751041400332512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Etdndp3yEw",
+              "end": 64,
+              "expanded_url": "https://x.com/siyu060910/status/2047751041400332512/photo/1",
+              "media_key": "3_2047751028762984448",
+              "start": 41,
+              "url": "https://t.co/Etdndp3yEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047751041400332512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1310,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "关于该事件的最新动态请持续关注b站\n“小雨天的小雨”\n为本事件增加一点热度，感谢 https://t.co/Etdndp3yEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8977,
+          "following_count": 4107,
+          "like_count": 43048,
+          "listed_count": 26,
+          "media_count": 2887,
+          "tweet_count": 11139
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "Freedom is not free🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 52,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 29,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 89,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 66,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2047751041400332512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6766,
+          "following_count": 80,
+          "like_count": 503,
+          "listed_count": 8,
+          "media_count": 287,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

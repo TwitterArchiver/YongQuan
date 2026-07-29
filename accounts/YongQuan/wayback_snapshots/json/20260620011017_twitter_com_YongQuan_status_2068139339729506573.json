@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068051400278650880",
+        "3_2068051400265994240",
+        "3_2068051400274432000",
+        "3_2068051400270217216"
+      ],
+      "media_source_tweet_id": [
+        "2068051410886033658",
+        "2068051410886033658",
+        "2068051410886033658",
+        "2068051410886033658"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2068139339729506573",
+    "created_at": "2026-06-20T01:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068139339729506573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "男娘"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "跨性别"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933203967703724038",
+          "start": 3,
+          "username": "nina02880521506"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/23MueRkrxY",
+          "end": 103,
+          "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+          "media_key": "3_2068051400278650880",
+          "start": 80,
+          "url": "https://t.co/23MueRkrxY"
+        },
+        {
+          "display_url": "pic.x.com/23MueRkrxY",
+          "end": 103,
+          "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+          "media_key": "3_2068051400265994240",
+          "start": 80,
+          "url": "https://t.co/23MueRkrxY"
+        },
+        {
+          "display_url": "pic.x.com/23MueRkrxY",
+          "end": 103,
+          "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+          "media_key": "3_2068051400274432000",
+          "start": 80,
+          "url": "https://t.co/23MueRkrxY"
+        },
+        {
+          "display_url": "pic.x.com/23MueRkrxY",
+          "end": 103,
+          "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+          "media_key": "3_2068051400270217216",
+          "start": 80,
+          "url": "https://t.co/23MueRkrxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068139339729506573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068051410886033658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nina02880521506: 大道破天指！！！\n我向众神祈祷，回应我的只有自己\n干你娘老子屁股拍出来好难看\n已经吐舌头展示猪肝\n #男娘 #跨性别 https://t.co/23MueRkrxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068051400278650880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMxyqLbsAA1HrA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068051400265994240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMxyqIakAADlm0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068051400274432000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMxyqKbUAAFgZq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068051400270217216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMxyqJbAAAX6NM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068051400278650880",
+            "3_2068051400265994240",
+            "3_2068051400274432000",
+            "3_2068051400270217216"
+          ],
+          "media_source_tweet_id": [
+            "2068051410886033658",
+            "2068051410886033658",
+            "2068051410886033658",
+            "2068051410886033658"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068139339729506573",
+        "created_at": "2026-06-20T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068139339729506573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "男娘"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "跨性别"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933203967703724038",
+              "start": 3,
+              "username": "nina02880521506"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 103,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400278650880",
+              "start": 80,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 103,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400265994240",
+              "start": 80,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 103,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400274432000",
+              "start": 80,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 103,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400270217216",
+              "start": 80,
+              "url": "https://t.co/23MueRkrxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068139339729506573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068051410886033658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nina02880521506: 大道破天指！！！\n我向众神祈祷，回应我的只有自己\n干你娘老子屁股拍出来好难看\n已经吐舌头展示猪肝\n #男娘 #跨性别 https://t.co/23MueRkrxY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068051400278650880",
+            "3_2068051400265994240",
+            "3_2068051400274432000",
+            "3_2068051400270217216"
+          ]
+        },
+        "author_id": "1933203967703724038",
+        "conversation_id": "2068051410886033658",
+        "created_at": "2026-06-19T19:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068051410886033658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "男娘"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 82,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400278650880",
+              "start": 59,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 82,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400265994240",
+              "start": 59,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 82,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400274432000",
+              "start": 59,
+              "url": "https://t.co/23MueRkrxY"
+            },
+            {
+              "display_url": "pic.x.com/23MueRkrxY",
+              "end": 82,
+              "expanded_url": "https://x.com/nina02880521506/status/2068051410886033658/photo/1",
+              "media_key": "3_2068051400270217216",
+              "start": 59,
+              "url": "https://t.co/23MueRkrxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068051410886033658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大道破天指！！！\n我向众神祈祷，回应我的只有自己\n干你娘老子屁股拍出来好难看\n已经吐舌头展示猪肝\n #男娘 #跨性别 https://t.co/23MueRkrxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10700,
+          "following_count": 4599,
+          "like_count": 51134,
+          "listed_count": 35,
+          "media_count": 4433,
+          "tweet_count": 14705
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T16:46:08.000Z",
+        "description": "08年老年药娘含糖。线下可约，礼貌问价即可，常驻广州，喜欢喝各种茶饮料，喜欢烟草！QQ是2275833392\n 温柔的对待我….谢谢..",
+        "id": "1933203967703724038",
+        "location": "广州",
+        "name": "池咲恋厌孤.柠檬冰.泪千🍥（互推且扩列）",
+        "pinned_tweet_id": "1949136617006100811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034650391535816704/P4Ymf7_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 201,
+          "like_count": 76,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "nina02880521506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066110824012505346",
+    "created_at": "2026-06-14T10:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066110890391306524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1443345798402506756",
+          "start": 0,
+          "username": "tttttyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066110890391306524",
+    "in_reply_to_user_id": "1443345798402506756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066110824012505346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttyuc TES比WE好打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066110824012505346",
+        "created_at": "2026-06-14T10:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066110890391306524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443345798402506756",
+              "start": 0,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066110890391306524",
+        "in_reply_to_user_id": "1443345798402506756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066110824012505346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttyuc TES比WE好打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443345798402506756",
+        "conversation_id": "2066110824012505346",
+        "created_at": "2026-06-14T10:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066110824012505346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066110824012505346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "BLG 3-2 WE\nBLG 3-0 TES\nSo WE&gt;TES and should make MSI right? \n\nWhat did you just say? \nTES 3-0 WE a week ago??!\n\nSure whatever🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10634,
+          "following_count": 4547,
+          "like_count": 50074,
+          "listed_count": 35,
+          "media_count": 4266,
+          "tweet_count": 14242
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-29T22:44:04.000Z",
+        "description": "CN/EN, 22JDG/23BLG/ZOFGK/23OMG, LEC LCS Enjoyer, She/her/hers",
+        "id": "1443345798402506756",
+        "name": "Yuuu - lifeitsfkingmove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987675060681973760/peun9lwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16788,
+          "following_count": 661,
+          "like_count": 94449,
+          "listed_count": 52,
+          "media_count": 8456,
+          "tweet_count": 50445
+        },
+        "username": "tttttyuc",
+        "verified": false
+      }
+    ]
+  }
+}

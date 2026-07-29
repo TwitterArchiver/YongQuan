@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061593614346748175",
+    "created_at": "2026-06-01T23:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061593614346748175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966711981622390785",
+          "start": 3,
+          "username": "xynmaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061593614346748175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061590920093659138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xynmaomao: 我也想被姐姐抱🥺🥺我也想有个姐姐依靠..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061593614346748175",
+        "created_at": "2026-06-01T23:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061593614346748175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966711981622390785",
+              "start": 3,
+              "username": "xynmaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061593614346748175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061590920093659138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xynmaomao: 我也想被姐姐抱🥺🥺我也想有个姐姐依靠..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966711981622390785",
+        "conversation_id": "2061590920093659138",
+        "created_at": "2026-06-01T23:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061590920093659138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061590920093659138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也想被姐姐抱🥺🥺我也想有个姐姐依靠..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 4446,
+          "like_count": 48068,
+          "listed_count": 30,
+          "media_count": 3923,
+          "tweet_count": 13452
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T03:54:27.000Z",
+        "description": "10后/无证/2024.9.1hrt/🚪50纯绿 100非绿可线下 可加QQ 近的话可线下/身高177/体重110左右/可互fo/不要欺负猫猫  大部分原相机 不是原会说的 /欢迎同类找我聊天哦～ 坐标武汉",
+        "id": "1966711981622390785",
+        "name": "猫猫 🍥",
+        "pinned_tweet_id": "2035918723610017828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011130577395818496/bNqJvzde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 350,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 153
+        },
+        "username": "xynmaomao",
+        "verified": false
+      }
+    ]
+  }
+}

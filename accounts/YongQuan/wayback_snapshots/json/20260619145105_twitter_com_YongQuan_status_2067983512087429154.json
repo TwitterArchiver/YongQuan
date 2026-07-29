@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067900290905612657",
+    "created_at": "2026-06-19T14:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067983512087429154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703949049626558464",
+          "start": 0,
+          "username": "48Kchunbai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067983512087429154",
+    "in_reply_to_user_id": "1703949049626558464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067900290905612657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@48Kchunbai 放心 很多内容都发过的 也不会死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067900290905612657",
+        "created_at": "2026-06-19T14:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067983512087429154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703949049626558464",
+              "start": 0,
+              "username": "48Kchunbai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983512087429154",
+        "in_reply_to_user_id": "1703949049626558464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067900290905612657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@48Kchunbai 放心 很多内容都发过的 也不会死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703949049626558464",
+        "conversation_id": "2067900290905612657",
+        "created_at": "2026-06-19T09:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900290905612657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067900290905612657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2891,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打算明天蹲一波晒收益的博主，把他们的帖子挨个儿扒一遍，到底看一看搬运国内视频算不算违规，擦边内容算不算违规，他们有没有发过蓝 V 互关，有没有发过运营技巧流。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10696,
+          "following_count": 4597,
+          "like_count": 51089,
+          "listed_count": 35,
+          "media_count": 4419,
+          "tweet_count": 14651
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-19T01:48:30.000Z",
+        "description": "大厂资深品牌策略｜加密美股AI通吃｜商业咨询｜抖音独家视频创作者\n“用品牌的视角看市场，用AI工具提高决策效率”\n正黄旗，旅行40国，人生就是游乐场，什么都体验一下，才不白来。（已结扎）",
+        "id": "1703949049626558464",
+        "location": "Los Angeles, CA",
+        "name": "48K纯白",
+        "pinned_tweet_id": "2066489944064090115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980116943433539584/vdlLJKla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 2682,
+          "like_count": 2026,
+          "listed_count": 11,
+          "media_count": 48,
+          "tweet_count": 2312
+        },
+        "url": "",
+        "username": "48Kchunbai",
+        "verified": true
+      }
+    ]
+  }
+}

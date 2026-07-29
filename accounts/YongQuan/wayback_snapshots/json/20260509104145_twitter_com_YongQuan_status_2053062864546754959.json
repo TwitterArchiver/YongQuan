@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052569174463963279",
+    "created_at": "2026-05-09T10:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053062864546754959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045746110086758400",
+          "start": 0,
+          "username": "Okitinpoznci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053062864546754959",
+    "in_reply_to_user_id": "2045746110086758400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053062328271409407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okitinpoznci 可以真的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052569174463963279",
+        "created_at": "2026-05-09T10:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053062864546754959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045746110086758400",
+              "start": 0,
+              "username": "Okitinpoznci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053062864546754959",
+        "in_reply_to_user_id": "2045746110086758400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053062328271409407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okitinpoznci 可以真的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045746110086758400",
+        "conversation_id": "2052569174463963279",
+        "created_at": "2026-05-09T10:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053062328271409407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053062328271409407",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052569174463963279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 真的假的？老板太会玩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9601,
+          "following_count": 4205,
+          "like_count": 44752,
+          "listed_count": 29,
+          "media_count": 3260,
+          "tweet_count": 11924
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T06:08:16.000Z",
+        "description": "高考三次郎\n03年男大3个月想要1万 fo\n个人成长、健康、读书分享",
+        "id": "2045746110086758400",
+        "name": "淼淼",
+        "pinned_tweet_id": "2050099248973435033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050041828901367808/GhmFytCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 31,
+          "like_count": 59,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 321
+        },
+        "username": "Okitinpoznci",
+        "verified": true
+      }
+    ]
+  }
+}

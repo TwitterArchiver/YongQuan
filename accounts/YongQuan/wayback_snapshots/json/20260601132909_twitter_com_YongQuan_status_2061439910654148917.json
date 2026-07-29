@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061439902991220736"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061438455423660256",
+    "created_at": "2026-06-01T13:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061439910654148917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806225733045690368",
+          "start": 0,
+          "username": "MizutaniSubaru_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dimCOtHle",
+          "end": 59,
+          "expanded_url": "https://x.com/YongQuan/status/2061439910654148917/photo/1",
+          "media_key": "3_2061439902991220736",
+          "start": 36,
+          "url": "https://t.co/7dimCOtHle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061439910654148917",
+    "in_reply_to_user_id": "1806225733045690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061439750368825695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizutaniSubaru_ 我去不早说\n\n我现在只想看高考那天（ https://t.co/7dimCOtHle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2061439902991220736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu0q3ebgAA-kVG.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061439902991220736"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061438455423660256",
+        "created_at": "2026-06-01T13:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061439910654148917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806225733045690368",
+              "start": 0,
+              "username": "MizutaniSubaru_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dimCOtHle",
+              "end": 59,
+              "expanded_url": "https://x.com/YongQuan/status/2061439910654148917/photo/1",
+              "media_key": "3_2061439902991220736",
+              "start": 36,
+              "url": "https://t.co/7dimCOtHle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061439910654148917",
+        "in_reply_to_user_id": "1806225733045690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061439750368825695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizutaniSubaru_ 我去不早说\n\n我现在只想看高考那天（ https://t.co/7dimCOtHle"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2061438455423660256",
+        "created_at": "2026-06-01T13:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061439750368825695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061439750368825695",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061438455423660256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 可惜皇族回不来了（\n\nWE倒是可以四强打geng入围决赛续上大超魔咒😆😆\n流量最大的一集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10361,
+          "following_count": 4446,
+          "like_count": 48009,
+          "listed_count": 30,
+          "media_count": 3912,
+          "tweet_count": 13426
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 482,
+          "like_count": 4289,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 923
+        },
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

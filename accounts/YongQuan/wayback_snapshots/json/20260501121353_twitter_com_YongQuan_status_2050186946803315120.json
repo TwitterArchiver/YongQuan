@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2050179211537887717",
+    "created_at": "2026-05-01T12:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050186946803315120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3870784416",
+          "start": 0,
+          "username": "dr_zeqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050186946803315120",
+    "in_reply_to_user_id": "3870784416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050179211537887717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dr_zeqi 哇还有京东奢饰品包装\n很羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2050179201928757249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOzHzDbgAEFxJ1.jpg",
+        "width": 1439
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050179208224350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOzIKgaoAAW0md.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050179206299140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOzIDVaQAAz3Vw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050179208211804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOzIKdbMAAug9o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2050179211537887717",
+        "created_at": "2026-05-01T12:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050186946803315120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3870784416",
+              "start": 0,
+              "username": "dr_zeqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050186946803315120",
+        "in_reply_to_user_id": "3870784416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050179211537887717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dr_zeqi 哇还有京东奢饰品包装\n很羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050179201928757249",
+            "3_2050179208224350208",
+            "3_2050179206299140096",
+            "3_2050179208211804160"
+          ]
+        },
+        "author_id": "3870784416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050179211537887717",
+        "created_at": "2026-05-01T11:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050179211537887717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2QyMLV1GH",
+              "end": 40,
+              "expanded_url": "https://x.com/dr_zeqi/status/2050179211537887717/photo/1",
+              "media_key": "3_2050179201928757249",
+              "start": 17,
+              "url": "https://t.co/E2QyMLV1GH"
+            },
+            {
+              "display_url": "pic.x.com/E2QyMLV1GH",
+              "end": 40,
+              "expanded_url": "https://x.com/dr_zeqi/status/2050179211537887717/photo/1",
+              "media_key": "3_2050179208224350208",
+              "start": 17,
+              "url": "https://t.co/E2QyMLV1GH"
+            },
+            {
+              "display_url": "pic.x.com/E2QyMLV1GH",
+              "end": 40,
+              "expanded_url": "https://x.com/dr_zeqi/status/2050179211537887717/photo/1",
+              "media_key": "3_2050179206299140096",
+              "start": 17,
+              "url": "https://t.co/E2QyMLV1GH"
+            },
+            {
+              "display_url": "pic.x.com/E2QyMLV1GH",
+              "end": 40,
+              "expanded_url": "https://x.com/dr_zeqi/status/2050179211537887717/photo/1",
+              "media_key": "3_2050179208211804160",
+              "start": 17,
+              "url": "https://t.co/E2QyMLV1GH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2050179211537887717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠 我买曼牌FP系列都没这待遇 https://t.co/E2QyMLV1GH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9202,
+          "following_count": 4166,
+          "like_count": 43655,
+          "listed_count": 28,
+          "media_count": 3057,
+          "tweet_count": 11449
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-12T15:27:33.000Z",
+        "description": "A Doctor / 毕业于北京中医药大学 / 现任环湖医院神经外科十二病区医生 / 于 2020 年在解放军总医院第五医学中心北院区微创脊柱外科进修 / 师从北京积水潭脊柱外科陆延胜 / 曾担任青大附院崂山院区脊柱外科医师 / 24年在崂山脊柱微创中心学习，成功开展微创手术解决老年颈腰椎椎间突出腰椎管狭窄等疾病",
+        "id": "3870784416",
+        "location": "San Mateo, CA",
+        "name": "dr_wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972354371401990144/ImKUMOFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 123,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 654
+        },
+        "username": "dr_zeqi",
+        "verified": false
+      }
+    ]
+  }
+}

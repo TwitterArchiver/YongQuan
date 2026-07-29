@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062074591674331221",
+    "created_at": "2026-06-03T07:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062075489771299230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891744003823108097",
+          "start": 0,
+          "username": "xiaomianya521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062075489771299230",
+    "in_reply_to_user_id": "1891744003823108097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062074591674331221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomianya521 我没声了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062074591674331221",
+        "created_at": "2026-06-03T07:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062075489771299230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891744003823108097",
+              "start": 0,
+              "username": "xiaomianya521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062075489771299230",
+        "in_reply_to_user_id": "1891744003823108097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062074591674331221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomianya521 我没声了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891744003823108097",
+        "conversation_id": "2062074591674331221",
+        "created_at": "2026-06-03T07:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062074591674331221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "枕星河✨’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mGPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mGPaawAPWEJN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062074593909813248/V_kDtjha?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062074593909813248/V_kDtjha?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 无聊炸了。。天塌了",
+              "unwound_url": "https://twitter.com/i/spaces/1mGPaawAPWEJN/peek",
+              "url": "https://t.co/6YfxTyetPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062074591674331221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6YfxTyetPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme和亮点内容｜#LPL\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "LPL"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10411,
+          "following_count": 4465,
+          "like_count": 48278,
+          "listed_count": 31,
+          "media_count": 3969,
+          "tweet_count": 13555
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T06:58:25.000Z",
+        "description": "✨ TS ｜ Srs等待中💫 🌈 取向：4i/le ❌ 雷区：不聊黄｜不键政｜不卖片｜不推广 💧 清水推｜⏳ 随缘上线✨同类姐妹&女生｜可互Fo✨",
+        "id": "1891744003823108097",
+        "location": "人间仙境",
+        "name": "枕星河✨",
+        "pinned_tweet_id": "2012387057562243476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013443775767404544/erGX7k5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 26,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 594
+        },
+        "username": "xiaomianya521",
+        "verified": false
+      }
+    ]
+  }
+}

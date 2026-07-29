@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057693155118682222",
+    "created_at": "2026-05-22T10:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057768804504236157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        },
+        {
+          "end": 26,
+          "id": "1918274202580467713",
+          "start": 11,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 37,
+          "id": "1306129238827778048",
+          "start": 27,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057768804504236157",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057768424278007836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 @CyberKanjousen @YukinonCC 我宣布这就是翻车！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057693155118682222",
+        "created_at": "2026-05-22T10:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057768804504236157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            },
+            {
+              "end": 26,
+              "id": "1918274202580467713",
+              "start": 11,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 37,
+              "id": "1306129238827778048",
+              "start": 27,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057768804504236157",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057768424278007836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 @CyberKanjousen @YukinonCC 我宣布这就是翻车！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2057693155118682222",
+        "created_at": "2026-05-22T10:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057768424278007836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 26,
+              "id": "1306129238827778048",
+              "start": 16,
+              "username": "YukinonCC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 59,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056690164291035423",
+              "start": 36,
+              "url": "https://t.co/F5zBuEdV6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057768424278007836",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056690164291035423",
+            "type": "quoted"
+          },
+          {
+            "id": "2057731850194624943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @YukinonCC 这算是翻车吗（）\nhttps://t.co/F5zBuEdV6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9946,
+          "following_count": 4344,
+          "like_count": 46643,
+          "listed_count": 30,
+          "media_count": 3613,
+          "tweet_count": 12801
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "大号@error332233\n貌似被shadowban了所以玩小号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "1291578137768161280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 32,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "username": "OvO332233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 843,
+          "like_count": 21370,
+          "listed_count": 10,
+          "media_count": 1134,
+          "tweet_count": 6351
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2053349748128772191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 666,
+          "like_count": 15212,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 3717
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

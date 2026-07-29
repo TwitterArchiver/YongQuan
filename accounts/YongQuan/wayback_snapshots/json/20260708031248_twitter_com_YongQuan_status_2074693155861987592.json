@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074631887180661015",
+    "created_at": "2026-07-08T03:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074693155861987592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 28,
+          "id": "908312740455907330",
+          "start": 19,
+          "username": "qiuylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074693155861987592",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074631887180661015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 可以欺负一下@QIUYLove"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074631887180661015].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074631887180661015",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074631887180661015"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074631887180661015",
+        "created_at": "2026-07-08T03:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074693155861987592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 28,
+              "id": "908312740455907330",
+              "start": 19,
+              "username": "qiuylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074693155861987592",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074631887180661015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 可以欺负一下@QIUYLove"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11058,
+          "following_count": 4701,
+          "like_count": 51969,
+          "listed_count": 37,
+          "media_count": 4901,
+          "tweet_count": 15585
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/自认为是一只很可爱的...？/留长发中/无糖/向往自由/秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/vCuQaNyhnk"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Amoy 廈門",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1026,
+          "like_count": 197624,
+          "listed_count": 3,
+          "media_count": 913,
+          "tweet_count": 7609
+        },
+        "url": "https://t.co/vCuQaNyhnk",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 104,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 81,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcI8h"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "小秋月🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 888,
+          "like_count": 77779,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3850
+        },
+        "url": "https://t.co/paxAwGcI8h",
+        "username": "qiuylove",
+        "verified": false
+      }
+    ]
+  }
+}

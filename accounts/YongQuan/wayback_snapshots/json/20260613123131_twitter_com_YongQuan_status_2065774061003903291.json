@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065688500972986784",
+    "created_at": "2026-06-13T12:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065774061003903291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1957772481370157058",
+          "start": 0,
+          "username": "Mengmengeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065774061003903291",
+    "in_reply_to_user_id": "1957772481370157058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065688500972986784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mengmengeth 来点互动🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065688500972986784",
+        "created_at": "2026-06-13T12:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065774061003903291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957772481370157058",
+              "start": 0,
+              "username": "Mengmengeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065774061003903291",
+        "in_reply_to_user_id": "1957772481370157058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065688500972986784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mengmengeth 来点互动🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957772481370157058",
+        "conversation_id": "2065688500972986784",
+        "created_at": "2026-06-13T06:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065688500972986784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "关注必回"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "互动必回"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065688500972986784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2575,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 114,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清理了一下关注列表，如果你是真实的蓝v活跃用户，请在评论区留言，我会一一关注！\n\n#蓝v互关 #关注必回 #互动必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10614,
+          "following_count": 4535,
+          "like_count": 50008,
+          "listed_count": 34,
+          "media_count": 4241,
+          "tweet_count": 14189
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T11:51:54.000Z",
+        "description": "Meme/山寨币女猎手🎣加密市场情绪稳定剂💃全能型选手 #BNB #binance 精通长短线交易 合作TG：https://t.co/TJjPSJmygs 顺势而为，精准布局 #okb #sol",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 28,
+                "tag": "BNB"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "binance"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "okb"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Mengmengeth",
+                "end": 78,
+                "expanded_url": "https://t.me/Mengmengeth",
+                "start": 55,
+                "url": "https://t.co/TJjPSJmygs"
+              }
+            ]
+          }
+        },
+        "id": "1957772481370157058",
+        "name": "Cocoa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050197332457820160/vZ9iC6CW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8887,
+          "following_count": 4084,
+          "like_count": 19921,
+          "listed_count": 14,
+          "media_count": 216,
+          "tweet_count": 16239
+        },
+        "username": "Mengmengeth",
+        "verified": true
+      }
+    ]
+  }
+}

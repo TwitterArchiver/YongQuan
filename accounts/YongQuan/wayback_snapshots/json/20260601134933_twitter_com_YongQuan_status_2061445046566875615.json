@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061445037066784768"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061412499837034690",
+    "created_at": "2026-06-01T13:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061445046566875615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "700774256943038464",
+          "start": 0,
+          "username": "TraYt0N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAWHiJXCRL",
+          "end": 32,
+          "expanded_url": "https://x.com/YongQuan/status/2061445046566875615/photo/1",
+          "media_key": "3_2061445037066784768",
+          "start": 9,
+          "url": "https://t.co/oAWHiJXCRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061445046566875615",
+    "in_reply_to_user_id": "700774256943038464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061412499837034690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TraYt0N https://t.co/oAWHiJXCRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2061445037066784768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu5VtZbkAAuELV.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061445037066784768"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061412499837034690",
+        "created_at": "2026-06-01T13:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061445046566875615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "700774256943038464",
+              "start": 0,
+              "username": "TraYt0N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAWHiJXCRL",
+              "end": 32,
+              "expanded_url": "https://x.com/YongQuan/status/2061445046566875615/photo/1",
+              "media_key": "3_2061445037066784768",
+              "start": 9,
+              "url": "https://t.co/oAWHiJXCRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061445046566875615",
+        "in_reply_to_user_id": "700774256943038464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061412499837034690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TraYt0N https://t.co/oAWHiJXCRL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "700774256943038464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          }
+        ],
+        "conversation_id": "2061412499837034690",
+        "created_at": "2026-06-01T11:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061412499837034690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061412499837034690",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 27041,
+          "like_count": 1001,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "WE vient de 3/0 AL après avoir battu 3/1 BLG dans les playoffs de LPL.\n\nPour rappel WE était en 1/13 en saison régulière !!! \n\nLa perf est monstrueuse ils sont à un BO contre TES de participer au MSI !"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10362,
+          "following_count": 4446,
+          "like_count": 48033,
+          "listed_count": 30,
+          "media_count": 3913,
+          "tweet_count": 13432
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-19T20:09:37.000Z",
+        "description": "Passionné par League of Legends. \n\nActu sur: @traytontv\n\nContact pro: Trayton.pro@gmail.com\n\nSoutenu par @LaBanquePostale 🤍🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "traytontv"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "LaBanquePostale"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/traytonlol",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/traytonlol",
+                "start": 0,
+                "url": "https://t.co/4cJ76PuXkM"
+              }
+            ]
+          }
+        },
+        "id": "700774256943038464",
+        "location": "Paris, France",
+        "name": "TraYtoN",
+        "pinned_tweet_id": "2058951480598536372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577691062142996482/84oeJBiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158067,
+          "following_count": 660,
+          "like_count": 32564,
+          "listed_count": 201,
+          "media_count": 3077,
+          "tweet_count": 24305
+        },
+        "url": "https://t.co/4cJ76PuXkM",
+        "username": "TraYt0N",
+        "verified": true
+      }
+    ]
+  }
+}

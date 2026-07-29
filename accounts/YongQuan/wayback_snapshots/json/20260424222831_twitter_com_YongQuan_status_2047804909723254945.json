@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2047697187078013013",
+    "created_at": "2026-04-24T22:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047804909723254945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723047974677479424",
+          "start": 0,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047804909723254945",
+    "in_reply_to_user_id": "1723047974677479424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047697187078013013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReedPascal 牢邮对于18-的客户\n即便有在职证明的情况下 也不一定给开\n我觉得能开出来真的很厉害了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2047697169617158145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrhugKagAE-8TM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2047697187078013013",
+        "created_at": "2026-04-24T22:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047804909723254945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723047974677479424",
+              "start": 0,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047804909723254945",
+        "in_reply_to_user_id": "1723047974677479424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047697187078013013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReedPascal 牢邮对于18-的客户\n即便有在职证明的情况下 也不一定给开\n我觉得能开出来真的很厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047697169617158145"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047697187078013013",
+        "created_at": "2026-04-24T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047697187078013013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/drdzcc5g9v",
+              "end": 162,
+              "expanded_url": "https://x.com/ReedPascal/status/2047697187078013013/photo/1",
+              "media_key": "3_2047697169617158145",
+              "start": 139,
+              "url": "https://t.co/drdzcc5g9v"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2047410769613197617",
+              "start": 163,
+              "url": "https://t.co/sivis1PAbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047697187078013013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2162,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047410769613197617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先16岁能认识卡组织已经很厉害了，其次别的我没看到，我只看到一个拿下了第一张master很开心的十六岁孩子和一位没事找事虚空索敌联合国护照、被骂还光速破房控评的07年“大人”\n\n十六岁能办下来卡已经很厉害了，为什么你圈07年大人不能多一点爱、包容和引导，少一点背地里嘲讽呢？ https://t.co/drdzcc5g9v https://t.co/sivis1PAbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8975,
+          "following_count": 4105,
+          "like_count": 43011,
+          "listed_count": 26,
+          "media_count": 2885,
+          "tweet_count": 11133
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱，以及摇曳露营.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041927352922591232/b2DqjRze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 100,
+          "like_count": 96136,
+          "listed_count": 4,
+          "media_count": 2804,
+          "tweet_count": 9031
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2069889907858809280",
+    "created_at": "2026-06-28T05:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071105862308135153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992255920777392128",
+          "start": 0,
+          "username": "GMWalletHK"
+        },
+        {
+          "end": 21,
+          "id": "3028829667",
+          "start": 12,
+          "username": "Abyss_ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071105862308135153",
+    "in_reply_to_user_id": "1992255920777392128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070002716680892904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMWalletHK @Abyss_ix Faker打比赛这种确实比做爱要激动多了\n尤其是看和BLG打("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2069889907858809280",
+        "created_at": "2026-06-28T05:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071105862308135153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992255920777392128",
+              "start": 0,
+              "username": "GMWalletHK"
+            },
+            {
+              "end": 21,
+              "id": "3028829667",
+              "start": 12,
+              "username": "Abyss_ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071105862308135153",
+        "in_reply_to_user_id": "1992255920777392128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070002716680892904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMWalletHK @Abyss_ix Faker打比赛这种确实比做爱要激动多了\n尤其是看和BLG打("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992255920777392128",
+        "conversation_id": "2069889907858809280",
+        "created_at": "2026-06-25T04:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070002716680892904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3028829667",
+              "start": 0,
+              "username": "Abyss_ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070002716680892904",
+        "in_reply_to_user_id": "3028829667",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069889907858809280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abyss_ix ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10900,
+          "following_count": 4667,
+          "like_count": 51503,
+          "listed_count": 36,
+          "media_count": 4646,
+          "tweet_count": 15151
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 全力开发中，GM Pay（EPusdt）开发者。欢迎来到开放，包容的加密世界. Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2060372840600535213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 862,
+          "like_count": 13069,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 9657
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMWalletHK",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T21:47:56.000Z",
+        "description": "🇭🇷 | League Esports Banger Maker | follow or miss out | contact📢DM/Disc: abyss6169 or: abyss.bizz@gmail.com| 100% of my Memes are OC",
+        "id": "3028829667",
+        "location": "Abyss",
+        "name": "Abyss (follow for bangers)",
+        "pinned_tweet_id": "1984166312810312154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630358230500032514/dKV3DJsU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15761,
+          "following_count": 728,
+          "like_count": 63934,
+          "listed_count": 45,
+          "media_count": 6784,
+          "tweet_count": 9013
+        },
+        "url": "",
+        "username": "Abyss_ix",
+        "verified": true
+      }
+    ]
+  }
+}

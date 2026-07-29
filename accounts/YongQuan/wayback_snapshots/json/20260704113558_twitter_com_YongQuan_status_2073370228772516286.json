@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073370218949472256"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073370228772516286",
+    "created_at": "2026-07-04T11:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073370228772516286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6g7268m6Ya",
+          "end": 54,
+          "expanded_url": "https://x.com/YongQuan/status/2073370228772516286/photo/1",
+          "media_key": "3_2073370218949472256",
+          "start": 31,
+          "url": "https://t.co/6g7268m6Ya"
+        },
+        {
+          "display_url": "x.com/krimiddd/statu…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/krimiddd/status/2073367719437852790",
+          "start": 55,
+          "url": "https://t.co/9mU5T3m9fC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073370228772516286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073367719437852790",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既然他们把我看成恶人，到我成功那一天，他们又该怎么评价我呢。 https://t.co/6g7268m6Ya https://t.co/9mU5T3m9fC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2073370218949472256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYXOpxbcAATBUB.jpg",
+        "width": 575
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073367713951752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYU817boAAd4ye.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073370218949472256"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073370228772516286",
+        "created_at": "2026-07-04T11:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073370228772516286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6g7268m6Ya",
+              "end": 54,
+              "expanded_url": "https://x.com/YongQuan/status/2073370228772516286/photo/1",
+              "media_key": "3_2073370218949472256",
+              "start": 31,
+              "url": "https://t.co/6g7268m6Ya"
+            },
+            {
+              "display_url": "x.com/krimiddd/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/krimiddd/status/2073367719437852790",
+              "start": 55,
+              "url": "https://t.co/9mU5T3m9fC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073370228772516286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073367719437852790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然他们把我看成恶人，到我成功那一天，他们又该怎么评价我呢。 https://t.co/6g7268m6Ya https://t.co/9mU5T3m9fC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073367713951752192"
+          ]
+        },
+        "author_id": "1560640265433387008",
+        "conversation_id": "2073367719437852790",
+        "created_at": "2026-07-04T11:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073367719437852790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8kZXfUafh",
+              "end": 23,
+              "expanded_url": "https://x.com/krimiddd/status/2073367719437852790/photo/1",
+              "media_key": "3_2073367713951752192",
+              "start": 0,
+              "url": "https://t.co/o8kZXfUafh"
+            },
+            {
+              "display_url": "x.com/lolesports/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lolesports/status/2073356294497710279",
+              "start": 24,
+              "url": "https://t.co/vE5LPneK5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073367719437852790",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073356294497710279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/o8kZXfUafh https://t.co/vE5LPneK5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11049,
+          "following_count": 4696,
+          "like_count": 51691,
+          "listed_count": 37,
+          "media_count": 4805,
+          "tweet_count": 15424
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T14:50:18.000Z",
+        "description": "ORIX\"Losing isn't an option.\" ガンダムSEED大好き。20TES/23JDG/24,25,26BLG LPLファン #BLGWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "BLGWIN"
+              }
+            ]
+          }
+        },
+        "id": "1560640265433387008",
+        "location": "Knight fan",
+        "name": "⚡️切身⚡️",
+        "pinned_tweet_id": "1956467325479367088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476926148513792/cGFeHPNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 149,
+          "like_count": 44156,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 13545
+        },
+        "url": "",
+        "username": "krimiddd",
+        "verified": false
+      }
+    ]
+  }
+}

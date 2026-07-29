@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051708507548942699",
+    "created_at": "2026-05-05T19:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051744592752672991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952662102646325248",
+          "start": 0,
+          "username": "Haibara0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051744592752672991",
+    "in_reply_to_user_id": "1952662102646325248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051718692061552809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haibara0401 是经常去的邮局 我在这个地方附近经常活动（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051708507548942699",
+        "created_at": "2026-05-05T19:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051744592752672991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952662102646325248",
+              "start": 0,
+              "username": "Haibara0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051744592752672991",
+        "in_reply_to_user_id": "1952662102646325248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051718692061552809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haibara0401 是经常去的邮局 我在这个地方附近经常活动（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952662102646325248",
+        "conversation_id": "2051708507548942699",
+        "created_at": "2026-05-05T17:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051718692061552809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051718692061552809",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051708507548942699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 刚才看定位是认真的吗(｡･ω･｡)?尽量不要暴露墙内信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9440,
+          "following_count": 4194,
+          "like_count": 44191,
+          "listed_count": 29,
+          "media_count": 3163,
+          "tweet_count": 11690
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T09:25:16.000Z",
+        "description": "",
+        "id": "1952662102646325248",
+        "location": "Hong Kong",
+        "name": "Haibara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050073620534493184/0P-lTYdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "Haibara0401",
+        "verified": false
+      }
+    ]
+  }
+}

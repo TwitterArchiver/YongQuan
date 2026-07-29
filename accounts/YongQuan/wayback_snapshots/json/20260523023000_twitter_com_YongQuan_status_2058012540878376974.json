@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056634123146625024"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058012540878376974",
+    "created_at": "2026-05-23T02:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058012540878376974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YTmX3ngu6y",
+          "end": 93,
+          "expanded_url": "https://x.com/YongQuan/status/2058012540878376974/photo/1",
+          "media_key": "3_2056634123146625024",
+          "start": 70,
+          "url": "https://t.co/YTmX3ngu6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058012540878376974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "US GDP Belike：\n虽然但是\n你只要把这个循环扩得足够大\n总有一个投资循环能把每一家公司都串进来\n变成一个互相投资刷gdp的机器 https://t.co/YTmX3ngu6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2056634123146625024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqh1qcaAAA5ehb.jpg",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056634123146625024"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058012540878376974",
+        "created_at": "2026-05-23T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058012540878376974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTmX3ngu6y",
+              "end": 93,
+              "expanded_url": "https://x.com/YongQuan/status/2058012540878376974/photo/1",
+              "media_key": "3_2056634123146625024",
+              "start": 70,
+              "url": "https://t.co/YTmX3ngu6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058012540878376974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "US GDP Belike：\n虽然但是\n你只要把这个循环扩得足够大\n总有一个投资循环能把每一家公司都串进来\n变成一个互相投资刷gdp的机器 https://t.co/YTmX3ngu6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜#小铨的月季花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9961,
+          "following_count": 4365,
+          "like_count": 46996,
+          "listed_count": 30,
+          "media_count": 3648,
+          "tweet_count": 12900
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066533776671318430",
+    "created_at": "2026-06-16T08:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066802451563303346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973043347658059776",
+          "start": 0,
+          "username": "yoiyama_jsfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066802451563303346",
+    "in_reply_to_user_id": "1973043347658059776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066533776671318430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoiyama_jsfl 我的已经改成雪球生日了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066533776671318430",
+        "created_at": "2026-06-16T08:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066802451563303346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973043347658059776",
+              "start": 0,
+              "username": "yoiyama_jsfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066802451563303346",
+        "in_reply_to_user_id": "1973043347658059776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066533776671318430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoiyama_jsfl 我的已经改成雪球生日了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973043347658059776",
+        "conversation_id": "2066533776671318430",
+        "created_at": "2026-06-15T14:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066533776671318430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066533776671318430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18420,
+          "like_count": 163,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得x这个私信密码很幽默吗，感觉中推百分之九十的人都是8964"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10661,
+          "following_count": 4565,
+          "like_count": 50406,
+          "listed_count": 35,
+          "media_count": 4311,
+          "tweet_count": 14374
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T15:12:54.000Z",
+        "description": "麦琪的礼物",
+        "id": "1973043347658059776",
+        "name": "沢村",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052765533682929664/SV1XdL3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 246,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 235
+        },
+        "username": "yoiyama_jsfl",
+        "verified": false
+      }
+    ]
+  }
+}

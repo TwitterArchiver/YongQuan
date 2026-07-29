@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057709634463658273",
+    "created_at": "2026-05-22T06:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057709634463658273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1422800225777897472",
+          "start": 3,
+          "username": "PaperFoggYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057709634463658273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057702204182835352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaperFoggYuan: 其实有很多在恶意揣测别人的人，都是在以己度人。\n你眼中的自己不是自己，别人眼中的你也不是你，你眼中的别人才是真正的你自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057709634463658273",
+        "created_at": "2026-05-22T06:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057709634463658273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1422800225777897472",
+              "start": 3,
+              "username": "PaperFoggYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057709634463658273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057702204182835352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaperFoggYuan: 其实有很多在恶意揣测别人的人，都是在以己度人。\n你眼中的自己不是自己，别人眼中的你也不是你，你眼中的别人才是真正的你自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422800225777897472",
+        "conversation_id": "2057702204182835352",
+        "created_at": "2026-05-22T05:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057702204182835352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057702204182835352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实有很多在恶意揣测别人的人，都是在以己度人。\n你眼中的自己不是自己，别人眼中的你也不是你，你眼中的别人才是真正的你自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9942,
+          "following_count": 4342,
+          "like_count": 46605,
+          "listed_count": 30,
+          "media_count": 3609,
+          "tweet_count": 12783
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ 欢迎光临！💃 ☮︎名字叫福格Fogg🌳🌲大一在读🌴🏔️平时喜欢一个人吃饭和旅行🚉📷旅行的时候喜欢随地大小拍🏕️🚲还喜欢森林,草原,湖泊,雪山和海洋，热爱音乐剧🏊🎾ENFP🏃🧦熟人可以私信扩列🏗️保留锋芒𐂂",
+        "id": "1422800225777897472",
+        "location": "🌊金陵🏫🍁广陵🏠🌸",
+        "name": "ʕ •ᴥ•ʔ福格🌲☻",
+        "pinned_tweet_id": "1991913479742394793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034185737546215425/t6Rdr5pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 536,
+          "like_count": 94112,
+          "listed_count": 7,
+          "media_count": 1975,
+          "tweet_count": 24341
+        },
+        "username": "PaperFoggYuan",
+        "verified": true
+      }
+    ]
+  }
+}

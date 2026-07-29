@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10047025713",
+          "name": "Dota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10047025713",
+          "name": "Dota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      }
+    ],
+    "conversation_id": "2076505601459552579",
+    "created_at": "2026-07-13T04:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076530242844299453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "787600845856649216",
+          "start": 0,
+          "username": "HLECreator"
+        },
+        {
+          "end": 21,
+          "id": "1443345798402506756",
+          "start": 12,
+          "username": "tttttyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076530242844299453",
+    "in_reply_to_user_id": "787600845856649216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076508266272805063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLECreator @tttttyuc 说句LOL玩家不爱听的 Riot 赛制都抄不明白 隔壁Dota双败玩了十几年了 人家淘汰赛bo3 决赛bo5 败者组想赢最多要打一个bo8 才是冠军 胜者组自带体力优势 lol这阉割的双败是真垃圾 败者组打完第二天才打决赛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          }
+        ],
+        "conversation_id": "2076505601459552579",
+        "created_at": "2026-07-13T04:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076530242844299453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "787600845856649216",
+              "start": 0,
+              "username": "HLECreator"
+            },
+            {
+              "end": 21,
+              "id": "1443345798402506756",
+              "start": 12,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076530242844299453",
+        "in_reply_to_user_id": "787600845856649216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076508266272805063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLECreator @tttttyuc 说句LOL玩家不爱听的 Riot 赛制都抄不明白 隔壁Dota双败玩了十几年了 人家淘汰赛bo3 决赛bo5 败者组想赢最多要打一个bo8 才是冠军 胜者组自带体力优势 lol这阉割的双败是真垃圾 败者组打完第二天才打决赛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "787600845856649216",
+        "conversation_id": "2076505601459552579",
+        "created_at": "2026-07-13T03:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076508266272805063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443345798402506756",
+              "start": 0,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076508266272805063",
+        "in_reply_to_user_id": "1443345798402506756",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076505601459552579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttyuc I’ve personally always felt that double elim was a bit unfair due to the upper bracket finalist being punished for not losing in a sense, and would love it if more advantages are discussed, but people complaining specially now is just odd, this isn’t a new thing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\nEnby.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11129,
+          "following_count": 4746,
+          "like_count": 52453,
+          "listed_count": 38,
+          "media_count": 5048,
+          "tweet_count": 15875
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-16T10:27:29.000Z",
+        "description": "God of Thunder stan #HLEWIN #HLEFIGHTING Banner thanks to @Bambicino7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 20,
+                "tag": "HLEWIN"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "tag": "HLEFIGHTING"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "Bambicino7"
+              }
+            ]
+          }
+        },
+        "id": "787600845856649216",
+        "location": "Malaysia",
+        "name": "HLE Creator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861030176144187392/by-_99n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1093,
+          "like_count": 16612,
+          "listed_count": 7,
+          "media_count": 395,
+          "tweet_count": 8394
+        },
+        "url": "",
+        "username": "HLECreator",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T22:44:04.000Z",
+        "description": "CN/EN, 22JDG/23BLG/ZOFGK/23OMG, LEC LCS enjoyer, She/her/hers",
+        "id": "1443345798402506756",
+        "name": "Yuuu - lifeitsfkingmove",
+        "pinned_tweet_id": "2076186579312476334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987675060681973760/peun9lwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16708,
+          "following_count": 666,
+          "like_count": 96228,
+          "listed_count": 52,
+          "media_count": 8534,
+          "tweet_count": 51557
+        },
+        "url": "",
+        "username": "tttttyuc",
+        "verified": false
+      }
+    ]
+  }
+}

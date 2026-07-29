@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065470821465001986"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065412006946160810",
+    "created_at": "2026-06-12T16:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065470832684786014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3179868743",
+          "start": 0,
+          "username": "arieslol_"
+        },
+        {
+          "end": 15,
+          "id": "1285050175266799616",
+          "start": 11,
+          "username": "LCK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAIdozl9Bu",
+          "end": 39,
+          "expanded_url": "https://x.com/YongQuan/status/2065470832684786014/photo/1",
+          "media_key": "3_2065470821465001986",
+          "start": 16,
+          "url": "https://t.co/HAIdozl9Bu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065470832684786014",
+    "in_reply_to_user_id": "3179868743",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065412006946160810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arieslol_ @LCK https://t.co/HAIdozl9Bu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2065470821465001986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoGxM9bEAIO-oO.jpg",
+        "width": 960
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2065411819217551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnRG0dbAAAf8bd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065470821465001986"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065412006946160810",
+        "created_at": "2026-06-12T16:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065470832684786014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3179868743",
+              "start": 0,
+              "username": "arieslol_"
+            },
+            {
+              "end": 15,
+              "id": "1285050175266799616",
+              "start": 11,
+              "username": "LCK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAIdozl9Bu",
+              "end": 39,
+              "expanded_url": "https://x.com/YongQuan/status/2065470832684786014/photo/1",
+              "media_key": "3_2065470821465001986",
+              "start": 16,
+              "url": "https://t.co/HAIdozl9Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065470832684786014",
+        "in_reply_to_user_id": "3179868743",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065412006946160810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arieslol_ @LCK https://t.co/HAIdozl9Bu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065411819217551360"
+          ]
+        },
+        "author_id": "3179868743",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2065412006946160810",
+        "created_at": "2026-06-12T12:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065412006946160810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "LCK"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "HLE"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "RoadToMSI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1285050175266799616",
+              "start": 58,
+              "username": "LCK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LRXRlJ3a2",
+              "end": 86,
+              "expanded_url": "https://x.com/arieslol_/status/2065412006946160810/photo/1",
+              "media_key": "3_2065411819217551360",
+              "start": 63,
+              "url": "https://t.co/2LRXRlJ3a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065412006946160810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 37437,
+          "like_count": 1314,
+          "quote_count": 87,
+          "reply_count": 8,
+          "retweet_count": 527
+        },
+        "reply_settings": "everyone",
+        "text": "Gumayusi, thank you for the pose 😭😭\n\n#LCK #HLE #RoadToMSI @LCK https://t.co/2LRXRlJ3a2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 4537,
+          "like_count": 49911,
+          "listed_count": 34,
+          "media_count": 4219,
+          "tweet_count": 14123
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-18T16:05:00.000Z",
+        "description": "LCK \"Journalist\" / Software developer for @Sheep_Esports",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Sheep_Esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://sheepesports.com",
+                "start": 0,
+                "url": "https://t.co/9YsTJUN4zf"
+              }
+            ]
+          }
+        },
+        "id": "3179868743",
+        "location": "Seoul, South Korea",
+        "name": "Aries",
+        "pinned_tweet_id": "2041475485859979274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052248474570362882/_uu0o0I2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3220,
+          "following_count": 812,
+          "like_count": 280382,
+          "listed_count": 10,
+          "media_count": 391,
+          "tweet_count": 3695
+        },
+        "url": "https://t.co/9YsTJUN4zf",
+        "username": "arieslol_",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-20T03:13:56.000Z",
+        "description": "Official Global Twitter of #LCK l Youtube: LCK Global, Twitch: LCK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "LCK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/LCKglobal",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/LCKglobal",
+                "start": 0,
+                "url": "https://t.co/3qUfKWYrCR"
+              }
+            ]
+          }
+        },
+        "id": "1285050175266799616",
+        "location": "South Korea",
+        "name": "LCK",
+        "pinned_tweet_id": "2063615520340168717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037384095341408256/c-TXNz7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364437,
+          "following_count": 123,
+          "like_count": 368,
+          "listed_count": 710,
+          "media_count": 9882,
+          "tweet_count": 14380
+        },
+        "url": "https://t.co/3qUfKWYrCR",
+        "username": "LCK",
+        "verified": true
+      }
+    ]
+  }
+}

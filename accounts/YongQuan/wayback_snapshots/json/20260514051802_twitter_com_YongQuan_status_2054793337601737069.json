@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054775384517017743",
+    "created_at": "2026-05-14T05:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054793337601737069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        },
+        {
+          "end": 30,
+          "id": "1654536386098364418",
+          "start": 16,
+          "username": "Nicole_yang88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054793337601737069",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054793237928563135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal @Nicole_yang88 那我呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054775384517017743",
+        "created_at": "2026-05-14T05:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054793337601737069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            },
+            {
+              "end": 30,
+              "id": "1654536386098364418",
+              "start": 16,
+              "username": "Nicole_yang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054793337601737069",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054793237928563135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal @Nicole_yang88 那我呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841306675674075136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2054775384517017743",
+        "created_at": "2026-05-14T05:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054793237928563135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654536386098364418",
+              "start": 0,
+              "username": "Nicole_yang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054793237928563135",
+        "in_reply_to_user_id": "1654536386098364418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054775384517017743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole_yang88 我看到的是一群web3人士整天就在那蓝V互关，一点有内容的帖都没有，是不是币圈都不好说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9742,
+          "following_count": 4244,
+          "like_count": 45286,
+          "listed_count": 29,
+          "media_count": 3377,
+          "tweet_count": 12181
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語専攻のオタク🌗广交推特各路豪杰🌗钻研数码科技/大数据/跨境支付与投资 @AORINGOHUZIN ファン🍏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "AORINGOHUZIN"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2054575918073716933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 1473,
+          "like_count": 1259,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 3271
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T17:20:01.000Z",
+        "description": "📊 跨境金融实战派｜港美股开户｜全球银行卡｜加密支付路径\n🌐 泥伏雷网站：https://t.co/O0RJVTKLe2\n🔍 拆解信息差，打通资金流\n🧭 从0到1搭建你的海外资产体系\n💹 资金永不眠\n🚀 一起成长，一起闯关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nifulei.com",
+                "end": 60,
+                "expanded_url": "http://nifulei.com",
+                "start": 37,
+                "url": "https://t.co/O0RJVTKLe2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkagg.com/user4a239ux2",
+                "end": 23,
+                "expanded_url": "https://linkagg.com/user4a239ux2",
+                "start": 0,
+                "url": "https://t.co/FAUTDf0jA7"
+              }
+            ]
+          }
+        },
+        "id": "1654536386098364418",
+        "location": "🎁币安|欧易专属权益通道➡️",
+        "name": "泥伏雷闯关记",
+        "pinned_tweet_id": "2050408884586823978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758831860954902528/Sf7BV7PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26267,
+          "following_count": 2173,
+          "like_count": 3239,
+          "listed_count": 134,
+          "media_count": 3236,
+          "tweet_count": 12848
+        },
+        "url": "https://t.co/FAUTDf0jA7",
+        "username": "Nicole_yang88",
+        "verified": true
+      }
+    ]
+  }
+}

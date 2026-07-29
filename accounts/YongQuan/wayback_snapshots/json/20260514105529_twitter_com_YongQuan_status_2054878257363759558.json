@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2054834846825128271",
+    "created_at": "2026-05-14T10:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054878257363759558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 27,
+          "id": "1105278946168397824",
+          "start": 16,
+          "username": "iseki_zero"
+        },
+        {
+          "end": 34,
+          "id": "380749300",
+          "start": 28,
+          "username": "Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054878257363759558",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054834846825128271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen @iseki_zero @Apple 这环状线怎么还能说脏话呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054834838126084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ9ZfaaQAASDNP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2054834846825128271",
+        "created_at": "2026-05-14T10:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054878257363759558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 27,
+              "id": "1105278946168397824",
+              "start": 16,
+              "username": "iseki_zero"
+            },
+            {
+              "end": 34,
+              "id": "380749300",
+              "start": 28,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054878257363759558",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054834846825128271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen @iseki_zero @Apple 这环状线怎么还能说脏话呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054834838126084096"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2054834846825128271",
+        "created_at": "2026-05-14T08:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054834846825128271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "380749300",
+              "start": 4,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HnyYxaVgS",
+              "end": 34,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2054834846825128271/photo/1",
+              "media_key": "3_2054834838126084096",
+              "start": 11,
+              "url": "https://t.co/2HnyYxaVgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054834846825128271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9799,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "操你妈 @Apple https://t.co/2HnyYxaVgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9752,
+          "following_count": 4245,
+          "like_count": 45336,
+          "listed_count": 29,
+          "media_count": 3381,
+          "tweet_count": 12212
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 820,
+          "like_count": 19636,
+          "listed_count": 7,
+          "media_count": 1048,
+          "tweet_count": 5829
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-12T01:26:50.000Z",
+        "description": "26🚹中国人です | ミクを渡せ。さもなければ、社会ごと巻き添えにしてやる。日本語を勉強してる。鍵垢 @iseki_stderr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "iseki_stderr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iseki.space",
+                "end": 23,
+                "expanded_url": "https://iseki.space",
+                "start": 0,
+                "url": "https://t.co/Rszp41wncX"
+              }
+            ]
+          }
+        },
+        "id": "1105278946168397824",
+        "location": "Next⇒神様いる場所",
+        "name": "iseki",
+        "pinned_tweet_id": "2034968369758445588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223461934428614657/HelElVGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 1539,
+          "like_count": 30804,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 8394
+        },
+        "url": "https://t.co/Rszp41wncX",
+        "username": "iseki_zero",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "2029256730127761640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940362,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15180,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

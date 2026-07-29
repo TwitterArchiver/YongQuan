@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2077501779445440558",
+    "created_at": "2026-07-16T10:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077697000590692452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980410903850885120",
+          "start": 0,
+          "username": "mmshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077697000590692452",
+    "in_reply_to_user_id": "1980410903850885120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077501779445440558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmshuxing 我是什么🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2077501779445440558",
+        "created_at": "2026-07-16T10:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077697000590692452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980410903850885120",
+              "start": 0,
+              "username": "mmshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077697000590692452",
+        "in_reply_to_user_id": "1980410903850885120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077501779445440558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmshuxing 我是什么🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980410903850885120",
+        "conversation_id": "2077501779445440558",
+        "created_at": "2026-07-15T21:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077501779445440558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077501779445440558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1083,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想双取一些0互动的互关，哎反正就是很难受吧感觉没人找我玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11127,
+          "following_count": 4750,
+          "like_count": 52519,
+          "listed_count": 38,
+          "media_count": 5162,
+          "tweet_count": 16026
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 🎂11年 喜欢哥哥 brat\n残圈 双向 割手 友跨 🏳️‍🌈 \n生理女 心理女 顺女\n欢迎同类和可爱的小南娘互fo",
+        "id": "1980410903850885120",
+        "location": "纯绿128 288 ",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2074598002988122600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077358105696845824/UKFj6XsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 89,
+          "like_count": 5855,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067795072620638561",
+    "created_at": "2026-06-19T14:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067980393047834956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042095951897358338",
+          "start": 0,
+          "username": "teacher_cao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067980393047834956",
+    "in_reply_to_user_id": "2042095951897358338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067795072620638561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacher_cao 黑箱机制其实很难有信任的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067795072620638561",
+        "created_at": "2026-06-19T14:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067980393047834956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042095951897358338",
+              "start": 0,
+              "username": "teacher_cao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980393047834956",
+        "in_reply_to_user_id": "2042095951897358338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067795072620638561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacher_cao 黑箱机制其实很难有信任的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042095951897358338",
+        "conversation_id": "2067795072620638561",
+        "created_at": "2026-06-19T02:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067795072620638561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067795072620638561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3971,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的时间线已经看到不下10个\n\n创作者收益被暂停\n\n有没有可能根本没有AI审查\n\n直接随机封一批\n\n想恢复的让你使劲申诉\n\n不想要的以后也不用发了\n\n这招是不是很高明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 4594,
+          "like_count": 51088,
+          "listed_count": 35,
+          "media_count": 4418,
+          "tweet_count": 14645
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T04:24:11.000Z",
+        "description": "Web3 | AI Agent | X居民 | 运营增长 | 情感导师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/teachercaox",
+                "end": 23,
+                "expanded_url": "https://t.me/teachercaox",
+                "start": 0,
+                "url": "https://t.co/k8Ndxhd1Bz"
+              }
+            ]
+          }
+        },
+        "id": "2042095951897358338",
+        "name": "Cao草",
+        "pinned_tweet_id": "2065342428090159345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064490491832619010/hegWxJXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 1305,
+          "like_count": 5945,
+          "listed_count": 9,
+          "media_count": 415,
+          "tweet_count": 5953
+        },
+        "url": "https://t.co/k8Ndxhd1Bz",
+        "username": "teacher_cao",
+        "verified": true
+      }
+    ]
+  }
+}

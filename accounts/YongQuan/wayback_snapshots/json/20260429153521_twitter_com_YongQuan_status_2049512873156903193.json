@@ -1,0 +1,905 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1271188422292463616",
+          "name": "Pragmata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1271188422292463616",
+          "name": "Pragmata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898787358408746",
+          "name": "Sci-fi games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2046015992657334518",
+    "created_at": "2026-04-29T15:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049512873156903193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930371098807545859",
+          "start": 0,
+          "username": "PRAGMATA_JP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 36,
+          "expanded_url": "https://x.com/yongquan/status/2049415816337297897?s=46",
+          "start": 13,
+          "url": "https://t.co/ooR4Hg4CQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049512873156903193",
+    "in_reply_to_user_id": "1930371098807545859",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049415816337297897",
+        "type": "quoted"
+      },
+      {
+        "id": "2046015992657334518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRAGMATA_JP https://t.co/ooR4Hg4CQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41145,
+        "height": 720,
+        "media_key": "13_2049415355320393728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049415355320393728/img/7TCHDt24plCIccIa.jpg",
+        "public_metrics": {
+          "view_count": 678
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415355320393728/vid/avc1/360x270/9jFP9FxzAlYlFMA1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415355320393728/vid/avc1/480x360/VafwnH15eFxXzLMG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415355320393728/vid/avc1/960x720/5WLInwzdResc83mD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049415355320393728/pl/vXzpnK83BaVsYoEI.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 18018,
+        "height": 3840,
+        "media_key": "13_2044690020494352384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044690020494352384/img/GlsQ0y2keFo243pu.jpg",
+        "public_metrics": {
+          "view_count": 298628
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/vid/avc1/720x1280/wE5-8mpEp1-5w_9B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/vid/avc1/1080x1920/p7DoMphVJfM6HsuN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/pl/L6-3hJ8Zk5RmBauK.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/vid/avc1/480x852/Y1AdXH_rQYSdjNzR.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/vid/avc1/2160x3840/QANDoU1smX9LpPoy.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044690020494352384/vid/avc1/320x568/tdcEHja605twWrV1.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2046015992657334518",
+        "created_at": "2026-04-29T15:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049512873156903193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930371098807545859",
+              "start": 0,
+              "username": "PRAGMATA_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 36,
+              "expanded_url": "https://x.com/yongquan/status/2049415816337297897?s=46",
+              "start": 13,
+              "url": "https://t.co/ooR4Hg4CQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049512873156903193",
+        "in_reply_to_user_id": "1930371098807545859",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049415816337297897",
+            "type": "quoted"
+          },
+          {
+            "id": "2046015992657334518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRAGMATA_JP https://t.co/ooR4Hg4CQS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049415355320393728"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2049415816337297897",
+        "created_at": "2026-04-29T09:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049415816337297897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "Pragmata"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "ヨルシカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1260305461024153600",
+              "start": 30,
+              "username": "PRAGMATAgame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeW1C18m9o",
+              "end": 79,
+              "expanded_url": "https://x.com/YongQuan/status/2049415816337297897/video/1",
+              "media_key": "13_2049415355320393728",
+              "start": 56,
+              "url": "https://t.co/TeW1C18m9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049415816337297897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2566,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "風が🌬️私を呼んでいる😮\n#Pragmata #ヨルシカ \n@PRAGMATAgame is so Cute！ https://t.co/TeW1C18m9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044690020494352384"
+          ]
+        },
+        "author_id": "1930371098807545859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          }
+        ],
+        "conversation_id": "2046015992657334518",
+        "created_at": "2026-04-20T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046015992657334518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "プラグマタ"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "PRAGMATA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vcDySkpKB",
+              "end": 53,
+              "expanded_url": "https://x.com/PRAGMATA_JP/status/2046015992657334518/video/1",
+              "media_key": "13_2044690020494352384",
+              "start": 30,
+              "url": "https://t.co/2vcDySkpKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046015992657334518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3258,
+          "impression_count": 1437489,
+          "like_count": 38062,
+          "quote_count": 370,
+          "reply_count": 161,
+          "retweet_count": 5206
+        },
+        "reply_settings": "everyone",
+        "text": "「踊るの、楽しい～！」\n\n#プラグマタ #PRAGMATA https://t.co/2vcDySkpKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9198,
+          "following_count": 4164,
+          "like_count": 43546,
+          "listed_count": 28,
+          "media_count": 3010,
+          "tweet_count": 11374
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-04T21:08:40.000Z",
+        "description": "カプコンが贈る新感覚のSFアクションアドベンチャー『 #プラグマタ 』の公式アカウントです。Playstation 5、Xbox Series X|S、Steam、Nintendo Switch 2 にて好評発売中！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "プラグマタ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "capcom-games.com/pragmata/",
+                "end": 23,
+                "expanded_url": "https://www.capcom-games.com/pragmata/",
+                "start": 0,
+                "url": "https://t.co/XGHeqAz1G1"
+              }
+            ]
+          }
+        },
+        "id": "1930371098807545859",
+        "name": "「プラグマタ」公式",
+        "pinned_tweet_id": "2046401517121679600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999281610664148992/cz5Yzy6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90273,
+          "following_count": 8,
+          "like_count": 157,
+          "listed_count": 184,
+          "media_count": 328,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/XGHeqAz1G1",
+        "username": "PRAGMATA_JP",
+        "verified": true
+      }
+    ]
+  }
+}

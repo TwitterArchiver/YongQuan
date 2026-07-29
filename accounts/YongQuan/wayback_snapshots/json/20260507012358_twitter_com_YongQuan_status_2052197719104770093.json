@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052197711265558528"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051978344510673196",
+    "created_at": "2026-05-07T01:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052197719104770093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FjV25jxmna",
+          "end": 38,
+          "expanded_url": "https://x.com/YongQuan/status/2052197719104770093/photo/1",
+          "media_key": "3_2052197711265558528",
+          "start": 15,
+          "url": "https://t.co/FjV25jxmna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052197719104770093",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051978344510673196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 车呢（？ https://t.co/FjV25jxmna"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2052197711265558528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHre8gTacAAW9J2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051978336021409793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoXbL1acAEH7VI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052197711265558528"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051978344510673196",
+        "created_at": "2026-05-07T01:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052197719104770093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjV25jxmna",
+              "end": 38,
+              "expanded_url": "https://x.com/YongQuan/status/2052197719104770093/photo/1",
+              "media_key": "3_2052197711265558528",
+              "start": 15,
+              "url": "https://t.co/FjV25jxmna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052197719104770093",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051978344510673196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 车呢（？ https://t.co/FjV25jxmna"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051978336021409793"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051978344510673196",
+        "created_at": "2026-05-06T10:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051978344510673196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvPE5bK57L",
+              "end": 39,
+              "expanded_url": "https://x.com/jlxc2001/status/2051978344510673196/photo/1",
+              "media_key": "3_2051978336021409793",
+              "start": 16,
+              "url": "https://t.co/EvPE5bK57L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051978344510673196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "朋友送了一台小米SU7 Max 上的控制按钮拆车件，我给它改装成了能接入米家的控制按钮，之前在深圳住的时候，我把它放床头，可以控制我房间的灯光、新风机、空气净化器、台灯、空调、窗帘、显示屏开关、氛围灯之类的设备，现在搬回老家了，你们觉得把这个按钮放在哪里比较合适，办公室还是卧室又或者是大门进门处"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 23078,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友送了一台小米SU7 Max https://t.co/EvPE5bK57L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@0KJ7A｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "0KJ7A"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "JDGaming"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 4202,
+          "like_count": 44532,
+          "listed_count": 29,
+          "media_count": 3197,
+          "tweet_count": 11760
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16391,
+          "following_count": 204,
+          "like_count": 540,
+          "listed_count": 37,
+          "media_count": 994,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

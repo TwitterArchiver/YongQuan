@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065712176224927927",
+    "created_at": "2026-06-13T08:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065712583328268378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065712583328268378",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065712176224927927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识：小铨出门其实纯吃 美食是我能记得住一座城市的最好记忆\n\n除非能像福州厦门这种常来转机/印象深刻的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2065712135192150017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgpXgAEw0YV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135200473089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgrWgAErh_Z.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135196274688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgqWcAAxlga.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065712135204646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKriPgsWMAAoadG.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065712176224927927",
+        "created_at": "2026-06-13T08:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065712583328268378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065712583328268378",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065712176224927927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识：小铨出门其实纯吃 美食是我能记得住一座城市的最好记忆\n\n除非能像福州厦门这种常来转机/印象深刻的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065712135192150017",
+            "3_2065712135200473089",
+            "3_2065712135196274688",
+            "3_2065712135204646912"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065712176224927927",
+        "created_at": "2026-06-13T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065712176224927927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "小铨到处跑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 115,
+              "id": "908312740455907330",
+              "start": 106,
+              "username": "qiuylove"
+            },
+            {
+              "end": 132,
+              "id": "1663066129923981312",
+              "start": 120,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135192150017",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135200473089",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135196274688",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            },
+            {
+              "display_url": "pic.x.com/5yPS1rphhl",
+              "end": 186,
+              "expanded_url": "https://x.com/YongQuan/status/2065712176224927927/photo/1",
+              "media_key": "3_2065712135204646912",
+              "start": 163,
+              "url": "https://t.co/5yPS1rphhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065712176224927927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#小铨到处跑 厦门！\n两年之后 再到厦门\n感觉只适合更多的来短暂（1-2天都算长了）游玩\n\n中山路 1980烧肉粽 两个人逛吃逛吃 ¥130（约 雪秋买的单）\n分量还是蛮大的\n就是有点晕碳 有点困困的\n回去顺带让@qiuylove 电了一下@Ak1raQ_love \n（给孩子高兴的）\n\n好了 晚上四处溜达一下 有点困困的。 https://t.co/5yPS1rphhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10615,
+          "following_count": 4534,
+          "like_count": 49972,
+          "listed_count": 34,
+          "media_count": 4235,
+          "tweet_count": 14164
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

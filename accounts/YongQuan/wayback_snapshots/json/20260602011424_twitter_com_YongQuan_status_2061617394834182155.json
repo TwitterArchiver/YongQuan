@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061414373990801550",
+    "created_at": "2026-06-02T01:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061617394834182155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730584462503845888",
+          "start": 0,
+          "username": "xxxuan_lulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061617394834182155",
+    "in_reply_to_user_id": "1730584462503845888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061414373990801550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxuan_lulu 今年是s几？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061414373990801550",
+        "created_at": "2026-06-02T01:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061617394834182155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730584462503845888",
+              "start": 0,
+              "username": "xxxuan_lulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061617394834182155",
+        "in_reply_to_user_id": "1730584462503845888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061414373990801550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxuan_lulu 今年是s几？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730584462503845888",
+        "conversation_id": "2061414373990801550",
+        "created_at": "2026-06-01T11:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061414373990801550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tttttyuc/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/tttttyuc/status/2061413353508274473",
+              "start": 13,
+              "url": "https://t.co/q5OSL8f9EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061414373990801550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1551,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061413353508274473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没看we比赛的一整年白看 https://t.co/q5OSL8f9EJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 4447,
+          "like_count": 48087,
+          "listed_count": 30,
+          "media_count": 3927,
+          "tweet_count": 13457
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-01T13:48:08.000Z",
+        "description": "大家都好会打英雄联盟啊~",
+        "id": "1730584462503845888",
+        "location": "峡谷里面银龙鱼",
+        "name": "恶语伤人最无用，多谢鼓励总会赢",
+        "pinned_tweet_id": "1983197766647222382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058211854351290368/fPkk_Or1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 169,
+          "like_count": 8389,
+          "listed_count": 4,
+          "media_count": 1457,
+          "tweet_count": 14365
+        },
+        "username": "xxxuan_lulu",
+        "verified": false
+      }
+    ]
+  }
+}

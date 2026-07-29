@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2037152591726207118",
+    "created_at": "2026-05-02T10:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050524040209813564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579344517760946176",
+          "start": 0,
+          "username": "ic_Furencia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050524040209813564",
+    "in_reply_to_user_id": "1579344517760946176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037204886673351036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ic_Furencia 真是世一上了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2037152591726207118",
+        "created_at": "2026-05-02T10:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050524040209813564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579344517760946176",
+              "start": 0,
+              "username": "ic_Furencia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050524040209813564",
+        "in_reply_to_user_id": "1579344517760946176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037204886673351036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ic_Furencia 真是世一上了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579344517760946176",
+        "conversation_id": "2037152591726207118",
+        "created_at": "2026-03-26T16:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037204886673351036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "yongquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037204886673351036",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037152591726207118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yongquan 你bin哥已经火到连不打联盟的人都知道他是世一上了口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9222,
+          "following_count": 4174,
+          "like_count": 43755,
+          "listed_count": 28,
+          "media_count": 3079,
+          "tweet_count": 11500
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-10T05:34:24.000Z",
+        "description": "#iammusic",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "iammusic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "riotgames.com",
+                "end": 23,
+                "expanded_url": "http://www.riotgames.com",
+                "start": 0,
+                "url": "https://t.co/uE9WaSjIjI"
+              }
+            ]
+          }
+        },
+        "id": "1579344517760946176",
+        "location": "Fontaine",
+        "name": "芙",
+        "pinned_tweet_id": "1924507525795430629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033705722077450242/43I0yzzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 292,
+          "like_count": 76063,
+          "listed_count": 3,
+          "media_count": 572,
+          "tweet_count": 8926
+        },
+        "url": "https://t.co/uE9WaSjIjI",
+        "username": "ic_Furencia",
+        "verified": false
+      }
+    ]
+  }
+}

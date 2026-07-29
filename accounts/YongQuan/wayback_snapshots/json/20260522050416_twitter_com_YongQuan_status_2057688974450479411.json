@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057659481195172114",
+    "created_at": "2026-05-22T05:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057688974450479411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "291191913",
+          "start": 0,
+          "username": "643194hahd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057688974450479411",
+    "in_reply_to_user_id": "291191913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057659481195172114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@643194hahd （探头\n凑个热闹先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057659481195172114",
+        "created_at": "2026-05-22T05:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057688974450479411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "291191913",
+              "start": 0,
+              "username": "643194hahd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057688974450479411",
+        "in_reply_to_user_id": "291191913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057659481195172114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@643194hahd （探头\n凑个热闹先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "291191913",
+        "conversation_id": "2057659481195172114",
+        "created_at": "2026-05-22T03:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057659481195172114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057659481195172114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 976,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关\n 开通蓝V好多天了\n   \n希望中文圈的朋友们多多关注\n    \n以后就在X上活动了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9937,
+          "following_count": 4336,
+          "like_count": 46576,
+          "listed_count": 30,
+          "media_count": 3608,
+          "tweet_count": 12775
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-01T16:13:53.000Z",
+        "description": "从crud到拥抱AI的程序员。喜欢分享快乐，想得比较多。",
+        "id": "291191913",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716106083855654912/affW3kjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 631,
+          "like_count": 10692,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 329
+        },
+        "username": "643194hahd",
+        "verified": true
+      }
+    ]
+  }
+}

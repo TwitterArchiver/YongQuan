@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      }
+    ],
+    "conversation_id": "2048632026648150040",
+    "created_at": "2026-04-27T10:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048709693774991764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556187726558515201",
+          "start": 0,
+          "username": "__Lucas04__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048709693774991764",
+    "in_reply_to_user_id": "1556187726558515201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048632026648150040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Lucas04__ 用BOC绑定WeChatPayHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2048632018192535552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4z92fbkAAAiW0.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          }
+        ],
+        "conversation_id": "2048632026648150040",
+        "created_at": "2026-04-27T10:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048709693774991764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556187726558515201",
+              "start": 0,
+              "username": "__Lucas04__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048709693774991764",
+        "in_reply_to_user_id": "1556187726558515201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048632026648150040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Lucas04__ 用BOC绑定WeChatPayHK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048632018192535552"
+          ]
+        },
+        "author_id": "1556187726558515201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2048632026648150040",
+        "created_at": "2026-04-27T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048632026648150040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1Eezxz3cv",
+              "end": 85,
+              "expanded_url": "https://x.com/__Lucas04__/status/2048632026648150040/photo/1",
+              "media_key": "3_2048632018192535552",
+              "start": 62,
+              "url": "https://t.co/I1Eezxz3cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048632026648150040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来 WeChat Pay HK 发红包都要手续费的吗，这费率还不算低……\n\n只有零钱和 Bank Account 能豁免 https://t.co/I1Eezxz3cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9139,
+          "following_count": 4151,
+          "like_count": 43290,
+          "listed_count": 28,
+          "media_count": 2951,
+          "tweet_count": 11267
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 405,
+          "like_count": 8260,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

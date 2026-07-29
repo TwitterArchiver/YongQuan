@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2049718368828358713",
+    "created_at": "2026-04-30T05:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049718368828358713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 59,
+          "id": "1424779836938022913",
+          "start": 46,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049718368828358713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049698932184260853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @amber_medusozoa: 新关注我的直男朋友们可以看下我主页简介哦🩷（原大号@amber_toffee）"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2049718368828358713",
+        "created_at": "2026-04-30T05:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049718368828358713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 59,
+              "id": "1424779836938022913",
+              "start": 46,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049718368828358713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049698932184260853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @amber_medusozoa: 新关注我的直男朋友们可以看下我主页简介哦🩷（原大号@amber_toffee）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2049698932184260853",
+        "created_at": "2026-04-30T03:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049698932184260853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1424779836938022913",
+              "start": 25,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049698932184260853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1186,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新关注我的直男朋友们可以看下我主页简介哦🩷（原大号@amber_toffee）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9196,
+          "following_count": 4165,
+          "like_count": 43585,
+          "listed_count": 28,
+          "media_count": 3024,
+          "tweet_count": 11395
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)，可解锁语音视频通话\n\n支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "/",
+        "pinned_tweet_id": "2049698932184260853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 827,
+          "like_count": 3242,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 1276
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

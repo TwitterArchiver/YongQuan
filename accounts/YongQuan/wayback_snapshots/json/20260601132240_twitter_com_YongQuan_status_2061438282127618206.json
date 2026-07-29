@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061438282127618206",
+    "created_at": "2026-06-01T13:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061438282127618206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1806225733045690368",
+          "start": 3,
+          "username": "MizutaniSubaru_"
+        },
+        {
+          "end": 30,
+          "id": "1545277694325116928",
+          "start": 21,
+          "username": "YongQuan"
+        },
+        {
+          "end": 43,
+          "id": "2401424341",
+          "start": 31,
+          "username": "lolvaleiker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061438282127618206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061438211969384564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizutaniSubaru_: @YongQuan @lolvaleiker we✅❌❌✅✅T1有感觉吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061438282127618206",
+        "created_at": "2026-06-01T13:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061438282127618206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1806225733045690368",
+              "start": 3,
+              "username": "MizutaniSubaru_"
+            },
+            {
+              "end": 30,
+              "id": "1545277694325116928",
+              "start": 21,
+              "username": "YongQuan"
+            },
+            {
+              "end": 43,
+              "id": "2401424341",
+              "start": 31,
+              "username": "lolvaleiker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438282127618206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061438211969384564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizutaniSubaru_: @YongQuan @lolvaleiker we✅❌❌✅✅T1有感觉吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "conversation_id": "2061411577291571201",
+        "created_at": "2026-06-01T13:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061438211969384564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 22,
+              "id": "2401424341",
+              "start": 10,
+              "username": "lolvaleiker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438211969384564",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061429516048928797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @lolvaleiker we✅❌❌✅✅T1有感觉吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10361,
+          "following_count": 4446,
+          "like_count": 48008,
+          "listed_count": 30,
+          "media_count": 3911,
+          "tweet_count": 13424
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 482,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 922
+        },
+        "username": "MizutaniSubaru_",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-21T11:27:03.000Z",
+        "description": "26 years old and incapable of saying anything serious",
+        "id": "2401424341",
+        "name": "King Valeiker 👑",
+        "pinned_tweet_id": "1767737138974495179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039226556082765824/oHuDr6jP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 691,
+          "like_count": 43577,
+          "listed_count": 13,
+          "media_count": 6099,
+          "tweet_count": 33609
+        },
+        "username": "lolvaleiker",
+        "verified": false
+      }
+    ]
+  }
+}

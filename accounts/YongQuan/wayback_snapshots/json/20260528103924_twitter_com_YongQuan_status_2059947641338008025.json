@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2059579710263160836",
+    "created_at": "2026-05-28T10:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059947641338008025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809752861146046464",
+          "start": 0,
+          "username": "Zxhark679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059947641338008025",
+    "in_reply_to_user_id": "1809752861146046464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059579710263160836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxhark679 骗你的 我也没人看😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2059579706752540675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUY1MeWoAMwzh3.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059579710263160836",
+        "created_at": "2026-05-28T10:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059947641338008025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809752861146046464",
+              "start": 0,
+              "username": "Zxhark679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059947641338008025",
+        "in_reply_to_user_id": "1809752861146046464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059579710263160836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxhark679 骗你的 我也没人看😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059579706752540675"
+          ]
+        },
+        "author_id": "1809752861146046464",
+        "conversation_id": "2059579710263160836",
+        "created_at": "2026-05-27T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059579710263160836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbQtxEqE55",
+              "end": 73,
+              "expanded_url": "https://x.com/Zxhark679/status/2059579710263160836/photo/1",
+              "media_key": "3_2059579706752540675",
+              "start": 50,
+              "url": "https://t.co/xbQtxEqE55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579710263160836",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 220258,
+          "like_count": 10540,
+          "quote_count": 599,
+          "reply_count": 937,
+          "retweet_count": 1851
+        },
+        "reply_settings": "everyone",
+        "text": "Personas con menos de 8 seguidores twitteando 🙏🏻🥀 https://t.co/xbQtxEqE55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10126,
+          "following_count": 4410,
+          "like_count": 47743,
+          "listed_count": 30,
+          "media_count": 3814,
+          "tweet_count": 13238
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T00:55:09.000Z",
+        "description": "Serve the servants, oh no",
+        "id": "1809752861146046464",
+        "name": "Swhearn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059796218696343557/O2jH0xyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 132,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 279
+        },
+        "username": "Zxhark679",
+        "verified": false
+      }
+    ]
+  }
+}

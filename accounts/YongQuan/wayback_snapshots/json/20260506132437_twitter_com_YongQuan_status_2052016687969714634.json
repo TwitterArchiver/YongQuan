@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051210219787850097",
+    "created_at": "2026-05-06T13:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052016687969714634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1503965723005452288",
+          "start": 0,
+          "username": "sinian076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052016687969714634",
+    "in_reply_to_user_id": "1503965723005452288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051736766168859123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinian076 攒的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051210219787850097",
+        "created_at": "2026-05-06T13:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052016687969714634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1503965723005452288",
+              "start": 0,
+              "username": "sinian076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052016687969714634",
+        "in_reply_to_user_id": "1503965723005452288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051736766168859123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinian076 攒的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503965723005452288",
+        "conversation_id": "2051210219787850097",
+        "created_at": "2026-05-05T18:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051736766168859123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051736766168859123",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051210219787850097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 佩服你们有一堆吊图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9450,
+          "following_count": 4199,
+          "like_count": 44413,
+          "listed_count": 28,
+          "media_count": 3185,
+          "tweet_count": 11740
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-16T05:26:05.000Z",
+        "description": "财富的累积是减少回撤//慢慢累积财富💰💰💰 #bitget 手续费减免60%\nhttps://t.co/sKUHJZZvU9\ntg群/https://t.co/PXMEsFf0qP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "partner.hdmune.cn/bg/tcgtated",
+                "end": 62,
+                "expanded_url": "https://partner.hdmune.cn/bg/tcgtated",
+                "start": 39,
+                "url": "https://t.co/sKUHJZZvU9"
+              },
+              {
+                "display_url": "t.me/BTC_999COM",
+                "end": 90,
+                "expanded_url": "https://t.me/BTC_999COM",
+                "start": 67,
+                "url": "https://t.co/PXMEsFf0qP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dxx.6",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dxx.6",
+                "start": 0,
+                "url": "https://t.co/PlwGpVmd5M"
+              }
+            ]
+          }
+        },
+        "id": "1503965723005452288",
+        "name": "dxx",
+        "pinned_tweet_id": "2051342771144003744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044060889029193733/_lG06o53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 308,
+          "like_count": 3962,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 11727
+        },
+        "url": "https://t.co/PlwGpVmd5M",
+        "username": "sinian076",
+        "verified": true
+      }
+    ]
+  }
+}

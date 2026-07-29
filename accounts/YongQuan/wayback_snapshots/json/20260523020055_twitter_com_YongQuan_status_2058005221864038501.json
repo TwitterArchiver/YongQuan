@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057997441690206443",
+    "created_at": "2026-05-23T02:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058005221864038501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033198242108678144",
+          "start": 0,
+          "username": "AnemonesCWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058005221864038501",
+    "in_reply_to_user_id": "2033198242108678144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058005051650847160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnemonesCWC 猜你想找：千锤百炼API"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057997441690206443",
+        "created_at": "2026-05-23T02:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058005221864038501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033198242108678144",
+              "start": 0,
+              "username": "AnemonesCWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058005221864038501",
+        "in_reply_to_user_id": "2033198242108678144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058005051650847160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnemonesCWC 猜你想找：千锤百炼API"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033198242108678144",
+        "conversation_id": "2057997441690206443",
+        "created_at": "2026-05-23T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058005051650847160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058005051650847160",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057997441690206443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 招 4-5 元，工资每月 1000 个 java 开发工程师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜#小铨的月季花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9961,
+          "following_count": 4363,
+          "like_count": 46988,
+          "listed_count": 30,
+          "media_count": 3647,
+          "tweet_count": 12896
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T15:08:21.000Z",
+        "description": "上一个号死了（\nMtF / 高一 whker & 半退役 OIer / 触手猴粉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anemonescwc",
+                "end": 23,
+                "expanded_url": "https://t.me/anemonescwc",
+                "start": 0,
+                "url": "https://t.co/eoJe10yVCC"
+              }
+            ]
+          }
+        },
+        "id": "2033198242108678144",
+        "location": "名古屋",
+        "name": "Anemones🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048254055689117696/4wtku8WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 49,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/eoJe10yVCC",
+        "username": "AnemonesCWC",
+        "verified": false
+      }
+    ]
+  }
+}

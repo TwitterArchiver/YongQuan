@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054340255457959936"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054366013882318927",
+    "created_at": "2026-05-13T01:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054366013882318927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KBZ6nDXyzT",
+          "end": 46,
+          "expanded_url": "https://x.com/YongQuan/status/2054366013882318927/photo/1",
+          "media_key": "3_2054340255457959936",
+          "start": 23,
+          "url": "https://t.co/KBZ6nDXyzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054366013882318927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑点解析：\n穿皇军衣服吃饭餐厅给打了军人折扣 https://t.co/KBZ6nDXyzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2054340255457959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ7k_ZbYAAJihe.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054340255457959936"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054366013882318927",
+        "created_at": "2026-05-13T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054366013882318927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBZ6nDXyzT",
+              "end": 46,
+              "expanded_url": "https://x.com/YongQuan/status/2054366013882318927/photo/1",
+              "media_key": "3_2054340255457959936",
+              "start": 23,
+              "url": "https://t.co/KBZ6nDXyzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054366013882318927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析：\n穿皇军衣服吃饭餐厅给打了军人折扣 https://t.co/KBZ6nDXyzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9717,
+          "following_count": 4234,
+          "like_count": 45180,
+          "listed_count": 29,
+          "media_count": 3353,
+          "tweet_count": 12122
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

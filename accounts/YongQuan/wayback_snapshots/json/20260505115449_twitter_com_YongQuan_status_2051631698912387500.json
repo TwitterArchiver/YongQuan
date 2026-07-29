@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051346119431463228",
+    "created_at": "2026-05-05T11:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051631698912387500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1496314477372850178",
+          "start": 0,
+          "username": "sinowarrior01"
+        },
+        {
+          "end": 24,
+          "id": "1017004951841587202",
+          "start": 15,
+          "username": "Nhim_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051631698912387500",
+    "in_reply_to_user_id": "1496314477372850178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051623832583369024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinowarrior01 @Nhim_Art 抱歉😭的确精力有限无从查找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051346119431463228",
+        "created_at": "2026-05-05T11:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051631698912387500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1496314477372850178",
+              "start": 0,
+              "username": "sinowarrior01"
+            },
+            {
+              "end": 24,
+              "id": "1017004951841587202",
+              "start": 15,
+              "username": "Nhim_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051631698912387500",
+        "in_reply_to_user_id": "1496314477372850178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051623832583369024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinowarrior01 @Nhim_Art 抱歉😭的确精力有限无从查找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496314477372850178",
+        "conversation_id": "2051346119431463228",
+        "created_at": "2026-05-05T11:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051623832583369024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 26,
+              "id": "1017004951841587202",
+              "start": 17,
+              "username": "Nhim_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051623832583369024",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051346119431463228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 好歹原作者吧 @nhim_art"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9426,
+          "following_count": 4195,
+          "like_count": 44156,
+          "listed_count": 29,
+          "media_count": 3154,
+          "tweet_count": 11666
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T02:42:53.000Z",
+        "description": "Lover of Warhammer, Gundam, Magic the Gathering. Gourmand without border. Ex-ambulance chaser, current corporate drone.",
+        "id": "1496314477372850178",
+        "name": "Sinowarrior",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658047235710660608/jw-3Bzyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 1729,
+          "like_count": 138,
+          "listed_count": 17,
+          "media_count": 1109,
+          "tweet_count": 25457
+        },
+        "username": "sinowarrior01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-11T11:17:30.000Z",
+        "description": "Mangadex: https://t.co/bucQTvOYCd \nPixiv: https://t.co/S4tj2RrPPB \nDiscord@nhimart \nFor business inquiries: nhimcommission@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/mwner6dp",
+                "end": 33,
+                "expanded_url": "https://tinyurl.com/mwner6dp",
+                "start": 10,
+                "url": "https://t.co/bucQTvOYCd"
+              },
+              {
+                "display_url": "tinyurl.com/5ysupsn3",
+                "end": 65,
+                "expanded_url": "https://tinyurl.com/5ysupsn3",
+                "start": 42,
+                "url": "https://t.co/S4tj2RrPPB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangadex.org/title/3e11f43e…",
+                "end": 23,
+                "expanded_url": "https://mangadex.org/title/3e11f43e-3d91-47c8-a2ad-e2f23d36ad4c/mimi",
+                "start": 0,
+                "url": "https://t.co/rKkbPYSF37"
+              }
+            ]
+          }
+        },
+        "id": "1017004951841587202",
+        "name": "Nhim",
+        "pinned_tweet_id": "2028112706889568687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1017007816593190913/z3IFFg4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207797,
+          "following_count": 0,
+          "like_count": 12461,
+          "listed_count": 413,
+          "media_count": 964,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/rKkbPYSF37",
+        "username": "Nhim_Art",
+        "verified": true
+      }
+    ]
+  }
+}

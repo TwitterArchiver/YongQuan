@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052426213692416210",
+    "created_at": "2026-05-07T16:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052426213692416210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YongQuan/status/2052380816743838161",
+          "start": 5,
+          "url": "https://t.co/DllSHrwAwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052426213692416210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052380816743838161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被吃了😭 https://t.co/DllSHrwAwM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052426213692416210",
+        "created_at": "2026-05-07T16:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052426213692416210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YongQuan/status/2052380816743838161",
+              "start": 5,
+              "url": "https://t.co/DllSHrwAwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426213692416210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380816743838161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被吃了😭 https://t.co/DllSHrwAwM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052363623087948282",
+        "created_at": "2026-05-07T13:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052380816743838161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052380816743838161",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052371309506769345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@XUEQIUxka 一会儿吃你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9464,
+          "following_count": 4201,
+          "like_count": 44688,
+          "listed_count": 29,
+          "media_count": 3216,
+          "tweet_count": 11818
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

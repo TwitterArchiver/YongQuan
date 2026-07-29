@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054776337588523100",
+    "created_at": "2026-05-14T06:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054818141365059915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "106323953",
+          "start": 0,
+          "username": "dannyctkemp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054818141365059915",
+    "in_reply_to_user_id": "106323953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054776337588523100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dannyctkemp 那很出片了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054776327589199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQILurWAAAJNGT.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054776337588523100",
+        "created_at": "2026-05-14T06:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054818141365059915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "106323953",
+              "start": 0,
+              "username": "dannyctkemp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054818141365059915",
+        "in_reply_to_user_id": "106323953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054776337588523100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dannyctkemp 那很出片了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054776327589199872"
+          ]
+        },
+        "author_id": "106323953",
+        "conversation_id": "2054776337588523100",
+        "created_at": "2026-05-14T04:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054776337588523100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCIvZmCaDS",
+              "end": 40,
+              "expanded_url": "https://x.com/dannyctkemp/status/2054776337588523100/photo/1",
+              "media_key": "3_2054776327589199872",
+              "start": 17,
+              "url": "https://t.co/JCIvZmCaDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054776337588523100",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 121412,
+          "like_count": 1399,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "Temple of Heaven https://t.co/JCIvZmCaDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9745,
+          "following_count": 4244,
+          "like_count": 45327,
+          "listed_count": 29,
+          "media_count": 3378,
+          "tweet_count": 12200
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-19T05:31:29.000Z",
+        "description": "White House Correspondent @AFP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 26,
+                "username": "AFP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "u.afp.com/w7rr",
+                "end": 23,
+                "expanded_url": "http://u.afp.com/w7rr",
+                "start": 0,
+                "url": "https://t.co/Nh6YvDe5PT"
+              }
+            ]
+          }
+        },
+        "id": "106323953",
+        "location": "Washington, DC",
+        "name": "Danny Kemp",
+        "pinned_tweet_id": "2041709751474487377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703571583271378944/xYcNyqj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23981,
+          "following_count": 3366,
+          "like_count": 18088,
+          "listed_count": 846,
+          "media_count": 4895,
+          "tweet_count": 41749
+        },
+        "url": "https://t.co/Nh6YvDe5PT",
+        "username": "dannyctkemp",
+        "verified": true
+      }
+    ]
+  }
+}

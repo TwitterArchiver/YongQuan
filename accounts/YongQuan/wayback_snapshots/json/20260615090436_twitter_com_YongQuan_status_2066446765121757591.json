@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066402549104861633",
+    "created_at": "2026-06-15T09:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066446765121757591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1601109010714750978",
+          "start": 0,
+          "username": "tianyi712521"
+        },
+        {
+          "end": 25,
+          "id": "1512182771900329987",
+          "start": 14,
+          "username": "yuzizisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066446765121757591",
+    "in_reply_to_user_id": "1601109010714750978",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066446636583387409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyi712521 @yuzizisuki xm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066446636583387409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066446636583387409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066446636583387409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066402549104861633",
+        "created_at": "2026-06-15T09:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066446765121757591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1601109010714750978",
+              "start": 0,
+              "username": "tianyi712521"
+            },
+            {
+              "end": 25,
+              "id": "1512182771900329987",
+              "start": 14,
+              "username": "yuzizisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066446765121757591",
+        "in_reply_to_user_id": "1601109010714750978",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066446636583387409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyi712521 @yuzizisuki xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10658,
+          "following_count": 4559,
+          "like_count": 50252,
+          "listed_count": 35,
+          "media_count": 4291,
+          "tweet_count": 14310
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-09T06:58:40.000Z",
+        "description": "07的一名高二牲/170-61/INTP-T(原来是ISFJ)/🏳️‍⚧️（大概是MTX偏F） /最好的姐姐@maimai_dx///快fo咱的可爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "maimai_dx"
+              }
+            ]
+          }
+        },
+        "id": "1601109010714750978",
+        "location": "距离你100m",
+        "name": "依不依夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601611138491645952/v2V-0pa0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 731,
+          "like_count": 46633,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 5727
+        },
+        "username": "tianyi712521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T21:37:30.000Z",
+        "description": "试作人型猫娘ver！点兔难民 \n翻车含糖男娘（ fps双端又菜又爱玩\n大概算是一般可爱的音游人\n我的管人痴可爱老公 @shirosakihitomi ！     \n 68🚪\n188🚪线下喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "shirosakihitomi"
+              }
+            ]
+          }
+        },
+        "id": "1512182771900329987",
+        "location": "v我50告诉你（",
+        "name": "钰子子",
+        "pinned_tweet_id": "1962300173306270160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735674631388823552/imN_HpEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10093,
+          "following_count": 95,
+          "like_count": 3297,
+          "listed_count": 19,
+          "media_count": 971,
+          "tweet_count": 3557
+        },
+        "username": "yuzizisuki",
+        "verified": false
+      }
+    ]
+  }
+}

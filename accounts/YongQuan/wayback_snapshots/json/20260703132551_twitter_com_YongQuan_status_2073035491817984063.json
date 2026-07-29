@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2072861268378271787",
+    "created_at": "2026-07-03T13:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073035491817984063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073035491817984063",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073035287421386858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kokokawayi_awa 看看CHANG（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072861268378271787",
+        "created_at": "2026-07-03T13:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073035491817984063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035491817984063",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073035287421386858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kokokawayi_awa 看看CHANG（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999099178342051840",
+        "conversation_id": "2072861268378271787",
+        "created_at": "2026-07-03T13:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073035287421386858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619329033082376194",
+              "start": 0,
+              "username": "AUKFPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035287421386858",
+        "in_reply_to_user_id": "1619329033082376194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072861268378271787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AUKFPV 欢迎来BINHAIGUOJIJICHANG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11034,
+          "following_count": 4691,
+          "like_count": 51692,
+          "listed_count": 37,
+          "media_count": 4775,
+          "tweet_count": 15373
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "是杂鱼，喜欢买手办和涩涩，纯M小狗（偶尔S）\n🚪50（最好是星期四😋）\nUndergrad at UTSG, Registered as Liberal\n魅魔姐姐（是主人！）@daisuki07483937 | 兔兔妈咪@miya051223 | 闺蜜@sutanghentian | 杂鱼🌰 @Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "miya051223"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Tokyo",
+        "name": "Kokodayo（复活赛进行中~）",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 378,
+          "like_count": 4386,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 3691
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      }
+    ]
+  }
+}

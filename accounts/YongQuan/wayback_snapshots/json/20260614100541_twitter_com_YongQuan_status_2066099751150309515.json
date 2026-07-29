@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066099237516112037",
+    "created_at": "2026-06-14T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066099751150309515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560640265433387008",
+          "start": 0,
+          "username": "krimiddd"
+        },
+        {
+          "end": 22,
+          "id": "1368897611672018953",
+          "start": 12,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 36,
+          "id": "1689704132242980870",
+          "start": 23,
+          "username": "LuochancyOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066099751150309515",
+    "in_reply_to_user_id": "1560640265433387008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066099237516112037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krimiddd 今、@XUEQIUxka @LuochancyOWO と一緒に観戦してるよ！\n今日の試合、めっちゃ見応えあるね。昨日の心配がなくなった感じ！\nさあ、マッチポイント取ろうぜ！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2066099186937028608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxCQ4wa4AAGvof.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066099186936999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxCQ4wacAAk1tv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1148,
+        "media_key": "3_2066099186932830209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxCQ4va0AEFp-6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066099237516112037",
+        "created_at": "2026-06-14T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066099751150309515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560640265433387008",
+              "start": 0,
+              "username": "krimiddd"
+            },
+            {
+              "end": 22,
+              "id": "1368897611672018953",
+              "start": 12,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 36,
+              "id": "1689704132242980870",
+              "start": 23,
+              "username": "LuochancyOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066099751150309515",
+        "in_reply_to_user_id": "1560640265433387008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066099237516112037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krimiddd 今、@XUEQIUxka @LuochancyOWO と一緒に観戦してるよ！\n今日の試合、めっちゃ見応えあるね。昨日の心配がなくなった感じ！\nさあ、マッチポイント取ろうぜ！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066099186937028608",
+            "3_2066099186936999936",
+            "3_2066099186932830209"
+          ]
+        },
+        "author_id": "1560640265433387008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066099237516112037",
+        "created_at": "2026-06-14T10:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066099237516112037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "BLGWIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTdfqCl898",
+              "end": 65,
+              "expanded_url": "https://x.com/krimiddd/status/2066099237516112037/photo/1",
+              "media_key": "3_2066099186937028608",
+              "start": 42,
+              "url": "https://t.co/aTdfqCl898"
+            },
+            {
+              "display_url": "pic.x.com/aTdfqCl898",
+              "end": 65,
+              "expanded_url": "https://x.com/krimiddd/status/2066099237516112037/photo/1",
+              "media_key": "3_2066099186936999936",
+              "start": 42,
+              "url": "https://t.co/aTdfqCl898"
+            },
+            {
+              "display_url": "pic.x.com/aTdfqCl898",
+              "end": 65,
+              "expanded_url": "https://x.com/krimiddd/status/2066099237516112037/photo/1",
+              "media_key": "3_2066099186932830209",
+              "start": 42,
+              "url": "https://t.co/aTdfqCl898"
+            },
+            {
+              "display_url": "x.com/krimiddd/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/krimiddd/status/2066081513054319035",
+              "start": 66,
+              "url": "https://t.co/pxwXKRodIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066099237516112037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066081513054319035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MIDGAP\nBLG.Knight POG🔥\n\n優勝まであと1勝！\n#BLGWIN https://t.co/aTdfqCl898 https://t.co/pxwXKRodIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10636,
+          "following_count": 4549,
+          "like_count": 50065,
+          "listed_count": 35,
+          "media_count": 4265,
+          "tweet_count": 14237
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T14:50:18.000Z",
+        "description": "ORIX\"Losing isn't an option.\" ガンダムSEED大好き。20TES/23JDG/24,25,26BLG LPLファン #BLGWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "BLGWIN"
+              }
+            ]
+          }
+        },
+        "id": "1560640265433387008",
+        "location": "Knight fan",
+        "name": "⚡️切身⚡️",
+        "pinned_tweet_id": "1956467325479367088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476926148513792/cGFeHPNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 149,
+          "like_count": 42882,
+          "listed_count": 1,
+          "media_count": 934,
+          "tweet_count": 13250
+        },
+        "username": "krimiddd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9158,
+          "following_count": 2386,
+          "like_count": 32021,
+          "listed_count": 26,
+          "media_count": 1957,
+          "tweet_count": 6071
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://www.luochancy.com",
+                "start": 0,
+                "url": "https://t.co/TekbKnSnGD"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "location": "一个没有人打扰的地方",
+        "name": "洛寒兮",
+        "pinned_tweet_id": "2033243890741133630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304874708996096/X16O06E7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1273,
+          "like_count": 3751,
+          "listed_count": 3,
+          "media_count": 836,
+          "tweet_count": 4467
+        },
+        "url": "https://t.co/TekbKnSnGD",
+        "username": "LuochancyOWO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1375109987777748992",
+          "name": "Nongshim RedForce"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1375109987777748992",
+          "name": "Nongshim RedForce"
+        }
+      }
+    ],
+    "conversation_id": "2056738626361496062",
+    "created_at": "2026-05-20T02:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056931494040650087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194331310690455553",
+          "start": 0,
+          "username": "NS_RedForce"
+        },
+        {
+          "end": 44,
+          "id": "1653450192828366849",
+          "start": 35,
+          "username": "BLGBinGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056931494040650087",
+    "in_reply_to_user_id": "1194331310690455553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056738626361496062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NS_RedForce If this happened with @BLGBinGe, he’d 100% get lectured for being too arrogant."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21370,
+        "height": 1920,
+        "media_key": "13_2056738207946194944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056738207946194944/img/1ctPUb6GDRKBQJTP.jpg",
+        "public_metrics": {
+          "view_count": 107657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/320x568/MxsFcAaM4IJn6meO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/pl/STBTmk92WLRpRDJc.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/480x852/54LdL5Nq6xEUELgH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/720x1280/alxZAJpGEkMAD3M1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/1080x1920/6XBxxnW6iu4846Am.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          }
+        ],
+        "conversation_id": "2056738626361496062",
+        "created_at": "2026-05-20T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056931494040650087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194331310690455553",
+              "start": 0,
+              "username": "NS_RedForce"
+            },
+            {
+              "end": 44,
+              "id": "1653450192828366849",
+              "start": 35,
+              "username": "BLGBinGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931494040650087",
+        "in_reply_to_user_id": "1194331310690455553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056738626361496062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NS_RedForce If this happened with @BLGBinGe, he’d 100% get lectured for being too arrogant."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056738207946194944"
+          ]
+        },
+        "author_id": "1194331310690455553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2056738626361496062",
+        "created_at": "2026-05-19T14:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056738626361496062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "LCK"
+            },
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "NONGSHIM"
+            },
+            {
+              "end": 66,
+              "start": 55,
+              "tag": "NSRedForce"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "NS_CLIP"
+            },
+            {
+              "end": 83,
+              "start": 76,
+              "tag": "농심레드포스"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H37I90U9pI",
+              "end": 107,
+              "expanded_url": "https://x.com/NS_RedForce/status/2056738626361496062/video/1",
+              "media_key": "13_2056738207946194944",
+              "start": 84,
+              "url": "https://t.co/H37I90U9pI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056738626361496062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 142280,
+          "like_count": 1213,
+          "quote_count": 376,
+          "reply_count": 21,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "[CLIP📹] #LCK\n\nRED-RED FORCE \nGREEN GREEN ❤💚\n\n#NONGSHIM #NSRedForce #NS_CLIP #농심레드포스 https://t.co/H37I90U9pI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 4307,
+          "like_count": 46156,
+          "listed_count": 30,
+          "media_count": 3539,
+          "tweet_count": 12591
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-12T19:09:31.000Z",
+        "description": "𝕋ℍ𝔼 𝔾ℝ𝔼𝔸𝕋𝔼𝕊𝕋 ℝ𝔼𝔻 | NS RedForce League of Legends team | VALORANT ➡️ @nsr_valorant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "nsr_valorant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "litt.ly/ns_redforce",
+                "end": 23,
+                "expanded_url": "http://litt.ly/ns_redforce",
+                "start": 0,
+                "url": "https://t.co/IVWWfuNV8m"
+              }
+            ]
+          }
+        },
+        "id": "1194331310690455553",
+        "location": "All about ➡️",
+        "name": "NS RedForce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534369951242280960/P0hLl8_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34726,
+          "following_count": 67,
+          "like_count": 565,
+          "listed_count": 167,
+          "media_count": 5435,
+          "tweet_count": 6329
+        },
+        "url": "https://t.co/IVWWfuNV8m",
+        "username": "NS_RedForce",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T17:23:52.000Z",
+        "description": "BLG top laner Bin",
+        "id": "1653450192828366849",
+        "name": "Bin",
+        "pinned_tweet_id": "1656686882191712258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653451826442666006/103pxgC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65807,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 60,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "BLGBinGe",
+        "verified": false
+      }
+    ]
+  }
+}

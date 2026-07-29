@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058057839952941295",
+    "created_at": "2026-05-23T07:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058093454304120898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1546445907541073921",
+          "start": 0,
+          "username": "LUBANQIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058093454304120898",
+    "in_reply_to_user_id": "1546445907541073921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058066200605900931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUBANQIU 那很涩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058057839952941295",
+        "created_at": "2026-05-23T07:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058093454304120898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1546445907541073921",
+              "start": 0,
+              "username": "LUBANQIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058093454304120898",
+        "in_reply_to_user_id": "1546445907541073921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058066200605900931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUBANQIU 那很涩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546445907541073921",
+        "conversation_id": "2058057839952941295",
+        "created_at": "2026-05-23T06:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058066200605900931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066200605900931",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 985,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058057839952941295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 比如为了防止孩子打飞机给孩子上锁的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9985,
+          "following_count": 4370,
+          "like_count": 47065,
+          "listed_count": 30,
+          "media_count": 3660,
+          "tweet_count": 12940
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T10:47:05.000Z",
+        "description": "未来的某个时光 我们终将遇见再见｜来自于未知世界的未知生物｜Blender用户｜秋OS限时暑期回归",
+        "id": "1546445907541073921",
+        "location": "聖應女学院",
+        "name": "宫小路 瑞穗",
+        "pinned_tweet_id": "1807368239346786385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032880398032568322/pTe7Reyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 608,
+          "like_count": 4375,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 539
+        },
+        "username": "LUBANQIU",
+        "verified": false
+      }
+    ]
+  }
+}

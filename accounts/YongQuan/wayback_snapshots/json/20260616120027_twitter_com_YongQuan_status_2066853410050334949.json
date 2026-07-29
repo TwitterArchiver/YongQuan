@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066853394917285888"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2066566596160823340",
+    "created_at": "2026-06-16T12:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066853410050334949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KzoBfUnT2u",
+          "end": 59,
+          "expanded_url": "https://x.com/YongQuan/status/2066853410050334949/photo/1",
+          "media_key": "3_2066853394917285888",
+          "start": 36,
+          "url": "https://t.co/KzoBfUnT2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066853410050334949",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066566596160823340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 这不是我在23、24、25年干的事情吗 https://t.co/KzoBfUnT2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2066853394917285888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7wNkba4AAcUWP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066853394917285888"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2066566596160823340",
+        "created_at": "2026-06-16T12:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066853410050334949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KzoBfUnT2u",
+              "end": 59,
+              "expanded_url": "https://x.com/YongQuan/status/2066853410050334949/photo/1",
+              "media_key": "3_2066853394917285888",
+              "start": 36,
+              "url": "https://t.co/KzoBfUnT2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066853410050334949",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066566596160823340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这不是我在23、24、25年干的事情吗 https://t.co/KzoBfUnT2u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066566596160823340",
+        "created_at": "2026-06-15T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066566596160823340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066566596160823340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在環状線收到推特通知的速度有多快？\n\n如果推特通知每推一条消息就要令手机震动一次的话，那么環状線就可以省下买郊狼的钱了。\n\n如何开关？很简单，只要在同一 Apple 账户的另一个设备上开关勿扰模式就可以了。\n\n不过说实话，通知太多不全是好事，一些认真的回复总是会埋没在大量消息中被忽略掉……\n\n当「大V」的感觉，简直就像开到最大功率的郊狼一样啊……*享受*"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4218,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在環状線收到推特通知的速度有多快？\n\n如果推特通知每推一条消息就要令手机震动一次的话，那么環状線就可以省下买郊狼的钱了。\n\n如何开关？很简单，只要在同一 Apple 账户的另一个设备上开关勿扰模式就可以了。\n\n不过说实话，通知太多不全是好事，一些认真的回复总是会埋没在大量消息中被忽略掉……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10660,
+          "following_count": 4564,
+          "like_count": 50424,
+          "listed_count": 35,
+          "media_count": 4314,
+          "tweet_count": 14387
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6709,
+          "following_count": 871,
+          "like_count": 26465,
+          "listed_count": 11,
+          "media_count": 1521,
+          "tweet_count": 8195
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

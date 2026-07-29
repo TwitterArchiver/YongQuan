@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051529692008808704",
+    "created_at": "2026-05-05T14:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051669167745699854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2019289944771223552",
+          "start": 0,
+          "username": "Notsu311406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 45,
+          "expanded_url": "https://x.com/yongquan/status/2051311670967091621?s=46",
+          "start": 22,
+          "url": "https://t.co/TG8TpUOlYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051669167745699854",
+    "in_reply_to_user_id": "2019289944771223552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051311670967091621",
+        "type": "quoted"
+      },
+      {
+        "id": "2051529692008808704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Notsu311406 why not\n\nhttps://t.co/TG8TpUOlYi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39966,
+        "height": 718,
+        "media_key": "13_2051311487118114816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051311487118114816/img/Zx5-KSMPqa7xmwZC.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051311487118114816/vid/avc1/480x270/FD46sZIc5OGf-7Y8.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051311487118114816/vid/avc1/640x360/yebxrX1NLuqD9tDp.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051311487118114816/vid/avc1/1280x718/_O35V0KdBPMzEdme.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051311487118114816/pl/fq5Bgd4RN1yDl6cT.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051529692008808704",
+        "created_at": "2026-05-05T14:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051669167745699854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019289944771223552",
+              "start": 0,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 45,
+              "expanded_url": "https://x.com/yongquan/status/2051311670967091621?s=46",
+              "start": 22,
+              "url": "https://t.co/TG8TpUOlYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051669167745699854",
+        "in_reply_to_user_id": "2019289944771223552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051311670967091621",
+            "type": "quoted"
+          },
+          {
+            "id": "2051529692008808704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notsu311406 why not\n\nhttps://t.co/TG8TpUOlYi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051311487118114816"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051115769346621898",
+        "created_at": "2026-05-04T14:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051311670967091621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019289944771223552",
+              "start": 0,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYEuOv5GQz",
+              "end": 61,
+              "expanded_url": "https://x.com/YongQuan/status/2051311670967091621/video/1",
+              "media_key": "13_2051311487118114816",
+              "start": 38,
+              "url": "https://t.co/pYEuOv5GQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051311670967091621",
+        "in_reply_to_user_id": "2019289944771223552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051115769346621898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notsu311406 The same reason can get: https://t.co/pYEuOv5GQz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019289944771223552",
+        "conversation_id": "2051529692008808704",
+        "created_at": "2026-05-05T05:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051529692008808704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Notsu311406/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Notsu311406/status/2051115769346621898",
+              "start": 2,
+              "url": "https://t.co/ey4oczhlFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051529692008808704",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 47919,
+          "like_count": 2030,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051115769346621898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "? https://t.co/ey4oczhlFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9430,
+          "following_count": 4195,
+          "like_count": 44162,
+          "listed_count": 29,
+          "media_count": 3157,
+          "tweet_count": 11675
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T06:00:18.000Z",
+        "description": "",
+        "id": "2019289944771223552",
+        "name": "Notsu",
+        "pinned_tweet_id": "2050608737354969573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033944595915329536/J5AC6Qet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11682,
+          "following_count": 991,
+          "like_count": 20401,
+          "listed_count": 51,
+          "media_count": 1747,
+          "tweet_count": 5787
+        },
+        "username": "Notsu311406",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052363606075850753",
+        "3_2052363606067421188",
+        "3_2052363606201667588",
+        "3_2052363606075875334"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052363623087948282",
+    "created_at": "2026-05-07T12:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052363623087948282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1368897611672018953",
+          "start": 5,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYwrxfLx65",
+          "end": 103,
+          "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+          "media_key": "3_2052363606075850753",
+          "start": 80,
+          "url": "https://t.co/WYwrxfLx65"
+        },
+        {
+          "display_url": "pic.x.com/WYwrxfLx65",
+          "end": 103,
+          "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+          "media_key": "3_2052363606067421188",
+          "start": 80,
+          "url": "https://t.co/WYwrxfLx65"
+        },
+        {
+          "display_url": "pic.x.com/WYwrxfLx65",
+          "end": 103,
+          "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+          "media_key": "3_2052363606201667588",
+          "start": 80,
+          "url": "https://t.co/WYwrxfLx65"
+        },
+        {
+          "display_url": "pic.x.com/WYwrxfLx65",
+          "end": 103,
+          "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+          "media_key": "3_2052363606075875334",
+          "start": 80,
+          "url": "https://t.co/WYwrxfLx65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052363623087948282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带着雪球和@XUEQIUxka 一起吃点雅的\n解放北路 新华餐厅（西餐厅）\n\n逛吃逛吃 俩人¥315\n\n只能说价格对得起质量 还好\n有机会去小白楼的起士林看看 https://t.co/WYwrxfLx65"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2052363606075850753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt102oXQAEeXvW.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2052363606067421188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt102mWoAQ3jJc.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2052363606201667588",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt103GXEAQ15iE.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052363606075875334",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt102oXoAYMVAe.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052363606075850753",
+            "3_2052363606067421188",
+            "3_2052363606201667588",
+            "3_2052363606075875334"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052363623087948282",
+        "created_at": "2026-05-07T12:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052363623087948282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYwrxfLx65",
+              "end": 103,
+              "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+              "media_key": "3_2052363606075850753",
+              "start": 80,
+              "url": "https://t.co/WYwrxfLx65"
+            },
+            {
+              "display_url": "pic.x.com/WYwrxfLx65",
+              "end": 103,
+              "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+              "media_key": "3_2052363606067421188",
+              "start": 80,
+              "url": "https://t.co/WYwrxfLx65"
+            },
+            {
+              "display_url": "pic.x.com/WYwrxfLx65",
+              "end": 103,
+              "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+              "media_key": "3_2052363606201667588",
+              "start": 80,
+              "url": "https://t.co/WYwrxfLx65"
+            },
+            {
+              "display_url": "pic.x.com/WYwrxfLx65",
+              "end": 103,
+              "expanded_url": "https://x.com/YongQuan/status/2052363623087948282/photo/1",
+              "media_key": "3_2052363606075875334",
+              "start": 80,
+              "url": "https://t.co/WYwrxfLx65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052363623087948282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着雪球和@XUEQIUxka 一起吃点雅的\n解放北路 新华餐厅（西餐厅）\n\n逛吃逛吃 俩人¥315\n\n只能说价格对得起质量 还好\n有机会去小白楼的起士林看看 https://t.co/WYwrxfLx65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9460,
+          "following_count": 4201,
+          "like_count": 44633,
+          "listed_count": 29,
+          "media_count": 3213,
+          "tweet_count": 11806
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8183,
+          "following_count": 2187,
+          "like_count": 28893,
+          "listed_count": 26,
+          "media_count": 1192,
+          "tweet_count": 4803
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

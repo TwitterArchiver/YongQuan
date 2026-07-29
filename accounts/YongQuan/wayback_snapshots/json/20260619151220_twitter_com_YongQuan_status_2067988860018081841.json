@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067985849027826090",
+    "created_at": "2026-06-19T15:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067988860018081841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345706318703722496",
+          "start": 0,
+          "username": "OriyukiAkari"
+        },
+        {
+          "end": 20,
+          "id": "1908086926391033856",
+          "start": 14,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067988860018081841",
+    "in_reply_to_user_id": "1345706318703722496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067988747699081450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OriyukiAkari @yqua_ 雪秋什么时候陪我去😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067985849027826090",
+        "created_at": "2026-06-19T15:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067988860018081841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            },
+            {
+              "end": 20,
+              "id": "1908086926391033856",
+              "start": 14,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067988860018081841",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067988747699081450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OriyukiAkari @yqua_ 雪秋什么时候陪我去😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345706318703722496",
+        "conversation_id": "2067985849027826090",
+        "created_at": "2026-06-19T15:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067988747699081450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067988747699081450",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067985849027826090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 可以去塘沽中心买然后去）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10698,
+          "following_count": 4599,
+          "like_count": 51101,
+          "listed_count": 35,
+          "media_count": 4420,
+          "tweet_count": 14662
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "location": "P.R.China",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200679102459904/3kUCO6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 106,
+          "like_count": 8039,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "❤️@xyliaxka｜嘛时候是津门第一呐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "xyliaxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 849,
+          "like_count": 11327,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

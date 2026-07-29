@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065781349185655135",
+    "created_at": "2026-06-13T15:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065812255984542149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2011412387988135936",
+          "start": 0,
+          "username": "RFTGGlol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065812255984542149",
+    "in_reply_to_user_id": "2011412387988135936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065781349185655135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFTGGlol WE打到现在真的值了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2065781343791816704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKshL-xXIAAo60k.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065781349185655135",
+        "created_at": "2026-06-13T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065812255984542149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2011412387988135936",
+              "start": 0,
+              "username": "RFTGGlol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065812255984542149",
+        "in_reply_to_user_id": "2011412387988135936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065781349185655135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFTGGlol WE打到现在真的值了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065781343791816704"
+          ]
+        },
+        "author_id": "2011412387988135936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219791229052829696",
+              "name": "League of Legends Pro League"
+            }
+          }
+        ],
+        "conversation_id": "2065781349185655135",
+        "created_at": "2026-06-13T13:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065781349185655135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "LPL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Twvu6y0aWA",
+              "end": 193,
+              "expanded_url": "https://x.com/RFTGGlol/status/2065781349185655135/photo/1",
+              "media_key": "3_2065781343791816704",
+              "start": 170,
+              "url": "https://t.co/Twvu6y0aWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065781349185655135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6300,
+          "like_count": 134,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "BLG 🇨🇳 have qualified for MSI after a close 3-2 victory over WE.\n\nThey will now face TES for the #LPL title, the region's #1 seed at MSI and their qualification for EWC. https://t.co/Twvu6y0aWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 4536,
+          "like_count": 50017,
+          "listed_count": 35,
+          "media_count": 4245,
+          "tweet_count": 14199
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T12:18:06.000Z",
+        "description": "the new era of League of Legends Esports - made by @dpmlol\n\n☄️ WEBSITE - https://t.co/Nj3iCUnD3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 51,
+                "username": "dpmlol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rft.gg",
+                "end": 96,
+                "expanded_url": "https://rft.gg/",
+                "start": 73,
+                "url": "https://t.co/Nj3iCUnD3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rft.gg",
+                "end": 23,
+                "expanded_url": "https://rft.gg/",
+                "start": 0,
+                "url": "https://t.co/Nj3iCUnD3C"
+              }
+            ]
+          }
+        },
+        "id": "2011412387988135936",
+        "name": "RFT.GG",
+        "pinned_tweet_id": "2056384718241714349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019363773950185472/PHvNvCtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11682,
+          "following_count": 67,
+          "like_count": 3364,
+          "listed_count": 8,
+          "media_count": 1068,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/Nj3iCUnD3C",
+        "username": "RFTGGlol",
+        "verified": true
+      }
+    ]
+  }
+}

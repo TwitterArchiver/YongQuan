@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058863892986757618",
+    "created_at": "2026-05-25T11:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058871707230970030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        },
+        {
+          "end": 33,
+          "id": "1993717075811180544",
+          "start": 17,
+          "username": "AmazingZhan0211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058871707230970030",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058863892986757618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @grok @AmazingZhan0211 那能不能带到杭州的时候给我🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2058863889408999425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKNzJEaQAERyAa.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058863892986757618",
+        "created_at": "2026-05-25T11:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058871707230970030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            },
+            {
+              "end": 33,
+              "id": "1993717075811180544",
+              "start": 17,
+              "username": "AmazingZhan0211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058871707230970030",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058863892986757618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @grok @AmazingZhan0211 那能不能带到杭州的时候给我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058863889408999425"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2058863892986757618",
+        "created_at": "2026-05-25T10:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058863892986757618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            },
+            {
+              "end": 99,
+              "id": "1993717075811180544",
+              "start": 83,
+              "username": "AmazingZhan0211"
+            },
+            {
+              "end": 163,
+              "id": "1545277694325116928",
+              "start": 154,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wq9lHLaKA",
+              "end": 232,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2058863892986757618/photo/1",
+              "media_key": "3_2058863889408999425",
+              "start": 209,
+              "url": "https://t.co/3wq9lHLaKA"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 256,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2057368515380978172",
+              "start": 233,
+              "url": "https://t.co/FJr46UxtNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058863892986757618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 13,
+                "id": "1720665183188922368",
+                "start": 8,
+                "username": "grok"
+              },
+              {
+                "end": 99,
+                "id": "1993717075811180544",
+                "start": 83,
+                "username": "AmazingZhan0211"
+              },
+              {
+                "end": 163,
+                "id": "1545277694325116928",
+                "start": 154,
+                "username": "YongQuan"
+              },
+              {
+                "end": 228,
+                "id": "1817912358355849216",
+                "start": 216,
+                "username": "Huayue_Chen"
+              }
+            ]
+          },
+          "text": "中奖信息\n使用 @grok 抽出\n\n根据你之前提供的截图，我已经**仔细数过**了每个榜单：\n\n### ✅ **点赞榜第 6 位**（Likes tab 第6个）：\n@AmazingZhan0211 （AmazingZhan）\n### ✅ **转发榜第 1 位**（Reposts/转发 tab 第1个）：\n@YongQuan\n（就是铨Quan）\n### ✅ **评论榜第 24 位**（Replies/评论 tab 第24条）：\n@Huayue_Chen\n（No Title）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057368515380978172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中奖信息\n使用 @grok 抽出\n\n根据你之前提供的截图，我已经**仔细数过**了每个榜单：\n\n### ✅ **点赞榜第 6 位**（Likes tab 第6个）：\n@AmazingZhan0211 （AmazingZhan）\n### ✅ **转发榜第 1 位**（Reposts/转发 tab 第1个）：\n@YongQuan\n（就是铨Quan）\n### ✅ **评论榜第 24 位**（Replies/评论 tab https://t.co/3wq9lHLaKA https://t.co/FJr46UxtNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10047,
+          "following_count": 4394,
+          "like_count": 47366,
+          "listed_count": 31,
+          "media_count": 3743,
+          "tweet_count": 13095
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "2058235456702030064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 2376,
+          "like_count": 31114,
+          "listed_count": 26,
+          "media_count": 1668,
+          "tweet_count": 5606
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8769613,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6907,
+          "media_count": 8971735,
+          "tweet_count": 126998958
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T16:23:45.000Z",
+        "description": "如果你真的很难受，可以和我分享哦，什么都可以…\n如果我好长时间没回消息，那就是设备被收了，不是死了。\n退役OIer丨在校内通过竞赛机房不定期上线｜友跨",
+        "id": "1993717075811180544",
+        "name": "AmazingZhan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050267637574443008/-iNkn10o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 36,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 247
+        },
+        "username": "AmazingZhan0211",
+        "verified": false
+      }
+    ]
+  }
+}

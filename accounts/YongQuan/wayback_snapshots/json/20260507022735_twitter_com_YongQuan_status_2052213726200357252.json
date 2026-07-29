@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052213726200357252",
+    "created_at": "2026-05-07T02:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052213726200357252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029031867601829888",
+          "start": 3,
+          "username": "Wu5fwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052213726200357252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051948891969667576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wu5fwc: 40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052213726200357252",
+        "created_at": "2026-05-07T02:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052213726200357252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029031867601829888",
+              "start": 3,
+              "username": "Wu5fwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052213726200357252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051948891969667576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wu5fwc: 40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029031867601829888",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948891969667576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948891969667576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4051,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n余生各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 4204,
+          "like_count": 44556,
+          "listed_count": 29,
+          "media_count": 3199,
+          "tweet_count": 11769
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T03:12:47.000Z",
+        "description": "| 中文中國🇨🇳 | 19+｜Transformers | Negative Emotions | My Girlfriend |#shtwt｜我很有钱！嗯！来找我互fofo吧喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2029031867601829888",
+        "name": "我需要更多pr（互fo",
+        "pinned_tweet_id": "2044685713304912265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 188,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Wu5fwc",
+        "verified": false
+      }
+    ]
+  }
+}

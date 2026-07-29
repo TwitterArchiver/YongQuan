@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065372554743914774",
+    "created_at": "2026-06-12T10:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065374898865021123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863045590453731328",
+          "start": 0,
+          "username": "Jannfancy"
+        },
+        {
+          "end": 22,
+          "id": "1756909109788753920",
+          "start": 11,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065374898865021123",
+    "in_reply_to_user_id": "1863045590453731328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065372554743914774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jannfancy @__fanqie__ 尝一口。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2065372552625799168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmtZNAaQAA6fv_.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065372554743914774",
+        "created_at": "2026-06-12T10:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065374898865021123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863045590453731328",
+              "start": 0,
+              "username": "Jannfancy"
+            },
+            {
+              "end": 22,
+              "id": "1756909109788753920",
+              "start": 11,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065374898865021123",
+        "in_reply_to_user_id": "1863045590453731328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065372554743914774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jannfancy @__fanqie__ 尝一口。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065372552625799168"
+          ]
+        },
+        "author_id": "1863045590453731328",
+        "conversation_id": "2065372554743914774",
+        "created_at": "2026-06-12T09:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065372554743914774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89q033qvO0",
+              "end": 27,
+              "expanded_url": "https://x.com/Jannfancy/status/2065372554743914774/photo/1",
+              "media_key": "3_2065372552625799168",
+              "start": 4,
+              "url": "https://t.co/89q033qvO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065372554743914774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "茄皇！ https://t.co/89q033qvO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10621,
+          "following_count": 4538,
+          "like_count": 49867,
+          "listed_count": 32,
+          "media_count": 4209,
+          "tweet_count": 14087
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T02:21:14.000Z",
+        "description": "♿️我喜欢你♿️",
+        "id": "1863045590453731328",
+        "location": "Hong Kong",
+        "name": "浅緐浠😇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064612256529502208/nOrrjcFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 479,
+          "like_count": 62574,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 142
+        },
+        "username": "Jannfancy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8073,
+          "following_count": 2771,
+          "like_count": 1586,
+          "listed_count": 17,
+          "media_count": 1720,
+          "tweet_count": 10096
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058012136803311874",
+    "created_at": "2026-05-23T02:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058012136803311874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1aJbd…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1aJbddbEWLRKX",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 发薪日 大家拿了多少钱呢",
+          "unwound_url": "https://twitter.com/i/spaces/1aJbddbEWLRKX/peek",
+          "url": "https://t.co/Xmopy5tyx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058012136803311874",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Xmopy5tyx8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058012136803311874",
+        "created_at": "2026-05-23T02:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058012136803311874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1aJbd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1aJbddbEWLRKX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 发薪日 大家拿了多少钱呢",
+              "unwound_url": "https://twitter.com/i/spaces/1aJbddbEWLRKX/peek",
+              "url": "https://t.co/Xmopy5tyx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058012136803311874",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xmopy5tyx8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜#小铨的月季花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9961,
+          "following_count": 4365,
+          "like_count": 46996,
+          "listed_count": 30,
+          "media_count": 3647,
+          "tweet_count": 12898
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

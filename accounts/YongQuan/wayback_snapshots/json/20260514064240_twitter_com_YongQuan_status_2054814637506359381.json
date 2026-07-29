@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2054369355908219036",
+    "created_at": "2026-05-14T06:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054814637506359381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054814637506359381",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054369355908219036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 羡慕😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2054369353647472640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKWCumbQAAtwhh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054369355908219036",
+        "created_at": "2026-05-14T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054814637506359381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054814637506359381",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054369355908219036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054369353647472640"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2054369355908219036",
+        "created_at": "2026-05-13T01:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054369355908219036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnzswQKysL",
+              "end": 35,
+              "expanded_url": "https://x.com/ggdxfulan/status/2054369355908219036/photo/1",
+              "media_key": "3_2054369353647472640",
+              "start": 12,
+              "url": "https://t.co/vnzswQKysL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054369355908219036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 62455,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们 tm 真该死啊😭 https://t.co/vnzswQKysL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9745,
+          "following_count": 4244,
+          "like_count": 45317,
+          "listed_count": 29,
+          "media_count": 3378,
+          "tweet_count": 12192
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17858,
+          "following_count": 504,
+          "like_count": 36410,
+          "listed_count": 32,
+          "media_count": 3785,
+          "tweet_count": 11699
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

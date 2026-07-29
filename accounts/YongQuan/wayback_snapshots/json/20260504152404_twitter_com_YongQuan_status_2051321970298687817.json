@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051279128876433596",
+    "created_at": "2026-05-04T15:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051321970298687817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "wolfyxbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051321970298687817",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051279128876433596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfyxbt 那么Trans和非二元呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051279128876433596",
+        "created_at": "2026-05-04T15:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051321970298687817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "wolfyxbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051321970298687817",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051279128876433596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfyxbt 那么Trans和非二元呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516941936971554817",
+        "conversation_id": "2051279128876433596",
+        "created_at": "2026-05-04T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051279128876433596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051279128876433596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 53104,
+          "like_count": 295,
+          "quote_count": 8,
+          "reply_count": 344,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女的你要我回关你的话，很简单，是美女就可以了。\n\n男的你要我关注你的话，我这里要求就很苛刻，你得有智慧、有价值、有礼貌、有远见、有气质、有魄力、有格局、有担当、有修养、有谈吐、有品味、有幽默感、有判断力、有执行力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9371,
+          "following_count": 4191,
+          "like_count": 44031,
+          "listed_count": 29,
+          "media_count": 3133,
+          "tweet_count": 11616
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1980990613739970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849441,
+          "following_count": 7454,
+          "like_count": 53145,
+          "listed_count": 3735,
+          "media_count": 2810,
+          "tweet_count": 21583
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052424262229622785"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052946661358317801",
+    "created_at": "2026-05-09T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052946661358317801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/71UGyB3fQd",
+          "end": 127,
+          "expanded_url": "https://x.com/YongQuan/status/2052946661358317801/photo/1",
+          "media_key": "3_2052424262229622785",
+          "start": 104,
+          "url": "https://t.co/71UGyB3fQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052946661358317801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "伴侣动物应当解释为家养宠物\n这样除了极端人士外就不会有什么异议了\n\n非家养的就是为了食用而养殖的动物肯定不能算作伴侣动物\n除非你们把养殖场的包圆了自己养\n那不经你们同意谁也不能带走宰了\n既然分币不出那就别叫 https://t.co/71UGyB3fQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2052424262229622785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHus_gaXAAE3Rg8.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052424262229622785"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052946661358317801",
+        "created_at": "2026-05-09T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052946661358317801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71UGyB3fQd",
+              "end": 127,
+              "expanded_url": "https://x.com/YongQuan/status/2052946661358317801/photo/1",
+              "media_key": "3_2052424262229622785",
+              "start": 104,
+              "url": "https://t.co/71UGyB3fQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052946661358317801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伴侣动物应当解释为家养宠物\n这样除了极端人士外就不会有什么异议了\n\n非家养的就是为了食用而养殖的动物肯定不能算作伴侣动物\n除非你们把养殖场的包圆了自己养\n那不经你们同意谁也不能带走宰了\n既然分币不出那就别叫 https://t.co/71UGyB3fQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9571,
+          "following_count": 4206,
+          "like_count": 44860,
+          "listed_count": 28,
+          "media_count": 3254,
+          "tweet_count": 11890
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

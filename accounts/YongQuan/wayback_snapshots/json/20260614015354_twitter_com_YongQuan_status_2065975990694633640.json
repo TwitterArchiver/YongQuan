@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065787402237690310",
+    "created_at": "2026-06-14T01:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065975990694633640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280362520193138688",
+          "start": 0,
+          "username": "speedygrapes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065975990694633640",
+    "in_reply_to_user_id": "1280362520193138688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065787402237690310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@speedygrapes 你发现了吗：Knight赢得比赛的这三场 一次没有死过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2065787399159136256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsmscxbwAATwI0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065787402237690310",
+        "created_at": "2026-06-14T01:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065975990694633640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280362520193138688",
+              "start": 0,
+              "username": "speedygrapes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065975990694633640",
+        "in_reply_to_user_id": "1280362520193138688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065787402237690310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@speedygrapes 你发现了吗：Knight赢得比赛的这三场 一次没有死过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065787399159136256"
+          ]
+        },
+        "author_id": "1280362520193138688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1221666525255364608",
+              "name": "TOP ESPORTS"
+            }
+          }
+        ],
+        "conversation_id": "2065787402237690310",
+        "created_at": "2026-06-13T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065787402237690310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqB5e9AoNd",
+              "end": 206,
+              "expanded_url": "https://x.com/speedygrapes/status/2065787402237690310/photo/1",
+              "media_key": "3_2065787399159136256",
+              "start": 183,
+              "url": "https://t.co/TqB5e9AoNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065787402237690310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5379,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "BLG KNIGHT AGAINST WE\n\n14/0/6 ✅\n0/3/7 ❌\n5/2/1 ❌\n4/0/16 ✅\n8/0/2 ✅\n\n13.0 KDA across all 5 games\n\nWill face TES tomorrow for his 8th LPL title (most all-time)\n\nBest player in the world? https://t.co/TqB5e9AoNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10626,
+          "following_count": 4540,
+          "like_count": 50039,
+          "listed_count": 35,
+          "media_count": 4257,
+          "tweet_count": 14221
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-07T04:46:44.000Z",
+        "description": "He/him | Current: Producer @LCSOfficial | Play-by-Play @lpl_english, Research @nbcsports | @SaltyRunbackNA | Previous: @watchNACL, @mlb, @tuftsjumbocast, CLOL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "LCSOfficial"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "lpl_english"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "nbcsports"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "SaltyRunbackNA"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "watchNACL"
+              },
+              {
+                "end": 135,
+                "start": 131,
+                "username": "mlb"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tuftsjumbocast"
+              }
+            ]
+          }
+        },
+        "id": "1280362520193138688",
+        "location": "NJ/NY",
+        "name": "Andrew \"Grapes\" Hau 🍇",
+        "pinned_tweet_id": "1930649898195816722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666307799176060928/bUgtlAlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1255,
+          "like_count": 38211,
+          "listed_count": 8,
+          "media_count": 2774,
+          "tweet_count": 9663
+        },
+        "username": "speedygrapes",
+        "verified": false
+      }
+    ]
+  }
+}

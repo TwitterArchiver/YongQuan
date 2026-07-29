@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049707316308828160"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2049707406448525545",
+    "created_at": "2026-04-30T04:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049707406448525545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9t2XcBypT",
+          "end": 62,
+          "expanded_url": "https://x.com/YongQuan/status/2049707406448525545/video/1",
+          "media_key": "13_2049707316308828160",
+          "start": 39,
+          "url": "https://t.co/M9t2XcBypT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049707406448525545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是淡紫\n但是我真在七十八和红光上过学\n\n所以来吃这玩意儿不错（\n\n有了！ https://t.co/M9t2XcBypT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7200,
+        "height": 2160,
+        "media_key": "13_2049707316308828160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049707316308828160/img/Np1_t6rZDP4cQZLp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/vid/avc1/3840x2160/2we6YPoS05Ey_wz9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/vid/avc1/1280x720/edVtRu96xh71gtks.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/vid/avc1/1920x1080/wVxBIXPjtcJI0PQF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/vid/avc1/480x270/yKBub0LwO4FqnqSc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/pl/c7o0Q2TuVF2c3vPk.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049707316308828160/vid/avc1/640x360/y9x2SDCAW4kYvKBj.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049707316308828160"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2049707406448525545",
+        "created_at": "2026-04-30T04:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049707406448525545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9t2XcBypT",
+              "end": 62,
+              "expanded_url": "https://x.com/YongQuan/status/2049707406448525545/video/1",
+              "media_key": "13_2049707316308828160",
+              "start": 39,
+              "url": "https://t.co/M9t2XcBypT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049707406448525545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是淡紫\n但是我真在七十八和红光上过学\n\n所以来吃这玩意儿不错（\n\n有了！ https://t.co/M9t2XcBypT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9197,
+          "following_count": 4164,
+          "like_count": 43579,
+          "listed_count": 28,
+          "media_count": 3023,
+          "tweet_count": 11393
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

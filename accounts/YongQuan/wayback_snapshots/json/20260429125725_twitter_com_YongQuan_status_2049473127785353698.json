@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2049452427003498728",
+    "created_at": "2026-04-29T12:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049473127785353698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049473127785353698",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049452427003498728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 这次用的CNIP\n因为我在家（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2049452427003498728",
+        "created_at": "2026-04-29T12:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049473127785353698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049473127785353698",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049452427003498728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 这次用的CNIP\n因为我在家（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2049452425237635072"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "conversation_id": "2049452427003498728",
+        "created_at": "2026-04-29T11:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049452427003498728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049452427003498728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做个小调查，看一下推特对中文推特的地域锁定是怎样的？我在大陆用VPN的香港节点发的这条推特。看看你们用什么IP能看到我这条推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9205,
+          "following_count": 4166,
+          "like_count": 43530,
+          "listed_count": 28,
+          "media_count": 3007,
+          "tweet_count": 11370
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "蓝V日报：经济｜两性｜娱乐｜认知｜互关",
+        "id": "1239436070292320257",
+        "name": "蓝V日报",
+        "pinned_tweet_id": "2049285032507068798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029312451326676992/z8ZHG4rB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77119,
+          "following_count": 4410,
+          "like_count": 21749,
+          "listed_count": 415,
+          "media_count": 1668,
+          "tweet_count": 9212
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

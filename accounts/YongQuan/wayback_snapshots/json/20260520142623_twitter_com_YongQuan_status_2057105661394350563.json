@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056955204499836936",
+    "created_at": "2026-05-20T14:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057105661394350563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055438029230309376",
+          "start": 0,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057105661394350563",
+    "in_reply_to_user_id": "2055438029230309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056955204499836936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoalaEngine 因为有钱赚啊\n年初收益化提升的时候就变成捞金的工具了......\n\n以前收益化没那么多钱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056955204499836936",
+        "created_at": "2026-05-20T14:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057105661394350563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057105661394350563",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056955204499836936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoalaEngine 因为有钱赚啊\n年初收益化提升的时候就变成捞金的工具了......\n\n以前收益化没那么多钱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438029230309376",
+        "conversation_id": "2056955204499836936",
+        "created_at": "2026-05-20T04:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056955204499836936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056955204499836936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "timeline上那些搞互关的怎么那么烦啊\n\n刷到这些内容感觉好浪费时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9929,
+          "following_count": 4318,
+          "like_count": 46320,
+          "listed_count": 30,
+          "media_count": 3554,
+          "tweet_count": 12652
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055443806183637104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 32,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

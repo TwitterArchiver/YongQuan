@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061967941151887598",
+    "created_at": "2026-06-03T00:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061968975794483423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1335973070",
+          "start": 0,
+          "username": "ilovek8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061968975794483423",
+    "in_reply_to_user_id": "1335973070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061967941151887598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovek8s 闲置的服务器资源租出去的话\n基本都是IDC的业务\n毕竟不是所有的大企业7*24小时跑训练"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2061967931765100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2U6L8bEAAqG-B.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061967941151887598",
+        "created_at": "2026-06-03T00:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061968975794483423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1335973070",
+              "start": 0,
+              "username": "ilovek8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061968975794483423",
+        "in_reply_to_user_id": "1335973070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061967941151887598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovek8s 闲置的服务器资源租出去的话\n基本都是IDC的业务\n毕竟不是所有的大企业7*24小时跑训练"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061967931765100544"
+          ]
+        },
+        "author_id": "1335973070",
+        "conversation_id": "2061967941151887598",
+        "created_at": "2026-06-03T00:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061967941151887598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMeCplGJEb",
+              "end": 38,
+              "expanded_url": "https://x.com/ilovek8s/status/2061967941151887598/photo/1",
+              "media_key": "3_2061967931765100544",
+              "start": 15,
+              "url": "https://t.co/aMeCplGJEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061967941151887598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算力租赁到底是一门什么生意？ https://t.co/aMeCplGJEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme和亮点内容｜#LPL\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "LPL"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10396,
+          "following_count": 4462,
+          "like_count": 48197,
+          "listed_count": 31,
+          "media_count": 3960,
+          "tweet_count": 13522
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-08T07:19:51.000Z",
+        "description": "资深全干工程师 | 尊贵的六边形战士 |  独立开发者出海技术栈：https://t.co/av5jVVXXou 🌟欢迎DM🌟",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chuhai.tools",
+                "end": 56,
+                "expanded_url": "https://chuhai.tools",
+                "start": 33,
+                "url": "https://t.co/av5jVVXXou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhai.tools",
+                "end": 23,
+                "expanded_url": "https://chuhai.tools",
+                "start": 0,
+                "url": "https://t.co/av5jVVXXou"
+              }
+            ]
+          }
+        },
+        "id": "1335973070",
+        "location": "Hong Kong",
+        "name": "ilovelife",
+        "pinned_tweet_id": "2056894778240073910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767739942283980800/iJUzgOtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23745,
+          "following_count": 2644,
+          "like_count": 18003,
+          "listed_count": 215,
+          "media_count": 761,
+          "tweet_count": 22208
+        },
+        "url": "https://t.co/av5jVVXXou",
+        "username": "ilovek8s",
+        "verified": true
+      }
+    ]
+  }
+}

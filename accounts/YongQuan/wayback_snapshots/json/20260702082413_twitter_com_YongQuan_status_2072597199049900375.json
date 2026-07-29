@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072331007416819712"
+      ],
+      "media_source_tweet_id": [
+        "2072331012520939536"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2072597199049900375",
+    "created_at": "2026-07-02T08:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072597199049900375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033504930707996672",
+          "start": 3,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 76,
+          "id": "1943561677762646016",
+          "start": 67,
+          "username": "qusuunmd"
+        },
+        {
+          "end": 99,
+          "id": "3974894476",
+          "start": 85,
+          "username": "Cavityuksel45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3fuoe0ONhL",
+          "end": 123,
+          "expanded_url": "https://x.com/Xyliaxka/status/2072331012520939536/photo/1",
+          "media_key": "3_2072331007416819712",
+          "start": 100,
+          "url": "https://t.co/3fuoe0ONhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072597199049900375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072331012520939536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xyliaxka: 补档捏\n复刻经典名场面\n我这里有两杯奶昔，一杯是奈雪的水蜜桃奶昔，另外一杯是什么奶昔啊？好难猜呀\n出镜： @qusuunmd \n小猫的主人： @Cavityuksel45 https://t.co/3fuoe0ONhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072331007416819712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJmElIbYAArWNx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072331007416819712"
+          ],
+          "media_source_tweet_id": [
+            "2072331012520939536"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072597199049900375",
+        "created_at": "2026-07-02T08:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072597199049900375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033504930707996672",
+              "start": 3,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 76,
+              "id": "1943561677762646016",
+              "start": 67,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 99,
+              "id": "3974894476",
+              "start": 85,
+              "username": "Cavityuksel45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fuoe0ONhL",
+              "end": 123,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072331012520939536/photo/1",
+              "media_key": "3_2072331007416819712",
+              "start": 100,
+              "url": "https://t.co/3fuoe0ONhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072597199049900375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072331012520939536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xyliaxka: 补档捏\n复刻经典名场面\n我这里有两杯奶昔，一杯是奈雪的水蜜桃奶昔，另外一杯是什么奶昔啊？好难猜呀\n出镜： @qusuunmd \n小猫的主人： @Cavityuksel45 https://t.co/3fuoe0ONhL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072331007416819712"
+          ]
+        },
+        "author_id": "2033504930707996672",
+        "conversation_id": "2072331012520939536",
+        "created_at": "2026-07-01T14:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072331012520939536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1943561677762646016",
+              "start": 53,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 85,
+              "id": "3974894476",
+              "start": 71,
+              "username": "Cavityuksel45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fuoe0ONhL",
+              "end": 109,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072331012520939536/photo/1",
+              "media_key": "3_2072331007416819712",
+              "start": 86,
+              "url": "https://t.co/3fuoe0ONhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072331012520939536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "补档捏\n复刻经典名场面\n我这里有两杯奶昔，一杯是奈雪的水蜜桃奶昔，另外一杯是什么奶昔啊？好难猜呀\n出镜： @qusuunmd \n小猫的主人： @Cavityuksel45 https://t.co/3fuoe0ONhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10993,
+          "following_count": 4678,
+          "like_count": 51603,
+          "listed_count": 36,
+          "media_count": 4747,
+          "tweet_count": 15316
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "location": "欢迎访问我的网页↓",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 5,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰/摄影📹（Canom r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 413,
+          "like_count": 2718,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-16T21:31:29.000Z",
+        "description": "",
+        "id": "3974894476",
+        "name": "cavit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794058286729252864/Lk5b5fJL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 411,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Cavityuksel45",
+        "verified": false
+      }
+    ]
+  }
+}

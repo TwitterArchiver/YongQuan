@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053111242295070720"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2053564983942824239",
+    "created_at": "2026-05-10T19:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053564983942824239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PaHqdUJd2N",
+          "end": 147,
+          "expanded_url": "https://x.com/YongQuan/status/2053564983942824239/photo/1",
+          "media_key": "3_2053111242295070720",
+          "start": 124,
+          "url": "https://t.co/PaHqdUJd2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053564983942824239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在搜东西第一选择是必应\n但某些指向性特别强的 比如某个游戏的某个阶段该怎么攻略\n还是要用百度\n因为百度有贴吧这个强大的东西\n搜索内容后面加上贴吧俩字就能直接找到玩家发的有效内容\n如果不加贴吧\n搜出来只能是一堆门户网站不知道从哪复制粘贴的无效信息 https://t.co/PaHqdUJd2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2053111242295070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4dzAlb0AA83G7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053111242295070720"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2053564983942824239",
+        "created_at": "2026-05-10T19:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053564983942824239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaHqdUJd2N",
+              "end": 147,
+              "expanded_url": "https://x.com/YongQuan/status/2053564983942824239/photo/1",
+              "media_key": "3_2053111242295070720",
+              "start": 124,
+              "url": "https://t.co/PaHqdUJd2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053564983942824239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在搜东西第一选择是必应\n但某些指向性特别强的 比如某个游戏的某个阶段该怎么攻略\n还是要用百度\n因为百度有贴吧这个强大的东西\n搜索内容后面加上贴吧俩字就能直接找到玩家发的有效内容\n如果不加贴吧\n搜出来只能是一堆门户网站不知道从哪复制粘贴的无效信息 https://t.co/PaHqdUJd2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9661,
+          "following_count": 4208,
+          "like_count": 44880,
+          "listed_count": 29,
+          "media_count": 3298,
+          "tweet_count": 11993
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

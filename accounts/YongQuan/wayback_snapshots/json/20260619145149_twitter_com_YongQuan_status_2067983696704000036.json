@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067911274495713599",
+    "created_at": "2026-06-19T14:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067983696704000036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620045874180259840",
+          "start": 0,
+          "username": "afiq22845893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067983696704000036",
+    "in_reply_to_user_id": "1620045874180259840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067911274495713599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afiq22845893 问题是在于前期不给推流就是没人说话\n感觉这个应该在4小时内算回复才算合理 一个小时之内还是太短了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067911274495713599",
+        "created_at": "2026-06-19T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067983696704000036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620045874180259840",
+              "start": 0,
+              "username": "afiq22845893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983696704000036",
+        "in_reply_to_user_id": "1620045874180259840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067911274495713599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afiq22845893 问题是在于前期不给推流就是没人说话\n感觉这个应该在4小时内算回复才算合理 一个小时之内还是太短了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620045874180259840",
+        "conversation_id": "2067911274495713599",
+        "created_at": "2026-06-19T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067911274495713599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067911274495713599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现了一件有意思的事：  \n\n同样的内容，有人回复的推文（1小时内）流量是无回复的 4 倍 ！\n\nX 的算法根本不看你的内容质量有多高 \n\n它只看这条推文能不能勾起别人说话？  \n\n你回一句，算法就以为这条火了\n\n就会推给更多人 、循环往复 ……\n\n所以想要流量就多评论，评论的权重远大于点赞 ！\n\n核心就是发推时多互动才会流量多多！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了一件有意思的事：  \n\n同样的内容，有人回复的推文（1小时内）流量是无回复的 4 倍 ！\n\nX 的算法根本不看你的内容质量有多高 \n\n它只看这条推文能不能勾起别人说话？  \n\n你回一句，算法就以为这条火了\n\n就会推给更多人 、循环往复 ……\n\n所以想要流量就多评论，评论的权重远大于点赞 ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10696,
+          "following_count": 4597,
+          "like_count": 51089,
+          "listed_count": 35,
+          "media_count": 4419,
+          "tweet_count": 14652
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-30T13:07:07.000Z",
+        "description": "前数字货币集团CEO（含交易所、基金、量化 、媒体等），正在重新学习币圈的一切。\n\n每日1个币圈名词｜专业解读+通俗白话。\n\n在这里记录我的学习笔记、复盘过去的踩坑经历，以及从圈外视角看圈内的胡思乱想。",
+        "id": "1620045874180259840",
+        "location": "香港",
+        "name": "michaei王",
+        "pinned_tweet_id": "2067439513970921878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059620402171899904/8c9daLPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 3204,
+          "like_count": 5927,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 2256
+        },
+        "url": "",
+        "username": "afiq22845893",
+        "verified": true
+      }
+    ]
+  }
+}

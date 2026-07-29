@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2053427968068788576",
+    "created_at": "2026-05-11T00:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053631112761819283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1473626629016461312",
+          "start": 0,
+          "username": "valesports_cn"
+        },
+        {
+          "end": 27,
+          "id": "1579344517760946176",
+          "start": 15,
+          "username": "ic_Furencia"
+        },
+        {
+          "end": 35,
+          "id": "1507268395779358721",
+          "start": 28,
+          "username": "zmjjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yongquan/statu…",
+          "end": 84,
+          "expanded_url": "https://x.com/yongquan/status/2053630717587071263?s=46",
+          "start": 61,
+          "url": "https://t.co/Laoa5HQa2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053631112761819283",
+    "in_reply_to_user_id": "1473626629016461312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053630717587071263",
+        "type": "quoted"
+      },
+      {
+        "id": "2053427968068788576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@valesports_cn @ic_Furencia @zmjjkk 我要盖一个全是「我从山中来 带着兰花草！」的楼！\nhttps://t.co/Laoa5HQa2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_2053630597617295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_2Jd7aIAA2Yli.png",
+        "width": 455
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2053427909684027393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH89zeiW4AExAf-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2053427968068788576",
+        "created_at": "2026-05-11T00:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053631112761819283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1473626629016461312",
+              "start": 0,
+              "username": "valesports_cn"
+            },
+            {
+              "end": 27,
+              "id": "1579344517760946176",
+              "start": 15,
+              "username": "ic_Furencia"
+            },
+            {
+              "end": 35,
+              "id": "1507268395779358721",
+              "start": 28,
+              "username": "zmjjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 84,
+              "expanded_url": "https://x.com/yongquan/status/2053630717587071263?s=46",
+              "start": 61,
+              "url": "https://t.co/Laoa5HQa2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053631112761819283",
+        "in_reply_to_user_id": "1473626629016461312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053630717587071263",
+            "type": "quoted"
+          },
+          {
+            "id": "2053427968068788576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@valesports_cn @ic_Furencia @zmjjkk 我要盖一个全是「我从山中来 带着兰花草！」的楼！\nhttps://t.co/Laoa5HQa2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053630597617295360"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053630717587071263",
+        "created_at": "2026-05-11T00:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053630717587071263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzZkL3ogUH",
+              "end": 33,
+              "expanded_url": "https://x.com/YongQuan/status/2053630717587071263/photo/1",
+              "media_key": "3_2053630597617295360",
+              "start": 10,
+              "url": "https://t.co/uzZkL3ogUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053630717587071263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "康神的大狙就是吊！ https://t.co/uzZkL3ogUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053427909684027393"
+          ]
+        },
+        "author_id": "1473626629016461312",
+        "conversation_id": "2053427968068788576",
+        "created_at": "2026-05-10T10:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053427968068788576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "VCTCN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1507268395779358721",
+              "start": 65,
+              "username": "zmjjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nw7SqYtuwO",
+              "end": 104,
+              "expanded_url": "https://x.com/valesports_cn/status/2053427968068788576/photo/1",
+              "media_key": "3_2053427909684027393",
+              "start": 81,
+              "url": "https://t.co/nw7SqYtuwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053427968068788576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 55480,
+          "like_count": 1511,
+          "quote_count": 36,
+          "reply_count": 53,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "Fewest rounds to achieve 3000 kills in VCT International League. @zmjjkk  #VCTCN https://t.co/nw7SqYtuwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9666,
+          "following_count": 4209,
+          "like_count": 44894,
+          "listed_count": 29,
+          "media_count": 3304,
+          "tweet_count": 12000
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-22T12:09:20.000Z",
+        "description": "Official account for the VALORANT Champions Tour CN #VCTCN | IL of 2024 VALORANT World Champions @EDG_Edward",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "VCTCN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "EDG_Edward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/valorantesport…",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/valorantesports_cn",
+                "start": 0,
+                "url": "https://t.co/FItyA1htlt"
+              }
+            ]
+          }
+        },
+        "id": "1473626629016461312",
+        "location": "Shanghai",
+        "name": "VALORANT Champions Tour CN",
+        "pinned_tweet_id": "2053475227359690914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046181471162130432/T4a3cMsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36296,
+          "following_count": 268,
+          "like_count": 1581,
+          "listed_count": 91,
+          "media_count": 9385,
+          "tweet_count": 11719
+        },
+        "url": "https://t.co/FItyA1htlt",
+        "username": "valesports_cn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-10T05:34:24.000Z",
+        "description": "#iammusic",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "iammusic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "riotgames.com",
+                "end": 23,
+                "expanded_url": "http://www.riotgames.com",
+                "start": 0,
+                "url": "https://t.co/uE9WaSjIjI"
+              }
+            ]
+          }
+        },
+        "id": "1579344517760946176",
+        "location": "Fontaine",
+        "name": "芙",
+        "pinned_tweet_id": "1924507525795430629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033705722077450242/43I0yzzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 292,
+          "like_count": 76687,
+          "listed_count": 3,
+          "media_count": 577,
+          "tweet_count": 9057
+        },
+        "url": "https://t.co/uE9WaSjIjI",
+        "username": "ic_Furencia",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T08:09:31.000Z",
+        "description": "18yo 🇨🇳EDG Valorant 最可爱的乖乖",
+        "id": "1507268395779358721",
+        "location": "Shanghai",
+        "name": "EDG ZmjjKk",
+        "pinned_tweet_id": "1556581994146197504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561737547176620033/Aeg_gMxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138524,
+          "following_count": 219,
+          "like_count": 521,
+          "listed_count": 133,
+          "media_count": 33,
+          "tweet_count": 415
+        },
+        "username": "zmjjkk",
+        "verified": false
+      }
+    ]
+  }
+}

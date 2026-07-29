@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2068758819820413353",
+    "created_at": "2026-06-22T03:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068893608519008390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "Rainstryin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068893608519008390",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068758819820413353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainstryin 就是今天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068758819820413353",
+        "created_at": "2026-06-22T03:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068893608519008390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "Rainstryin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068893608519008390",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068758819820413353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainstryin 就是今天！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697936336228126721",
+        "conversation_id": "2068758819820413353",
+        "created_at": "2026-06-21T18:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068758819820413353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rainstryin/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Rainstryin/status/2068433697565778363",
+              "start": 21,
+              "url": "https://t.co/ly4h76oFLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068758819820413353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5344,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068433697565778363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草！拿下！那些说老尼没major的人呢！ https://t.co/ly4h76oFLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10768,
+          "following_count": 4618,
+          "like_count": 51353,
+          "listed_count": 34,
+          "media_count": 4494,
+          "tweet_count": 14858
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘 游戏群909853647 欢迎来玩 fo你=喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "2017891795137646958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055732571032702976/rvxadw4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 1596,
+          "like_count": 104023,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 6862
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051521387383357441"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052176585328050312",
+    "created_at": "2026-05-07T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052176585328050312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 11,
+          "tag": "PARGMATA"
+        },
+        {
+          "end": 35,
+          "start": 21,
+          "tag": "RESIDENTEVIL9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ucyEHiBFPi",
+          "end": 59,
+          "expanded_url": "https://x.com/YongQuan/status/2052176585328050312/photo/1",
+          "media_key": "3_2051521387383357441",
+          "start": 36,
+          "url": "https://t.co/ucyEHiBFPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052176585328050312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "No Problem\n#PARGMATA #RESIDENTEVIL9 https://t.co/ucyEHiBFPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2051521387383357441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh31RgaAAEX8jJ.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051521387383357441"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052176585328050312",
+        "created_at": "2026-05-07T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052176585328050312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "PARGMATA"
+            },
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "RESIDENTEVIL9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucyEHiBFPi",
+              "end": 59,
+              "expanded_url": "https://x.com/YongQuan/status/2052176585328050312/photo/1",
+              "media_key": "3_2051521387383357441",
+              "start": 36,
+              "url": "https://t.co/ucyEHiBFPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052176585328050312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "No Problem\n#PARGMATA #RESIDENTEVIL9 https://t.co/ucyEHiBFPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@0KJ7A｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "0KJ7A"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "JDGaming"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 4202,
+          "like_count": 44503,
+          "listed_count": 29,
+          "media_count": 3195,
+          "tweet_count": 11755
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

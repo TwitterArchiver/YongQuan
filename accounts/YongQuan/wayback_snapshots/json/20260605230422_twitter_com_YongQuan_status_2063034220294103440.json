@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2062970746226503733",
+    "created_at": "2026-06-05T23:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063034220294103440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247433524329750529",
+          "start": 0,
+          "username": "gryffinn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063034220294103440",
+    "in_reply_to_user_id": "1247433524329750529",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062970746226503733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gryffinn ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2062970746226503733",
+        "created_at": "2026-06-05T23:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063034220294103440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247433524329750529",
+              "start": 0,
+              "username": "gryffinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063034220294103440",
+        "in_reply_to_user_id": "1247433524329750529",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062970746226503733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gryffinn ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247433524329750529",
+        "conversation_id": "2062970746226503733",
+        "created_at": "2026-06-05T18:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062970746226503733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062970746226503733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 307,
+          "impression_count": 470675,
+          "like_count": 11816,
+          "quote_count": 92,
+          "reply_count": 160,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "I received some shocking news this week.\n\nI tested positive for gonorrhea.\n\nThe doctor told me I can’t fuck anyone for 2 weeks.\n\nUnfortunately, I will not be able to follow the doctor’s orders since we play against TL tomorrow."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10475,
+          "following_count": 4491,
+          "like_count": 48764,
+          "listed_count": 31,
+          "media_count": 4036,
+          "tweet_count": 13721
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T07:58:31.000Z",
+        "description": "🇻🇳 19 | https://t.co/HZsUnWcsjj | LCS Jungler for @FlyQuest | Former @T1lol @LOUDgg | Rank 1 NA, RANK 7 KR @Gryffinn06\n\nBIG G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "FlyQuest"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "T1lol"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "LOUDgg"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "Gryffinn06"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/Gryffinn",
+                "end": 31,
+                "expanded_url": "http://twitch.tv/Gryffinn",
+                "start": 8,
+                "url": "https://t.co/HZsUnWcsjj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gryffinnlol",
+                "end": 23,
+                "expanded_url": "http://instagram.com/gryffinnlol",
+                "start": 0,
+                "url": "https://t.co/uP0EiEe0Tw"
+              }
+            ]
+          }
+        },
+        "id": "1247433524329750529",
+        "location": "LA/CHI",
+        "name": "FLY Gryffinn",
+        "pinned_tweet_id": "1662988776400879616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886164213007077377/8OBG1a5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29195,
+          "following_count": 523,
+          "like_count": 16020,
+          "listed_count": 25,
+          "media_count": 895,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/uP0EiEe0Tw",
+        "username": "gryffinn",
+        "verified": true
+      }
+    ]
+  }
+}

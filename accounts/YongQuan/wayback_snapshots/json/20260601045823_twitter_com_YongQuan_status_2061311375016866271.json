@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061108382673875274",
+    "created_at": "2026-06-01T04:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061311375016866271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061311375016866271",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061108382673875274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 怎么现在需要人工审核了🤔24年25年的确是续上就活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_2061107617624428544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqGdUBbEAA2Lxt.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2061107617670533120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqGdUMakAAI-3i.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061108382673875274",
+        "created_at": "2026-06-01T04:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061311375016866271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061311375016866271",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061108382673875274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 怎么现在需要人工审核了🤔24年25年的确是续上就活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061107617624428544",
+            "3_2061107617670533120"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2061108382673875274",
+        "created_at": "2026-05-31T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:28:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061107632870773046",
+          "2061108382673875274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEGvmVGwyn",
+              "end": 122,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2061108382673875274/photo/1",
+              "media_key": "3_2061107617624428544",
+              "start": 99,
+              "url": "https://t.co/IEGvmVGwyn"
+            },
+            {
+              "display_url": "pic.x.com/IEGvmVGwyn",
+              "end": 122,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2061108382673875274/photo/1",
+              "media_key": "3_2061107617670533120",
+              "start": 99,
+              "url": "https://t.co/IEGvmVGwyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061108382673875274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。\n我怀疑这就是x官方故意卡着老用户的，然后再强迫活跃用户保持premium订阅，也不要听ai瞎说续上蓝标就能自动恢复，这根本不存在的\n我提交申诉已经7天了，至今仍未处理，没有回信"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8728,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "奉劝大家一句，如果你的号之前曾经开过蓝，后面断掉了，那就不要想着再用这个号加入revenue sharing了，因为需要人工审核，但是垃圾团队经常很久都不处理，直接去运营一个没开过蓝标的号比较好。 https://t.co/IEGvmVGwyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10343,
+          "following_count": 4441,
+          "like_count": 47936,
+          "listed_count": 30,
+          "media_count": 3905,
+          "tweet_count": 13398
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94975,
+          "following_count": 959,
+          "like_count": 5748,
+          "listed_count": 210,
+          "media_count": 137,
+          "tweet_count": 1944
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

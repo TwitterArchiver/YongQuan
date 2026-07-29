@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873237099324792832"
+      ],
+      "media_source_tweet_id": [
+        "1873237148692037642"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067477364477403409",
+    "created_at": "2026-06-18T05:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067477364477403409"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "TheShy"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "LPL"
+        },
+        {
+          "end": 108,
+          "start": 97,
+          "tag": "Worlds2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3l1N96Yxgt",
+          "end": 132,
+          "expanded_url": "https://x.com/4cyun/status/1873237148692037642/photo/1",
+          "media_key": "3_1873237099324792832",
+          "start": 109,
+          "url": "https://t.co/3l1N96Yxgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067477364477403409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873237148692037642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 你知道的 茶百道是我兄弟\n那家伙的橙露啵啵好喝的不可思议\n我已经迫不及待和他再次并肩作战\n至于喜茶和瑞幸 我祝他们好运\n\nTS来了全喝了！\n#TheShy #LPL #Worlds2025 https://t.co/3l1N96Yxgt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1873237099324792832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf8TN41WYAAedJA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873237099324792832"
+          ],
+          "media_source_tweet_id": [
+            "1873237148692037642"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067477364477403409",
+        "created_at": "2026-06-18T05:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067477364477403409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "TheShy"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "LPL"
+            },
+            {
+              "end": 108,
+              "start": 97,
+              "tag": "Worlds2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l1N96Yxgt",
+              "end": 132,
+              "expanded_url": "https://x.com/4cyun/status/1873237148692037642/photo/1",
+              "media_key": "3_1873237099324792832",
+              "start": 109,
+              "url": "https://t.co/3l1N96Yxgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067477364477403409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873237148692037642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 你知道的 茶百道是我兄弟\n那家伙的橙露啵啵好喝的不可思议\n我已经迫不及待和他再次并肩作战\n至于喜茶和瑞幸 我祝他们好运\n\nTS来了全喝了！\n#TheShy #LPL #Worlds2025 https://t.co/3l1N96Yxgt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873237099324792832"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1873237148692037642",
+        "created_at": "2024-12-29T05:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873237148692037642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "TheShy"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "LPL"
+            },
+            {
+              "end": 94,
+              "start": 83,
+              "tag": "Worlds2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l1N96Yxgt",
+              "end": 118,
+              "expanded_url": "https://x.com/4cyun/status/1873237148692037642/photo/1",
+              "media_key": "3_1873237099324792832",
+              "start": 95,
+              "url": "https://t.co/3l1N96Yxgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873237148692037642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2569,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道的 茶百道是我兄弟\n那家伙的橙露啵啵好喝的不可思议\n我已经迫不及待和他再次并肩作战\n至于喜茶和瑞幸 我祝他们好运\n\nTS来了全喝了！\n#TheShy #LPL #Worlds2025 https://t.co/3l1N96Yxgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10684,
+          "following_count": 4583,
+          "like_count": 50722,
+          "listed_count": 35,
+          "media_count": 4369,
+          "tweet_count": 14519
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

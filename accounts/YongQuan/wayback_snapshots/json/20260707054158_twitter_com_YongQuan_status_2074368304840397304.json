@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074340263099781322",
+    "created_at": "2026-07-07T05:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074368304840397304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030129822492721152",
+          "start": 0,
+          "username": "yuuen_shi"
+        },
+        {
+          "end": 27,
+          "id": "1806225733045690368",
+          "start": 11,
+          "username": "MizutaniSubaru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074368304840397304",
+    "in_reply_to_user_id": "2030129822492721152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074364590448914740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuen_shi @MizutaniSubaru_ 路边一坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074340263099781322",
+        "created_at": "2026-07-07T05:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074368304840397304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030129822492721152",
+              "start": 0,
+              "username": "yuuen_shi"
+            },
+            {
+              "end": 27,
+              "id": "1806225733045690368",
+              "start": 11,
+              "username": "MizutaniSubaru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074368304840397304",
+        "in_reply_to_user_id": "2030129822492721152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074364590448914740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuen_shi @MizutaniSubaru_ 路边一坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030129822492721152",
+        "conversation_id": "2074340263099781322",
+        "created_at": "2026-07-07T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074364590448914740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 26,
+              "id": "1806225733045690368",
+              "start": 10,
+              "username": "MizutaniSubaru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074364590448914740",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074361401947086912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @MizutaniSubaru_ 外战看tes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11056,
+          "following_count": 4704,
+          "like_count": 51936,
+          "listed_count": 37,
+          "media_count": 4878,
+          "tweet_count": 15560
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-07T03:55:20.000Z",
+        "description": "A newcomer,I am currently studying medical knowledge.😎😎\nI would be happy to answer any medical questions you may have. Please take care, hah😀Thank you ⭐️⭐️⭐️",
+        "id": "2030129822492721152",
+        "name": "Yuuen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038107926926393344/IRD5E3mW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "yuuen_shi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.🏳️‍🌈",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "pinned_tweet_id": "2067863985891017197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 576,
+          "like_count": 8088,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

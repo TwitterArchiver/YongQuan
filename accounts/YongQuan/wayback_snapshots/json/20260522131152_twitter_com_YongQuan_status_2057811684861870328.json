@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {
+      "title": "星空礼品店·共鸣星辰"
+    },
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057811684861870328",
+    "created_at": "2026-05-22T13:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057811684861870328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2057…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2057807957853904896",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2057807957853904896",
+          "url": "https://t.co/KydZGReF6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057811684861870328",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/KydZGReF6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_2057811254211977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7QbtYbIAADmAy.jpg",
+        "width": 1983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "星空礼品店·共鸣星辰"
+        },
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057811684861870328",
+        "created_at": "2026-05-22T13:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057811684861870328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2057…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2057807957853904896",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2057807957853904896",
+              "url": "https://t.co/KydZGReF6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057811684861870328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KydZGReF6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "本垢@yqua_｜爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9947,
+          "following_count": 4346,
+          "like_count": 46734,
+          "listed_count": 30,
+          "media_count": 3616,
+          "tweet_count": 12816
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

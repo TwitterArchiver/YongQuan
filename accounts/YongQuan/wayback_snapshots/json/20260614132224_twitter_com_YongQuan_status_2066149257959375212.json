@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066149251307253760"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066117397845553420",
+    "created_at": "2026-06-14T13:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066149257959375212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727493061247107072",
+          "start": 0,
+          "username": "LPLinsider_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EBI1pT3K7W",
+          "end": 36,
+          "expanded_url": "https://x.com/YongQuan/status/2066149257959375212/photo/1",
+          "media_key": "3_2066149251307253760",
+          "start": 13,
+          "url": "https://t.co/EBI1pT3K7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066149257959375212",
+    "in_reply_to_user_id": "1727493061247107072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066117397845553420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LPLinsider_ https://t.co/EBI1pT3K7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2066149251307253760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxvzBEbsAAF4pH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 174,
+        "media_key": "3_2066117302332870656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxSvV3W0AAW98V.png",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066149251307253760"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066117397845553420",
+        "created_at": "2026-06-14T13:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066149257959375212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727493061247107072",
+              "start": 0,
+              "username": "LPLinsider_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBI1pT3K7W",
+              "end": 36,
+              "expanded_url": "https://x.com/YongQuan/status/2066149257959375212/photo/1",
+              "media_key": "3_2066149251307253760",
+              "start": 13,
+              "url": "https://t.co/EBI1pT3K7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066149257959375212",
+        "in_reply_to_user_id": "1727493061247107072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066117397845553420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LPLinsider_ https://t.co/EBI1pT3K7W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066117302332870656"
+          ]
+        },
+        "author_id": "1727493061247107072",
+        "conversation_id": "2066117397845553420",
+        "created_at": "2026-06-14T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066117397845553420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QO900p9vB6",
+              "end": 83,
+              "expanded_url": "https://x.com/LPLinsider_/status/2066117397845553420/photo/1",
+              "media_key": "3_2066117302332870656",
+              "start": 60,
+              "url": "https://t.co/QO900p9vB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066117397845553420",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "Atualização de knight no Weibo:\n\n“Somos campeões de novo 🤭”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Atualização de knight no Weibo:\n\n“Somos campeões de novo 🤭” https://t.co/QO900p9vB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10636,
+          "following_count": 4549,
+          "like_count": 50135,
+          "listed_count": 35,
+          "media_count": 4270,
+          "tweet_count": 14253
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-23T01:03:46.000Z",
+        "description": "Notícias, vazamentos, análises e opiniões sobre a Liga Chinesa de LOL, em português. | ✉ lplinsider2@gmail.com | https://t.co/ASnCvwjV3I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lplinsider",
+                "end": 136,
+                "expanded_url": "http://ko-fi.com/lplinsider",
+                "start": 113,
+                "url": "https://t.co/ASnCvwjV3I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lplinsider.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://lplinsider.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/ZgfVaUbs2L"
+              }
+            ]
+          }
+        },
+        "id": "1727493061247107072",
+        "location": "Brasil",
+        "name": "LPL Insider",
+        "pinned_tweet_id": "2066110679203901915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058721180148764673/D_ornXNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6493,
+          "following_count": 116,
+          "like_count": 4339,
+          "listed_count": 11,
+          "media_count": 9457,
+          "tweet_count": 12500
+        },
+        "url": "https://t.co/ZgfVaUbs2L",
+        "username": "LPLinsider_",
+        "verified": true
+      }
+    ]
+  }
+}

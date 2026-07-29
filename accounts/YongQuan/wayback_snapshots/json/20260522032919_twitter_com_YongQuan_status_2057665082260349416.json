@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057655150924472653",
+    "created_at": "2026-05-22T03:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057665082260349416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948391508970762240",
+          "start": 0,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057665082260349416",
+    "in_reply_to_user_id": "1948391508970762240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057655150924472653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohouhou717 一车面包人。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41233,
+        "height": 540,
+        "media_key": "13_2057654896137277440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057654896137277440/img/NMQJsp7e0a2H-iOn.jpg",
+        "public_metrics": {
+          "view_count": 75
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057654896137277440/vid/avc1/320x320/5AMln3LsThcSe7Pd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057654896137277440/vid/avc1/540x540/j8BQc7gKebyS4S-L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057654896137277440/pl/DUXWlOQiqG38Vg9A.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057655150924472653",
+        "created_at": "2026-05-22T03:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057665082260349416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057665082260349416",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057655150924472653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 一车面包人。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057654896137277440"
+          ]
+        },
+        "author_id": "1948391508970762240",
+        "conversation_id": "2057655150924472653",
+        "created_at": "2026-05-22T02:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057655150924472653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44NQ9NKjie",
+              "end": 45,
+              "expanded_url": "https://x.com/ohouhou717/status/2057655150924472653/video/1",
+              "media_key": "13_2057654896137277440",
+              "start": 22,
+              "url": "https://t.co/44NQ9NKjie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057655150924472653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今人类永远不知道两广的面包车能下来多少人 https://t.co/44NQ9NKjie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9937,
+          "following_count": 4335,
+          "like_count": 46567,
+          "listed_count": 30,
+          "media_count": 3606,
+          "tweet_count": 12766
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17596,
+          "following_count": 9944,
+          "like_count": 115157,
+          "listed_count": 72,
+          "media_count": 484,
+          "tweet_count": 116609
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

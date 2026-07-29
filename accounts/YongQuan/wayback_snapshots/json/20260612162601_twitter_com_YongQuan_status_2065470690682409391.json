@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065470682373492737"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1222585775595765760",
+          "name": "Hanwha Life Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1222585775595765760",
+          "name": "Hanwha Life Esports"
+        }
+      }
+    ],
+    "conversation_id": "2065403387479552301",
+    "created_at": "2026-06-12T16:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065470690682409391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1212980371597299714",
+          "start": 0,
+          "username": "HLEofficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2Q0dwxXlU",
+          "end": 36,
+          "expanded_url": "https://x.com/YongQuan/status/2065470690682409391/photo/1",
+          "media_key": "3_2065470682373492737",
+          "start": 13,
+          "url": "https://t.co/M2Q0dwxXlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065470690682409391",
+    "in_reply_to_user_id": "1212980371597299714",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065403387479552301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLEofficial https://t.co/M2Q0dwxXlU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2065470682373492737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoGpGzbEAEEnxR.jpg",
+        "width": 960
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2065403319900884992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnJYGCa0AAmXSv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065470682373492737"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          }
+        ],
+        "conversation_id": "2065403387479552301",
+        "created_at": "2026-06-12T16:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065470690682409391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1212980371597299714",
+              "start": 0,
+              "username": "HLEofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2Q0dwxXlU",
+              "end": 36,
+              "expanded_url": "https://x.com/YongQuan/status/2065470690682409391/photo/1",
+              "media_key": "3_2065470682373492737",
+              "start": 13,
+              "url": "https://t.co/M2Q0dwxXlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065470690682409391",
+        "in_reply_to_user_id": "1212980371597299714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065403387479552301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLEofficial https://t.co/M2Q0dwxXlU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065403319900884992"
+          ]
+        },
+        "author_id": "1212980371597299714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2065403387479552301",
+        "created_at": "2026-06-12T11:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065403387479552301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljrBz3l3En",
+              "end": 217,
+              "expanded_url": "https://x.com/HLEofficial/status/2065403387479552301/photo/1",
+              "media_key": "3_2065403319900884992",
+              "start": 194,
+              "url": "https://t.co/ljrBz3l3En"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065403387479552301",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "𝐐𝐮𝐚𝐥𝐢𝐟𝐢𝐞𝐝 𝐟𝐨𝐫 𝐌𝐒𝐈 𝟐𝟎𝟐𝟔\n한화생명e스포츠가 MSI 1시드 진출을 확정하며, 창단 첫 MSI 진출이라는 새로운 역사를 만들었습니다. 더 큰 무대에서 이어질 선수단의 여정에 많은 관심과 응원 부탁드립니다.\n\nHanwha Life Esports has secured the 1st seed and made history with the organization’s first-ever qualification for MSI. Please show your support and interest as our team continues its journey on the bigger stage."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 179774,
+          "like_count": 6878,
+          "quote_count": 1207,
+          "reply_count": 186,
+          "retweet_count": 4279
+        },
+        "reply_settings": "everyone",
+        "text": "𝐐𝐮𝐚𝐥𝐢𝐟𝐢𝐞𝐝 𝐟𝐨𝐫 𝐌𝐒𝐈 𝟐𝟎𝟐𝟔\n한화생명e스포츠가 MSI 1시드 진출을 확정하며, 창단 첫 MSI 진출이라는 새로운 역사를 만들었습니다. 더 큰 무대에서 이어질 선수단의 여정에 많은 관심과 응원 부탁드립니다.\n\nHanwha Life Esports has secured the 1st seed and made history with the https://t.co/ljrBz3l3En"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 4537,
+          "like_count": 49909,
+          "listed_count": 34,
+          "media_count": 4218,
+          "tweet_count": 14122
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-03T06:14:00.000Z",
+        "description": "𝐇𝐚𝐧𝐰𝐡𝐚 𝐋𝐢𝐟𝐞 𝐄𝐬𝐩𝐨𝐫𝐭𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hle.fan/community/boar…",
+                "end": 23,
+                "expanded_url": "https://hle.fan/community/board/6936392836db8475e0bf2183",
+                "start": 0,
+                "url": "https://t.co/EdwKWLksoo"
+              }
+            ]
+          }
+        },
+        "id": "1212980371597299714",
+        "name": "Hanwha Life Esports",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013439716314771456/PQ9koEnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134231,
+          "following_count": 121,
+          "like_count": 4735,
+          "listed_count": 297,
+          "media_count": 3272,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/EdwKWLksoo",
+        "username": "HLEofficial",
+        "verified": true
+      }
+    ]
+  }
+}

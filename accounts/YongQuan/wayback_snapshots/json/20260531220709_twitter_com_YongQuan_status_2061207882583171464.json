@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061207869526327296",
+        "3_2061207869756940288",
+        "3_2061207869513703424",
+        "3_2061207869534728192"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061207882583171464",
+    "created_at": "2026-05-31T22:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061207882583171464"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "铨在天津卫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 121,
+          "id": "1368897611672018953",
+          "start": 111,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Wn1lo4UgW",
+          "end": 178,
+          "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+          "media_key": "3_2061207869526327296",
+          "start": 155,
+          "url": "https://t.co/0Wn1lo4UgW"
+        },
+        {
+          "display_url": "pic.x.com/0Wn1lo4UgW",
+          "end": 178,
+          "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+          "media_key": "3_2061207869756940288",
+          "start": 155,
+          "url": "https://t.co/0Wn1lo4UgW"
+        },
+        {
+          "display_url": "pic.x.com/0Wn1lo4UgW",
+          "end": 178,
+          "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+          "media_key": "3_2061207869513703424",
+          "start": 155,
+          "url": "https://t.co/0Wn1lo4UgW"
+        },
+        {
+          "display_url": "pic.x.com/0Wn1lo4UgW",
+          "end": 178,
+          "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+          "media_key": "3_2061207869534728192",
+          "start": 155,
+          "url": "https://t.co/0Wn1lo4UgW"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01b8ae443f697d96"
+    },
+    "id": "2061207882583171464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#铨在天津卫 \n与世界失联的11个小时\n（实际上三次元的形象真的是一副累成狗的样子）\n不过最后成绩是好的 安详地死了。\n一整天没碰手机 纯在那边坐着\n出来的时候 我们辅导员说这是他带过的最长时间的比赛\n\n然后图二甚至还穿着@XUEQIUxka 的外套合影留念\n雪秋的衣服确实有用 挡灾（？\n\n早安！儿童节快乐 https://t.co/0Wn1lo4UgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2061207869526327296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrhovdbQAARDNp.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2061207869756940288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrhowUaIAANTCU.jpg",
+        "width": 1881
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2061207869513703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrhovaaoAArzGB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 891,
+        "media_key": "3_2061207869534728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrhovfbcAAYRsx.jpg",
+        "width": 1206
+      }
+    ],
+    "places": [
+      {
+        "country": "People's Republic of China",
+        "country_code": "CN",
+        "full_name": "Tianjin, People's Republic of China",
+        "geo": {
+          "bbox": [
+            116.680267,
+            38.558044,
+            118.013321,
+            40.256821
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "01b8ae443f697d96",
+        "name": "Tianjin",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061207869526327296",
+            "3_2061207869756940288",
+            "3_2061207869513703424",
+            "3_2061207869534728192"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061207882583171464",
+        "created_at": "2026-05-31T22:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061207882583171464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "铨在天津卫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1368897611672018953",
+              "start": 111,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Wn1lo4UgW",
+              "end": 178,
+              "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+              "media_key": "3_2061207869526327296",
+              "start": 155,
+              "url": "https://t.co/0Wn1lo4UgW"
+            },
+            {
+              "display_url": "pic.x.com/0Wn1lo4UgW",
+              "end": 178,
+              "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+              "media_key": "3_2061207869756940288",
+              "start": 155,
+              "url": "https://t.co/0Wn1lo4UgW"
+            },
+            {
+              "display_url": "pic.x.com/0Wn1lo4UgW",
+              "end": 178,
+              "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+              "media_key": "3_2061207869513703424",
+              "start": 155,
+              "url": "https://t.co/0Wn1lo4UgW"
+            },
+            {
+              "display_url": "pic.x.com/0Wn1lo4UgW",
+              "end": 178,
+              "expanded_url": "https://x.com/YongQuan/status/2061207882583171464/photo/1",
+              "media_key": "3_2061207869534728192",
+              "start": 155,
+              "url": "https://t.co/0Wn1lo4UgW"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01b8ae443f697d96"
+        },
+        "id": "2061207882583171464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#铨在天津卫 \n与世界失联的11个小时\n（实际上三次元的形象真的是一副累成狗的样子）\n不过最后成绩是好的 安详地死了。\n一整天没碰手机 纯在那边坐着\n出来的时候 我们辅导员说这是他带过的最长时间的比赛\n\n然后图二甚至还穿着@XUEQIUxka 的外套合影留念\n雪秋的衣服确实有用 挡灾（？\n\n早安！儿童节快乐 https://t.co/0Wn1lo4UgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10334,
+          "following_count": 4427,
+          "like_count": 47872,
+          "listed_count": 30,
+          "media_count": 3898,
+          "tweet_count": 13373
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8846,
+          "following_count": 2373,
+          "like_count": 31191,
+          "listed_count": 25,
+          "media_count": 1707,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

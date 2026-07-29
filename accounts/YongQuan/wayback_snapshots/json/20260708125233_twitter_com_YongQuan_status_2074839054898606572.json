@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074839046732292096"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      }
+    ],
+    "conversation_id": "2074792535176933519",
+    "created_at": "2026-07-08T12:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074839054898606572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "288074896",
+          "start": 0,
+          "username": "T1LoL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mxUM540ki",
+          "end": 44,
+          "expanded_url": "https://x.com/YongQuan/status/2074839054898606572/photo/1",
+          "media_key": "3_2074839046732292096",
+          "start": 21,
+          "url": "https://t.co/5mxUM540ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074839054898606572",
+    "in_reply_to_user_id": "288074896",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074792535176933519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T1LoL payz be like： https://t.co/5mxUM540ki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2074839046732292096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtPHrqWoAA0xD-.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2074792528935829504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMskz_XawAAHrt9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074839046732292096"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          }
+        ],
+        "conversation_id": "2074792535176933519",
+        "created_at": "2026-07-08T12:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074839054898606572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "288074896",
+              "start": 0,
+              "username": "T1LoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mxUM540ki",
+              "end": 44,
+              "expanded_url": "https://x.com/YongQuan/status/2074839054898606572/photo/1",
+              "media_key": "3_2074839046732292096",
+              "start": 21,
+              "url": "https://t.co/5mxUM540ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074839054898606572",
+        "in_reply_to_user_id": "288074896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792535176933519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T1LoL payz be like： https://t.co/5mxUM540ki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792528935829504"
+          ]
+        },
+        "author_id": "288074896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Nothing is granted. The EWC is a life-changing, 7-week esports event that features the world's best competition.\n\nWatch history unfold from July 6th to August 23rd.",
+              "id": "2064379488012582912",
+              "name": "This is EWC 2026 Paris"
+            }
+          }
+        ],
+        "conversation_id": "2074792535176933519",
+        "created_at": "2026-07-08T09:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074792535176933519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFoODJislE",
+              "end": 189,
+              "expanded_url": "https://x.com/T1LoL/status/2074792535176933519/photo/1",
+              "media_key": "3_2074792528935829504",
+              "start": 166,
+              "url": "https://t.co/RFoODJislE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792535176933519",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 420,
+                "start": 408,
+                "tag": "TogetherAs1"
+              }
+            ]
+          },
+          "text": "𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮, 𝐌𝐒𝐈 𝟐𝟎𝟐𝟔\n\nMSI 2026에서의 여정이 종료되었습니다.\n한국에서의 MSI, 더 좋은 경기력을 보여드리지 못해 아쉬움이 남지만 이번 대회를 발판 삼아 더욱 발전된 모습으로 돌아오겠습니다. 대회 기간 동안 아낌없는 성원과 응원을 보내주신 팬 여러분께 진심으로 감사드립니다.\n\nOur journey at MSI2026 has ended. We were unable to show a better performance here in Korea, but we will use this as a stepping stone to return much stronger. Thank you to all the fans for your passionate support throughout the tournament.\n\n#TogetherAs1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 787306,
+          "like_count": 12271,
+          "quote_count": 2939,
+          "reply_count": 1178,
+          "retweet_count": 2230
+        },
+        "reply_settings": "everyone",
+        "text": "𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮, 𝐌𝐒𝐈 𝟐𝟎𝟐𝟔\n\nMSI 2026에서의 여정이 종료되었습니다.\n한국에서의 MSI, 더 좋은 경기력을 보여드리지 못해 아쉬움이 남지만 이번 대회를 발판 삼아 더욱 발전된 모습으로 돌아오겠습니다. 대회 기간 동안 아낌없는 성원과 응원을 보내주신 팬 여러분께 진심으로 감사드립니다. https://t.co/RFoODJislE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "老婆 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\n\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11059,
+          "following_count": 4704,
+          "like_count": 52046,
+          "listed_count": 37,
+          "media_count": 4913,
+          "tweet_count": 15625
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-26T06:01:59.000Z",
+        "description": "The Official X Page of T1 League of Legends 📩: info@t1.gg 🔗: https://t.co/9LWmRqrB91 #TogetherAs1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 85,
+                "tag": "TogetherAs1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "litt.ly/t1esports",
+                "end": 84,
+                "expanded_url": "https://litt.ly/t1esports",
+                "start": 61,
+                "url": "https://t.co/9LWmRqrB91"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t1.gg",
+                "end": 23,
+                "expanded_url": "http://t1.gg",
+                "start": 0,
+                "url": "https://t.co/PZioYT7EVp"
+              }
+            ]
+          }
+        },
+        "id": "288074896",
+        "location": "Seoul.Korea",
+        "name": "T1 LoL",
+        "pinned_tweet_id": "2070703673420775925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008102129345642497/SxpS8bdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174057,
+          "following_count": 44,
+          "like_count": 1980,
+          "listed_count": 1889,
+          "media_count": 13260,
+          "tweet_count": 20755
+        },
+        "url": "https://t.co/PZioYT7EVp",
+        "username": "T1LoL",
+        "verified": true
+      }
+    ]
+  }
+}

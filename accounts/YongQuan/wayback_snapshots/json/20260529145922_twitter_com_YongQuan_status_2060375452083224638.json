@@ -1,0 +1,1379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1081250443135578112",
+          "name": "Caps"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "@DylanEnvoy",
+          "id": "1091012575100190720",
+          "name": "Envoy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1081250443135578112",
+          "name": "Caps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "G2 (Esports)",
+          "id": "857293696676405248",
+          "name": "G2 Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1081250443135578112",
+          "name": "Caps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "@DylanEnvoy",
+          "id": "1091012575100190720",
+          "name": "Envoy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1198920670849032199",
+          "name": "Minnesota RØKKR"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288168909422518272",
+          "name": "Esports players"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "G2 (Esports)",
+          "id": "857293696676405248",
+          "name": "G2 Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1198920670849032199",
+          "name": "Minnesota RØKKR"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "id": "1081250443135578112",
+          "name": "Caps"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "description": "@DylanEnvoy",
+          "id": "1091012575100190720",
+          "name": "Envoy"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219785936931672064",
+          "name": "Call of Duty League"
+        }
+      }
+    ],
+    "conversation_id": "2060360891292414105",
+    "created_at": "2026-05-29T14:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060375452083224638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1124722303",
+          "start": 0,
+          "username": "G2esports"
+        },
+        {
+          "end": 20,
+          "id": "1597240331048820738",
+          "start": 11,
+          "username": "G2League"
+        },
+        {
+          "end": 28,
+          "id": "2996912843",
+          "start": 21,
+          "username": "G2Caps"
+        },
+        {
+          "end": 36,
+          "id": "1307495740168704001",
+          "start": 29,
+          "username": "ST0MPN"
+        },
+        {
+          "end": 45,
+          "id": "3308277720",
+          "start": 37,
+          "username": "babybay"
+        },
+        {
+          "end": 55,
+          "id": "2660980824",
+          "start": 46,
+          "username": "G2huNter"
+        },
+        {
+          "end": 67,
+          "id": "925159100257849345",
+          "start": 56,
+          "username": "DylanEnvoy"
+        },
+        {
+          "end": 79,
+          "id": "1640323649042276354",
+          "start": 68,
+          "username": "G2Rainbow6"
+        },
+        {
+          "end": 91,
+          "id": "1597201653463191552",
+          "start": 80,
+          "username": "G2VALORANT"
+        },
+        {
+          "end": 99,
+          "id": "1622586990016208904",
+          "start": 92,
+          "username": "G2CSGO"
+        },
+        {
+          "end": 106,
+          "id": "1145702070961496065",
+          "start": 100,
+          "username": "G2CDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060375452083224638",
+    "in_reply_to_user_id": "1124722303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060360891292414105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G2esports @G2League @G2Caps @ST0MPN @babybay @G2huNter @DylanEnvoy @G2Rainbow6 @G2VALORANT @G2CSGO @G2CDL Caps今年会拿到EWC冠军吗😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2060360228999139329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfetkbWEAEQYVQ.jpg",
+        "width": 2856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1081250443135578112",
+              "name": "Caps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@DylanEnvoy",
+              "id": "1091012575100190720",
+              "name": "Envoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1081250443135578112",
+              "name": "Caps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G2 (Esports)",
+              "id": "857293696676405248",
+              "name": "G2 Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1081250443135578112",
+              "name": "Caps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@DylanEnvoy",
+              "id": "1091012575100190720",
+              "name": "Envoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1198920670849032199",
+              "name": "Minnesota RØKKR"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "G2 (Esports)",
+              "id": "857293696676405248",
+              "name": "G2 Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1198920670849032199",
+              "name": "Minnesota RØKKR"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "id": "1081250443135578112",
+              "name": "Caps"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@DylanEnvoy",
+              "id": "1091012575100190720",
+              "name": "Envoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          }
+        ],
+        "conversation_id": "2060360891292414105",
+        "created_at": "2026-05-29T14:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060375452083224638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1124722303",
+              "start": 0,
+              "username": "G2esports"
+            },
+            {
+              "end": 20,
+              "id": "1597240331048820738",
+              "start": 11,
+              "username": "G2League"
+            },
+            {
+              "end": 28,
+              "id": "2996912843",
+              "start": 21,
+              "username": "G2Caps"
+            },
+            {
+              "end": 36,
+              "id": "1307495740168704001",
+              "start": 29,
+              "username": "ST0MPN"
+            },
+            {
+              "end": 45,
+              "id": "3308277720",
+              "start": 37,
+              "username": "babybay"
+            },
+            {
+              "end": 55,
+              "id": "2660980824",
+              "start": 46,
+              "username": "G2huNter"
+            },
+            {
+              "end": 67,
+              "id": "925159100257849345",
+              "start": 56,
+              "username": "DylanEnvoy"
+            },
+            {
+              "end": 79,
+              "id": "1640323649042276354",
+              "start": 68,
+              "username": "G2Rainbow6"
+            },
+            {
+              "end": 91,
+              "id": "1597201653463191552",
+              "start": 80,
+              "username": "G2VALORANT"
+            },
+            {
+              "end": 99,
+              "id": "1622586990016208904",
+              "start": 92,
+              "username": "G2CSGO"
+            },
+            {
+              "end": 106,
+              "id": "1145702070961496065",
+              "start": 100,
+              "username": "G2CDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060375452083224638",
+        "in_reply_to_user_id": "1124722303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060360891292414105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G2esports @G2League @G2Caps @ST0MPN @babybay @G2huNter @DylanEnvoy @G2Rainbow6 @G2VALORANT @G2CSGO @G2CDL Caps今年会拿到EWC冠军吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060360228999139329"
+          ]
+        },
+        "author_id": "1124722303",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "G2 (Esports)",
+              "id": "857293696676405248",
+              "name": "G2 Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "G2 (Esports)",
+              "id": "857293696676405248",
+              "name": "G2 Esports"
+            }
+          }
+        ],
+        "conversation_id": "2060360891292414105",
+        "created_at": "2026-05-29T14:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060360891292414105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZYJFL10nT",
+              "end": 49,
+              "expanded_url": "https://x.com/G2esports/status/2060360891292414105/photo/1",
+              "media_key": "3_2060360228999139329",
+              "start": 26,
+              "url": "https://t.co/vZYJFL10nT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060360891292414105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16127,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "What would this team win? https://t.co/vZYJFL10nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10157,
+          "following_count": 4425,
+          "like_count": 47836,
+          "listed_count": 30,
+          "media_count": 3847,
+          "tweet_count": 13293
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-27T11:04:11.000Z",
+        "description": "The greatest esports org #G2ARMY \n\nFor shop support: support@g2esports.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 25,
+                "tag": "G2ARMY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.g2esports.com/g2xhermanmiller",
+                "end": 23,
+                "expanded_url": "https://go.g2esports.com/g2xhermanmiller",
+                "start": 0,
+                "url": "https://t.co/R51NDVEeKu"
+              }
+            ]
+          }
+        },
+        "id": "1124722303",
+        "location": "G2 HQ - Berlin",
+        "name": "G2 Esports",
+        "pinned_tweet_id": "2057824000047243400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994773835011301376/rt0nsiI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565266,
+          "following_count": 386,
+          "like_count": 86107,
+          "listed_count": 2742,
+          "media_count": 41924,
+          "tweet_count": 106331
+        },
+        "url": "https://t.co/R51NDVEeKu",
+        "username": "G2esports",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T14:46:35.000Z",
+        "description": "Home of @G2esports League of Legends\nLEC Grand Slam Winners 🏆 \nScrim World Champions 🏆\nMeta World Champions 🏆\n9x (Unofficial) World Champions 🏆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          }
+        },
+        "id": "1597240331048820738",
+        "location": "finals (winning)",
+        "name": "G2 League of Legends",
+        "pinned_tweet_id": "2058988564927394036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040366637682159616/focZCPSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141425,
+          "following_count": 140,
+          "like_count": 37647,
+          "listed_count": 230,
+          "media_count": 10526,
+          "tweet_count": 30192
+        },
+        "username": "G2League",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-25T00:17:44.000Z",
+        "description": "Mid laner for @g2esports League partner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "g2esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/CapsMid",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/CapsMid",
+                "start": 0,
+                "url": "https://t.co/nvp7G7wUro"
+              }
+            ]
+          }
+        },
+        "id": "2996912843",
+        "location": "Germany",
+        "name": "Rasmus Winther",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745535708532482048/bJvf2c1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367752,
+          "following_count": 122,
+          "like_count": 593,
+          "listed_count": 884,
+          "media_count": 158,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/nvp7G7wUro",
+        "username": "G2Caps",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T01:44:23.000Z",
+        "description": "@G2Rainbow6 @LILLY0NNA🖤🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "G2Rainbow6"
+              },
+              {
+                "end": 22,
+                "start": 12,
+                "username": "LILLY0NNA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/stompgoat",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/stompgoat",
+                "start": 0,
+                "url": "https://t.co/ewPvxZXrCG"
+              }
+            ]
+          }
+        },
+        "id": "1307495740168704001",
+        "name": "G2 Stompn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760682774091206656/i3BXpXal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80822,
+          "following_count": 532,
+          "like_count": 14932,
+          "listed_count": 22,
+          "media_count": 95,
+          "tweet_count": 4147
+        },
+        "url": "https://t.co/ewPvxZXrCG",
+        "username": "ST0MPN",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-07T01:45:25.000Z",
+        "description": "Valorant Pro @g2esports | Web3 @WayfindersGG | Contact: drewbief6@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "g2esports"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "WayfindersGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/king_babybay",
+                "end": 23,
+                "expanded_url": "http://link.me/king_babybay",
+                "start": 0,
+                "url": "https://t.co/wLmrYZlsYz"
+              }
+            ]
+          }
+        },
+        "id": "3308277720",
+        "location": "Los Angeles, CA",
+        "name": "G2 BABYBAY",
+        "pinned_tweet_id": "1290771654382096384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976744545057665024/vBL0Gbbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95491,
+          "following_count": 3578,
+          "like_count": 83848,
+          "listed_count": 325,
+          "media_count": 869,
+          "tweet_count": 14576
+        },
+        "url": "https://t.co/wLmrYZlsYz",
+        "username": "babybay",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-19T23:51:30.000Z",
+        "description": "CS Captain for @G2CSGO @G2Esports #G2ARMY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "G2ARMY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "G2CSGO"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "G2Esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kovachunter",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/kovachunter",
+                "start": 0,
+                "url": "https://t.co/0eqmhtHszE"
+              }
+            ]
+          }
+        },
+        "id": "2660980824",
+        "location": "Bosnia and Herzegovina",
+        "name": "Nemanja Kovac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879459394682798080/enlvfPRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130738,
+          "following_count": 468,
+          "like_count": 7908,
+          "listed_count": 478,
+          "media_count": 306,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/0eqmhtHszE",
+        "username": "G2huNter",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-31T00:34:52.000Z",
+        "description": "CoD World Champion | @G2esports",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "G2esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCbJ9e…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCbJ9eoPLLBAy6lvg1LHY2Fw",
+                "start": 0,
+                "url": "https://t.co/7Gj7kzPDya"
+              }
+            ]
+          }
+        },
+        "id": "925159100257849345",
+        "location": "Dallas, TX",
+        "name": "G2 Envoy",
+        "pinned_tweet_id": "1373796183890608135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018745528947810304/fH24xXj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191872,
+          "following_count": 1534,
+          "like_count": 20066,
+          "listed_count": 535,
+          "media_count": 682,
+          "tweet_count": 4312
+        },
+        "url": "https://t.co/7Gj7kzPDya",
+        "username": "DylanEnvoy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T12:05:21.000Z",
+        "description": "Home of @G2Esports Rainbow Six Siege. #G24RMY\n🏆 Six Invitational 2019 Champions\n🏆 Six Invitational 2023 Champions",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "G24RMY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2Esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g2esports.com",
+                "end": 23,
+                "expanded_url": "https://g2esports.com/",
+                "start": 0,
+                "url": "https://t.co/OVZelfWo2g"
+              }
+            ]
+          }
+        },
+        "id": "1640323649042276354",
+        "location": "Content kingdom",
+        "name": "G2 Rainbow Six",
+        "pinned_tweet_id": "2044891931973505244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954263523028094976/ypsmexrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25283,
+          "following_count": 54,
+          "like_count": 2420,
+          "listed_count": 20,
+          "media_count": 1613,
+          "tweet_count": 3881
+        },
+        "url": "https://t.co/OVZelfWo2g",
+        "username": "G2Rainbow6",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T12:12:43.000Z",
+        "description": "Home of @G2esports VALORANT and G2 Gozen. #G2ARMY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "G2ARMY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/g2esports",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/g2esports",
+                "start": 0,
+                "url": "https://t.co/xJK4JTN4U9"
+              }
+            ]
+          }
+        },
+        "id": "1597201653463191552",
+        "location": "OVERSEAS",
+        "name": "G2 VALORANT",
+        "pinned_tweet_id": "2059334100570288315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035112779364147202/A-PEloXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84140,
+          "following_count": 81,
+          "like_count": 14086,
+          "listed_count": 124,
+          "media_count": 8788,
+          "tweet_count": 20899
+        },
+        "url": "https://t.co/xJK4JTN4U9",
+        "username": "G2VALORANT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T13:24:46.000Z",
+        "description": "Home of @G2esports Counter-Strike. #G2ARMY\nNow actually winning trophies (sometimes) 🏆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "G2ARMY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          }
+        },
+        "id": "1622586990016208904",
+        "location": "G2 HQ - Berlin",
+        "name": "G2 CS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008916313800892417/aPqX4abH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159563,
+          "following_count": 88,
+          "like_count": 13293,
+          "listed_count": 228,
+          "media_count": 6419,
+          "tweet_count": 14154
+        },
+        "username": "G2CSGO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-01T14:33:54.000Z",
+        "description": "Home of @G2esports Call of Duty. #G2ARMY\n\nSpecializing in going to Game 5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "G2ARMY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g2esports.com",
+                "end": 23,
+                "expanded_url": "https://g2esports.com/",
+                "start": 0,
+                "url": "https://t.co/7c0xSTpyeU"
+              }
+            ]
+          }
+        },
+        "id": "1145702070961496065",
+        "location": "Minnesota, USA",
+        "name": "G2 Minnesota",
+        "pinned_tweet_id": "1999570021954343140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980379297392013312/C8x8C_kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97891,
+          "following_count": 142,
+          "like_count": 25583,
+          "listed_count": 515,
+          "media_count": 8767,
+          "tweet_count": 41022
+        },
+        "url": "https://t.co/7c0xSTpyeU",
+        "username": "G2CDL",
+        "verified": true
+      }
+    ]
+  }
+}

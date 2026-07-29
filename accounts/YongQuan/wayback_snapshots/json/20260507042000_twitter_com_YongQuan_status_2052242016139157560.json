@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492293504529166341",
+          "name": "Games media"
+        }
+      }
+    ],
+    "conversation_id": "2051986689535459548",
+    "created_at": "2026-05-07T04:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052242016139157560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "76766018",
+          "start": 0,
+          "username": "Dexerto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052242016139157560",
+    "in_reply_to_user_id": "76766018",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051986689535459548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dexerto He is only 21 years old. It‘s a pity. rip🕯️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_2051986683424366593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHofBEVXYAEz0Lw.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2051986687400546310",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHofBTJXEAYio7u.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "2051986689535459548",
+        "created_at": "2026-05-07T04:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052242016139157560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "76766018",
+              "start": 0,
+              "username": "Dexerto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052242016139157560",
+        "in_reply_to_user_id": "76766018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051986689535459548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dexerto He is only 21 years old. It‘s a pity. rip🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051986683424366593",
+            "3_2051986687400546310"
+          ]
+        },
+        "author_id": "76766018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Team SoloMid (Esports)",
+              "id": "871544327087939584",
+              "name": "TSM FTX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Team SoloMid (Esports)",
+              "id": "871544327087939584",
+              "name": "TSM FTX"
+            }
+          }
+        ],
+        "conversation_id": "2051986689535459548",
+        "created_at": "2026-05-06T11:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051986689535459548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEqZU5yWh3",
+              "end": 176,
+              "expanded_url": "https://x.com/Dexerto/status/2051986689535459548/photo/1",
+              "media_key": "3_2051986683424366593",
+              "start": 153,
+              "url": "https://t.co/qEqZU5yWh3"
+            },
+            {
+              "display_url": "pic.x.com/qEqZU5yWh3",
+              "end": 176,
+              "expanded_url": "https://x.com/Dexerto/status/2051986689535459548/photo/1",
+              "media_key": "3_2051986687400546310",
+              "start": 153,
+              "url": "https://t.co/qEqZU5yWh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051986689535459548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3017,
+          "impression_count": 3909578,
+          "like_count": 69392,
+          "quote_count": 234,
+          "reply_count": 577,
+          "retweet_count": 1741
+        },
+        "reply_settings": "everyone",
+        "text": "Valorant pro player Tyler 'sym' Porter has died aged 21, following a car accident\n\nThe former TSM player's friend Austen was also killed in the incident https://t.co/qEqZU5yWh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9455,
+          "following_count": 4203,
+          "like_count": 44594,
+          "listed_count": 29,
+          "media_count": 3204,
+          "tweet_count": 11780
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-23T21:44:53.000Z",
+        "description": "The leading source for influencer, streamer, gaming, and viral content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dexerto.com",
+                "end": 23,
+                "expanded_url": "https://www.dexerto.com/",
+                "start": 0,
+                "url": "https://t.co/2So9UX8reR"
+              }
+            ]
+          }
+        },
+        "id": "76766018",
+        "location": "press[at]dexerto.com",
+        "name": "Dexerto",
+        "pinned_tweet_id": "2052060873380823077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714301666445402112/5U5myYFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346634,
+          "following_count": 956,
+          "like_count": 6837,
+          "listed_count": 3629,
+          "media_count": 60240,
+          "tweet_count": 137194
+        },
+        "url": "https://t.co/2So9UX8reR",
+        "username": "Dexerto",
+        "verified": true
+      }
+    ]
+  }
+}

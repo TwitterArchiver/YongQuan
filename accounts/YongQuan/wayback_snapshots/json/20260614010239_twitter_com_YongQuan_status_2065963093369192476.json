@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2065772963425878097",
+    "created_at": "2026-06-14T01:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065963093369192476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 27,
+          "id": "1368897611672018953",
+          "start": 17,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 37,
+          "id": "2033504930707996672",
+          "start": 28,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 44,
+          "id": "1908086926391033856",
+          "start": 38,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065963093369192476",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065869188590383222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina @XUEQIUxka @Xyliaxka @yqua_ 你来😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2065772963425878097",
+        "created_at": "2026-06-14T01:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065963093369192476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 27,
+              "id": "1368897611672018953",
+              "start": 17,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 37,
+              "id": "2033504930707996672",
+              "start": 28,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 44,
+              "id": "1908086926391033856",
+              "start": 38,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065963093369192476",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065869188590383222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @XUEQIUxka @Xyliaxka @yqua_ 你来😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2065772963425878097",
+        "created_at": "2026-06-13T18:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065869188590383222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 30,
+              "id": "2033504930707996672",
+              "start": 21,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 37,
+              "id": "1908086926391033856",
+              "start": 31,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065869188590383222",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065773150802157876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @XUEQIUxka @Xyliaxka @yqua_ 飘过来看一眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10626,
+          "following_count": 4540,
+          "like_count": 50034,
+          "listed_count": 35,
+          "media_count": 4257,
+          "tweet_count": 14218
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "跨女同//心灵认同是一片飘落世间的云//行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//@eztakesin 我最好的搭档！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨🌈摇光星辰⭐云深不知处🏳️‍⚧️✨",
+        "pinned_tweet_id": "2064446792272658914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1149,
+          "like_count": 3968,
+          "listed_count": 7,
+          "media_count": 686,
+          "tweet_count": 5584
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9135,
+          "following_count": 2386,
+          "like_count": 31982,
+          "listed_count": 26,
+          "media_count": 1947,
+          "tweet_count": 6054
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的日常\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka\n雪球的号：@XUEQIUsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "❤️@xyliaxka｜Coach｜Enby.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "xyliaxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 846,
+          "like_count": 11281,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 617
+        },
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

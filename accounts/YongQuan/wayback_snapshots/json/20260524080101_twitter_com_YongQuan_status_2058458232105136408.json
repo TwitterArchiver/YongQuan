@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058458232105136408",
+    "created_at": "2026-05-24T08:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058458232105136408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798675759038603264",
+          "start": 3,
+          "username": "leyu37829"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2058…",
+          "end": 38,
+          "expanded_url": "http://x.com/i/article/2058439236253298688",
+          "start": 15,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2058439236253298688",
+          "url": "https://t.co/xI8yJlFbtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058458232105136408",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058451072721551770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leyu37829: https://t.co/xI8yJlFbtd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058458232105136408",
+        "created_at": "2026-05-24T08:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058458232105136408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798675759038603264",
+              "start": 3,
+              "username": "leyu37829"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 38,
+              "expanded_url": "http://x.com/i/article/2058439236253298688",
+              "start": 15,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058439236253298688",
+              "url": "https://t.co/xI8yJlFbtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058458232105136408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058451072721551770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leyu37829: https://t.co/xI8yJlFbtd"
+      },
+      {
+        "article": {
+          "title": "SpaceX星舰第12次试飞，彻底改写人类航天史,太空旅游仅需几百美元"
+        },
+        "attachments": {},
+        "author_id": "1798675759038603264",
+        "conversation_id": "2058451072721551770",
+        "created_at": "2026-05-24T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058451072721551770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2058439236253298688",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058439236253298688",
+              "url": "https://t.co/xI8yJlFbtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058451072721551770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xI8yJlFbtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n家暴党MtX🏳️‍⚧️｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10033,
+          "following_count": 4388,
+          "like_count": 47236,
+          "listed_count": 31,
+          "media_count": 3713,
+          "tweet_count": 13027
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T11:18:33.000Z",
+        "description": "🎨艺术生玩AI | 营销策略师 | 数据分析师\n🎰AI炒股 | 投资有道 | AI分析大数据\n☯️身心灵疗愈赛道创业者（招合伙人）\n㊙️天赋解读 | 金钱卡点 | 家族因果\n📽人生系统迭代 | 人生因果系统创始人",
+        "id": "1798675759038603264",
+        "location": "Petronas Twin Towers",
+        "name": "乐鱼Joyfish",
+        "pinned_tweet_id": "2042484124343288263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023318965557358593/HIYtEGc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 430,
+          "like_count": 1098,
+          "listed_count": 13,
+          "media_count": 1159,
+          "tweet_count": 6489
+        },
+        "username": "leyu37829",
+        "verified": true
+      }
+    ]
+  }
+}

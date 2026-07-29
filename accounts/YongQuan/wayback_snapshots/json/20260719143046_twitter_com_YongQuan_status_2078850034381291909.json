@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078835742877307039",
+    "created_at": "2026-07-19T14:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078850034381291909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1443345798402506756",
+          "start": 0,
+          "username": "tttttyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078850034381291909",
+    "in_reply_to_user_id": "1443345798402506756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078835742877307039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttyuc 369吧😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2078835739769327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmCF1dWUAAKkZA.jpg",
+        "width": 1206
+      },
+      {
+        "height": 660,
+        "media_key": "3_2078835739748454400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmCF1YX0AA0Iv6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078835742877307039",
+        "created_at": "2026-07-19T14:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078850034381291909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443345798402506756",
+              "start": 0,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078850034381291909",
+        "in_reply_to_user_id": "1443345798402506756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078835742877307039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttyuc 369吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078835739769327616",
+            "3_2078835739748454400"
+          ]
+        },
+        "author_id": "1443345798402506756",
+        "conversation_id": "2078835742877307039",
+        "created_at": "2026-07-19T13:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078835742877307039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz6GqBhPVd",
+              "end": 258,
+              "expanded_url": "https://x.com/tttttyuc/status/2078835742877307039/photo/1",
+              "media_key": "3_2078835739769327616",
+              "start": 235,
+              "url": "https://t.co/Mz6GqBhPVd"
+            },
+            {
+              "display_url": "pic.x.com/Mz6GqBhPVd",
+              "end": 258,
+              "expanded_url": "https://x.com/tttttyuc/status/2078835742877307039/photo/1",
+              "media_key": "3_2078835739748454400",
+              "start": 235,
+              "url": "https://t.co/Mz6GqBhPVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078835742877307039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10365,
+          "like_count": 221,
+          "quote_count": 39,
+          "reply_count": 7,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "[Rumor] After recent loss, BLG team environment hasn’t been great and the org is considering signing a new top laner to rotate with Bin. Currently, the choice is between HOYA and 369. But Bin himself hasn’t thought through it clearly. https://t.co/Mz6GqBhPVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11135,
+          "following_count": 4742,
+          "like_count": 52501,
+          "listed_count": 38,
+          "media_count": 5235,
+          "tweet_count": 16119
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-29T22:44:04.000Z",
+        "description": "CN/EN, 22JDG/23BLG/ZOFGK/23OMG, LEC LCS enjoyer, She/her/hers",
+        "id": "1443345798402506756",
+        "name": "Yuuu - lifeitsfkingmove",
+        "pinned_tweet_id": "2076553081995800958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987675060681973760/peun9lwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16696,
+          "following_count": 668,
+          "like_count": 96424,
+          "listed_count": 53,
+          "media_count": 8554,
+          "tweet_count": 51681
+        },
+        "url": "",
+        "username": "tttttyuc",
+        "verified": false
+      }
+    ]
+  }
+}

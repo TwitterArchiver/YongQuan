@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066172538284388352"
+      ],
+      "media_source_tweet_id": [
+        "2066172552603697486"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066173287617446385",
+    "created_at": "2026-06-14T14:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066173287617446385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "940931345001299970",
+          "start": 3,
+          "username": "pxwwu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gna8hsLpc",
+          "end": 41,
+          "expanded_url": "https://x.com/pxwwu_chan/status/2066172552603697486/photo/1",
+          "media_key": "3_2066172538284388352",
+          "start": 18,
+          "url": "https://t.co/9gna8hsLpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066173287617446385",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066172552603697486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pxwwu_chan: 😋 https://t.co/9gna8hsLpc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066172538284388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyE-f0bsAAvAgU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066172538284388352"
+          ],
+          "media_source_tweet_id": [
+            "2066172552603697486"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066173287617446385",
+        "created_at": "2026-06-14T14:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066173287617446385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "940931345001299970",
+              "start": 3,
+              "username": "pxwwu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gna8hsLpc",
+              "end": 41,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2066172552603697486/photo/1",
+              "media_key": "3_2066172538284388352",
+              "start": 18,
+              "url": "https://t.co/9gna8hsLpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066173287617446385",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066172552603697486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pxwwu_chan: 😋 https://t.co/9gna8hsLpc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066172538284388352"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066172552603697486",
+        "created_at": "2026-06-14T14:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066172552603697486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gna8hsLpc",
+              "end": 25,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2066172552603697486/photo/1",
+              "media_key": "3_2066172538284388352",
+              "start": 2,
+              "url": "https://t.co/9gna8hsLpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066172552603697486",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/9gna8hsLpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "#MSI2026\n日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "MSI2026"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "yqua_"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10636,
+          "following_count": 4548,
+          "like_count": 50144,
+          "listed_count": 35,
+          "media_count": 4272,
+          "tweet_count": 14257
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12597,
+          "following_count": 3127,
+          "like_count": 176756,
+          "listed_count": 43,
+          "media_count": 3737,
+          "tweet_count": 18219
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

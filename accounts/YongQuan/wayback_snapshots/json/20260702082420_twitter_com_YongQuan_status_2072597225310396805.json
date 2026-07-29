@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072330411443990528",
+        "3_2072330411880185856"
+      ],
+      "media_source_tweet_id": [
+        "2072330414824325208",
+        "2072330414824325208"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072597225310396805",
+    "created_at": "2026-07-02T08:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072597225310396805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033504930707996672",
+          "start": 3,
+          "username": "Xyliaxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULlnLiXax4",
+          "end": 85,
+          "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+          "media_key": "3_2072330411443990528",
+          "start": 62,
+          "url": "https://t.co/ULlnLiXax4"
+        },
+        {
+          "display_url": "pic.x.com/ULlnLiXax4",
+          "end": 85,
+          "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+          "media_key": "3_2072330411880185856",
+          "start": 62,
+          "url": "https://t.co/ULlnLiXax4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072597225310396805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072330414824325208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xyliaxka: 补档\n说个好笑的\n我已经手术完大半年了，北医三院最近才告诉我可以开始过伦理了，你们北京效率真高 https://t.co/ULlnLiXax4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2072330411443990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJlh49bsAAZzog.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072330411880185856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJlh6lbgAAvQtS.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072330411443990528",
+            "3_2072330411880185856"
+          ],
+          "media_source_tweet_id": [
+            "2072330414824325208",
+            "2072330414824325208"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072597225310396805",
+        "created_at": "2026-07-02T08:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072597225310396805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033504930707996672",
+              "start": 3,
+              "username": "Xyliaxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULlnLiXax4",
+              "end": 85,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+              "media_key": "3_2072330411443990528",
+              "start": 62,
+              "url": "https://t.co/ULlnLiXax4"
+            },
+            {
+              "display_url": "pic.x.com/ULlnLiXax4",
+              "end": 85,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+              "media_key": "3_2072330411880185856",
+              "start": 62,
+              "url": "https://t.co/ULlnLiXax4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072597225310396805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072330414824325208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xyliaxka: 补档\n说个好笑的\n我已经手术完大半年了，北医三院最近才告诉我可以开始过伦理了，你们北京效率真高 https://t.co/ULlnLiXax4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072330411443990528",
+            "3_2072330411880185856"
+          ]
+        },
+        "author_id": "2033504930707996672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072330414824325208",
+        "created_at": "2026-07-01T14:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072330414824325208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULlnLiXax4",
+              "end": 71,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+              "media_key": "3_2072330411443990528",
+              "start": 48,
+              "url": "https://t.co/ULlnLiXax4"
+            },
+            {
+              "display_url": "pic.x.com/ULlnLiXax4",
+              "end": 71,
+              "expanded_url": "https://x.com/Xyliaxka/status/2072330414824325208/photo/1",
+              "media_key": "3_2072330411880185856",
+              "start": 48,
+              "url": "https://t.co/ULlnLiXax4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072330414824325208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4858,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "补档\n说个好笑的\n我已经手术完大半年了，北医三院最近才告诉我可以开始过伦理了，你们北京效率真高 https://t.co/ULlnLiXax4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10993,
+          "following_count": 4678,
+          "like_count": 51605,
+          "listed_count": 36,
+          "media_count": 4747,
+          "tweet_count": 15317
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "location": "欢迎访问我的网页↓",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 5,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true
+      }
+    ]
+  }
+}

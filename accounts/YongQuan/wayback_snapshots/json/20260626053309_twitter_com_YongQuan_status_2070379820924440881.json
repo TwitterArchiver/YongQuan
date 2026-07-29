@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2070164091243819053",
+    "created_at": "2026-06-26T05:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070379820924440881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1304953938320306176",
+          "start": 0,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070379820924440881",
+    "in_reply_to_user_id": "1304953938320306176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070164091243819053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hry_xsu 我对象也用……其实一点事情都没有\n有点传的太邪乎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2070164091243819053",
+        "created_at": "2026-06-26T05:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070379820924440881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070379820924440881",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070164091243819053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu 我对象也用……其实一点事情都没有\n有点传的太邪乎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304953938320306176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2070164091243819053",
+        "created_at": "2026-06-25T15:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070164091243819053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070164091243819053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2753,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以证明一点：\n华为翻墙没那么恐怖\n因为我在我爹手机上看到了tg……\n一部mate80 pro，大概是鸿蒙4.3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10827,
+          "following_count": 4644,
+          "like_count": 51293,
+          "listed_count": 34,
+          "media_count": 4590,
+          "tweet_count": 15029
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry \nen&zh | 💻笔电爱好者 | R6 | 无糖 | 女装 | 地雷系 | 🏳️‍🌈LGBTQ+friendly\n好朋友@wxb_NB @qusuunmd @XUEQIUxka @CuteCatGYH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "qusuunmd"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "CuteCatGYH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 411,
+          "like_count": 55888,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

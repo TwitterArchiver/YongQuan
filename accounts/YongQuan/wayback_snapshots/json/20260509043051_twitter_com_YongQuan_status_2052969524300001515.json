@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052418179100524667",
+    "created_at": "2026-05-09T04:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052969524300001515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537602939409551360",
+          "start": 0,
+          "username": "DarkChef_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052969524300001515",
+    "in_reply_to_user_id": "1537602939409551360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052735923956461758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkChef_01 羡慕大佬😭\n\n所以这个怎么吃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052418179100524667",
+        "created_at": "2026-05-09T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052969524300001515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537602939409551360",
+              "start": 0,
+              "username": "DarkChef_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052969524300001515",
+        "in_reply_to_user_id": "1537602939409551360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052735923956461758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkChef_01 羡慕大佬😭\n\n所以这个怎么吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537602939409551360",
+        "conversation_id": "2052418179100524667",
+        "created_at": "2026-05-08T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052735923956461758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052735923956461758",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052418179100524667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 这玩意我当时整活做的发群里玩的，怎么还在传，要哭了😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9576,
+          "following_count": 4205,
+          "like_count": 44695,
+          "listed_count": 28,
+          "media_count": 3254,
+          "tweet_count": 11894
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-17T01:08:15.000Z",
+        "description": "🔞R18G预警（小众xp，与现实无关）\n02男S 刑主| 分享日常｜约会交友 |投稿曝光｜欢迎交流｜不接推广\n打招呼自我介绍，请表明来意，说清自己喜好，想尝试的玩法\np站账号 https://t.co/ImIwtCkFeG\n电报群 https://t.co/r3YF1zBHV8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/82177300",
+                "end": 111,
+                "expanded_url": "https://www.pixiv.net/users/82177300",
+                "start": 88,
+                "url": "https://t.co/ImIwtCkFeG"
+              },
+              {
+                "display_url": "t.me/+mOFES0-azuQzZ…",
+                "end": 139,
+                "expanded_url": "https://t.me/+mOFES0-azuQzZDBl",
+                "start": 116,
+                "url": "https://t.co/r3YF1zBHV8"
+              }
+            ]
+          }
+        },
+        "id": "1537602939409551360",
+        "location": "安徽",
+        "name": "黑厨 DARK CHEF",
+        "pinned_tweet_id": "2051278504302629050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004472355402489856/od2EUhJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11089,
+          "following_count": 3191,
+          "like_count": 8249,
+          "listed_count": 45,
+          "media_count": 200,
+          "tweet_count": 1042
+        },
+        "username": "DarkChef_01",
+        "verified": false
+      }
+    ]
+  }
+}

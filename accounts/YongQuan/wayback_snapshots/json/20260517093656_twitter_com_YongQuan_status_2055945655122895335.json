@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055936366618521724",
+    "created_at": "2026-05-17T09:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055945655122895335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749379104032649216",
+          "start": 0,
+          "username": "114514kaeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055945655122895335",
+    "in_reply_to_user_id": "1749379104032649216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055941345198665783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514kaeri 看看69（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055936366618521724",
+        "created_at": "2026-05-17T09:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055945655122895335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749379104032649216",
+              "start": 0,
+              "username": "114514kaeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055945655122895335",
+        "in_reply_to_user_id": "1749379104032649216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055941345198665783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514kaeri 看看69（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749379104032649216",
+        "conversation_id": "2055936366618521724",
+        "created_at": "2026-05-17T09:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055941345198665783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941345198665783",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055936366618521724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 我的才是69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9857,
+          "following_count": 4269,
+          "like_count": 45766,
+          "listed_count": 30,
+          "media_count": 3459,
+          "tweet_count": 12400
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T10:31:41.000Z",
+        "description": "我是一个华人，喜欢在各种方面考虑问题，全面思考，实用主义者，讨厌封建思想，讨厌二极管，喜歡研究心理，清真饮食，厌蠢症",
+        "id": "1749379104032649216",
+        "name": "藤原楽進",
+        "pinned_tweet_id": "1853807359941808317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054374713842130944/NT4gmCk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 280,
+          "like_count": 5472,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 3271
+        },
+        "username": "114514kaeri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2061305488105783496",
+    "created_at": "2026-06-02T19:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061898396764680296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1261051528061861888",
+          "start": 0,
+          "username": "vru8JvwdzpO909i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061898396764680296",
+    "in_reply_to_user_id": "1261051528061861888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061885429452775832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vru8JvwdzpO909i 有没有一种可能我是天津人我也吃🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2061305488105783496",
+        "created_at": "2026-06-02T19:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061898396764680296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261051528061861888",
+              "start": 0,
+              "username": "vru8JvwdzpO909i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061898396764680296",
+        "in_reply_to_user_id": "1261051528061861888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061885429452775832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vru8JvwdzpO909i 有没有一种可能我是天津人我也吃🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261051528061861888",
+        "conversation_id": "2061305488105783496",
+        "created_at": "2026-06-02T18:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061885429452775832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061885429452775832",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061305488105783496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 别的我不说，喜欢吃海鲜招你惹你了？海边城市长大的孩子不能喜欢吃海鲜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme和亮点内容｜#LPL\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "LPL"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10395,
+          "following_count": 4457,
+          "like_count": 48171,
+          "listed_count": 31,
+          "media_count": 3953,
+          "tweet_count": 13504
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-14T21:51:38.000Z",
+        "description": "累了，随缘营业吧，看缘分🇮🇹",
+        "id": "1261051528061861888",
+        "name": "色即是空 我就是空",
+        "pinned_tweet_id": "1607343017882533888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327997823741284353/KdS22KIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 239,
+          "like_count": 9102,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1564
+        },
+        "username": "vru8JvwdzpO909i",
+        "verified": false
+      }
+    ]
+  }
+}

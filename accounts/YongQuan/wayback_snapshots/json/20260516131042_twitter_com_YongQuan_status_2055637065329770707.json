@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2055637065329770707",
+    "created_at": "2026-05-16T13:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055637065329770707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040423313231740928",
+          "start": 3,
+          "username": "Misaki11137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055637065329770707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055637007997796785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaki11137: 只要路过三崎奶茶店（鹰潭总店）都可以来我这里免费喝一杯奶茶啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055637065329770707",
+        "created_at": "2026-05-16T13:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055637065329770707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040423313231740928",
+              "start": 3,
+              "username": "Misaki11137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055637065329770707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055637007997796785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaki11137: 只要路过三崎奶茶店（鹰潭总店）都可以来我这里免费喝一杯奶茶啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040423313231740928",
+        "conversation_id": "2055637007997796785",
+        "created_at": "2026-05-16T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055637007997796785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055637007997796785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只要路过三崎奶茶店（鹰潭总店）都可以来我这里免费喝一杯奶茶啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9844,
+          "following_count": 4268,
+          "like_count": 45651,
+          "listed_count": 30,
+          "media_count": 3433,
+          "tweet_count": 12341
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T13:38:07.000Z",
+        "description": "三崎，已经累了，这是第十个号了88/188🚪是一条🐟，放过我这个可怜无辜的精神病小女孩吧 世界上最喜欢的妈咪 @8964_Y ❤️ 广州南昌，接线下，出各种蝴蝶标本装饰，好吃的阿片",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "2040423313231740928",
+        "name": "三崎（永远漂泊版）",
+        "pinned_tweet_id": "2053872517002183000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040426683560529921/zC8v7pqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 294,
+          "like_count": 2421,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 671
+        },
+        "username": "Misaki11137",
+        "verified": false
+      }
+    ]
+  }
+}

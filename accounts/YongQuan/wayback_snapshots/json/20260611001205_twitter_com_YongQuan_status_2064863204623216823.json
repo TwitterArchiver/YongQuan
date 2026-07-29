@@ -1,0 +1,765 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064807231347146752"
+      ],
+      "media_source_tweet_id": [
+        "2064807332778070394"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1366454810371743744",
+          "name": "VALORANT Champions Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1366454810371743744",
+          "name": "VALORANT Champions Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+          "id": "1694474463650230272",
+          "name": "VALORANT Champions 2023"
+        }
+      }
+    ],
+    "conversation_id": "2064863204623216823",
+    "created_at": "2026-06-11T00:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064863204623216823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 77,
+          "tag": "VALORANTMasters"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1231020013227671553",
+          "start": 3,
+          "username": "ValorantEsports"
+        },
+        {
+          "end": 54,
+          "id": "1876937236886986752",
+          "start": 41,
+          "username": "XLG_Valorant"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bodZJP6zv",
+          "end": 125,
+          "expanded_url": "https://x.com/ValorantEsports/status/2064807332778070394/photo/1",
+          "media_key": "3_2064807231347146752",
+          "start": 102,
+          "url": "https://t.co/1bodZJP6zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064863204623216823",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064807332778070394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValorantEsports: LAST SPOT SECURED!\n\n@XLG_Valorant are Playoffs bound at #VALORANTMasters London! https://t.co/1bodZJP6zv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2064807231347146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKerPLIawAAu7S_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064807231347146752"
+          ],
+          "media_source_tweet_id": [
+            "2064807332778070394"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "2064863204623216823",
+        "created_at": "2026-06-11T00:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064863204623216823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 77,
+              "tag": "VALORANTMasters"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1231020013227671553",
+              "start": 3,
+              "username": "ValorantEsports"
+            },
+            {
+              "end": 54,
+              "id": "1876937236886986752",
+              "start": 41,
+              "username": "XLG_Valorant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bodZJP6zv",
+              "end": 125,
+              "expanded_url": "https://x.com/ValorantEsports/status/2064807332778070394/photo/1",
+              "media_key": "3_2064807231347146752",
+              "start": 102,
+              "url": "https://t.co/1bodZJP6zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064863204623216823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064807332778070394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValorantEsports: LAST SPOT SECURED!\n\n@XLG_Valorant are Playoffs bound at #VALORANTMasters London! https://t.co/1bodZJP6zv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064807231347146752"
+          ]
+        },
+        "author_id": "1231020013227671553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2064807332778070394",
+        "created_at": "2026-06-10T20:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064807332778070394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 56,
+              "tag": "VALORANTMasters"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1876937236886986752",
+              "start": 20,
+              "username": "XLG_Valorant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bodZJP6zv",
+              "end": 104,
+              "expanded_url": "https://x.com/ValorantEsports/status/2064807332778070394/photo/1",
+              "media_key": "3_2064807231347146752",
+              "start": 81,
+              "url": "https://t.co/1bodZJP6zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064807332778070394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14478,
+          "like_count": 323,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "LAST SPOT SECURED!\n\n@XLG_Valorant are Playoffs bound at #VALORANTMasters London! https://t.co/1bodZJP6zv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10605,
+          "following_count": 4531,
+          "like_count": 49527,
+          "listed_count": 32,
+          "media_count": 4171,
+          "tweet_count": 13978
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-22T00:57:09.000Z",
+        "description": "The source for all things @VALORANT Champions Tour, all the time. #VCT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "VCT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/valorantesports",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/valorantesports",
+                "start": 0,
+                "url": "https://t.co/msIK4ve2I8"
+              }
+            ]
+          }
+        },
+        "id": "1231020013227671553",
+        "location": "Worldwide",
+        "name": "VALORANT Champions Tour",
+        "pinned_tweet_id": "2064817271365919223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060016311410061312/4IxsxpIK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789876,
+          "following_count": 454,
+          "like_count": 9047,
+          "listed_count": 1624,
+          "media_count": 16836,
+          "tweet_count": 29366
+        },
+        "url": "https://t.co/msIK4ve2I8",
+        "username": "ValorantEsports",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-08T10:21:38.000Z",
+        "description": "Official account of Xi Lai Gaming - Professional @VALORANT esports team in #VCTCN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "VCTCN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "VALORANT"
+              }
+            ]
+          }
+        },
+        "id": "1876937236886986752",
+        "name": "Xi Lai Gaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876937453950648320/Do-8VwOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 28,
+          "like_count": 42,
+          "listed_count": 8,
+          "media_count": 27,
+          "tweet_count": 39
+        },
+        "username": "XLG_Valorant",
+        "verified": false
+      }
+    ]
+  }
+}

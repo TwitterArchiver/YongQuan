@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067872608125923328",
+        "3_2067872608197242880"
+      ],
+      "media_source_tweet_id": [
+        "2067872621254042039",
+        "2067872621254042039"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067874237134885325",
+    "created_at": "2026-06-19T07:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067874237134885325"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "找对象"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "美女"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "甜妹"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "bbw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1891744003823108097",
+          "start": 3,
+          "username": "xiaomianya521"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zEMdWTOltW",
+          "end": 96,
+          "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+          "media_key": "3_2067872608125923328",
+          "start": 73,
+          "url": "https://t.co/zEMdWTOltW"
+        },
+        {
+          "display_url": "pic.x.com/zEMdWTOltW",
+          "end": 96,
+          "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+          "media_key": "3_2067872608197242880",
+          "start": 73,
+          "url": "https://t.co/zEMdWTOltW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067874237134885325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067872621254042039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomianya521: 找对象，顺直除外 其他的私聊！！喜欢的滴滴 最近头发换换色了！（新色)\n#找对象 #美女 #甜妹 #bbw https://t.co/zEMdWTOltW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067872608125923328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKPLlgbMAA7hyF.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2067872608197242880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKPLlxbcAA9b3W.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067872608125923328",
+            "3_2067872608197242880"
+          ],
+          "media_source_tweet_id": [
+            "2067872621254042039",
+            "2067872621254042039"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067874237134885325",
+        "created_at": "2026-06-19T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067874237134885325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "找对象"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "美女"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "甜妹"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "bbw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1891744003823108097",
+              "start": 3,
+              "username": "xiaomianya521"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEMdWTOltW",
+              "end": 96,
+              "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+              "media_key": "3_2067872608125923328",
+              "start": 73,
+              "url": "https://t.co/zEMdWTOltW"
+            },
+            {
+              "display_url": "pic.x.com/zEMdWTOltW",
+              "end": 96,
+              "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+              "media_key": "3_2067872608197242880",
+              "start": 73,
+              "url": "https://t.co/zEMdWTOltW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067874237134885325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067872621254042039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomianya521: 找对象，顺直除外 其他的私聊！！喜欢的滴滴 最近头发换换色了！（新色)\n#找对象 #美女 #甜妹 #bbw https://t.co/zEMdWTOltW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067872608125923328",
+            "3_2067872608197242880"
+          ]
+        },
+        "author_id": "1891744003823108097",
+        "conversation_id": "2067872621254042039",
+        "created_at": "2026-06-19T07:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067872621254042039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "找对象"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "美女"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "甜妹"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "bbw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEMdWTOltW",
+              "end": 77,
+              "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+              "media_key": "3_2067872608125923328",
+              "start": 54,
+              "url": "https://t.co/zEMdWTOltW"
+            },
+            {
+              "display_url": "pic.x.com/zEMdWTOltW",
+              "end": 77,
+              "expanded_url": "https://x.com/xiaomianya521/status/2067872621254042039/photo/1",
+              "media_key": "3_2067872608197242880",
+              "start": 54,
+              "url": "https://t.co/zEMdWTOltW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067872621254042039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找对象，顺直除外 其他的私聊！！喜欢的滴滴 最近头发换换色了！（新色)\n#找对象 #美女 #甜妹 #bbw https://t.co/zEMdWTOltW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10691,
+          "following_count": 4591,
+          "like_count": 50950,
+          "listed_count": 35,
+          "media_count": 4411,
+          "tweet_count": 14602
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T06:58:25.000Z",
+        "description": "✨ TS ｜ Srs等待中💫 🌈 取向：4i/le ❌ 雷区：不聊黄｜不键政｜不卖片｜不推广 💧 清水推｜⏳ 随缘上线✨同类姐妹&女生｜可互Fo✨",
+        "id": "1891744003823108097",
+        "location": "人间仙境",
+        "name": "枕星河✨",
+        "pinned_tweet_id": "2012387057562243476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067867213558874112/K_qd9yky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "xiaomianya521",
+        "verified": false
+      }
+    ]
+  }
+}

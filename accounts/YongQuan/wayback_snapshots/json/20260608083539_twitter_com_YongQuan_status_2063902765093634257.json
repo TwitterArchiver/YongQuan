@@ -1,0 +1,657 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TyLoo (Esports)",
+          "id": "966731188638371840",
+          "name": "TyLoo "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "TyLoo (Esports)",
+          "id": "966731188638371840",
+          "name": "TyLoo "
+        }
+      }
+    ],
+    "conversation_id": "2063661203876937863",
+    "created_at": "2026-06-08T08:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063902765093634257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "738750091",
+          "start": 0,
+          "username": "HooXiCSGO"
+        },
+        {
+          "end": 23,
+          "id": "709104597592215552",
+          "start": 11,
+          "username": "tyloogaming"
+        },
+        {
+          "end": 34,
+          "id": "1696925248753664000",
+          "start": 24,
+          "username": "Jee1221XD"
+        },
+        {
+          "end": 43,
+          "id": "1359615522162184194",
+          "start": 35,
+          "username": "moseyuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063902765093634257",
+    "in_reply_to_user_id": "738750091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063661203876937863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HooXiCSGO @tyloogaming @Jee1221XD @moseyuh 感觉不如jee的“打这些美国人跟打狗一样”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2063660628129042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOYaFSXUAAMek_.jpg",
+        "width": 1605
+      },
+      {
+        "height": 250,
+        "media_key": "3_2063660499464548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOYSl-W8AANLwK.png",
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TyLoo (Esports)",
+              "id": "966731188638371840",
+              "name": "TyLoo "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "TyLoo (Esports)",
+              "id": "966731188638371840",
+              "name": "TyLoo "
+            }
+          }
+        ],
+        "conversation_id": "2063661203876937863",
+        "created_at": "2026-06-08T08:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063902765093634257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "738750091",
+              "start": 0,
+              "username": "HooXiCSGO"
+            },
+            {
+              "end": 23,
+              "id": "709104597592215552",
+              "start": 11,
+              "username": "tyloogaming"
+            },
+            {
+              "end": 34,
+              "id": "1696925248753664000",
+              "start": 24,
+              "username": "Jee1221XD"
+            },
+            {
+              "end": 43,
+              "id": "1359615522162184194",
+              "start": 35,
+              "username": "moseyuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063902765093634257",
+        "in_reply_to_user_id": "738750091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063661203876937863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HooXiCSGO @tyloogaming @Jee1221XD @moseyuh 感觉不如jee的“打这些美国人跟打狗一样”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063660628129042432",
+            "3_2063660499464548352"
+          ]
+        },
+        "author_id": "738750091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TyLoo (Esports)",
+              "id": "966731188638371840",
+              "name": "TyLoo "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "TyLoo (Esports)",
+              "id": "966731188638371840",
+              "name": "TyLoo "
+            }
+          }
+        ],
+        "conversation_id": "2063661203876937863",
+        "created_at": "2026-06-07T16:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063661203876937863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "709104597592215552",
+              "start": 1,
+              "username": "tyloogaming"
+            },
+            {
+              "end": 24,
+              "id": "1696925248753664000",
+              "start": 14,
+              "username": "Jee1221XD"
+            },
+            {
+              "end": 33,
+              "id": "1359615522162184194",
+              "start": 25,
+              "username": "moseyuh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLXzAhNHmi",
+              "end": 70,
+              "expanded_url": "https://x.com/HooXiCSGO/status/2063661203876937863/photo/1",
+              "media_key": "3_2063660628129042432",
+              "start": 47,
+              "url": "https://t.co/HLXzAhNHmi"
+            },
+            {
+              "display_url": "pic.x.com/HLXzAhNHmi",
+              "end": 70,
+              "expanded_url": "https://x.com/HooXiCSGO/status/2063661203876937863/photo/1",
+              "media_key": "3_2063660499464548352",
+              "start": 47,
+              "url": "https://t.co/HLXzAhNHmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063661203876937863",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 99442,
+          "like_count": 1185,
+          "quote_count": 8,
+          "reply_count": 242,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": ".@tyloogaming @Jee1221XD @moseyuh and co. ✌️❤️ https://t.co/HLXzAhNHmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10563,
+          "following_count": 4517,
+          "like_count": 49117,
+          "listed_count": 31,
+          "media_count": 4103,
+          "tweet_count": 13837
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-05T15:18:59.000Z",
+        "description": "Rasmus Pallisgaard Nielsen, IGL for @AstralisCS\n\nFor business inquiries: hooxi@uncore.gg - @UNCOREgg\n\nhttps://t.co/mWSZonlx0g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "AstralisCS"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "UNCOREgg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hooxicsgo/",
+                "end": 125,
+                "expanded_url": "http://instagram.com/hooxicsgo/",
+                "start": 102,
+                "url": "https://t.co/mWSZonlx0g"
+              }
+            ]
+          }
+        },
+        "id": "738750091",
+        "name": "Rasmus🐢Pallisgaard🐢Nielsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063610690024136704/SgJWHa-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98780,
+          "following_count": 333,
+          "like_count": 17179,
+          "listed_count": 256,
+          "media_count": 499,
+          "tweet_count": 3844
+        },
+        "username": "HooXiCSGO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-13T19:51:25.000Z",
+        "description": "TYLOO Gaming Official X Account. 📸#TYLOO #TYLOOWIN 📹Youtube @tyloogaming 🌸 🔥Valorant @Tyloo_val 📧Business Inquiries: cs2@tyloo.gg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "TYLOO"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "TYLOOWIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "tyloogaming"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Tyloo_val"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tyloogaming",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tyloogaming",
+                "start": 0,
+                "url": "https://t.co/kzIs9ptghF"
+              }
+            ]
+          }
+        },
+        "id": "709104597592215552",
+        "location": "中华人民共和国",
+        "name": "TYLOO",
+        "pinned_tweet_id": "1957524761468366892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606560549437067264/sQCXdPUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72473,
+          "following_count": 265,
+          "like_count": 990,
+          "listed_count": 180,
+          "media_count": 1303,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/kzIs9ptghF",
+        "username": "tyloogaming",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-30T16:38:14.000Z",
+        "description": "",
+        "id": "1696925248753664000",
+        "name": "Jeecs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899031374784258049/nimhvtmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30956,
+          "following_count": 92,
+          "like_count": 7,
+          "listed_count": 27,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "Jee1221XD",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T21:29:50.000Z",
+        "description": "sup",
+        "id": "1359615522162184194",
+        "name": "Moseyuh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018540064096301056/NpIWcu5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 146,
+          "like_count": 118,
+          "listed_count": 15,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "moseyuh",
+        "verified": false
+      }
+    ]
+  }
+}

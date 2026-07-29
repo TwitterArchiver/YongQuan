@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057008350550986819",
+    "created_at": "2026-05-20T12:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057080424405569958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430973520452800515",
+          "start": 0,
+          "username": "XmeowwoemX_017"
+        },
+        {
+          "end": 26,
+          "id": "1368897611672018953",
+          "start": 16,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057080424405569958",
+    "in_reply_to_user_id": "1430973520452800515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057008350550986819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XmeowwoemX_017 @XUEQIUxka 好不好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057008350550986819",
+        "created_at": "2026-05-20T12:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057080424405569958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430973520452800515",
+              "start": 0,
+              "username": "XmeowwoemX_017"
+            },
+            {
+              "end": 26,
+              "id": "1368897611672018953",
+              "start": 16,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057080424405569958",
+        "in_reply_to_user_id": "1430973520452800515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057008350550986819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XmeowwoemX_017 @XUEQIUxka 好不好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2057008350550986819",
+        "created_at": "2026-05-20T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057008350550986819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057008350550986819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 968,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "了解到身边发生了一些我非常不愿意见到的事情。\n某些未成年的药娘，你们在面对恋爱这件事时可不可以不要这么草率？\n先是满心想着要脱单，然后选择和人步入了一段关系过后，又不能做到真诚、负责地对待。后面又以一些非常上不了台面的缘由，把对方说甩就甩了？再这样为人下去肯定免不了要付出代价的😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9930,
+          "following_count": 4317,
+          "like_count": 46283,
+          "listed_count": 30,
+          "media_count": 3551,
+          "tweet_count": 12642
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "1943985209747419617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 409,
+          "like_count": 38786,
+          "listed_count": 6,
+          "media_count": 719,
+          "tweet_count": 5010
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8583,
+          "following_count": 2222,
+          "like_count": 30307,
+          "listed_count": 24,
+          "media_count": 1533,
+          "tweet_count": 5355
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

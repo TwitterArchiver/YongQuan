@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022552540047695872",
+        "3_2022552539741474816",
+        "3_2022552540093779970",
+        "3_2022552540504829952"
+      ],
+      "media_source_tweet_id": [
+        "2022552549254140174",
+        "2022552549254140174",
+        "2022552549254140174",
+        "2022552549254140174"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061888419626942879",
+    "created_at": "2026-06-02T19:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061888419626942879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20224…",
+          "end": 95,
+          "expanded_url": "https://x.com/i/status/2022488390437081240",
+          "start": 72,
+          "url": "https://t.co/uDX2zWRVhW"
+        },
+        {
+          "display_url": "pic.x.com/eKQXRUZiyZ",
+          "end": 119,
+          "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+          "media_key": "3_2022552540047695872",
+          "start": 96,
+          "url": "https://t.co/eKQXRUZiyZ"
+        },
+        {
+          "display_url": "pic.x.com/eKQXRUZiyZ",
+          "end": 119,
+          "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+          "media_key": "3_2022552539741474816",
+          "start": 96,
+          "url": "https://t.co/eKQXRUZiyZ"
+        },
+        {
+          "display_url": "pic.x.com/eKQXRUZiyZ",
+          "end": 119,
+          "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+          "media_key": "3_2022552540093779970",
+          "start": 96,
+          "url": "https://t.co/eKQXRUZiyZ"
+        },
+        {
+          "display_url": "pic.x.com/eKQXRUZiyZ",
+          "end": 119,
+          "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+          "media_key": "3_2022552540504829952",
+          "start": 96,
+          "url": "https://t.co/eKQXRUZiyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061888419626942879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022552549254140174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 一个人去看了《爱乐之城》\n\n然后拿到收益的第一件事去请自己的员工来臻选（\n\nwith@hikari_ciallo \nhttps://t.co/uDX2zWRVhW https://t.co/eKQXRUZiyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2022552540047695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGM0bkbYAA8XhE.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_2022552539741474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGM0aba0AAEd8x.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2022552540093779970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGM0bvakAIEb48.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2022552540504829952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGM0dRasAACwMX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022552540047695872",
+            "3_2022552539741474816",
+            "3_2022552540093779970",
+            "3_2022552540504829952"
+          ],
+          "media_source_tweet_id": [
+            "2022552549254140174",
+            "2022552549254140174",
+            "2022552549254140174",
+            "2022552549254140174"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061888419626942879",
+        "created_at": "2026-06-02T19:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061888419626942879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20224…",
+              "end": 95,
+              "expanded_url": "https://x.com/i/status/2022488390437081240",
+              "start": 72,
+              "url": "https://t.co/uDX2zWRVhW"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 119,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540047695872",
+              "start": 96,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 119,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552539741474816",
+              "start": 96,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 119,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540093779970",
+              "start": 96,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 119,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540504829952",
+              "start": 96,
+              "url": "https://t.co/eKQXRUZiyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061888419626942879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022552549254140174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 一个人去看了《爱乐之城》\n\n然后拿到收益的第一件事去请自己的员工来臻选（\n\nwith@hikari_ciallo \nhttps://t.co/uDX2zWRVhW https://t.co/eKQXRUZiyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022552540047695872",
+            "3_2022552539741474816",
+            "3_2022552540093779970",
+            "3_2022552540504829952"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022552549254140174",
+        "created_at": "2026-02-14T06:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022552549254140174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20224…",
+              "end": 81,
+              "expanded_url": "https://x.com/i/status/2022488390437081240",
+              "start": 58,
+              "url": "https://t.co/uDX2zWRVhW"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 105,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540047695872",
+              "start": 82,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 105,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552539741474816",
+              "start": 82,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 105,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540093779970",
+              "start": 82,
+              "url": "https://t.co/eKQXRUZiyZ"
+            },
+            {
+              "display_url": "pic.x.com/eKQXRUZiyZ",
+              "end": 105,
+              "expanded_url": "https://x.com/BI3BXI/status/2022552549254140174/photo/1",
+              "media_key": "3_2022552540504829952",
+              "start": 82,
+              "url": "https://t.co/eKQXRUZiyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022552549254140174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3701,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022488390437081240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人去看了《爱乐之城》\n\n然后拿到收益的第一件事去请自己的员工来臻选（\n\nwith@hikari_ciallo \nhttps://t.co/uDX2zWRVhW https://t.co/eKQXRUZiyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEnby｜reHRT：2026.5.5\n大一AI/ML在修｜meme和亮点内容｜#LPL\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "LPL"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10395,
+          "following_count": 4457,
+          "like_count": 48165,
+          "listed_count": 31,
+          "media_count": 3951,
+          "tweet_count": 13501
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

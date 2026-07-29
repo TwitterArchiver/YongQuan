@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2056749564774821995",
+    "created_at": "2026-05-20T02:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056931728225435768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707095214702153728",
+          "start": 0,
+          "username": "Sheep_Esports"
+        },
+        {
+          "end": 40,
+          "id": "1653450192828366849",
+          "start": 31,
+          "username": "BLGBinGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056931728225435768",
+    "in_reply_to_user_id": "1707095214702153728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056749564774821995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep_Esports Bet if this was @BLGBinGe,in LPL, he’d immediately start educating them about being too cocky."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21370,
+        "height": 1920,
+        "media_key": "13_2056738207946194944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056738207946194944/img/1ctPUb6GDRKBQJTP.jpg",
+        "public_metrics": {
+          "view_count": 107839
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/320x568/MxsFcAaM4IJn6meO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/pl/STBTmk92WLRpRDJc.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/480x852/54LdL5Nq6xEUELgH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/720x1280/alxZAJpGEkMAD3M1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056738207946194944/vid/avc1/1080x1920/6XBxxnW6iu4846Am.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2056749564774821995",
+        "created_at": "2026-05-20T02:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056931728225435768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707095214702153728",
+              "start": 0,
+              "username": "Sheep_Esports"
+            },
+            {
+              "end": 40,
+              "id": "1653450192828366849",
+              "start": 31,
+              "username": "BLGBinGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931728225435768",
+        "in_reply_to_user_id": "1707095214702153728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749564774821995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep_Esports Bet if this was @BLGBinGe,in LPL, he’d immediately start educating them about being too cocky."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056738207946194944"
+          ],
+          "media_source_tweet_id": [
+            "2056738626361496062"
+          ]
+        },
+        "author_id": "1707095214702153728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375109987777748992",
+              "name": "Nongshim RedForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2056749564774821995",
+        "created_at": "2026-05-19T14:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056749564774821995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lEayKTBDI",
+              "end": 194,
+              "expanded_url": "https://x.com/NS_RedForce/status/2056738626361496062/video/1",
+              "media_key": "13_2056738207946194944",
+              "start": 171,
+              "url": "https://t.co/6lEayKTBDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749564774821995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 184150,
+          "like_count": 2901,
+          "quote_count": 55,
+          "reply_count": 22,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "Nongshim RedForce 🇰🇷 respond to BFX Taeyoon's 🇰🇷 jersey-throwing celebration after his win over his former team in the LCK\n\nNS eliminated BFX from the EWC Qualifier today\nhttps://t.co/6lEayKTBDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 4307,
+          "like_count": 46156,
+          "listed_count": 30,
+          "media_count": 3539,
+          "tweet_count": 12592
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T18:10:11.000Z",
+        "description": "Esports leaks, roster news, highlights, interviews, stats, business & clips! \n\nPowered by @WinamaxSport\nVALORANT: @Sheep_VALORANT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "WinamaxSport"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "Sheep_VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://www.sheepesports.com/",
+                "start": 0,
+                "url": "https://t.co/jT5E7G91hQ"
+              }
+            ]
+          }
+        },
+        "id": "1707095214702153728",
+        "name": "Sheep Esports",
+        "pinned_tweet_id": "2035378161366503870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712839672345350144/Almbh25T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166961,
+          "following_count": 23,
+          "like_count": 1442,
+          "listed_count": 238,
+          "media_count": 6036,
+          "tweet_count": 9794
+        },
+        "url": "https://t.co/jT5E7G91hQ",
+        "username": "Sheep_Esports",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T17:23:52.000Z",
+        "description": "BLG top laner Bin",
+        "id": "1653450192828366849",
+        "name": "Bin",
+        "pinned_tweet_id": "1656686882191712258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653451826442666006/103pxgC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65807,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 60,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "BLGBinGe",
+        "verified": false
+      }
+    ]
+  }
+}

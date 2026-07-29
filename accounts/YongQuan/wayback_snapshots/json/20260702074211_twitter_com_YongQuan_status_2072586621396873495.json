@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2072293523504664992",
+    "created_at": "2026-07-02T07:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072586621396873495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543294032943714305",
+          "start": 0,
+          "username": "null_2984"
+        },
+        {
+          "end": 20,
+          "id": "1503064453700538368",
+          "start": 11,
+          "username": "CY6TGH7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072586621396873495",
+    "in_reply_to_user_id": "1543294032943714305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072586416064958974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@null_2984 @CY6TGH7I 确实\nL3甚至还有北站站 天津站 南站站（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072293523504664992",
+        "created_at": "2026-07-02T07:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072586621396873495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543294032943714305",
+              "start": 0,
+              "username": "null_2984"
+            },
+            {
+              "end": 20,
+              "id": "1503064453700538368",
+              "start": 11,
+              "username": "CY6TGH7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072586621396873495",
+        "in_reply_to_user_id": "1543294032943714305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072586416064958974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@null_2984 @CY6TGH7I 确实\nL3甚至还有北站站 天津站 南站站（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543294032943714305",
+        "conversation_id": "2072293523504664992",
+        "created_at": "2026-07-02T07:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072586416064958974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1503064453700538368",
+              "start": 0,
+              "username": "CY6TGH7I"
+            },
+            {
+              "end": 19,
+              "id": "1545277694325116928",
+              "start": 10,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072586416064958974",
+        "in_reply_to_user_id": "1503064453700538368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072571686919016934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY6TGH7I @YongQuan 这个没啥问题吧 这个地方叫南站 所以这个站叫南站站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10990,
+          "following_count": 4678,
+          "like_count": 51588,
+          "listed_count": 36,
+          "media_count": 4746,
+          "tweet_count": 15310
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-02T18:02:37.000Z",
+        "description": "どんな結末がお望みだい?",
+        "id": "1543294032943714305",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "佚名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880227677564792833/8NwZKipE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1612,
+          "like_count": 61557,
+          "listed_count": 2,
+          "media_count": 1151,
+          "tweet_count": 12665
+        },
+        "url": "",
+        "username": "null_2984",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T17:44:36.000Z",
+        "description": "",
+        "id": "1503064453700538368",
+        "name": "米回",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621559049526411264/NWC2Gq2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 138,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "CY6TGH7I",
+        "verified": false
+      }
+    ]
+  }
+}

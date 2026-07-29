@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2068870546037903456",
+    "created_at": "2026-06-22T01:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068870546037903456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yqua_/status/2…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yqua_/status/2068404325903462507",
+          "start": 15,
+          "url": "https://t.co/swuQyeintp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068870546037903456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068404325903462507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "热爱会诠释老将坚持十年的意义 https://t.co/swuQyeintp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068870546037903456",
+        "created_at": "2026-06-22T01:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068870546037903456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yqua_/status/2…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yqua_/status/2068404325903462507",
+              "start": 15,
+              "url": "https://t.co/swuQyeintp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068870546037903456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068404325903462507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "热爱会诠释老将坚持十年的意义 https://t.co/swuQyeintp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "2068404325903462507",
+        "created_at": "2026-06-20T18:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068404325903462507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068404325903462507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2303,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这falcons玩的是二游\n前几个亚军是为了垫卡池保major冠军不歪有感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10768,
+          "following_count": 4618,
+          "like_count": 51347,
+          "listed_count": 34,
+          "media_count": 4492,
+          "tweet_count": 14852
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "大号@YongQuan\n❤️@xyliaxka\n\n嘛时候是津门第一呐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "YongQuan"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "xyliaxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨铨睡着了🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 871,
+          "like_count": 11336,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

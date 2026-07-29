@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2064733853017616614",
+    "created_at": "2026-06-11T00:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064869425493184656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707095214702153728",
+          "start": 0,
+          "username": "Sheep_Esports"
+        },
+        {
+          "end": 24,
+          "id": "1653450192828366849",
+          "start": 15,
+          "username": "BLGBinGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064869425493184656",
+    "in_reply_to_user_id": "1707095214702153728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064733853017616614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep_Esports @BLGBinGe 的罚款就是好用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2064733616773488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdoSPeXYAAHH-H.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2064733853017616614",
+        "created_at": "2026-06-11T00:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064869425493184656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707095214702153728",
+              "start": 0,
+              "username": "Sheep_Esports"
+            },
+            {
+              "end": 24,
+              "id": "1653450192828366849",
+              "start": 15,
+              "username": "BLGBinGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064869425493184656",
+        "in_reply_to_user_id": "1707095214702153728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064733853017616614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep_Esports @BLGBinGe 的罚款就是好用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064733616773488640"
+          ]
+        },
+        "author_id": "1707095214702153728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the NBA.",
+              "id": "10000607734",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304530",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1397592141119983617",
+              "name": "NBA Finals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1397592141119983617",
+              "name": "NBA Finals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397592141119983617",
+              "name": "NBA Finals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758024",
+              "name": "NBA"
+            }
+          }
+        ],
+        "conversation_id": "2064733853017616614",
+        "created_at": "2026-06-10T15:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064733853017616614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utqJeSVKbA",
+              "end": 181,
+              "expanded_url": "https://x.com/Sheep_Esports/status/2064733853017616614/photo/1",
+              "media_key": "3_2064733616773488640",
+              "start": 158,
+              "url": "https://t.co/utqJeSVKbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064733853017616614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 138383,
+          "like_count": 2426,
+          "quote_count": 69,
+          "reply_count": 27,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "[OFFICIAL] The LPL 🇨🇳 will host four guests for their Grand Finals this weekend:\n\n🇨🇳 Crisp\n🇨🇳 LWX\n🇰🇷 ShowMaker \n🇺🇸 Clarence \"Sonny\" Weems (Former NBA Player) https://t.co/utqJeSVKbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10606,
+          "following_count": 4532,
+          "like_count": 49557,
+          "listed_count": 32,
+          "media_count": 4171,
+          "tweet_count": 13995
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T18:10:11.000Z",
+        "description": "Esports leaks, roster news, highlights, interviews, stats, business & clips! \n\nPowered by @Polymarketlol\nVALORANT: @Sheep_VALORANT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Polymarketlol"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "Sheep_VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheepesports.com",
+                "end": 23,
+                "expanded_url": "https://www.sheepesports.com/",
+                "start": 0,
+                "url": "https://t.co/jT5E7G9z7o"
+              }
+            ]
+          }
+        },
+        "id": "1707095214702153728",
+        "name": "Sheep Esports",
+        "pinned_tweet_id": "2062195366540272119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712839672345350144/Almbh25T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165559,
+          "following_count": 25,
+          "like_count": 1525,
+          "listed_count": 239,
+          "media_count": 6409,
+          "tweet_count": 10241
+        },
+        "url": "https://t.co/jT5E7G9z7o",
+        "username": "Sheep_Esports",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T17:23:52.000Z",
+        "description": "BLG top laner Bin",
+        "id": "1653450192828366849",
+        "name": "Bin",
+        "pinned_tweet_id": "1656686882191712258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653451826442666006/103pxgC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65628,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 61,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "BLGBinGe",
+        "verified": false
+      }
+    ]
+  }
+}

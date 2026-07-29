@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057106575920382027",
+    "created_at": "2026-05-20T14:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057106575920382027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1560176804115234816",
+          "start": 3,
+          "username": "lingmunaixue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057106575920382027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057084755217351098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingmunaixue_: 这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057106575920382027",
+        "created_at": "2026-05-20T14:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057106575920382027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1560176804115234816",
+              "start": 3,
+              "username": "lingmunaixue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057106575920382027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057084755217351098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingmunaixue_: 这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560176804115234816",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057084755217351098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057084755217351098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9929,
+          "following_count": 4319,
+          "like_count": 46324,
+          "listed_count": 30,
+          "media_count": 3554,
+          "tweet_count": 12653
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-18T08:08:45.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=qpKpbr7a",
+                "start": 0,
+                "url": "https://t.co/Zbr9colgRt"
+              }
+            ]
+          }
+        },
+        "id": "1560176804115234816",
+        "name": "铃木奈雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047766676327051264/4XwWvnrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8072,
+          "following_count": 203,
+          "like_count": 8241,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/Zbr9colgRt",
+        "username": "lingmunaixue_",
+        "verified": true
+      }
+    ]
+  }
+}

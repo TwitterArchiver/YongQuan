@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cloud9 (Esports)",
+          "id": "857294566835183616",
+          "name": "Cloud9"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "Cloud9 (Esports)",
+          "id": "857294566835183616",
+          "name": "Cloud9"
+        }
+      }
+    ],
+    "conversation_id": "2053500759959101576",
+    "created_at": "2026-05-11T00:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053631394665185542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        },
+        {
+          "end": 20,
+          "id": "1452520626",
+          "start": 13,
+          "username": "Cloud9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053631394665185542",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053500759959101576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu 猜你想找：@Cloud9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2053500753394974721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-ADigawAEIxHi.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cloud9 (Esports)",
+              "id": "857294566835183616",
+              "name": "Cloud9"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Cloud9 (Esports)",
+              "id": "857294566835183616",
+              "name": "Cloud9"
+            }
+          }
+        ],
+        "conversation_id": "2053500759959101576",
+        "created_at": "2026-05-11T00:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053631394665185542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            },
+            {
+              "end": 20,
+              "id": "1452520626",
+              "start": 13,
+              "username": "Cloud9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053631394665185542",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053500759959101576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 猜你想找：@Cloud9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053500753394974721"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2053500759959101576",
+        "created_at": "2026-05-10T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053500759959101576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xs0FiRP1F2",
+              "end": 36,
+              "expanded_url": "https://x.com/YunJiu/status/2053500759959101576/photo/1",
+              "media_key": "3_2053500753394974721",
+              "start": 13,
+              "url": "https://t.co/Xs0FiRP1F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053500759959101576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7937,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Cloud-9\n云！九！ https://t.co/Xs0FiRP1F2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜Best Team \n@JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9666,
+          "following_count": 4209,
+          "like_count": 44895,
+          "listed_count": 29,
+          "media_count": 3304,
+          "tweet_count": 12001
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104637,
+          "following_count": 784,
+          "like_count": 36745,
+          "listed_count": 293,
+          "media_count": 18446,
+          "tweet_count": 26478
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-23T21:10:31.000Z",
+        "description": "Cloudy with a chance of tweets ➡ Follow Cloud9 Esports: @C9VAL @C9LoL @C9COD_ #LETSGOC9",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 78,
+                "tag": "LETSGOC9"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 56,
+                "username": "C9VAL"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "C9LoL"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "C9COD_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c9.gg/store",
+                "end": 23,
+                "expanded_url": "http://c9.gg/store",
+                "start": 0,
+                "url": "https://t.co/qshyO48ulA"
+              }
+            ]
+          }
+        },
+        "id": "1452520626",
+        "location": "Los Angeles, CA",
+        "name": "Cloud9",
+        "pinned_tweet_id": "2039855403358372002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542010678456320/iLd1xsgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129309,
+          "following_count": 1079,
+          "like_count": 48332,
+          "listed_count": 2564,
+          "media_count": 19536,
+          "tweet_count": 55920
+        },
+        "url": "https://t.co/qshyO48ulA",
+        "username": "Cloud9",
+        "verified": true
+      }
+    ]
+  }
+}

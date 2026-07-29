@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2057659481195172114",
+    "created_at": "2026-05-22T05:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057692022413365728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465526091745873920",
+          "start": 0,
+          "username": "Mr57814170"
+        },
+        {
+          "end": 23,
+          "id": "291191913",
+          "start": 12,
+          "username": "643194hahd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057692022413365728",
+    "in_reply_to_user_id": "1465526091745873920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057691926548410543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr57814170 @643194hahd 回！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2057659481195172114",
+        "created_at": "2026-05-22T05:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057692022413365728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465526091745873920",
+              "start": 0,
+              "username": "Mr57814170"
+            },
+            {
+              "end": 23,
+              "id": "291191913",
+              "start": 12,
+              "username": "643194hahd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057692022413365728",
+        "in_reply_to_user_id": "1465526091745873920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057691926548410543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr57814170 @643194hahd 回！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465526091745873920",
+        "conversation_id": "2057659481195172114",
+        "created_at": "2026-05-22T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691926548410543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 21,
+              "id": "291191913",
+              "start": 10,
+              "username": "643194hahd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691926548410543",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057688974450479411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @643194hahd 雪秋重度依赖，关注你了互关下我哟~!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9939,
+          "following_count": 4337,
+          "like_count": 46580,
+          "listed_count": 30,
+          "media_count": 3608,
+          "tweet_count": 12777
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T03:40:28.000Z",
+        "description": "经历2轮牛熊老OG| 二级市场全职分析交易员\n\n善用裸K找支撑和阻力，结合西方指标、趋势结构、谐波形态分析当下行情\n\n年少时曾实盘合约打到2200W；后续..\n \n现重新回归交易本质，低调沉稳+心态坚定+知行合一\n\n商务合作TG：Ajiang0222\n交流群：https://t.co/wDtmgfP4zt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+jp2MwxxQEhEyM…",
+                "end": 153,
+                "expanded_url": "https://t.me/+jp2MwxxQEhEyMzM9",
+                "start": 130,
+                "url": "https://t.co/wDtmgfP4zt"
+              }
+            ]
+          }
+        },
+        "id": "1465526091745873920",
+        "name": "Web3|良轩Mr蒋|",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846787330964946944/YNR4A3pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7773,
+          "following_count": 7417,
+          "like_count": 2364,
+          "listed_count": 10,
+          "media_count": 1636,
+          "tweet_count": 16314
+        },
+        "username": "Mr57814170",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-01T16:13:53.000Z",
+        "description": "从crud到拥抱AI的程序员。喜欢分享快乐，想得比较多。",
+        "id": "291191913",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716106083855654912/affW3kjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 646,
+          "like_count": 10692,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 330
+        },
+        "username": "643194hahd",
+        "verified": true
+      }
+    ]
+  }
+}

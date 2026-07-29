@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10047025715",
+          "name": "Riot Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10047025715",
+          "name": "Riot Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10047025715",
+          "name": "Riot Games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2076389685556080961",
+    "created_at": "2026-07-13T01:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076478537671008454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "20523846",
+          "start": 0,
+          "username": "riotgames"
+        },
+        {
+          "end": 22,
+          "id": "614754689",
+          "start": 11,
+          "username": "lolesports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076478537671008454",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076467280448466954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riotgames @lolesports"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10047025715",
+              "name": "Riot Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10047025715",
+              "name": "Riot Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10047025715",
+              "name": "Riot Games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2076389685556080961",
+        "created_at": "2026-07-13T01:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076478537671008454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "20523846",
+              "start": 0,
+              "username": "riotgames"
+            },
+            {
+              "end": 22,
+              "id": "614754689",
+              "start": 11,
+              "username": "lolesports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076478537671008454",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076467280448466954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riotgames @lolesports"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2076389685556080961",
+        "created_at": "2026-07-13T00:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076467280448466954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443345798402506756",
+              "start": 0,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076467280448466954",
+        "in_reply_to_user_id": "1443345798402506756",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Zeyuan：\nI had a random thought on my way back to the hotel, and it’s about the League of Legends MSI double-elimination format, specifically how to give the Winners’ Bracket champion a meaningful advantage.\n\nDisclaimer first: This is just a shower thought. We already recorded our actual post-match analysis on Dami’s show right after today’s series, so if you’re interested, it’ll be out tomorrow (or the day after at the latest).\n\nThis post has nothing to do with today’s match. I’m not questioning the legitimacy of the double-elimination format, nor am I trying to undermine the value of any champion or runner-up. It isn’t aimed at any real team, player, or tournament result.\n\nIf you still think I’m wrong after reading this, that’s totally fine—your opinion is valid. And if you’d rather skip the discussion and just flame me… go ahead. If it helps you vent, I’m happy to provide the opportunity.\n\nNow for the actual idea.\n\nPersonally, I think the purest interpretation of double elimination would be that the team coming from the Losers’ Bracket has to defeat the Winners’ Bracket champion twice in two separate Bo5s to win the tournament—similar to how the EVO fighting game championships handle bracket resets.\n\nThe obvious problem is that League series are much longer. Playing two Bo5s in one day is basically impossible. Splitting them across two days creates another issue: if the Winners’ Bracket champion wins on Day 1, then Day 2 becomes meaningless, making ticket sales difficult.\n\nThat reminded me of something WWE used to do.\n\nAfter a championship match, they’d sometimes hold a “Runner-up Revenge Match” the following week. Even if the challenger won, it didn’t change who the champion was—it was simply an opportunity to settle the score.\n\nSo what if League borrowed that idea?\n\nSell tickets for both days as planned.\n\n* If the Losers’ Bracket team wins on Day 1, then Day 2 becomes the actual championship-deciding Bo5, since the bracket has been reset.\n* If the Winners’ Bracket champion wins on Day 1, then Day 2 still happens—but instead of affecting the title, it becomes a fun exhibition match.\n\nYou could get creative with it.\n\nA simple rematch would already be entertaining.\n\nOr maybe let fans vote on the champions for both teams after Day 1.\n\nOr go completely crazy and have each game swap one player between the two teams—for example:\n\n* Game 1: top laners switch teams.\n* Game 2: junglers switch.\n* Game 3: mid laners.\n* …and so on, forcing the series to go the full five games.\n\n(I’m just throwing ideas out there—you guys can probably come up with even better ones.)\n\nThat way, even if the championship has already been decided, fans who bought tickets for Day 2 would still get something genuinely entertaining instead of a meaningless extra day.\n\nSo… does this idea have any potential?\n\nJust a random thought, nothing more. These are purely my personal opinions."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076389685556080961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttyuc Zeyuan：\nI had a random thought on my way back to the hotel, and it’s about the League of Legends MSI double-elimination format, specifically how to give the Winners’ Bracket champion a meaningful advantage.\n\nDisclaimer first: This is just a shower thought. We already recorded"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\nEnby.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11128,
+          "following_count": 4746,
+          "like_count": 52440,
+          "listed_count": 38,
+          "media_count": 5042,
+          "tweet_count": 15855
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T16:30:49.000Z",
+        "description": "🛠 @RiotSupport\n🕹️ @leagueoflegends @TFT @PlayRuneterra @Wildrift @VALORANT @Play2XKO @playriftbound\n🍿 @lolesports @valorantesports @CompeteTFT @arcaneshow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "RiotSupport"
+              },
+              {
+                "end": 34,
+                "start": 18,
+                "username": "leagueoflegends"
+              },
+              {
+                "end": 39,
+                "start": 35,
+                "username": "TFT"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "PlayRuneterra"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Wildrift"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "VALORANT"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "Play2XKO"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "playriftbound"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "lolesports"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "valorantesports"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "CompeteTFT"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "arcaneshow"
+              }
+            ]
+          }
+        },
+        "id": "20523846",
+        "location": "Santa Monica, CA",
+        "name": "Riot Games",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867739479605489664/NsdJSu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037229,
+          "following_count": 271,
+          "like_count": 10705,
+          "listed_count": 4202,
+          "media_count": 1509,
+          "tweet_count": 7702
+        },
+        "url": "",
+        "username": "riotgames",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-22T01:55:13.000Z",
+        "description": "HLE are your #MSI2026 Champions!\n\nWatch on https://t.co/RwFjaLauAw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "MSI2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 66,
+                "expanded_url": "http://lolesports.com",
+                "start": 43,
+                "url": "https://t.co/RwFjaLauAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 23,
+                "expanded_url": "http://www.lolesports.com",
+                "start": 0,
+                "url": "https://t.co/7dbNykDLyS"
+              }
+            ]
+          }
+        },
+        "id": "614754689",
+        "location": "Worldwide",
+        "name": "LoL Esports",
+        "pinned_tweet_id": "2076272459872166027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066491475806859264/qscg_Tkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568395,
+          "following_count": 613,
+          "like_count": 7795,
+          "listed_count": 4403,
+          "media_count": 40441,
+          "tweet_count": 76835
+        },
+        "url": "https://t.co/7dbNykDLyS",
+        "username": "lolesports",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052743431659859968"
+      ],
+      "media_source_tweet_id": [
+        "2052743442720292914"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2052752180613165385",
+    "created_at": "2026-05-08T14:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052752180613165385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1420205241404772352",
+          "start": 3,
+          "username": "yanbo2004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5XyJ0sLNh",
+          "end": 56,
+          "expanded_url": "https://x.com/yanbo2004/status/2052743442720292914/photo/1",
+          "media_key": "3_2052743431659859968",
+          "start": 33,
+          "url": "https://t.co/S5XyJ0sLNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052752180613165385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052743442720292914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanbo2004: 人生第一个5x 虽然只赚了600刀 https://t.co/S5XyJ0sLNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_2052743431659859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzPRnMaMAAGrFn.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052743431659859968"
+          ],
+          "media_source_tweet_id": [
+            "2052743442720292914"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052752180613165385",
+        "created_at": "2026-05-08T14:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052752180613165385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1420205241404772352",
+              "start": 3,
+              "username": "yanbo2004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5XyJ0sLNh",
+              "end": 56,
+              "expanded_url": "https://x.com/yanbo2004/status/2052743442720292914/photo/1",
+              "media_key": "3_2052743431659859968",
+              "start": 33,
+              "url": "https://t.co/S5XyJ0sLNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052752180613165385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052743442720292914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanbo2004: 人生第一个5x 虽然只赚了600刀 https://t.co/S5XyJ0sLNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052743431659859968"
+          ]
+        },
+        "author_id": "1420205241404772352",
+        "conversation_id": "2052743442720292914",
+        "created_at": "2026-05-08T13:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052743442720292914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5XyJ0sLNh",
+              "end": 41,
+              "expanded_url": "https://x.com/yanbo2004/status/2052743442720292914/photo/1",
+              "media_key": "3_2052743431659859968",
+              "start": 18,
+              "url": "https://t.co/S5XyJ0sLNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052743442720292914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人生第一个5x 虽然只赚了600刀 https://t.co/S5XyJ0sLNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9493,
+          "following_count": 4202,
+          "like_count": 44802,
+          "listed_count": 28,
+          "media_count": 3242,
+          "tweet_count": 11865
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Writer & Photoghapher｜Backpacking trip to 20 countries",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "1963281891341275405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721865807926538240/lGu5XZsR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 1774,
+          "like_count": 109457,
+          "listed_count": 35,
+          "media_count": 2688,
+          "tweet_count": 21122
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      }
+    ]
+  }
+}

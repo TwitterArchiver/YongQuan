@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2074368099239776421",
+    "created_at": "2026-07-07T05:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074368099239776421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034865150499725313",
+          "start": 3,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074368099239776421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074175736303493619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Weberkaliro: 顺直畜男继续犯病乱摸我顺女朋友还试图拔她裙子\n已经报警走法律程序了\n傻逼顺直畜男能不能收收味啊wc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2074368099239776421",
+        "created_at": "2026-07-07T05:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074368099239776421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034865150499725313",
+              "start": 3,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074368099239776421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074175736303493619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Weberkaliro: 顺直畜男继续犯病乱摸我顺女朋友还试图拔她裙子\n已经报警走法律程序了\n傻逼顺直畜男能不能收收味啊wc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2074175736303493619",
+        "created_at": "2026-07-06T16:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074175736303493619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074175736303493619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1252,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "顺直畜男继续犯病乱摸我顺女朋友还试图拔她裙子\n已经报警走法律程序了\n傻逼顺直畜男能不能收收味啊wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋接管中",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073771782952103936/NARs0P1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11056,
+          "following_count": 4704,
+          "like_count": 51931,
+          "listed_count": 37,
+          "media_count": 4878,
+          "tweet_count": 15557
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215|精分 躁郁 ADHD 社交障碍⚠|家暴-天残-无证含糖\n想和咱深入交流的里账号：@kaliroweber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "kaliroweber"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1591,
+          "like_count": 4754,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

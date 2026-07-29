@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067971682757693815",
+    "created_at": "2026-06-19T14:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067973472962437147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1932752522663415808",
+          "start": 0,
+          "username": "Sheep_VALORANT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067973472962437147",
+    "in_reply_to_user_id": "1932752522663415808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067971682757693815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep_VALORANT chichoo!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2067971358764433408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLo_oTWAAAhYUV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067971682757693815",
+        "created_at": "2026-06-19T14:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067973472962437147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1932752522663415808",
+              "start": 0,
+              "username": "Sheep_VALORANT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067973472962437147",
+        "in_reply_to_user_id": "1932752522663415808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067971682757693815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep_VALORANT chichoo!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067971358764433408"
+          ]
+        },
+        "author_id": "1932752522663415808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Edward Gaming (Esports)",
+              "id": "871541119409979393",
+              "name": "Edward Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Edward Gaming (Esports)",
+              "id": "871541119409979393",
+              "name": "Edward Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2067971682757693815",
+        "created_at": "2026-06-19T14:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067971682757693815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/puVKe49d19",
+              "end": 142,
+              "expanded_url": "https://x.com/Sheep_VALORANT/status/2067971682757693815/photo/1",
+              "media_key": "3_2067971358764433408",
+              "start": 119,
+              "url": "https://t.co/puVKe49d19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067971682757693815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "MATCH POINT FOR EDWARD GAMING 🇨🇳!\n\nA thrilling first map goes the distance, with EDG taking Breeze 15-13 in overtime 🔥 https://t.co/puVKe49d19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10692,
+          "following_count": 4594,
+          "like_count": 51079,
+          "listed_count": 35,
+          "media_count": 4418,
+          "tweet_count": 14634
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-11T10:51:49.000Z",
+        "description": "VALORANT leaks, roster news, highlights, interviews, stats & clips! 🐑\n\nPowered by @PolymarketVAL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "PolymarketVAL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Sheepesports.com",
+                "end": 23,
+                "expanded_url": "http://Sheepesports.com",
+                "start": 0,
+                "url": "https://t.co/Ipb9PcKPWW"
+              }
+            ]
+          }
+        },
+        "id": "1932752522663415808",
+        "name": "Sheep Esports VALORANT",
+        "pinned_tweet_id": "2065895147452223851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932753991047258112/76s8DDwV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21981,
+          "following_count": 25,
+          "like_count": 1413,
+          "listed_count": 22,
+          "media_count": 1131,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/Ipb9PcKPWW",
+        "username": "Sheep_VALORANT",
+        "verified": true
+      }
+    ]
+  }
+}

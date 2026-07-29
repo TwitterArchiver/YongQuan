@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2058535293297512939",
+    "created_at": "2026-05-24T22:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T23:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058676818249716026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "932061213831266304",
+          "start": 0,
+          "username": "ShiinaYuriChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058676818249716026",
+    "in_reply_to_user_id": "932061213831266304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058535293297512939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiinaYuriChan 是这样的\n大多数人还不是为了挣钱才选择当营销号\n\n当然关掉收益化能解决一切焦虑源。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2058535293297512939",
+        "created_at": "2026-05-24T22:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058676818249716026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "932061213831266304",
+              "start": 0,
+              "username": "ShiinaYuriChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058676818249716026",
+        "in_reply_to_user_id": "932061213831266304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058535293297512939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiinaYuriChan 是这样的\n大多数人还不是为了挣钱才选择当营销号\n\n当然关掉收益化能解决一切焦虑源。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "932061213831266304",
+        "conversation_id": "2058535293297512939",
+        "created_at": "2026-05-24T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058535293297512939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058535293297512939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1904,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝标的我现在一律当营销号看待\n和你们没什么仇，但是我也没什么兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10031,
+          "following_count": 4386,
+          "like_count": 47300,
+          "listed_count": 30,
+          "media_count": 3729,
+          "tweet_count": 13055
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-19T01:41:25.000Z",
+        "description": "「Nekomimi Otoko」/ 🐶 @ShiinaRanChan /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ShiinaRanChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuris.moe",
+                "end": 23,
+                "expanded_url": "http://yuris.moe",
+                "start": 0,
+                "url": "https://t.co/zGwBhKMlOL"
+              }
+            ]
+          }
+        },
+        "id": "932061213831266304",
+        "location": "Bellevue, WA",
+        "name": "椎名ゆり🌇",
+        "pinned_tweet_id": "1926916679725908239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520808387981709312/4zMtoUt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 1461,
+          "like_count": 72715,
+          "listed_count": 17,
+          "media_count": 184,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/zGwBhKMlOL",
+        "username": "ShiinaYuriChan",
+        "verified": false
+      }
+    ]
+  }
+}

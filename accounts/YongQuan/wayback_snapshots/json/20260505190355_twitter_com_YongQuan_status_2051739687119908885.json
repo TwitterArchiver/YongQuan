@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2051617980539437555",
+    "created_at": "2026-05-05T19:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051739687119908885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919296206381170688",
+          "start": 0,
+          "username": "juhao0721"
+        },
+        {
+          "end": 27,
+          "id": "1565981667746914304",
+          "start": 11,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051739687119908885",
+    "in_reply_to_user_id": "1919296206381170688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051617980539437555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhao0721 @Kagura_Yukikaze 难说\n我肝硬化并不是很想治了\n\n不过至少还有个十五二十年 精神状态好的情况下问题不大（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2051617980539437555",
+        "created_at": "2026-05-05T19:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051739687119908885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            },
+            {
+              "end": 27,
+              "id": "1565981667746914304",
+              "start": 11,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051739687119908885",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051617980539437555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 @Kagura_Yukikaze 难说\n我肝硬化并不是很想治了\n\n不过至少还有个十五二十年 精神状态好的情况下问题不大（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919296206381170688",
+        "conversation_id": "2051617980539437555",
+        "created_at": "2026-05-05T11:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051617980539437555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2051422730864783740",
+              "start": 21,
+              "url": "https://t.co/vGxjbj6pee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051617980539437555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2182,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051422730864783740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们觉得5年后这里面的人活得下来一半不？ https://t.co/vGxjbj6pee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "JDGaming"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9439,
+          "following_count": 4194,
+          "like_count": 44189,
+          "listed_count": 29,
+          "media_count": 3163,
+          "tweet_count": 11686
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "有舞萌DX附近的吗\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "蛤基句",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 112,
+          "like_count": 2737,
+          "listed_count": 8,
+          "media_count": 281,
+          "tweet_count": 1263
+        },
+        "username": "juhao0721",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 2904,
+          "like_count": 104646,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 12743
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

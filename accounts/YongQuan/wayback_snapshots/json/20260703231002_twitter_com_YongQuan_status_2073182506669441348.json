@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073182438839169025"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2072986226445934984",
+    "created_at": "2026-07-03T23:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073182506669441348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1597240331048820738",
+          "start": 0,
+          "username": "G2League"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwSm81We3j",
+          "end": 110,
+          "expanded_url": "https://x.com/YongQuan/status/2073182506669441348/video/1",
+          "media_key": "13_2073182438839169025",
+          "start": 87,
+          "url": "https://t.co/CwSm81We3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073182506669441348",
+    "in_reply_to_user_id": "1597240331048820738",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072986226445934984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G2League The official Chinese account of G2 released this video.\n\nIt‘s very stimping. https://t.co/CwSm81We3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3800,
+        "height": 1280,
+        "media_key": "13_2073182438839169025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073182438839169025/img/978ytd24TRCffNYL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073182438839169025/vid/avc1/320x568/3jCD1xFLqjiQP1m_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073182438839169025/vid/avc1/480x852/z8x3h6XmSMEFMpaZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073182438839169025/vid/avc1/720x1280/G994XPSZF0YdFAVb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073182438839169025/pl/BLakzV8R_CbzfYK9.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19800,
+        "height": 480,
+        "media_key": "13_2072985935705161728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072985935705161728/img/UhGpqP-X91_gtSaI.jpg",
+        "public_metrics": {
+          "view_count": 116890
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072985935705161728/vid/avc1/284x270/0Jxwz-pESMS6XFH3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072985935705161728/vid/avc1/380x360/tCvph-BvAbMGmknI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072985935705161728/vid/avc1/508x480/4RNWtQBfceqC73jS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072985935705161728/pl/-eS5yC30JZkeQZcG.m3u8?v=cfc"
+          }
+        ],
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073182438839169025"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072986226445934984",
+        "created_at": "2026-07-03T23:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073182506669441348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1597240331048820738",
+              "start": 0,
+              "username": "G2League"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwSm81We3j",
+              "end": 110,
+              "expanded_url": "https://x.com/YongQuan/status/2073182506669441348/video/1",
+              "media_key": "13_2073182438839169025",
+              "start": 87,
+              "url": "https://t.co/CwSm81We3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073182506669441348",
+        "in_reply_to_user_id": "1597240331048820738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072986226445934984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G2League The official Chinese account of G2 released this video.\n\nIt‘s very stimping. https://t.co/CwSm81We3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072985935705161728"
+          ]
+        },
+        "author_id": "1597240331048820738",
+        "conversation_id": "2072986226445934984",
+        "created_at": "2026-07-03T10:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072986226445934984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y09Jh9JLbe",
+              "end": 59,
+              "expanded_url": "https://x.com/G2League/status/2072986226445934984/video/1",
+              "media_key": "13_2072985935705161728",
+              "start": 36,
+              "url": "https://t.co/y09Jh9JLbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072986226445934984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 256770,
+          "like_count": 7308,
+          "quote_count": 30,
+          "reply_count": 47,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "TES trying to win at internationals https://t.co/y09Jh9JLbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11037,
+          "following_count": 4692,
+          "like_count": 51688,
+          "listed_count": 37,
+          "media_count": 4787,
+          "tweet_count": 15388
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T14:46:35.000Z",
+        "description": "Home of @G2esports League of Legends\nLEC Grand Slam Winners 🏆 \nScrim World Champions 🏆\nMeta World Champions 🏆\n9x (Unofficial) World Champions 🏆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          }
+        },
+        "id": "1597240331048820738",
+        "location": "finals (winning)",
+        "name": "G2 League of Legends",
+        "pinned_tweet_id": "2063704067470159919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040366637682159616/focZCPSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143327,
+          "following_count": 140,
+          "like_count": 38032,
+          "listed_count": 231,
+          "media_count": 10721,
+          "tweet_count": 30533
+        },
+        "url": "",
+        "username": "G2League",
+        "verified": true
+      }
+    ]
+  }
+}

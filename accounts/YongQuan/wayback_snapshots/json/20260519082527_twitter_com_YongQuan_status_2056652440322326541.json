@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733773745114861568",
+          "name": "Casemiro"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733773745114861568",
+          "name": "Casemiro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733773745114861568",
+          "name": "Casemiro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2056319327951880404",
+    "created_at": "2026-05-19T08:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056652440322326541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "181280529",
+          "start": 0,
+          "username": "Casemiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056652440322326541",
+    "in_reply_to_user_id": "181280529",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056319327951880404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Casemiro Here we go！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100240,
+        "height": 3540,
+        "media_key": "13_2056279534484295680",
+        "preview_image_url": "https://pbs.twimg.com/media/HIltFX7WUAASyu_.jpg",
+        "public_metrics": {
+          "view_count": 842304
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056279534484295680/vid/avc1/1280x720/PEqelIw_XOaKUZ9Z.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056279534484295680/vid/avc1/1920x1080/JJRQxWmUEjS49Ove.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056279534484295680/vid/avc1/640x360/wYZSyap3O73C1ZMl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056279534484295680/pl/30Wj9eU9be2lrXlm.m3u8?v=aaa"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056279534484295680/vid/avc1/480x270/5j-zFdehWgvOPBly.mp4"
+          }
+        ],
+        "width": 6294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2056319327951880404",
+        "created_at": "2026-05-19T08:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056652440322326541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "181280529",
+              "start": 0,
+              "username": "Casemiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056652440322326541",
+        "in_reply_to_user_id": "181280529",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056319327951880404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Casemiro Here we go！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056279534484295680"
+          ],
+          "media_source_tweet_id": [
+            "2056313848286642621"
+          ]
+        },
+        "author_id": "181280529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773745114861568",
+              "name": "Casemiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2056319327951880404",
+        "created_at": "2026-05-18T10:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056319327951880404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6ZwhUHCJ3",
+              "end": 64,
+              "expanded_url": "https://x.com/ManUtd/status/2056313848286642621/video/1",
+              "media_key": "13_2056279534484295680",
+              "start": 41,
+              "url": "https://t.co/K6ZwhUHCJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056319327951880404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4900,
+          "impression_count": 1345818,
+          "like_count": 129113,
+          "quote_count": 1094,
+          "reply_count": 2485,
+          "retweet_count": 25131
+        },
+        "reply_settings": "everyone",
+        "text": "You don’t wear this shirt. You carry it. https://t.co/K6ZwhUHCJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\n任意@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 40,
+                "username": "yqua_"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 4298,
+          "like_count": 45984,
+          "listed_count": 30,
+          "media_count": 3517,
+          "tweet_count": 12520
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-21T19:54:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/casemiro?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/casemiro?igsh=ODdkcGNpOXZsbHZq",
+                "start": 0,
+                "url": "https://t.co/6ptMRsBXF4"
+              }
+            ]
+          }
+        },
+        "id": "181280529",
+        "location": "Manchester, England",
+        "name": "Casemiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1025331713642250240/EpbtrihI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6373028,
+          "following_count": 313,
+          "like_count": 3177,
+          "listed_count": 4496,
+          "media_count": 1951,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/6ptMRsBXF4",
+        "username": "Casemiro",
+        "verified": true
+      }
+    ]
+  }
+}

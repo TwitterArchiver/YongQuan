@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2078875369990684701",
+    "created_at": "2026-07-20T03:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079048831690322115"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 19,
+          "start": 10,
+          "tag": "howmaker"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "923828976409198592",
+          "start": 0,
+          "username": "DplusKia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079048831690322115",
+    "in_reply_to_user_id": "923828976409198592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078875369990684701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DplusKia $howmaker"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37486,
+        "height": 1180,
+        "media_key": "13_2078875210145792000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078875210145792000/img/1loaMLjKWSrcAzF3.jpg",
+        "public_metrics": {
+          "view_count": 9096
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078875210145792000/pl/-AuRlJuLLLBQAG7P.m3u8?v=9cd"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078875210145792000/vid/avc1/474x270/tiMo_agSBRrl4ylQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078875210145792000/vid/avc1/632x360/I1fNUZujogsLHxCz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078875210145792000/vid/avc1/1266x720/xzcjRjCSOix7Aicq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078875210145792000/vid/avc1/2076x1180/gE9AN7mdQKq7UpQi.mp4"
+          }
+        ],
+        "width": 2076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2078875369990684701",
+        "created_at": "2026-07-20T03:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079048831690322115"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "howmaker"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "923828976409198592",
+              "start": 0,
+              "username": "DplusKia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079048831690322115",
+        "in_reply_to_user_id": "923828976409198592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078875369990684701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DplusKia $howmaker"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078875210145792000"
+          ]
+        },
+        "author_id": "923828976409198592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          }
+        ],
+        "conversation_id": "2078875369990684701",
+        "created_at": "2026-07-19T16:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078875369990684701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "EWC26"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5eS3S1nR5",
+              "end": 54,
+              "expanded_url": "https://x.com/DplusKia/status/2078875369990684701/video/1",
+              "media_key": "13_2078875210145792000",
+              "start": 31,
+              "url": "https://t.co/M5eS3S1nR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078875369990684701",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 28722,
+          "like_count": 1470,
+          "quote_count": 21,
+          "reply_count": 10,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "FOREVER♾️ DK ShowMaker🩵 #EWC26 https://t.co/M5eS3S1nR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny\namab.｜BI3BXI｜赛评｜meme和日常｜电竞从业者\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11155,
+          "following_count": 4755,
+          "like_count": 52539,
+          "listed_count": 38,
+          "media_count": 5250,
+          "tweet_count": 16146
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-27T08:29:26.000Z",
+        "description": "EWC 2026 CHAMPION 🏆\n#DplusKia League of Legends Team Official X\n📩contact@dpluskia.gg I fan@dpluskia.gg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "DplusKia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "litt.ly/dpluskiagg",
+                "end": 23,
+                "expanded_url": "https://litt.ly/dpluskiagg",
+                "start": 0,
+                "url": "https://t.co/bLwI5Bdtxw"
+              }
+            ]
+          }
+        },
+        "id": "923828976409198592",
+        "name": "Dplus Kia",
+        "pinned_tweet_id": "2078869130565005811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006379883979825153/YZ-bJFDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149018,
+          "following_count": 58,
+          "like_count": 577,
+          "listed_count": 504,
+          "media_count": 3414,
+          "tweet_count": 3853
+        },
+        "url": "https://t.co/bLwI5Bdtxw",
+        "username": "DplusKia",
+        "verified": true
+      }
+    ]
+  }
+}

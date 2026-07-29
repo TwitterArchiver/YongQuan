@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2067889893452497156",
+    "created_at": "2026-06-19T14:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067974004162576503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067974004162576503",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067889893452497156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 感觉乐子人和很多心智不太成熟的跨子\n看乐子的居多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 358,
+        "media_key": "3_2067889805711835136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKe0ngbAAALsA_.png",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2067889893452497156",
+        "created_at": "2026-06-19T14:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067974004162576503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067974004162576503",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067889893452497156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 感觉乐子人和很多心智不太成熟的跨子\n看乐子的居多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067889805711835136"
+          ]
+        },
+        "author_id": "1825021494805581824",
+        "conversation_id": "2067889893452497156",
+        "created_at": "2026-06-19T08:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067889893452497156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwxiVXw4JG",
+              "end": 47,
+              "expanded_url": "https://x.com/lumuyuanMadoka2/status/2067889893452497156/photo/1",
+              "media_key": "3_2067889805711835136",
+              "start": 24,
+              "url": "https://t.co/AwxiVXw4JG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067889893452497156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 847,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家伙为什么523fo了，到底是什么人在fo他 https://t.co/AwxiVXw4JG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜主贴在亮点\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10692,
+          "following_count": 4594,
+          "like_count": 51080,
+          "listed_count": 35,
+          "media_count": 4418,
+          "tweet_count": 14637
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語を学ぶ丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 124,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 101,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2067704415671497025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 579,
+          "like_count": 20724,
+          "listed_count": 10,
+          "media_count": 456,
+          "tweet_count": 6539
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

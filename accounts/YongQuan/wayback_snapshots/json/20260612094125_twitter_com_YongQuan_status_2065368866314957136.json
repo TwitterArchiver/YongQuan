@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2064943082018410928",
+    "created_at": "2026-06-12T09:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065368866314957136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045127800324288513",
+          "start": 0,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065368866314957136",
+    "in_reply_to_user_id": "2045127800324288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943082018410928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yacht_ono 不一定人民币 我可以倒贴🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2064943082018410928",
+        "created_at": "2026-06-12T09:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065368866314957136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045127800324288513",
+              "start": 0,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065368866314957136",
+        "in_reply_to_user_id": "2045127800324288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943082018410928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yacht_ono 不一定人民币 我可以倒贴🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2064943082018410928",
+        "created_at": "2026-06-11T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943082018410928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064943082018410928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 52643,
+          "like_count": 2190,
+          "quote_count": 23,
+          "reply_count": 110,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 4538,
+          "like_count": 49846,
+          "listed_count": 32,
+          "media_count": 4207,
+          "tweet_count": 14077
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪40",
+        "name": "yacht",
+        "pinned_tweet_id": "2058824497806074128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 42,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 233
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

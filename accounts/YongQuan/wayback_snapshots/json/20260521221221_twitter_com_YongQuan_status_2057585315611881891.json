@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492293504529166341",
+          "name": "Games media"
+        }
+      }
+    ],
+    "conversation_id": "2057520155685490749",
+    "created_at": "2026-05-21T22:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T23:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057585315611881891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "76766018",
+          "start": 0,
+          "username": "Dexerto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057585315611881891",
+    "in_reply_to_user_id": "76766018",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057520155685490749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dexerto May we meet again at the far end of the brilliant galaxy, Guardian ❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2057520150346186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3HrO-XwAAeKoA.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2057520153252798464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3HrZzXIAALJ7N.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "2057520155685490749",
+        "created_at": "2026-05-21T22:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057585315611881891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "76766018",
+              "start": 0,
+              "username": "Dexerto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057585315611881891",
+        "in_reply_to_user_id": "76766018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057520155685490749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dexerto May we meet again at the far end of the brilliant galaxy, Guardian ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057520150346186752",
+            "3_2057520153252798464"
+          ]
+        },
+        "author_id": "76766018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "2057520155685490749",
+        "created_at": "2026-05-21T17:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057520155685490749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vhb86ClroF",
+              "end": 181,
+              "expanded_url": "https://x.com/Dexerto/status/2057520155685490749/photo/1",
+              "media_key": "3_2057520150346186752",
+              "start": 158,
+              "url": "https://t.co/Vhb86ClroF"
+            },
+            {
+              "display_url": "pic.x.com/Vhb86ClroF",
+              "end": 181,
+              "expanded_url": "https://x.com/Dexerto/status/2057520155685490749/photo/1",
+              "media_key": "3_2057520153252798464",
+              "start": 158,
+              "url": "https://t.co/Vhb86ClroF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057520155685490749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1302,
+          "impression_count": 747585,
+          "like_count": 16944,
+          "quote_count": 356,
+          "reply_count": 351,
+          "retweet_count": 875
+        },
+        "reply_settings": "everyone",
+        "text": "Destiny 2 has canceled all future expansions and content drops as Bungie shifts focus to its next games\n\nThe last live service update will be on June 9, 2026 https://t.co/Vhb86ClroF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9937,
+          "following_count": 4335,
+          "like_count": 46543,
+          "listed_count": 30,
+          "media_count": 3596,
+          "tweet_count": 12748
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-23T21:44:53.000Z",
+        "description": "The leading source for influencer, streamer, gaming, and viral content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dexerto.com",
+                "end": 23,
+                "expanded_url": "https://www.dexerto.com/",
+                "start": 0,
+                "url": "https://t.co/2So9UX8reR"
+              }
+            ]
+          }
+        },
+        "id": "76766018",
+        "location": "press[at]dexerto.com",
+        "name": "Dexerto",
+        "pinned_tweet_id": "2057476511108833708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714301666445402112/5U5myYFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351178,
+          "following_count": 961,
+          "like_count": 6837,
+          "listed_count": 3658,
+          "media_count": 60606,
+          "tweet_count": 137845
+        },
+        "url": "https://t.co/2So9UX8reR",
+        "username": "Dexerto",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2060574223756886515",
+    "created_at": "2026-05-30T04:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060576753719099852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        },
+        {
+          "end": 20,
+          "id": "1368897611672018953",
+          "start": 10,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576753719099852",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060574223756886515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk @XUEQIUxka 好看🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060574213455634432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJihVGpaYAA9TZi.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2060574213447290880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJihVGnbEAAFm0p.jpg",
+        "width": 848
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2060574213476638720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJihVGua4AABIv2.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2060574223756886515",
+        "created_at": "2026-05-30T04:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060576753719099852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576753719099852",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060574223756886515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk @XUEQIUxka 好看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060574213455634432",
+            "3_2060574213447290880",
+            "3_2060574213476638720"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2060574223756886515",
+        "created_at": "2026-05-30T04:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060574223756886515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1368897611672018953",
+              "start": 53,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 76,
+              "id": "1545277694325116928",
+              "start": 67,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/njQ9Po607S",
+              "end": 100,
+              "expanded_url": "https://x.com/cavityuk/status/2060574223756886515/photo/1",
+              "media_key": "3_2060574213455634432",
+              "start": 77,
+              "url": "https://t.co/njQ9Po607S"
+            },
+            {
+              "display_url": "pic.x.com/njQ9Po607S",
+              "end": 100,
+              "expanded_url": "https://x.com/cavityuk/status/2060574223756886515/photo/1",
+              "media_key": "3_2060574213447290880",
+              "start": 77,
+              "url": "https://t.co/njQ9Po607S"
+            },
+            {
+              "display_url": "pic.x.com/njQ9Po607S",
+              "end": 100,
+              "expanded_url": "https://x.com/cavityuk/status/2060574223756886515/photo/1",
+              "media_key": "3_2060574213476638720",
+              "start": 77,
+              "url": "https://t.co/njQ9Po607S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060574223756886515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hi～雪秋and铨～\n\np2可以想象是雪秋在唱歌！？\n\np3看起来是互相都想着彼此的美萌小情侣～\n\n雪秋→@XUEQIUxka \n铨→@YongQuan https://t.co/njQ9Po607S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n🏳️‍⚧️ #MtX｜reHRT：2026.5.5\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10167,
+          "following_count": 4428,
+          "like_count": 47851,
+          "listed_count": 30,
+          "media_count": 3860,
+          "tweet_count": 13318
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi\n女朋友❤️：@qusuunmd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 34,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 198
+        },
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8830,
+          "following_count": 2372,
+          "like_count": 31195,
+          "listed_count": 25,
+          "media_count": 1702,
+          "tweet_count": 5661
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

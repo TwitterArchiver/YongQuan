@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1222585775595765760",
+          "name": "Hanwha Life Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1222585775595765760",
+          "name": "Hanwha Life Esports"
+        }
+      }
+    ],
+    "conversation_id": "2057396242691604494",
+    "created_at": "2026-05-21T10:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057407174083817833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "1285050175266799616",
+          "start": 0,
+          "username": "LCK"
+        },
+        {
+          "end": 17,
+          "id": "1212980371597299714",
+          "start": 5,
+          "username": "HLEofficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057407174083817833",
+    "in_reply_to_user_id": "1285050175266799616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057396242691604494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCK @HLEofficial 正义必胜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057395460684521472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1WRVyaIAAVCg3.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          }
+        ],
+        "conversation_id": "2057396242691604494",
+        "created_at": "2026-05-21T10:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057407174083817833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "1285050175266799616",
+              "start": 0,
+              "username": "LCK"
+            },
+            {
+              "end": 17,
+              "id": "1212980371597299714",
+              "start": 5,
+              "username": "HLEofficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057407174083817833",
+        "in_reply_to_user_id": "1285050175266799616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057396242691604494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCK @HLEofficial 正义必胜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057395460684521472"
+          ]
+        },
+        "author_id": "1285050175266799616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1222585775595765760",
+              "name": "Hanwha Life Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2057396242691604494",
+        "created_at": "2026-05-21T09:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057396242691604494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "LCK"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1212980371597299714",
+              "start": 1,
+              "username": "HLEofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xov9gr14wQ",
+              "end": 66,
+              "expanded_url": "https://x.com/LCK/status/2057396242691604494/photo/1",
+              "media_key": "3_2057395460684521472",
+              "start": 43,
+              "url": "https://t.co/Xov9gr14wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057396242691604494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11462,
+          "like_count": 545,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": ".@HLEofficial bounce back with a 2-0! #LCK https://t.co/Xov9gr14wQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary\n本垢@yqua_\n爱人❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "yqua_"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9941,
+          "following_count": 4332,
+          "like_count": 46487,
+          "listed_count": 30,
+          "media_count": 3580,
+          "tweet_count": 12718
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-20T03:13:56.000Z",
+        "description": "Official Global Twitter of #LCK l Youtube: LCK Global, Twitch: LCK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "LCK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/LCKglobal",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/LCKglobal",
+                "start": 0,
+                "url": "https://t.co/3qUfKWYrCR"
+              }
+            ]
+          }
+        },
+        "id": "1285050175266799616",
+        "location": "South Korea",
+        "name": "LCK",
+        "pinned_tweet_id": "2034842442416148890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037384095341408256/c-TXNz7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358926,
+          "following_count": 122,
+          "like_count": 368,
+          "listed_count": 707,
+          "media_count": 9785,
+          "tweet_count": 14243
+        },
+        "url": "https://t.co/3qUfKWYrCR",
+        "username": "LCK",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-03T06:14:00.000Z",
+        "description": "𝐇𝐚𝐧𝐰𝐡𝐚 𝐋𝐢𝐟𝐞 𝐄𝐬𝐩𝐨𝐫𝐭𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hle.fan/community/boar…",
+                "end": 23,
+                "expanded_url": "https://hle.fan/community/board/6936392836db8475e0bf2183",
+                "start": 0,
+                "url": "https://t.co/EdwKWLksoo"
+              }
+            ]
+          }
+        },
+        "id": "1212980371597299714",
+        "name": "Hanwha Life Esports",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013439716314771456/PQ9koEnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128969,
+          "following_count": 120,
+          "like_count": 4732,
+          "listed_count": 295,
+          "media_count": 3247,
+          "tweet_count": 4856
+        },
+        "url": "https://t.co/EdwKWLksoo",
+        "username": "HLEofficial",
+        "verified": true
+      }
+    ]
+  }
+}
