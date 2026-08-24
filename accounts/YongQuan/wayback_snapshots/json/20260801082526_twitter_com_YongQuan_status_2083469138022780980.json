@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2083175848887431582",
+    "created_at": "2026-08-01T08:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469138022780980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438795521200738304",
+          "start": 0,
+          "username": "ibackle8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469138022780980",
+    "in_reply_to_user_id": "1438795521200738304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083467420677620114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ibackle8964 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2083175848887431582",
+        "created_at": "2026-08-01T08:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469138022780980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438795521200738304",
+              "start": 0,
+              "username": "ibackle8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469138022780980",
+        "in_reply_to_user_id": "1438795521200738304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083467420677620114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibackle8964 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438795521200738304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2083175848887431582",
+        "created_at": "2026-08-01T08:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083467420677620114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083467420677620114",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083175848887431582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 第一次有一个报纸，首页不是傻逼习近平，这很新鲜。所以值得收藏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11330,
+          "following_count": 4788,
+          "like_count": 52851,
+          "listed_count": 40,
+          "media_count": 5492,
+          "tweet_count": 16462
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-17T09:23:36.000Z",
+        "description": "本人梁家河清华博士 青年时候读过很多书皮.\n有了思考，就有了敌人\n跟我一起查杀自己脑内的中国余毒 很多人出了国很久还是有余毒 可见中国洗脑的威力.\n没有天堂，但是有的地方是地狱.\n建议所有推友使用安全软件:KeePass密码 VeraCrypt加密 CCleaner Eraser清理 欢迎给我推荐更好的",
+        "id": "1438795521200738304",
+        "location": "your heart❤🎄✨🎄😶😑🤐",
+        "name": "喝水的时候别看我头像☝️😅爱党的一律拉进贵州大巴【本人梁家河清华博士，青年时候读过很多书皮",
+        "pinned_tweet_id": "1597606226719817731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598673384463745024/6sGNE5iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 2045,
+          "like_count": 16784,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 14255
+        },
+        "url": "",
+        "username": "ibackle8964",
+        "verified": false
+      }
+    ]
+  }
+}

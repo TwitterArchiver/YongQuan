@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2089754779627257948",
+    "created_at": "2026-08-18T16:42:40.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089754864893001979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363074176706297857",
+          "start": 0,
+          "username": "lucelove8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089754864893001979",
+    "in_reply_to_user_id": "1363074176706297857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089754779627257948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucelove8 姐姐好看🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1741,
+        "media_key": "3_2089754776510812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBM5bGaUAAzaq9.jpg",
+        "width": 1014
+      },
+      {
+        "height": 1715,
+        "media_key": "3_2089754776850644993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBM5cXbwAEOTyS.jpg",
+        "width": 999
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2089754777072926721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBM5dMbgAEiq-k.jpg",
+        "width": 1042
+      },
+      {
+        "height": 1783,
+        "media_key": "3_2089754777043558400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBM5dFbYAAPc6Z.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2089754779627257948",
+        "created_at": "2026-08-18T16:42:40.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089754864893001979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1363074176706297857",
+              "start": 0,
+              "username": "lucelove8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089754864893001979",
+        "in_reply_to_user_id": "1363074176706297857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089754779627257948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucelove8 姐姐好看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089754776510812160",
+            "3_2089754776850644993",
+            "3_2089754777072926721",
+            "3_2089754777043558400"
+          ]
+        },
+        "author_id": "1363074176706297857",
+        "conversation_id": "2089754779627257948",
+        "created_at": "2026-08-18T16:42:19.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089754779627257948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "天津伪娘"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "天津cd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwgaVd7Vhp",
+              "end": 36,
+              "expanded_url": "https://x.com/lucelove8/status/2089754779627257948/photo/1",
+              "media_key": "3_2089754776510812160",
+              "start": 13,
+              "url": "https://t.co/nwgaVd7Vhp"
+            },
+            {
+              "display_url": "pic.x.com/nwgaVd7Vhp",
+              "end": 36,
+              "expanded_url": "https://x.com/lucelove8/status/2089754779627257948/photo/1",
+              "media_key": "3_2089754776850644993",
+              "start": 13,
+              "url": "https://t.co/nwgaVd7Vhp"
+            },
+            {
+              "display_url": "pic.x.com/nwgaVd7Vhp",
+              "end": 36,
+              "expanded_url": "https://x.com/lucelove8/status/2089754779627257948/photo/1",
+              "media_key": "3_2089754777072926721",
+              "start": 13,
+              "url": "https://t.co/nwgaVd7Vhp"
+            },
+            {
+              "display_url": "pic.x.com/nwgaVd7Vhp",
+              "end": 36,
+              "expanded_url": "https://x.com/lucelove8/status/2089754779627257948/photo/1",
+              "media_key": "3_2089754777043558400",
+              "start": 13,
+              "url": "https://t.co/nwgaVd7Vhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089754779627257948",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089754776510812160"
+          },
+          {
+            "media_key": "3_2089754776850644993"
+          },
+          {
+            "media_key": "3_2089754777072926721"
+          },
+          {
+            "media_key": "3_2089754777043558400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃天津伪娘 \n＃天津cd https://t.co/nwgaVd7Vhp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2089754864893001979",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11609,
+          "following_count": 4851,
+          "like_count": 54050,
+          "listed_count": 42,
+          "media_count": 5902,
+          "tweet_count": 17031
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T10:33:12.000Z",
+        "description": "110kg，肥仔，伪娘，022，欢迎支持与投喂",
+        "id": "1363074176706297857",
+        "is_identity_verified": false,
+        "location": "Tianjin",
+        "most_recent_tweet_id": "2089754779627257948",
+        "name": "露澈luce",
+        "pinned_tweet_id": "2033174835166388688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363074176706297857/1739125474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952337659889868800/z7KAOssD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 956,
+          "like_count": 275,
+          "listed_count": 21,
+          "media_count": 423,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "lucelove8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

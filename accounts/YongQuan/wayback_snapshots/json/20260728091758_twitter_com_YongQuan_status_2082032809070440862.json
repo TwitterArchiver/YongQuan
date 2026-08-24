@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2081725986089980102",
+    "created_at": "2026-07-28T09:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082032809070440862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        },
+        {
+          "end": 21,
+          "id": "1022507564829999104",
+          "start": 7,
+          "username": "WolvesEsports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082032809070440862",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082019254543753471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp @WolvesEsports -noname\n+nomoney"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2081725986089980102",
+        "created_at": "2026-07-28T09:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082032809070440862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            },
+            {
+              "end": 21,
+              "id": "1022507564829999104",
+              "start": 7,
+              "username": "WolvesEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082032809070440862",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082019254543753471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp @WolvesEsports -noname\n+nomoney"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2081725986089980102",
+        "created_at": "2026-07-28T08:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082019254543753471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1022507564829999104",
+              "start": 0,
+              "username": "WolvesEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082019254543753471",
+        "in_reply_to_user_id": "1022507564829999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081725986089980102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WolvesEsports 狼队管理层你妈死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11269,
+          "following_count": 4773,
+          "like_count": 52698,
+          "listed_count": 40,
+          "media_count": 5418,
+          "tweet_count": 16354
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我想写什么写什么",
+        "id": "1566739868688199680",
+        "location": "Header Nov.2023 PFP By@rytuwil",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079198007095136256/z_7lzrk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 941,
+          "like_count": 267278,
+          "listed_count": 5,
+          "media_count": 696,
+          "tweet_count": 17502
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-26T15:42:55.000Z",
+        "description": "x35 Champions || Global esports team competing in Valorant, Call of Duty Mobile, Honor of Kings, PUBG Mobile, Street Fighter and more!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.wolves.co.uk/clothing/colle…",
+                "end": 23,
+                "expanded_url": "https://shop.wolves.co.uk/clothing/collections/esports/?utm_source=Twitter&utm_medium=Social&utm_cam",
+                "start": 0,
+                "url": "https://t.co/5kT8I2Xq0N"
+              }
+            ]
+          }
+        },
+        "id": "1022507564829999104",
+        "location": "Wolverhampton, England ",
+        "name": "Wolves Esports",
+        "pinned_tweet_id": "1927365165814513923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521841511071195136/EqqIR9bL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34643,
+          "following_count": 341,
+          "like_count": 15488,
+          "listed_count": 88,
+          "media_count": 7404,
+          "tweet_count": 15177
+        },
+        "url": "https://t.co/5kT8I2Xq0N",
+        "username": "WolvesEsports",
+        "verified": true
+      }
+    ]
+  }
+}

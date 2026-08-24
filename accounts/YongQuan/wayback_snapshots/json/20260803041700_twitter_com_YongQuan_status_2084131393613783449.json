@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083906573668388864"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2084131393613783449",
+    "created_at": "2026-08-03T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084131393613783449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQ2mBb92Ma",
+          "end": 70,
+          "expanded_url": "https://x.com/YongQuan/status/2084131393613783449/photo/1",
+          "media_key": "3_2083906573668388864",
+          "start": 47,
+          "url": "https://t.co/jQ2mBb92Ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084131393613783449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2021年的那个夏天雪王洪水捐款，大家激情下单，洪水导致物流到货不及时 门店所有产品都卖完了 https://t.co/jQ2mBb92Ma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2083906573668388864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuF_NybEAArmjr.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083906573668388864"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2084131393613783449",
+        "created_at": "2026-08-03T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084131393613783449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQ2mBb92Ma",
+              "end": 70,
+              "expanded_url": "https://x.com/YongQuan/status/2084131393613783449/photo/1",
+              "media_key": "3_2083906573668388864",
+              "start": 47,
+              "url": "https://t.co/jQ2mBb92Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084131393613783449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2021年的那个夏天雪王洪水捐款，大家激情下单，洪水导致物流到货不及时 门店所有产品都卖完了 https://t.co/jQ2mBb92Ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日记本@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11452,
+          "following_count": 4786,
+          "like_count": 52926,
+          "listed_count": 40,
+          "media_count": 5527,
+          "tweet_count": 16511
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2089376063621308705",
+    "created_at": "2026-08-18T03:01:29.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089548207994937456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071552995691732993",
+          "start": 0,
+          "username": "YuXi520LingLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089548207994937456",
+    "in_reply_to_user_id": "2071552995691732993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089376063621308705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520LingLing 羡慕🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20111,
+        "height": 1280,
+        "media_key": "13_2089375965503967232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089375965503967232/img/zxA176MRbwEJv5Fg.jpg",
+        "public_metrics": {
+          "view_count": 204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089375965503967232/vid/avc1/320x568/O5-DPkzrWom2adVg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089375965503967232/vid/avc1/480x852/ka3fJUOeYWe05O23.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089375965503967232/vid/avc1/720x1280/bYqSsjEvQ3Y5DLna.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089375965503967232/pl/y5jVYoWx5LDgq9bZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2089376063621308705",
+        "created_at": "2026-08-18T03:01:29.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089548207994937456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071552995691732993",
+              "start": 0,
+              "username": "YuXi520LingLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089548207994937456",
+        "in_reply_to_user_id": "2071552995691732993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089376063621308705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520LingLing 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089375965503967232"
+          ]
+        },
+        "author_id": "2071552995691732993",
+        "conversation_id": "2089376063621308705",
+        "created_at": "2026-08-17T15:37:26.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089376063621308705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOB4q4yfe9",
+              "end": 99,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2089376063621308705/video/1",
+              "media_key": "13_2089375965503967232",
+              "start": 76,
+              "url": "https://t.co/iOB4q4yfe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089376063621308705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089375965503967232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔唔…..今天工作證明出來惹….過幾天有空了就去辦一張自己的手機卡還有銀行卡嘿嘿….再給大家看看語汐的办公室，嗚嗚老闆已經下班惹….語汐還要加班qwq https://t.co/iOB4q4yfe9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2089548207994937456",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11594,
+          "following_count": 4852,
+          "like_count": 53999,
+          "listed_count": 42,
+          "media_count": 5888,
+          "tweet_count": 17006
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜看成分回fo\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2089521902650011812",
+        "name": "语汐汐喵🍥",
+        "pinned_tweet_id": "2085887406906192129",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071552995691732993/1785931233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088980358335447040/TySiQZFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 414,
+          "like_count": 157,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

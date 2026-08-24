@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088314525057740800",
+        "3_2088314537753882624"
+      ],
+      "media_source_tweet_id": [
+        "2088314546910097847",
+        "2088314546910097847"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2088314650953924931",
+    "created_at": "2026-08-14T17:19:46.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088314650953924931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzTGVOMrfs",
+          "end": 48,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+          "media_key": "3_2088314525057740800",
+          "start": 25,
+          "url": "https://t.co/gzTGVOMrfs"
+        },
+        {
+          "display_url": "pic.x.com/gzTGVOMrfs",
+          "end": 48,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+          "media_key": "3_2088314537753882624",
+          "start": 25,
+          "url": "https://t.co/gzTGVOMrfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088314650953924931",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088314525057740800"
+      },
+      {
+        "media_key": "3_2088314537753882624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088314546910097847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088314525057740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsu_wVa8AAFvWI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088314537753882624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsvAfoasAA5ezt.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314525057740800",
+            "3_2088314537753882624"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2088314546910097847",
+        "created_at": "2026-08-14T17:19:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314546910097847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314525057740800",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            },
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314537753882624",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2088314546910097847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314525057740800"
+          },
+          {
+            "media_key": "3_2088314537753882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314525057740800",
+            "3_2088314537753882624"
+          ],
+          "media_source_tweet_id": [
+            "2088314546910097847",
+            "2088314546910097847"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2088314650953924931",
+        "created_at": "2026-08-14T17:19:46.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088314650953924931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 48,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314525057740800",
+              "start": 25,
+              "url": "https://t.co/gzTGVOMrfs"
+            },
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 48,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314537753882624",
+              "start": 25,
+              "url": "https://t.co/gzTGVOMrfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088314650953924931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314525057740800"
+          },
+          {
+            "media_key": "3_2088314537753882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088314546910097847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2088314650953924931",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11554,
+          "following_count": 4841,
+          "like_count": 53808,
+          "listed_count": 42,
+          "media_count": 5805,
+          "tweet_count": 16893
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2088314546910097847",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9797,
+          "following_count": 2350,
+          "like_count": 33643,
+          "listed_count": 25,
+          "media_count": 1670,
+          "tweet_count": 6018
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

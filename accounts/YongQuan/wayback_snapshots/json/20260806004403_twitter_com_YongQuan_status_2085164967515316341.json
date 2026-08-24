@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2084859808864498064",
+    "created_at": "2026-08-06T00:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085164967515316341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738640912564297728",
+          "start": 0,
+          "username": "GalileoMoon"
+        },
+        {
+          "end": 20,
+          "id": "1902568136450424832",
+          "start": 13,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085164967515316341",
+    "in_reply_to_user_id": "1738640912564297728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085022810263720377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@GalileoMoon @aoim33 因为西青老坦儿确实多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2084859808864498064",
+        "created_at": "2026-08-06T00:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085164967515316341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738640912564297728",
+              "start": 0,
+              "username": "GalileoMoon"
+            },
+            {
+              "end": 20,
+              "id": "1902568136450424832",
+              "start": 13,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085164967515316341",
+        "in_reply_to_user_id": "1738640912564297728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085022810263720377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@GalileoMoon @aoim33 因为西青老坦儿确实多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738640912564297728",
+        "conversation_id": "2084859808864498064",
+        "created_at": "2026-08-05T15:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085022810263720377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085022810263720377",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084859808864498064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 怎麼還有老坦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11491,
+          "following_count": 4788,
+          "like_count": 53038,
+          "listed_count": 40,
+          "media_count": 5599,
+          "tweet_count": 16600
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-23T19:21:20.000Z",
+        "description": "相顧無言，惟有淚千行。",
+        "id": "1738640912564297728",
+        "name": "顧言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048070800398520320/MuMJq49R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "GalileoMoon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6723,
+          "following_count": 3193,
+          "like_count": 58494,
+          "listed_count": 21,
+          "media_count": 3787,
+          "tweet_count": 15204
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

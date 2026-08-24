@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087431037492326401"
+      ],
+      "media_source_tweet_id": [
+        "2087431050117226661"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2087443703677714837",
+    "created_at": "2026-08-12T07:38:56.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087443703677714837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2083431637027823616",
+          "start": 3,
+          "username": "oczicl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzEsgidJNJ",
+          "end": 65,
+          "expanded_url": "https://x.com/oczicl/status/2087431050117226661/photo/1",
+          "media_key": "3_2087431037492326401",
+          "start": 42,
+          "url": "https://t.co/wzEsgidJNJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087443703677714837",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087431037492326401"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087431050117226661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oczicl: 宝子们感谢你们对清秋酱的喜爱，愿你们事事平安，所愿皆所得。 https://t.co/wzEsgidJNJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2087431037492326401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgLeAra8AEyF1Z.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087431037492326401"
+          ]
+        },
+        "author_id": "2083431637027823616",
+        "conversation_id": "2087431050117226661",
+        "created_at": "2026-08-12T06:48:39.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087431050117226661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzEsgidJNJ",
+              "end": 53,
+              "expanded_url": "https://x.com/oczicl/status/2087431050117226661/photo/1",
+              "media_key": "3_2087431037492326401",
+              "start": 30,
+              "url": "https://t.co/wzEsgidJNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087431050117226661",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087431037492326401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝子们感谢你们对清秋酱的喜爱，愿你们事事平安，所愿皆所得。 https://t.co/wzEsgidJNJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087431037492326401"
+          ],
+          "media_source_tweet_id": [
+            "2087431050117226661"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2087443703677714837",
+        "created_at": "2026-08-12T07:38:56.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087443703677714837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083431637027823616",
+              "start": 3,
+              "username": "oczicl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzEsgidJNJ",
+              "end": 65,
+              "expanded_url": "https://x.com/oczicl/status/2087431050117226661/photo/1",
+              "media_key": "3_2087431037492326401",
+              "start": 42,
+              "url": "https://t.co/wzEsgidJNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087443703677714837",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087431037492326401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087431050117226661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oczicl: 宝子们感谢你们对清秋酱的喜爱，愿你们事事平安，所愿皆所得。 https://t.co/wzEsgidJNJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2087443703677714837",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11518,
+          "following_count": 4833,
+          "like_count": 53647,
+          "listed_count": 42,
+          "media_count": 5747,
+          "tweet_count": 16812
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "药娘世家|出厂日期2008.7.9|🍥2026.6.3|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|家长党|不抽烟不喝酒的好孩子🤓讽刺家与小说家|希望能救大家|知心伙伴\n🐧3866066283",
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087436635034050633",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2087043680653971482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 185,
+          "like_count": 617,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

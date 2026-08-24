@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2088409835381370935",
+    "created_at": "2026-08-15T13:14:04.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088615208436863398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047484170876706816",
+          "start": 0,
+          "username": "Aiyutoushushu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088615208436863398",
+    "in_reply_to_user_id": "2047484170876706816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088438573049766143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aiyutoushushu 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2088409835381370935",
+        "created_at": "2026-08-15T13:14:04.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088615208436863398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047484170876706816",
+              "start": 0,
+              "username": "Aiyutoushushu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088615208436863398",
+        "in_reply_to_user_id": "2047484170876706816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088438573049766143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aiyutoushushu 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047484170876706816",
+        "conversation_id": "2088409835381370935",
+        "created_at": "2026-08-15T01:32:11.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088438573049766143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088438573049766143",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40912,
+          "like_count": 223,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088409835381370935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 这钱花得比火箭还快，值了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2088615208436863398",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11565,
+          "following_count": 4841,
+          "like_count": 53837,
+          "listed_count": 42,
+          "media_count": 5825,
+          "tweet_count": 16921
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T01:15:55.000Z",
+        "description": "分享低分辨率抽象视频、低分辨率抽象老图\n#搞笑图片  |  #沙雕段子  | #沙雕视频 ｜#吊图｜#抽象派｜#怪诞抽象大师｜#荒诞储存库 | #低分辨率视频\n更新随缘但绝不鸽！如有侵权请私我，爱你！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "搞笑图片"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "沙雕段子"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "沙雕视频"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "吊图"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "抽象派"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "怪诞抽象大师"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "荒诞储存库"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "低分辨率视频"
+              }
+            ]
+          }
+        },
+        "id": "2047484170876706816",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088614230937501849",
+        "name": "田园抽象艺术家",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047484170876706816/1779851641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059473161645871104/c49Lb0gI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 4522,
+          "like_count": 13967,
+          "listed_count": 6,
+          "media_count": 1013,
+          "tweet_count": 26813
+        },
+        "url": "",
+        "username": "Aiyutoushushu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

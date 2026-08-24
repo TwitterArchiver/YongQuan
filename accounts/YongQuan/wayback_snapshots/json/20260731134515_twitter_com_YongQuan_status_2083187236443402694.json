@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083182947721723904"
+      ],
+      "media_source_tweet_id": [
+        "2083182959419642221"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2083187236443402694",
+    "created_at": "2026-07-31T13:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083187236443402694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982374415213142016",
+          "start": 3,
+          "username": "larac_neo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQHivK2eeZ",
+          "end": 84,
+          "expanded_url": "https://x.com/larac_neo/status/2083182959419642221/photo/1",
+          "media_key": "3_2083182947721723904",
+          "start": 61,
+          "url": "https://t.co/gQHivK2eeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083187236443402694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083182959419642221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @larac_neo: GEN成T1的充电宝了，以前是除了GEN谁都能打过，现在是只能打过GEN，其它都打不过了。 https://t.co/gQHivK2eeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2566,
+        "media_key": "3_2083182947721723904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjz2pEawAAPMWr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083182947721723904"
+          ]
+        },
+        "author_id": "1982374415213142016",
+        "conversation_id": "2083182959419642221",
+        "created_at": "2026-07-31T13:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083182959419642221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQHivK2eeZ",
+              "end": 69,
+              "expanded_url": "https://x.com/larac_neo/status/2083182959419642221/photo/1",
+              "media_key": "3_2083182947721723904",
+              "start": 46,
+              "url": "https://t.co/gQHivK2eeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083182959419642221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "GEN成T1的充电宝了，以前是除了GEN谁都能打过，现在是只能打过GEN，其它都打不过了。 https://t.co/gQHivK2eeZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083182947721723904"
+          ],
+          "media_source_tweet_id": [
+            "2083182959419642221"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2083187236443402694",
+        "created_at": "2026-07-31T13:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083187236443402694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982374415213142016",
+              "start": 3,
+              "username": "larac_neo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQHivK2eeZ",
+              "end": 84,
+              "expanded_url": "https://x.com/larac_neo/status/2083182959419642221/photo/1",
+              "media_key": "3_2083182947721723904",
+              "start": 61,
+              "url": "https://t.co/gQHivK2eeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083187236443402694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083182959419642221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @larac_neo: GEN成T1的充电宝了，以前是除了GEN谁都能打过，现在是只能打过GEN，其它都打不过了。 https://t.co/gQHivK2eeZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11317,
+          "following_count": 4777,
+          "like_count": 52793,
+          "listed_count": 40,
+          "media_count": 5481,
+          "tweet_count": 16439
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T09:11:21.000Z",
+        "description": "",
+        "id": "1982374415213142016",
+        "name": "风之哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075221969084276736/zY4iXgJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1329,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "larac_neo",
+        "verified": true
+      }
+    ]
+  }
+}

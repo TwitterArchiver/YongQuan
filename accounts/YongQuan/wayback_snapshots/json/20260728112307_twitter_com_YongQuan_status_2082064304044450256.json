@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2082053339504906302",
+    "created_at": "2026-07-28T11:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082064304044450256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082064304044450256",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082053339504906302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2082053334673039360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwegiaoAAz_pW.jpg",
+        "width": 750
+      },
+      {
+        "height": 750,
+        "media_key": "3_2082053335662972928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwekOb0AAmmRc.jpg",
+        "width": 750
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2082053336807907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTweofaIAASyyz.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2082053339504906302",
+        "created_at": "2026-07-28T11:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082064304044450256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064304044450256",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082053339504906302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082053334673039360",
+            "3_2082053335662972928",
+            "3_2082053336807907328"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2082053339504906302",
+        "created_at": "2026-07-28T10:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082053339504906302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43XAqk512M",
+              "end": 30,
+              "expanded_url": "https://x.com/cavityuk/status/2082053339504906302/photo/1",
+              "media_key": "3_2082053334673039360",
+              "start": 7,
+              "url": "https://t.co/43XAqk512M"
+            },
+            {
+              "display_url": "pic.x.com/43XAqk512M",
+              "end": 30,
+              "expanded_url": "https://x.com/cavityuk/status/2082053339504906302/photo/1",
+              "media_key": "3_2082053335662972928",
+              "start": 7,
+              "url": "https://t.co/43XAqk512M"
+            },
+            {
+              "display_url": "pic.x.com/43XAqk512M",
+              "end": 30,
+              "expanded_url": "https://x.com/cavityuk/status/2082053339504906302/photo/1",
+              "media_key": "3_2082053336807907328",
+              "start": 7,
+              "url": "https://t.co/43XAqk512M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082053339504906302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎨\noc无偿 https://t.co/43XAqk512M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11265,
+          "following_count": 4771,
+          "like_count": 52702,
+          "listed_count": 40,
+          "media_count": 5420,
+          "tweet_count": 16358
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！‖素散架的高中生……‖2010.8 ♍‖ENTP🧩‖泛性恋🩷💛🩵‖🏳️‍🌈LGBTQ+友好‖找不到我就是在画画画🎨……（绝不是在学习‖💓女朋友❤️：@qusuunmd 💓‖ ⚠️我是好孩子不约不卖！不约不卖！不约不卖！不要来找我！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "屿谙想喝氵",
+        "pinned_tweet_id": "2067197815055684015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 44,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

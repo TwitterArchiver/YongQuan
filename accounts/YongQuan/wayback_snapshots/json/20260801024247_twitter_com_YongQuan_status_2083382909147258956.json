@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083193617380986880"
+      ],
+      "media_source_tweet_id": [
+        "2083193623190135209"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2083382909147258956",
+    "created_at": "2026-08-01T02:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083382909147258956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usu2c7dqQq",
+          "end": 41,
+          "expanded_url": "https://x.com/hsgmxz/status/2083193623190135209/photo/1",
+          "media_key": "3_2083193617380986880",
+          "start": 18,
+          "url": "https://t.co/usu2c7dqQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083382909147258956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083193623190135209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 这个问卷😭 https://t.co/usu2c7dqQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_2083193617380986880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9jspa0AANDge.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083193617380986880"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "conversation_id": "2083193623190135209",
+        "created_at": "2026-07-31T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083193623190135209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usu2c7dqQq",
+              "end": 29,
+              "expanded_url": "https://x.com/hsgmxz/status/2083193623190135209/photo/1",
+              "media_key": "3_2083193617380986880",
+              "start": 6,
+              "url": "https://t.co/usu2c7dqQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193623190135209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2468,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个问卷😭 https://t.co/usu2c7dqQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083193617380986880"
+          ],
+          "media_source_tweet_id": [
+            "2083193623190135209"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2083382909147258956",
+        "created_at": "2026-08-01T02:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083382909147258956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usu2c7dqQq",
+              "end": 41,
+              "expanded_url": "https://x.com/hsgmxz/status/2083193623190135209/photo/1",
+              "media_key": "3_2083193617380986880",
+              "start": 18,
+              "url": "https://t.co/usu2c7dqQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083382909147258956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083193623190135209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 这个问卷😭 https://t.co/usu2c7dqQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11323,
+          "following_count": 4790,
+          "like_count": 52810,
+          "listed_count": 40,
+          "media_count": 5487,
+          "tweet_count": 16450
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|小证含🍥|初音ミク大好き|2011.1.24|同类互fo|社恐|重焦重郁|intp-t|三好跨喵|家长党|匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 138,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 115,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2083169326090387860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1215,
+          "like_count": 10099,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": true
+      }
+    ]
+  }
+}

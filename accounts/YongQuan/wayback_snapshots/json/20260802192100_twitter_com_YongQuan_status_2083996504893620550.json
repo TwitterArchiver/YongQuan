@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083904145615093760"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2083996504893620550",
+    "created_at": "2026-08-02T19:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083996504893620550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkSPNVTukR",
+          "end": 33,
+          "expanded_url": "https://x.com/YongQuan/status/2083996504893620550/photo/1",
+          "media_key": "3_2083904145615093760",
+          "start": 10,
+          "url": "https://t.co/dkSPNVTukR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083996504893620550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么比家里的床舒服 https://t.co/dkSPNVTukR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083904145615093760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuDx4laAAAK4oU.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083904145615093760"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2083996504893620550",
+        "created_at": "2026-08-02T19:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083996504893620550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkSPNVTukR",
+              "end": 33,
+              "expanded_url": "https://x.com/YongQuan/status/2083996504893620550/photo/1",
+              "media_key": "3_2083904145615093760",
+              "start": 10,
+              "url": "https://t.co/dkSPNVTukR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083996504893620550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么比家里的床舒服 https://t.co/dkSPNVTukR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny｜小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "RenYueAny"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11443,
+          "following_count": 4783,
+          "like_count": 52913,
+          "listed_count": 40,
+          "media_count": 5518,
+          "tweet_count": 16501
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

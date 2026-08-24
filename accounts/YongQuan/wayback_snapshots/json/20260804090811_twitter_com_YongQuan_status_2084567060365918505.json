@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084566974344916993"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2084204429272879118",
+    "created_at": "2026-08-04T09:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084567060365918505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRMrk4FdCh",
+          "end": 47,
+          "expanded_url": "https://x.com/YongQuan/status/2084567060365918505/photo/1",
+          "media_key": "3_2084566974344916993",
+          "start": 24,
+          "url": "https://t.co/cRMrk4FdCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084567060365918505",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084204429272879118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 我想 我们可以谈一下合作（？ https://t.co/cRMrk4FdCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2084566974344916993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3enmBW8AEch_P.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2084204389779251200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU2ZQaIAAY1-s.jpg",
+        "width": 1920
+      },
+      {
+        "height": 763,
+        "media_key": "3_2084204407470829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU3bKaMAAUyTw.jpg",
+        "width": 1268
+      },
+      {
+        "height": 449,
+        "media_key": "3_2084204420729053185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU4MjaoAEJF1Y.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084566974344916993"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2084204429272879118",
+        "created_at": "2026-08-04T09:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084567060365918505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRMrk4FdCh",
+              "end": 47,
+              "expanded_url": "https://x.com/YongQuan/status/2084567060365918505/photo/1",
+              "media_key": "3_2084566974344916993",
+              "start": 24,
+              "url": "https://t.co/cRMrk4FdCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567060365918505",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084204429272879118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 我想 我们可以谈一下合作（？ https://t.co/cRMrk4FdCh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084204389779251200",
+            "3_2084204407470829568",
+            "3_2084204420729053185"
+          ]
+        },
+        "author_id": "1605724119156260866",
+        "conversation_id": "2084204429272879118",
+        "created_at": "2026-08-03T09:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084204429272879118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204389779251200",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            },
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204407470829568",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            },
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204420729053185",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084204429272879118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 20960,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也是个神人了\n南梁软件开发工作室\n据我朋友说 应该把软件去掉 或者把软件换成后端具体变成什么名字 你们就脑补一下\n之所以不再开一家公司 是因为个体工商户不用报税，免税额度也挺大的 https://t.co/339VXntTRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日记本@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11477,
+          "following_count": 4785,
+          "like_count": 52975,
+          "listed_count": 40,
+          "media_count": 5559,
+          "tweet_count": 16547
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 125,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 339,
+          "like_count": 11387,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2083942769869889745",
+    "created_at": "2026-08-02T15:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083942769869889745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekonoct/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nekonoct/status/2083871978851844129",
+          "start": 14,
+          "url": "https://t.co/uD2c98oKN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083942769869889745",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083871978851844129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "iHateTheWorld https://t.co/uD2c98oKN9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2083942769869889745",
+        "created_at": "2026-08-02T15:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083942769869889745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekonoct/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nekonoct/status/2083871978851844129",
+              "start": 14,
+              "url": "https://t.co/uD2c98oKN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083942769869889745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083871978851844129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "iHateTheWorld https://t.co/uD2c98oKN9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233598865028403201",
+        "conversation_id": "2083871978851844129",
+        "created_at": "2026-08-02T11:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083871978851844129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zhixiang_tih/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Zhixiang_tih/status/2083866888929730886",
+              "start": 14,
+              "url": "https://t.co/6AD2dV0fov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083871978851844129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083866888929730886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "iHateTheWorld https://t.co/6AD2dV0fov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny｜小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "RenYueAny"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11438,
+          "following_count": 4793,
+          "like_count": 52912,
+          "listed_count": 40,
+          "media_count": 5514,
+          "tweet_count": 16497
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-29T03:45:25.000Z",
+        "description": "😾 哈气米 | 🐱 热爱猫咪的幽默摄影师 | 📷 记录生活中的小确幸 | 🤔 对技术与游戏充满好奇 | 🎮 喜欢分享趣事与日常 | Feel free to DM me 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stats.snnetwork.top",
+                "end": 23,
+                "expanded_url": "https://stats.snnetwork.top/",
+                "start": 0,
+                "url": "https://t.co/fHLfLuuddo"
+              }
+            ]
+          }
+        },
+        "id": "1233598865028403201",
+        "location": "你再看看你后面呢",
+        "name": "星韵猫猫",
+        "pinned_tweet_id": "2062962543166124494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014337648798621697/HqlSPz4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 725,
+          "like_count": 71929,
+          "listed_count": 5,
+          "media_count": 641,
+          "tweet_count": 11235
+        },
+        "url": "https://t.co/fHLfLuuddo",
+        "username": "NekoNoct",
+        "verified": false
+      }
+    ]
+  }
+}

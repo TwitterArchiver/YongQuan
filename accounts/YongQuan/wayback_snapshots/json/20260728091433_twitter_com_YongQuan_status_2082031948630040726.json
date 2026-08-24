@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "2081725986089980102",
+    "created_at": "2026-07-28T09:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082031948630040726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1022507564829999104",
+          "start": 0,
+          "username": "WolvesEsports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082031948630040726",
+    "in_reply_to_user_id": "1022507564829999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081725986089980102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WolvesEsports 狼队管理层就是这样的 隔壁Varolant和王者荣耀也是，成绩好加上不夺冠就把大腿踢了\n听说狼队管理层就是靠关系混上去的\n反正是纯唐逼\n要踢也是踢最弱的那个\n踢大腿完全没有任何逻辑\n看不懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2081725980263972864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPGv-VWAAARK6y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2081725986089980102",
+        "created_at": "2026-07-28T09:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082031948630040726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1022507564829999104",
+              "start": 0,
+              "username": "WolvesEsports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082031948630040726",
+        "in_reply_to_user_id": "1022507564829999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081725986089980102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WolvesEsports 狼队管理层就是这样的 隔壁Varolant和王者荣耀也是，成绩好加上不夺冠就把大腿踢了\n听说狼队管理层就是靠关系混上去的\n反正是纯唐逼\n要踢也是踢最弱的那个\n踢大腿完全没有任何逻辑\n看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081725980263972864"
+          ]
+        },
+        "author_id": "1022507564829999104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Nothing is granted. The EWC is a life-changing, 7-week esports event that features the world's best competition.\n\nWatch history unfold from July 6th to August 23rd.",
+              "id": "2064379488012582912",
+              "name": "This is EWC 2026 Paris"
+            }
+          }
+        ],
+        "conversation_id": "2081725986089980102",
+        "created_at": "2026-07-27T12:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081725986089980102"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "ALGS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bkamBDeqv",
+              "end": 68,
+              "expanded_url": "https://x.com/WolvesEsports/status/2081725986089980102/photo/1",
+              "media_key": "3_2081725980263972864",
+              "start": 45,
+              "url": "https://t.co/1bkamBDeqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081725986089980102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 40210,
+          "like_count": 467,
+          "quote_count": 19,
+          "reply_count": 14,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you for everything noname 🫡🙇‍♂️\n\n#ALGS https://t.co/1bkamBDeqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11276,
+          "following_count": 4775,
+          "like_count": 52694,
+          "listed_count": 40,
+          "media_count": 5418,
+          "tweet_count": 16350
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-26T15:42:55.000Z",
+        "description": "x35 Champions || Global esports team competing in Valorant, Call of Duty Mobile, Honor of Kings, PUBG Mobile, Street Fighter and more!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.wolves.co.uk/clothing/colle…",
+                "end": 23,
+                "expanded_url": "https://shop.wolves.co.uk/clothing/collections/esports/?utm_source=Twitter&utm_medium=Social&utm_cam",
+                "start": 0,
+                "url": "https://t.co/5kT8I2Xq0N"
+              }
+            ]
+          }
+        },
+        "id": "1022507564829999104",
+        "location": "Wolverhampton, England ",
+        "name": "Wolves Esports",
+        "pinned_tweet_id": "1927365165814513923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521841511071195136/EqqIR9bL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34643,
+          "following_count": 341,
+          "like_count": 15488,
+          "listed_count": 88,
+          "media_count": 7404,
+          "tweet_count": 15177
+        },
+        "url": "https://t.co/5kT8I2Xq0N",
+        "username": "WolvesEsports",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2082053834797715835",
+    "created_at": "2026-07-28T11:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082064457522422232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345706318703722496",
+          "start": 0,
+          "username": "OriyukiAkari"
+        },
+        {
+          "end": 20,
+          "id": "1823331804902051841",
+          "start": 14,
+          "username": "0z5aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082064457522422232",
+    "in_reply_to_user_id": "1345706318703722496",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082053834797715835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OriyukiAkari @0z5aa xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2082053824186032128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTw7AHaIAARa5t.jpg",
+        "width": 3131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2082053834797715835",
+        "created_at": "2026-07-28T11:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082064457522422232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            },
+            {
+              "end": 20,
+              "id": "1823331804902051841",
+              "start": 14,
+              "username": "0z5aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064457522422232",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082053834797715835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OriyukiAkari @0z5aa xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082053824186032128"
+          ]
+        },
+        "author_id": "1345706318703722496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082053834797715835",
+        "created_at": "2026-07-28T10:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082053834797715835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1823331804902051841",
+              "start": 1,
+              "username": "0z5aa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGihnpDz1j",
+              "end": 83,
+              "expanded_url": "https://x.com/OriyukiAkari/status/2082053834797715835/photo/1",
+              "media_key": "3_2082053824186032128",
+              "start": 60,
+              "url": "https://t.co/EGihnpDz1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082053834797715835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和@0z5aa 在万达广场的奈雪\n推销员：你们两个是姐妹吗？\n某人：你pass了，我：？\n现场保持着一个非常难绷的状态 https://t.co/EGihnpDz1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11265,
+          "following_count": 4771,
+          "like_count": 52705,
+          "listed_count": 40,
+          "media_count": 5420,
+          "tweet_count": 16359
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "location": "P.R.China",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200679102459904/3kUCO6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 108,
+          "like_count": 8270,
+          "listed_count": 5,
+          "media_count": 643,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T12:12:41.000Z",
+        "description": "B.A. Complinguistics @uni_tue 非二元ADHD 全栈LLM开发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "uni_tue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syccc.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://syccc.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/5rY0eSP6I7"
+              }
+            ]
+          }
+        },
+        "id": "1823331804902051841",
+        "location": "Tübingen, Deutschland",
+        "name": "天使向量機🩵⁺˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996730713132212224/BK2yaqLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 198,
+          "like_count": 6854,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/5rY0eSP6I7",
+        "username": "0z5aa",
+        "verified": false
+      }
+    ]
+  }
+}

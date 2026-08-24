@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087298928295432192"
+      ],
+      "media_source_tweet_id": [
+        "2087298935434207238"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2088206096490262789",
+    "created_at": "2026-08-14T10:08:25.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088206096490262789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816148552764252169",
+          "start": 3,
+          "username": "chedis1qu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8GAWkD4Ib9",
+          "end": 54,
+          "expanded_url": "https://x.com/chedis1qu/status/2087298935434207238/photo/1",
+          "media_key": "3_2087298928295432192",
+          "start": 31,
+          "url": "https://t.co/8GAWkD4Ib9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088206096490262789",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087298928295432192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087298935434207238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chedis1qu: 我的青春apex物语果然有问题 https://t.co/8GAWkD4Ib9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2430,
+        "media_key": "3_2087298928295432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeTUPkaUAA_S-n.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087298928295432192"
+          ]
+        },
+        "author_id": "1816148552764252169",
+        "conversation_id": "2087298935434207238",
+        "created_at": "2026-08-11T22:03:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087298935434207238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GAWkD4Ib9",
+              "end": 39,
+              "expanded_url": "https://x.com/chedis1qu/status/2087298935434207238/photo/1",
+              "media_key": "3_2087298928295432192",
+              "start": 16,
+              "url": "https://t.co/8GAWkD4Ib9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087298935434207238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087298928295432192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 376,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的青春apex物语果然有问题 https://t.co/8GAWkD4Ib9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087298928295432192"
+          ],
+          "media_source_tweet_id": [
+            "2087298935434207238"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2088206096490262789",
+        "created_at": "2026-08-14T10:08:25.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088206096490262789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816148552764252169",
+              "start": 3,
+              "username": "chedis1qu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GAWkD4Ib9",
+              "end": 54,
+              "expanded_url": "https://x.com/chedis1qu/status/2087298935434207238/photo/1",
+              "media_key": "3_2087298928295432192",
+              "start": 31,
+              "url": "https://t.co/8GAWkD4Ib9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088206096490262789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087298928295432192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087298935434207238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chedis1qu: 我的青春apex物语果然有问题 https://t.co/8GAWkD4Ib9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2088206096490262789",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11542,
+          "following_count": 4839,
+          "like_count": 53837,
+          "listed_count": 42,
+          "media_count": 5798,
+          "tweet_count": 16876
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "我来的时候江水很平静",
+        "id": "1816148552764252169",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088152846873341962",
+        "name": "神不会流血，但你会",
+        "pinned_tweet_id": "2059677830490038306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816148552764252169/1783398007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081831586388201472/wqT10RJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 836,
+          "like_count": 29268,
+          "listed_count": 3,
+          "media_count": 611,
+          "tweet_count": 13328
+        },
+        "url": "",
+        "username": "chedis1qu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

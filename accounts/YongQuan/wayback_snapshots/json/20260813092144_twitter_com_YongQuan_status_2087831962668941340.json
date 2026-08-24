@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "card_uri": "https://t.co/n029mTbbAR",
+    "conversation_id": "2087831962668941340",
+    "created_at": "2026-08-13T09:21:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087831962668941340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737987489837834240",
+          "start": 3,
+          "username": "realADonz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087831962668941340",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087727991128543474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realADonz: MMLA: Bounded Editable Memory That Actually Decides What Deserves Authority\nLong context lets models replay history. It does…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "card_uri": "https://t.co/n029mTbbAR",
+        "conversation_id": "2087831962668941340",
+        "created_at": "2026-08-13T09:21:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087831962668941340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737987489837834240",
+              "start": 3,
+              "username": "realADonz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087831962668941340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087727991128543474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realADonz: MMLA: Bounded Editable Memory That Actually Decides What Deserves Authority\nLong context lets models replay history. It does…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737987489837834240",
+        "card_uri": "https://t.co/n029mTbbAR",
+        "conversation_id": "2087727991128543474",
+        "created_at": "2026-08-13T02:28:35.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087727991128543474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087727991128543474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "arxiv.org/abs/2606.28876",
+                "end": 3221,
+                "expanded_url": "https://arxiv.org/abs/2606.28876",
+                "start": 3198,
+                "url": "https://t.co/n029mTbbAR"
+              },
+              {
+                "display_url": "github.com/MMLA-org/mmla-…",
+                "end": 3275,
+                "expanded_url": "https://github.com/MMLA-org/mmla-memory",
+                "start": 3252,
+                "url": "https://t.co/Il1O7Nn3e0"
+              }
+            ]
+          },
+          "text": "MMLA: Bounded Editable Memory That Actually Decides What Deserves Authority\nLong context lets models replay history. It does not decide which completed observations deserve to become authoritative state.\nAn agent running for months will face obsolete values, version conflicts, protected facts, and weak evidence. Simply stuffing more tokens into the window increases cost without solving the real problem: which past observations should update persistent memory, what they should overwrite, and when the system should refuse to write at all.\nMMLA (Memory Management and Learning Architecture) formalizes a different answer.\nWe place a bounded resident memory between the transient context window and slow weight updates. Completed local segments are eventized. For each event a target-conditioned constructor proposes semantic content; a trusted assembler produces a complete versioned row (with tenant, ACL, version, protection, provenance). Deployment then makes a hard decision: atomic overwrite of an entire row, or NULL. Training may use realized futures to price actions; deployment remains strictly causal and future-blind.\nResults that matter to researchers\nLifecycle control is exact. On a controlled versioned-variable suite deliberately designed so that last-mention retrieval is wrong by construction, the full lifecycle path scores 1.000 exact match on 300/300 held-out records across three seeds. Lexical baselines sit at 0.333. Generation with a frozen Llama-3.1-8B reaches 300/300 correct answers using only 146 prompt tokens versus 172/300 for full-context reading at 729 tokens.\nSelection + calibrated sparse fallback beats dense retrieval while using far less evidence. On held-out HotpotQA (natural length and 8.2k-word conditions with answer-excluded distractors), a learned two-hop selector with a bounded 32-passage cache + archive fallback improves over a budget-matched dense baseline by 5.5–16.6 F1 and over BM25 by 4.0–6.2 F1. It reaches 102–116% of full-context F1 while consuming roughly 10% of the evidence words. The cache itself costs only 0–2.9 F1.\nTyped relational transport is perfect under stress. Anchor–filler relational binding yields 240/240 whole-record exact matches per seed. Three same-checkpoint controls (candidate-content, unsigned-distance, type-erased) score 0/240.\nAll backbone LLMs remain frozen. We report the original Llama budget-gate failure and the subsequent Qwen adjudication explicitly. No leaderboard claims. No systems-superiority claims. Joint training, faithful architecture baselines, and full quality-cost measurements remain future work.\nWhy this is different\nMost long-context and memory-augmented systems optimize for more recall or cheaper storage. MMLA optimizes for authority management: incorporation, overwrite, preservation, deletion/tombstoning, and abstention under hard capacity and security constraints. The resident state is bounded, explicit, versioned, and editable by construction.\nThe integration loop is not yet complete—semantic-interface readers on our frozen V28 checkpoint currently fail qualification—so predictive overwrite remains gated. We publish the negative results alongside the positive ones.\nPaper: https://t.co/n029mTbbAR Code + full technical report: https://t.co/Il1O7Nn3e0\nIf you care about agents that must remain coherent for months rather than minutes, about memory that can be audited and budgeted rather than merely cached, or about architectures that separate training-time future supervision from deployment-time causality, take a look.\nThe past should shape the future. It should not simply be replayed."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "MMLA: Bounded Editable Memory That Actually Decides What Deserves Authority\nLong context lets models replay history. It does not decide which completed observations deserve to become authoritative state.\nAn agent running for months will face obsolete values, version conflicts,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2087831962668941340",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11541,
+          "following_count": 4831,
+          "like_count": 53755,
+          "listed_count": 42,
+          "media_count": 5773,
+          "tweet_count": 16844
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T00:04:53.000Z",
+        "description": "年轻的神学家，作曲家，博物学家；\n神秘猫咪，不知道去多少学校讲过书（\n不入流人工智能研究员 @MMLA\n想被抱🏳️‍🌈| 是可爱猫猫喵～|家猫\n做科研我最大的优势就是非常的年轻！\n搞颜色我最大的优势就是非常的可爱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 46,
+                "username": "MMLA"
+              }
+            ]
+          }
+        },
+        "id": "1737987489837834240",
+        "is_identity_verified": false,
+        "location": "Liege, Belgium",
+        "most_recent_tweet_id": "2087818444599353441",
+        "name": "Avrova Donz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737987489837834240/1785999448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063659541766836224/L2CRs_nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 10,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "realADonz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

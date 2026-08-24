@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088283992785297408"
+      ],
+      "media_source_tweet_id": [
+        "2088284004302954498"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2088299263696703534",
+    "created_at": "2026-08-14T16:18:37.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088299263696703534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2071552995691732993",
+          "start": 3,
+          "username": "YuXi520LingLing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vv1vKvDpah",
+          "end": 116,
+          "expanded_url": "https://x.com/YuXi520LingLing/status/2088284004302954498/photo/1",
+          "media_key": "3_2088283992785297408",
+          "start": 93,
+          "url": "https://t.co/vv1vKvDpah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088299263696703534",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088283992785297408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088284004302954498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuXi520LingLing: 上午才300fo呢，咱的禮物還沒抽完，就已經快400fo啦，好開心唔唔….那就提前抽吧，等會到12點语汐就去抽出來，任何语汐会私信中奖的大家哦 https://t.co/vv1vKvDpah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088283992785297408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsTOiwaIAAd18C.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088283992785297408"
+          ]
+        },
+        "author_id": "2071552995691732993",
+        "conversation_id": "2088284004302954498",
+        "created_at": "2026-08-14T15:17:59.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088284004302954498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vv1vKvDpah",
+              "end": 95,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2088284004302954498/photo/1",
+              "media_key": "3_2088283992785297408",
+              "start": 72,
+              "url": "https://t.co/vv1vKvDpah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088284004302954498",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088283992785297408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 240,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上午才300fo呢，咱的禮物還沒抽完，就已經快400fo啦，好開心唔唔….那就提前抽吧，等會到12點语汐就去抽出來，任何语汐会私信中奖的大家哦 https://t.co/vv1vKvDpah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088283992785297408"
+          ],
+          "media_source_tweet_id": [
+            "2088284004302954498"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2088299263696703534",
+        "created_at": "2026-08-14T16:18:37.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088299263696703534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2071552995691732993",
+              "start": 3,
+              "username": "YuXi520LingLing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vv1vKvDpah",
+              "end": 116,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2088284004302954498/photo/1",
+              "media_key": "3_2088283992785297408",
+              "start": 93,
+              "url": "https://t.co/vv1vKvDpah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088299263696703534",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088283992785297408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088284004302954498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuXi520LingLing: 上午才300fo呢，咱的禮物還沒抽完，就已經快400fo啦，好開心唔唔….那就提前抽吧，等會到12點语汐就去抽出來，任何语汐会私信中奖的大家哦 https://t.co/vv1vKvDpah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2088299263696703534",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11550,
+          "following_count": 4840,
+          "like_count": 53791,
+          "listed_count": 42,
+          "media_count": 5804,
+          "tweet_count": 16889
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜看成分回fo\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2088295617462505553",
+        "name": "语汐汐喵🍥",
+        "pinned_tweet_id": "2088112372225277961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071552995691732993/1785931233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 356,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

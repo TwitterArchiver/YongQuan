@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2090350069803278780",
+    "created_at": "2026-08-20T12:20:45.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090413729120965090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980410903850885120",
+          "start": 0,
+          "username": "mmshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090413729120965090",
+    "in_reply_to_user_id": "1980410903850885120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090350069803278780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmshuxing 好看w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090350061464997889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJqTkXWUAEhG4P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2090350069803278780",
+        "created_at": "2026-08-20T12:20:45.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090413729120965090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980410903850885120",
+              "start": 0,
+              "username": "mmshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090413729120965090",
+        "in_reply_to_user_id": "1980410903850885120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090350069803278780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmshuxing 好看w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090350061464997889"
+          ]
+        },
+        "author_id": "1980410903850885120",
+        "conversation_id": "2090350069803278780",
+        "created_at": "2026-08-20T08:07:48.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090350069803278780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQrxMZ3yuw",
+              "end": 31,
+              "expanded_url": "https://x.com/mmshuxing/status/2090350069803278780/photo/1",
+              "media_key": "3_2090350061464997889",
+              "start": 8,
+              "url": "https://t.co/nQrxMZ3yuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090350069803278780",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090350061464997889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ww我可爱吗. https://t.co/nQrxMZ3yuw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2090413729120965090",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11586,
+          "following_count": 4830,
+          "like_count": 54126,
+          "listed_count": 42,
+          "media_count": 5949,
+          "tweet_count": 17090
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼/Yorin\n 11年 喜欢哥哥 \n残圈 割手 友跨 \n生理女 心理女 顺女",
+        "id": "1980410903850885120",
+        "is_identity_verified": false,
+        "location": "不接线下 🚪纯绿",
+        "most_recent_tweet_id": "2090412372368236806",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2090133629976395794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980410903850885120/1783584774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089434064323256320/YAJvhRdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 66,
+          "like_count": 6072,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "mmshuxing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
