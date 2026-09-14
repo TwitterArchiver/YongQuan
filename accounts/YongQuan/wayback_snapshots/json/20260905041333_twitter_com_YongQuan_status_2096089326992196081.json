@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2095649791430852833",
+    "created_at": "2026-09-05T04:13:33.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096089326992196081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096089326992196081",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095941561830064300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 乌梅干"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2095941553453928448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZHvPOaEAAWiXv.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2095649791430852833",
+        "created_at": "2026-09-05T04:13:33.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096089326992196081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096089326992196081",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095941561830064300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 乌梅干"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095941553453928448"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2095649791430852833",
+        "created_at": "2026-09-04T18:26:23.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095941561830064300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZqprgGSCw",
+              "end": 33,
+              "expanded_url": "https://x.com/acnekot/status/2095941561830064300/photo/1",
+              "media_key": "3_2095941553453928448",
+              "start": 10,
+              "url": "https://t.co/TZqprgGSCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095941561830064300",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095941553453928448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095649791430852833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan https://t.co/TZqprgGSCw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\nPUBGM PRO Player UID：51758460894\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2096089326992196081",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11889,
+          "following_count": 4871,
+          "like_count": 54345,
+          "listed_count": 43,
+          "media_count": 6322,
+          "tweet_count": 17527
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096069079442579660",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 815,
+          "like_count": 96711,
+          "listed_count": 9,
+          "media_count": 4145,
+          "tweet_count": 17455
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

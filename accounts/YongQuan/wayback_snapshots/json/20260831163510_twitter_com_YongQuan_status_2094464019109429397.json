@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2094284004094870010",
+    "created_at": "2026-08-31T16:35:10.000Z",
+    "display_text_range": [
+      36,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094464019109429397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 35,
+          "id": "1613079089879076864",
+          "start": 28,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094464019109429397",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094284004094870010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ @CyberKanjousen @YunJiu 毫无疑问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2094284004094870010",
+        "created_at": "2026-08-31T16:35:10.000Z",
+        "display_text_range": [
+          36,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094464019109429397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 35,
+              "id": "1613079089879076864",
+              "start": 28,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094464019109429397",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094284004094870010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ @CyberKanjousen @YunJiu 毫无疑问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2094284004094870010",
+        "created_at": "2026-08-31T04:39:51.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094284004094870010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1918274202580467713",
+              "start": 17,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 41,
+              "id": "1613079089879076864",
+              "start": 34,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094284004094870010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14944,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来客观评价一下，哪个翻车概率更大\n@CyberKanjousen \n@YunJiu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2094464019109429397",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11732,
+          "following_count": 4840,
+          "like_count": 54304,
+          "listed_count": 42,
+          "media_count": 6219,
+          "tweet_count": 17399
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2094406221021519951",
+        "name": "不包番茄籽的番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14255,
+          "following_count": 2747,
+          "like_count": 1626,
+          "listed_count": 29,
+          "media_count": 2938,
+          "tweet_count": 12016
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094457603342451144",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18228,
+          "following_count": 888,
+          "like_count": 34894,
+          "listed_count": 32,
+          "media_count": 2887,
+          "tweet_count": 13064
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094455620011434403",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1772420117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107281,
+          "following_count": 821,
+          "like_count": 37789,
+          "listed_count": 303,
+          "media_count": 21158,
+          "tweet_count": 29910
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

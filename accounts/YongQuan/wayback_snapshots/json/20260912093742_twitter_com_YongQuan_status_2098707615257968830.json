@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098667715485667328"
+      ],
+      "media_source_tweet_id": [
+        "2098667767214039281"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098707615257968830",
+    "created_at": "2026-09-12T09:37:42.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098707615257968830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 28,
+          "id": "1545277694325116928",
+          "start": 19,
+          "username": "YongQuan"
+        },
+        {
+          "end": 38,
+          "id": "2033504930707996672",
+          "start": 29,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 49,
+          "id": "1368897611672018953",
+          "start": 39,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 63,
+          "id": "2095542569400987648",
+          "start": 50,
+          "username": "XUEQIUxka_uk"
+        },
+        {
+          "end": 77,
+          "id": "1579071704034578432",
+          "start": 64,
+          "username": "AmeyamaIzumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZrCpPt3VUa",
+          "end": 101,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098667767214039281/photo/1",
+          "media_key": "3_2098667715485667328",
+          "start": 78,
+          "url": "https://t.co/ZrCpPt3VUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098707615257968830",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098667715485667328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098667767214039281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 面基？\n@YongQuan @Xyliaxka @XUEQIUxka @XUEQIUxka_uk @AmeyamaIzumi https://t.co/ZrCpPt3VUa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2098667715485667328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_3KwMakAAL08H.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098667715485667328"
+          ],
+          "media_source_tweet_id": [
+            "2098667767214039281"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098707615257968830",
+        "created_at": "2026-09-12T09:37:42.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098707615257968830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 28,
+              "id": "1545277694325116928",
+              "start": 19,
+              "username": "YongQuan"
+            },
+            {
+              "end": 38,
+              "id": "2033504930707996672",
+              "start": 29,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 49,
+              "id": "1368897611672018953",
+              "start": 39,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 63,
+              "id": "2095542569400987648",
+              "start": 50,
+              "username": "XUEQIUxka_uk"
+            },
+            {
+              "end": 77,
+              "id": "1579071704034578432",
+              "start": 64,
+              "username": "AmeyamaIzumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrCpPt3VUa",
+              "end": 101,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098667767214039281/photo/1",
+              "media_key": "3_2098667715485667328",
+              "start": 78,
+              "url": "https://t.co/ZrCpPt3VUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098707615257968830",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098667715485667328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098667767214039281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 面基？\n@YongQuan @Xyliaxka @XUEQIUxka @XUEQIUxka_uk @AmeyamaIzumi https://t.co/ZrCpPt3VUa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098667715485667328"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098667767214039281",
+        "created_at": "2026-09-12T06:59:21.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098667767214039281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545277694325116928",
+              "start": 4,
+              "username": "YongQuan"
+            },
+            {
+              "end": 23,
+              "id": "2033504930707996672",
+              "start": 14,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 34,
+              "id": "1368897611672018953",
+              "start": 24,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 48,
+              "id": "2095542569400987648",
+              "start": 35,
+              "username": "XUEQIUxka_uk"
+            },
+            {
+              "end": 62,
+              "id": "1579071704034578432",
+              "start": 49,
+              "username": "AmeyamaIzumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrCpPt3VUa",
+              "end": 86,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098667767214039281/photo/1",
+              "media_key": "3_2098667715485667328",
+              "start": 63,
+              "url": "https://t.co/ZrCpPt3VUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098667767214039281",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098667715485667328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 146,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面基？\n@YongQuan @Xyliaxka @XUEQIUxka @XUEQIUxka_uk @AmeyamaIzumi https://t.co/ZrCpPt3VUa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2098707615257968830",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12059,
+          "following_count": 4886,
+          "like_count": 54467,
+          "listed_count": 42,
+          "media_count": 6510,
+          "tweet_count": 17739
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2098678498436981073",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9737,
+          "following_count": 2332,
+          "like_count": 33565,
+          "listed_count": 25,
+          "media_count": 1676,
+          "tweet_count": 6065
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "is_identity_verified": false,
+        "location": "欢迎访问我的网页↓",
+        "most_recent_tweet_id": "2098026455292875038",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033504930707996672/1774196484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-09-03T16:02:23.000Z",
+        "description": "This is an official sub-account of @XUEQIUxka.\nVisit our official website at https://t.co/4JfhWvukWO.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "XUEQIUxka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 100,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 77,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          }
+        },
+        "id": "2095542569400987648",
+        "is_identity_verified": false,
+        "location": "XUEQIU Industrial Park",
+        "most_recent_tweet_id": "2095549253116625335",
+        "name": "雪秋小可爱 XUEQIUxka .uk",
+        "pinned_tweet_id": "2095549253116625335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095542569400987648/1788451827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095543041792847872/00d03Xts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/4JfhWvukWO",
+        "username": "XUEQIUxka_uk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-09T11:30:18.000Z",
+        "description": "日本語/英語/中国語\n中国学习中。中国語勉強中。\n鉄道｜航空｜アマチュア無線｜電子工作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/t72CSGsJGa"
+              }
+            ]
+          }
+        },
+        "id": "1579071704034578432",
+        "is_identity_verified": false,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2070371540122947865",
+        "name": "雨山泉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579071704034578432/1697208988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579081379853500428/5mxavM9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 400,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/t72CSGsJGa",
+        "username": "AmeyamaIzumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

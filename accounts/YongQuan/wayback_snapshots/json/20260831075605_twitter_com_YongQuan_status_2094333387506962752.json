@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2094025377039745041",
+    "created_at": "2026-08-31T07:56:05.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094333387506962752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812527084973260800",
+          "start": 0,
+          "username": "Keader291533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094333387506962752",
+    "in_reply_to_user_id": "1812527084973260800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094025377039745041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keader291533 （探头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2094025377039745041",
+        "created_at": "2026-08-31T07:56:05.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094333387506962752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812527084973260800",
+              "start": 0,
+              "username": "Keader291533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094333387506962752",
+        "in_reply_to_user_id": "1812527084973260800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094025377039745041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keader291533 （探头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812527084973260800",
+        "conversation_id": "2094025377039745041",
+        "created_at": "2026-08-30T11:32:09.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094025377039745041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094025377039745041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说这个账号还有多少人在看呢?如果有人的话可以告诉我一声吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2094333387506962752",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11707,
+          "following_count": 4839,
+          "like_count": 54288,
+          "listed_count": 42,
+          "media_count": 6211,
+          "tweet_count": 17389
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-14T16:38:37.000Z",
+        "description": "只是想要被所有人注视着\nQQ扩列：2130109874\n即使加上了不主动吸引我的注意也不会被理，恩德就是如此高高在上一男（",
+        "id": "1812527084973260800",
+        "is_identity_verified": false,
+        "location": "不思議の国",
+        "most_recent_tweet_id": "2094301198069432452",
+        "name": "✝end君✝",
+        "pinned_tweet_id": "1989327530407743503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812527084973260800/1723389309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094038762208833536/hSjI8Z8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 931,
+          "like_count": 4089,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 2977
+        },
+        "url": "",
+        "username": "Keader291533",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

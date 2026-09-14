@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095939004919431168"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2096059742837698612",
+    "created_at": "2026-09-05T02:16:00.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096059742837698612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdKFhlt74i",
+          "end": 35,
+          "expanded_url": "https://x.com/YongQuan/status/2096059742837698612/photo/1",
+          "media_key": "3_2095939004919431168",
+          "start": 12,
+          "url": "https://t.co/vdKFhlt74i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096059742837698612",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095939004919431168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻译：嫉妒室友有平板了 https://t.co/vdKFhlt74i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2095939004919431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZFa5MbwAAv2iG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095939004919431168"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2096059742837698612",
+        "created_at": "2026-09-05T02:16:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096059742837698612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdKFhlt74i",
+              "end": 35,
+              "expanded_url": "https://x.com/YongQuan/status/2096059742837698612/photo/1",
+              "media_key": "3_2095939004919431168",
+              "start": 12,
+              "url": "https://t.co/vdKFhlt74i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096059742837698612",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095939004919431168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻译：嫉妒室友有平板了 https://t.co/vdKFhlt74i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\nPUBGM PRO Player UID：51758460894\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2096059742837698612",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11886,
+          "following_count": 4858,
+          "like_count": 54332,
+          "listed_count": 43,
+          "media_count": 6321,
+          "tweet_count": 17523
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

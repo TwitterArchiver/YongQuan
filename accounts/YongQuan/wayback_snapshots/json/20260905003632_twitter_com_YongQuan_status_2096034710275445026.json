@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2095566628381446357",
+    "created_at": "2026-09-05T00:36:32.000Z",
+    "display_text_range": [
+      27,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096034710275445026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968187553695272960",
+          "start": 0,
+          "username": "EzraRan__"
+        },
+        {
+          "end": 26,
+          "id": "1918274202580467713",
+          "start": 11,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096034710275445026",
+    "in_reply_to_user_id": "1968187553695272960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095581414200897820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzraRan__ @CyberKanjousen 狀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2095566628381446357",
+        "created_at": "2026-09-05T00:36:32.000Z",
+        "display_text_range": [
+          27,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096034710275445026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan__"
+            },
+            {
+              "end": 26,
+              "id": "1918274202580467713",
+              "start": 11,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096034710275445026",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095581414200897820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan__ @CyberKanjousen 狀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968187553695272960",
+        "conversation_id": "2095566628381446357",
+        "created_at": "2026-09-03T18:35:17.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095581414200897820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095581414200897820",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2987,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095566628381446357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 环状线是好男孩吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\nPUBGM PRO Player UID：51758460894\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2096034710275445026",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11885,
+          "following_count": 4858,
+          "like_count": 54334,
+          "listed_count": 43,
+          "media_count": 6319,
+          "tweet_count": 17521
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "亞太",
+        "most_recent_tweet_id": "2095942882846982185",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 2572,
+          "like_count": 34318,
+          "listed_count": 6,
+          "media_count": 1265,
+          "tweet_count": 10207
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095941292542869626",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19022,
+          "following_count": 889,
+          "like_count": 35213,
+          "listed_count": 32,
+          "media_count": 2941,
+          "tweet_count": 13259
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

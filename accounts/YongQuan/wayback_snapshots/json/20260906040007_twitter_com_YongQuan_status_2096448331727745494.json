@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096448274500640771",
+        "3_2096448274639323136",
+        "3_2096448274660257792",
+        "3_2096448274685124610"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2096448331727745494",
+    "created_at": "2026-09-06T04:00:07.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096448331727745494"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "小铨在路上"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1368897611672018953",
+          "start": 38,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WNylJaQIZf",
+          "end": 141,
+          "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+          "media_key": "3_2096448274500640771",
+          "start": 118,
+          "url": "https://t.co/WNylJaQIZf"
+        },
+        {
+          "display_url": "pic.x.com/WNylJaQIZf",
+          "end": 141,
+          "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+          "media_key": "3_2096448274639323136",
+          "start": 118,
+          "url": "https://t.co/WNylJaQIZf"
+        },
+        {
+          "display_url": "pic.x.com/WNylJaQIZf",
+          "end": 141,
+          "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+          "media_key": "3_2096448274660257792",
+          "start": 118,
+          "url": "https://t.co/WNylJaQIZf"
+        },
+        {
+          "display_url": "pic.x.com/WNylJaQIZf",
+          "end": 141,
+          "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+          "media_key": "3_2096448274685124610",
+          "start": 118,
+          "url": "https://t.co/WNylJaQIZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096448331727745494",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096448274500640771"
+      },
+      {
+        "media_key": "3_2096448274639323136"
+      },
+      {
+        "media_key": "3_2096448274660257792"
+      },
+      {
+        "media_key": "3_2096448274685124610"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#小铨在路上\n本务：DF11-0297\n车次：4184次 海拉尔—满归\n\n和@XUEQIUxka 从呼伦贝尔一路干到漠河\n这一路上的林子 草原 以及星空\n纯粹且宁静\n好久没有这么惬意的出门了。\n\n“旅行，大概也不一定非要有什么意义。” https://t.co/WNylJaQIZf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2096448274500640771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUmSOXYAMSzb-.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096448274639323136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUmSvbgAA0kFz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096448274660257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUmS0a8AAxKop.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096448274685124610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUmS6WYAIe6TE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096448274500640771",
+            "3_2096448274639323136",
+            "3_2096448274660257792",
+            "3_2096448274685124610"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2096448331727745494",
+        "created_at": "2026-09-06T04:00:07.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096448331727745494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "小铨在路上"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1368897611672018953",
+              "start": 38,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNylJaQIZf",
+              "end": 141,
+              "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+              "media_key": "3_2096448274500640771",
+              "start": 118,
+              "url": "https://t.co/WNylJaQIZf"
+            },
+            {
+              "display_url": "pic.x.com/WNylJaQIZf",
+              "end": 141,
+              "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+              "media_key": "3_2096448274639323136",
+              "start": 118,
+              "url": "https://t.co/WNylJaQIZf"
+            },
+            {
+              "display_url": "pic.x.com/WNylJaQIZf",
+              "end": 141,
+              "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+              "media_key": "3_2096448274660257792",
+              "start": 118,
+              "url": "https://t.co/WNylJaQIZf"
+            },
+            {
+              "display_url": "pic.x.com/WNylJaQIZf",
+              "end": 141,
+              "expanded_url": "https://x.com/YongQuan/status/2096448331727745494/photo/1",
+              "media_key": "3_2096448274685124610",
+              "start": 118,
+              "url": "https://t.co/WNylJaQIZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096448331727745494",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096448274500640771"
+          },
+          {
+            "media_key": "3_2096448274639323136"
+          },
+          {
+            "media_key": "3_2096448274660257792"
+          },
+          {
+            "media_key": "3_2096448274685124610"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小铨在路上\n本务：DF11-0297\n车次：4184次 海拉尔—满归\n\n和@XUEQIUxka 从呼伦贝尔一路干到漠河\n这一路上的林子 草原 以及星空\n纯粹且宁静\n好久没有这么惬意的出门了。\n\n“旅行，大概也不一定非要有什么意义。” https://t.co/WNylJaQIZf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\nPUBGM PRO Player UID：51758460894\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2096448331727745494",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11925,
+          "following_count": 4872,
+          "like_count": 54366,
+          "listed_count": 43,
+          "media_count": 6350,
+          "tweet_count": 17564
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096217731968479717",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 2333,
+          "like_count": 33572,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6041
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

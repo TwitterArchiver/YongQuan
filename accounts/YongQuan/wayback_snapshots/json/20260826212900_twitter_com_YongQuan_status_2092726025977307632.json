@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092590267929137152"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2092726025977307632",
+    "created_at": "2026-08-26T21:29:00.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092726025977307632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XidXHGcbJ",
+          "end": 64,
+          "expanded_url": "https://x.com/YongQuan/status/2092726025977307632/photo/1",
+          "media_key": "3_2092590267929137152",
+          "start": 41,
+          "url": "https://t.co/2XidXHGcbJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092726025977307632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092590267929137152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "餐饮太难干了，偷偷把老板 老板娘 厨师长 店长都上架了，不知道他们看到会不会打我 https://t.co/2XidXHGcbJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2092590267929137152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpfwvxbEAAWX_o.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092590267929137152"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2092726025977307632",
+        "created_at": "2026-08-26T21:29:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092726025977307632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XidXHGcbJ",
+              "end": 64,
+              "expanded_url": "https://x.com/YongQuan/status/2092726025977307632/photo/1",
+              "media_key": "3_2092590267929137152",
+              "start": 41,
+              "url": "https://t.co/2XidXHGcbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092726025977307632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092590267929137152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餐饮太难干了，偷偷把老板 老板娘 厨师长 店长都上架了，不知道他们看到会不会打我 https://t.co/2XidXHGcbJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2092726025977307632",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11628,
+          "following_count": 4838,
+          "like_count": 54285,
+          "listed_count": 42,
+          "media_count": 6104,
+          "tweet_count": 17274
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
