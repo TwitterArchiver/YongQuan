@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106592734719148194",
+    "created_at": "2026-10-04T03:50:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106592734719148194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 48,
+          "id": "1280001743162609664",
+          "start": 39,
+          "username": "Poca2381"
+        },
+        {
+          "end": 61,
+          "id": "2037915149173182465",
+          "start": 49,
+          "username": "luna_1111__"
+        },
+        {
+          "end": 74,
+          "id": "1690565622227423232",
+          "start": 62,
+          "username": "dmorest0609"
+        },
+        {
+          "end": 87,
+          "id": "1349538990479720448",
+          "start": 75,
+          "username": "qiaomeng304"
+        },
+        {
+          "end": 97,
+          "id": "1781510736000274432",
+          "start": 88,
+          "username": "huantim7"
+        },
+        {
+          "end": 108,
+          "id": "1824501290203856896",
+          "start": 98,
+          "username": "linnanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592734719148194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106592621120675872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 日常抽奖第12弹开奖啦\n恭喜这 6 位小可爱：\n@Poca2381 @luna_1111__ @dmorest0609 @qiaomeng304 @huantim7 @linnanoda\n奖品是定制周边一份，包邮，10 月 10 日统一发出。麻烦中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2848,
+        "media_key": "3_2106592609947066368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwe0UpboAALsTC.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106592734719148194",
+        "created_at": "2026-10-04T03:50:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106592734719148194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 48,
+              "id": "1280001743162609664",
+              "start": 39,
+              "username": "Poca2381"
+            },
+            {
+              "end": 61,
+              "id": "2037915149173182465",
+              "start": 49,
+              "username": "luna_1111__"
+            },
+            {
+              "end": 74,
+              "id": "1690565622227423232",
+              "start": 62,
+              "username": "dmorest0609"
+            },
+            {
+              "end": 87,
+              "id": "1349538990479720448",
+              "start": 75,
+              "username": "qiaomeng304"
+            },
+            {
+              "end": 97,
+              "id": "1781510736000274432",
+              "start": 88,
+              "username": "huantim7"
+            },
+            {
+              "end": 108,
+              "id": "1824501290203856896",
+              "start": 98,
+              "username": "linnanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592734719148194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106592621120675872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 日常抽奖第12弹开奖啦\n恭喜这 6 位小可爱：\n@Poca2381 @luna_1111__ @dmorest0609 @qiaomeng304 @huantim7 @linnanoda\n奖品是定制周边一份，包邮，10 月 10 日统一发出。麻烦中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106592609947066368"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2106592621120675872",
+        "created_at": "2026-10-04T03:49:54.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106592621120675872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1280001743162609664",
+              "start": 24,
+              "username": "Poca2381"
+            },
+            {
+              "end": 46,
+              "id": "2037915149173182465",
+              "start": 34,
+              "username": "luna_1111__"
+            },
+            {
+              "end": 59,
+              "id": "1690565622227423232",
+              "start": 47,
+              "username": "dmorest0609"
+            },
+            {
+              "end": 72,
+              "id": "1349538990479720448",
+              "start": 60,
+              "username": "qiaomeng304"
+            },
+            {
+              "end": 82,
+              "id": "1781510736000274432",
+              "start": 73,
+              "username": "huantim7"
+            },
+            {
+              "end": 93,
+              "id": "1824501290203856896",
+              "start": 83,
+              "username": "linnanoda"
+            },
+            {
+              "end": 140,
+              "id": "1720665183188922368",
+              "start": 135,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EvBVIgXIH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2106592621120675872/photo/1",
+              "media_key": "3_2106592609947066368",
+              "start": 143,
+              "url": "https://t.co/4EvBVIgXIH"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2102305436183773187",
+              "start": 167,
+              "url": "https://t.co/YOEi1wsmiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592621120675872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106592609947066368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102305436183773187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日常抽奖第12弹开奖啦\n恭喜这 6 位小可爱：\n@Poca2381 @luna_1111__ @dmorest0609 @qiaomeng304 @huantim7 @linnanoda\n奖品是定制周边一份，包邮，10 月 10 日统一发出。麻烦中奖的宝私信收货信息～由@grok抽出 https://t.co/4EvBVIgXIH https://t.co/YOEi1wsmiv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106592734719148194",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4887,
+          "like_count": 54703,
+          "listed_count": 41,
+          "media_count": 7104,
+          "tweet_count": 18476
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2106592621120675872",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9982,
+          "following_count": 2321,
+          "like_count": 33593,
+          "listed_count": 27,
+          "media_count": 2125,
+          "tweet_count": 6592
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2106578585058504851",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26041,
+          "following_count": 11538,
+          "like_count": 157798,
+          "listed_count": 53,
+          "media_count": 7304,
+          "tweet_count": 62368
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106397041979216211",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2106007968424865815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 545,
+          "like_count": 11578,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:27:15.000Z",
+        "description": "🇨🇳🇬🇧🇯🇵 ←利用可能な言語\n中国からの音ゲーマーです。みんなと仲良くして欲しい！\n跨友好 ｜Trans friendly｜互fo希望\nNow Playing: Phigros(15.90), Arcaea(12.06), maimaiでらっくす(15012)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/T9eEd1Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/T9eEd1Z",
+                "start": 0,
+                "url": "https://t.co/VctkVxXo7U"
+              }
+            ]
+          }
+        },
+        "id": "1690565622227423232",
+        "is_identity_verified": false,
+        "location": "半人馬座α",
+        "most_recent_tweet_id": "2106416439020417449",
+        "name": "DersuelsMorest",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690565622227423232/1775365430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690566853834481664/ert988GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 548,
+          "like_count": 11764,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/VctkVxXo7U",
+        "username": "dmorest0609",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-14T02:09:12.000Z",
+        "description": "",
+        "id": "1349538990479720448",
+        "is_identity_verified": false,
+        "location": "0552",
+        "most_recent_tweet_id": "2106547132471890161",
+        "name": "离开浪浪山",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349538990479720448/1669997682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616077423233339397/_7F510na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 223,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "qiaomeng304",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "is_identity_verified": true,
+        "location": "南门二",
+        "most_recent_tweet_id": "2106488923228950851",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781510736000274432/1773542916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105697932620279808/lYS2RBkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 834,
+          "like_count": 117486,
+          "listed_count": 2,
+          "media_count": 629,
+          "tweet_count": 7106
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T17:40:07.000Z",
+        "description": "06 mtf 乐观主义 社恐 百合控！留长发中~\n我喜欢你们！\n已有昵称：青琬/琬/予婷酱                          \n有着憧憬的目标，正在努力改变自己\n如果感到心情低落 可以向我诉说",
+        "id": "1824501290203856896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106535049541894542",
+        "name": "青琬予婷人🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824501290203856896/1726203036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101147296109051904/dmRJb4s4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 600,
+          "like_count": 7999,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "linnanoda",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

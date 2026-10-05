@@ -1,0 +1,678 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1375110997787078659",
+          "name": "JD Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1375110997787078659",
+          "name": "JD Gaming"
+        }
+      }
+    ],
+    "conversation_id": "2106014925063872766",
+    "created_at": "2026-10-04T04:13:11.000Z",
+    "display_text_range": [
+      38,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106598481045733537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053078697671118848",
+          "start": 0,
+          "username": "lilley43528"
+        },
+        {
+          "end": 27,
+          "id": "1473626629016461312",
+          "start": 13,
+          "username": "valesports_cn"
+        },
+        {
+          "end": 37,
+          "id": "1110820671825813505",
+          "start": 28,
+          "username": "JDGaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106598481045733537",
+    "in_reply_to_user_id": "2053078697671118848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106088393990115494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilley43528 @valesports_cn @JDGaming 甚至只能比小分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2106014925063872766",
+        "created_at": "2026-10-04T04:13:11.000Z",
+        "display_text_range": [
+          38,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106598481045733537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053078697671118848",
+              "start": 0,
+              "username": "lilley43528"
+            },
+            {
+              "end": 27,
+              "id": "1473626629016461312",
+              "start": 13,
+              "username": "valesports_cn"
+            },
+            {
+              "end": 37,
+              "id": "1110820671825813505",
+              "start": 28,
+              "username": "JDGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106598481045733537",
+        "in_reply_to_user_id": "2053078697671118848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106088393990115494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilley43528 @valesports_cn @JDGaming 甚至只能比小分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053078697671118848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2106014925063872766",
+        "created_at": "2026-10-02T18:26:17.000Z",
+        "display_text_range": [
+          25,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106088393990115494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1473626629016461312",
+              "start": 0,
+              "username": "valesports_cn"
+            },
+            {
+              "end": 24,
+              "id": "1110820671825813505",
+              "start": 15,
+              "username": "JDGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106088393990115494",
+        "in_reply_to_user_id": "1473626629016461312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106014925063872766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@valesports_cn @JDGaming 天禄6+3+8+13+2=32\nxlg 3+6+11+11=31\nEDG 8+5+5+6=24\nJDG 1+10+11+13+5=40\n然后JDG和天禄都赢了一图，\n由此可见某支冠军战队是最蛆的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106598481045733537",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4888,
+          "like_count": 54708,
+          "listed_count": 41,
+          "media_count": 7106,
+          "tweet_count": 18482
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T11:45:46.000Z",
+        "description": "",
+        "id": "2053078697671118848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106088411530715450",
+        "name": "Jody Lilley",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053078976910766082/m8kNqyTo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "lilley43528",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2100628116964294656/gZHPtb8v_bigger.png",
+          "description": "VALORANT Champions Tour",
+          "url": "https://twitter.com/ValorantEsports",
+          "user_id": [
+            "1231020013227671553"
+          ]
+        },
+        "created_at": "2021-12-22T12:09:20.000Z",
+        "description": "Official account for the VALORANT Champions Tour CN | Always rooting for #VCTCN | IL of 2024 VALORANT World Champions @EDG_Edward",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "VCTCN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "EDG_Edward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/valorantesport…",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/valorantesports_cn",
+                "start": 0,
+                "url": "https://t.co/FItyA1htlt"
+              }
+            ]
+          }
+        },
+        "id": "1473626629016461312",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106397927509983252",
+        "name": "VALORANT Champions Tour CN",
+        "pinned_tweet_id": "2101959621292560470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473626629016461312/1789542064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100117742049521664/50VdNTeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45691,
+          "following_count": 272,
+          "like_count": 1638,
+          "listed_count": 101,
+          "media_count": 10479,
+          "tweet_count": 13163
+        },
+        "url": "https://t.co/FItyA1htlt",
+        "username": "valesports_cn",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-27T08:27:40.000Z",
+        "description": "JDG FAN APP: https://t.co/6jFYq2Kl4i JDG Shop https://t.co/HNzkkybDJC: 📧jdgoverseasbusiness@jdgaming.com #JDGWin  #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 105,
+                "tag": "JDGWin"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "LPL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jdg.gamerbase.gg",
+                "end": 36,
+                "expanded_url": "https://jdg.gamerbase.gg/",
+                "start": 13,
+                "url": "https://t.co/6jFYq2Kl4i"
+              },
+              {
+                "display_url": "jdgaming.shop",
+                "end": 69,
+                "expanded_url": "https://jdgaming.shop/",
+                "start": 46,
+                "url": "https://t.co/HNzkkybDJC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jdgaming.shop",
+                "end": 23,
+                "expanded_url": "https://jdgaming.shop/",
+                "start": 0,
+                "url": "https://t.co/HNzkkybDJC"
+              }
+            ]
+          }
+        },
+        "id": "1110820671825813505",
+        "is_identity_verified": false,
+        "location": "Beijing China",
+        "most_recent_tweet_id": "2105665236099539228",
+        "name": "JD GAMING",
+        "pinned_tweet_id": "2101160626773197053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1110820671825813505/1774862495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830162673709039619/wpG1DlUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65494,
+          "following_count": 301,
+          "like_count": 9300,
+          "listed_count": 335,
+          "media_count": 3031,
+          "tweet_count": 5398
+        },
+        "url": "https://t.co/HNzkkybDJC",
+        "username": "JDGaming",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

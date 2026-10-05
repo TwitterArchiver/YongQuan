@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105304196853452800"
+      ],
+      "media_source_tweet_id": [
+        "2105304216155660317"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2105483146468958327",
+    "created_at": "2026-10-01T02:21:14.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105483146468958327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426270533839097863",
+          "start": 3,
+          "username": "_s0pp"
+        },
+        {
+          "end": 24,
+          "id": "1100825469853696000",
+          "start": 15,
+          "username": "100T_VAL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NDQldczNKx",
+          "end": 50,
+          "expanded_url": "https://x.com/_s0pp/status/2105304216155660317/photo/1",
+          "media_key": "3_2105304196853452800",
+          "start": 27,
+          "url": "https://t.co/NDQldczNKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105483146468958327",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2105304196853452800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 846
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105304216155660317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_s0pp: 1-0 @100T_VAL 👍 https://t.co/NDQldczNKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105304196853452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeLAz2W0AAl0Eo.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105304196853452800"
+          ],
+          "media_source_tweet_id": [
+            "2105304216155660317"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2105483146468958327",
+        "created_at": "2026-10-01T02:21:14.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105483146468958327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426270533839097863",
+              "start": 3,
+              "username": "_s0pp"
+            },
+            {
+              "end": 24,
+              "id": "1100825469853696000",
+              "start": 15,
+              "username": "100T_VAL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDQldczNKx",
+              "end": 50,
+              "expanded_url": "https://x.com/_s0pp/status/2105304216155660317/photo/1",
+              "media_key": "3_2105304196853452800",
+              "start": 27,
+              "url": "https://t.co/NDQldczNKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105483146468958327",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2105304196853452800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 846
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105304216155660317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_s0pp: 1-0 @100T_VAL 👍 https://t.co/NDQldczNKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105304196853452800"
+          ]
+        },
+        "author_id": "1426270533839097863",
+        "conversation_id": "2105304216155660317",
+        "created_at": "2026-09-30T14:30:14.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105304216155660317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1100825469853696000",
+              "start": 4,
+              "username": "100T_VAL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDQldczNKx",
+              "end": 39,
+              "expanded_url": "https://x.com/_s0pp/status/2105304216155660317/photo/1",
+              "media_key": "3_2105304196853452800",
+              "start": 16,
+              "url": "https://t.co/NDQldczNKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105304216155660317",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2105304196853452800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 1163907,
+          "like_count": 13772,
+          "quote_count": 209,
+          "reply_count": 237,
+          "retweet_count": 846
+        },
+        "reply_settings": "everyone",
+        "text": "1-0 @100T_VAL 👍 https://t.co/NDQldczNKx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2105483146468958327",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12365,
+          "following_count": 4888,
+          "like_count": 54613,
+          "listed_count": 41,
+          "media_count": 7009,
+          "tweet_count": 18342
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T19:52:54.000Z",
+        "description": "18| @FUTesportsgg\n\ns0pp@prodigy-agency.gg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "FUTesportsgg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/s0pp1337",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/s0pp1337",
+                "start": 0,
+                "url": "https://t.co/MMmjuT51eu"
+              }
+            ]
+          }
+        },
+        "id": "1426270533839097863",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105304373265936754",
+        "name": "FUT s0pp˚ ༘♡ ⋆｡˚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426270533839097863/1775224546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088390245049892864/fESPJACA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19084,
+          "following_count": 491,
+          "like_count": 8854,
+          "listed_count": 8,
+          "media_count": 105,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/MMmjuT51eu",
+        "username": "_s0pp",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2023513727728054278/LnIut8FW_bigger.jpg",
+          "description": "100 Thieves",
+          "url": "https://twitter.com/100Thieves",
+          "user_id": [
+            "720303639277928448"
+          ]
+        },
+        "created_at": "2019-02-27T18:30:19.000Z",
+        "description": "The home of @100Thieves VALORANT. VCT Americas Stage 2 & EWC 2026 Champions 🏆 #100T #100TWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "100T"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "100TWIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "100Thieves"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "100Thieves.com",
+                "end": 23,
+                "expanded_url": "http://100Thieves.com",
+                "start": 0,
+                "url": "https://t.co/jaLItM13XU"
+              }
+            ]
+          }
+        },
+        "id": "1100825469853696000",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2105423019099512864",
+        "name": "100 Thieves VALORANT",
+        "pinned_tweet_id": "2096723508500025619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100825469853696000/1788983321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082943739107127296/UrGBbvjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221082,
+          "following_count": 79,
+          "like_count": 15666,
+          "listed_count": 474,
+          "media_count": 5564,
+          "tweet_count": 10434
+        },
+        "url": "https://t.co/jaLItM13XU",
+        "username": "100T_VAL",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2101237610949865911",
+    "created_at": "2026-09-20T10:13:20.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101615687647310242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673289577367318528",
+          "start": 0,
+          "username": "kidnap_Mid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101615687647310242",
+    "in_reply_to_user_id": "1673289577367318528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101289243440250888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kidnap_Mid 会说，点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2101237610949865911",
+        "created_at": "2026-09-20T10:13:20.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101615687647310242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673289577367318528",
+              "start": 0,
+              "username": "kidnap_Mid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101615687647310242",
+        "in_reply_to_user_id": "1673289577367318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101289243440250888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kidnap_Mid 会说，点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673289577367318528",
+        "conversation_id": "2101237610949865911",
+        "created_at": "2026-09-19T12:36:10.000Z",
+        "display_text_range": [
+          10,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101289243440250888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101289243440250888",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59805,
+          "like_count": 492,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101237610949865911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 可行，我数了数，一共65个地方，一个地方一分钟差不多了，一个多小时就够玩了，还能赶上回国的机票，当天往返"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2101615687647310242",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12349,
+          "following_count": 4887,
+          "like_count": 54493,
+          "listed_count": 42,
+          "media_count": 6723,
+          "tweet_count": 17993
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-26T11:18:22.000Z",
+        "description": "The first one who predicts that WW3 will happen in 2028",
+        "id": "1673289577367318528",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2101614295050342532",
+        "name": "Myrella 建国门 Lizann",
+        "pinned_tweet_id": "2093225351300403366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673289577367318528/1687778320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673289665015607296/voA2Uao4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 842,
+          "like_count": 3750,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2650
+        },
+        "url": "",
+        "username": "kidnap_Mid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2105694775454355521",
+    "created_at": "2026-10-01T16:22:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105694775454355521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1604379508143857664",
+          "start": 3,
+          "username": "SargeOP_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105694775454355521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105551586680512741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SargeOP_: BREAKING\n\nKrafton has Cancelled the development of PUBG: BLACK BUDGET, an Extraction Shooter.\n\nThe game was meant to feature:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2105551548441038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThr-kUaEAAslfn.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2105551561191813121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThr_T0bcAEuP9l.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1571,
+        "media_key": "3_2105551569890779136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThr_0ObIAAYk_L.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1886,
+        "media_key": "3_2105551578791096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThsAVYbMAAvVJ6.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2105694775454355521",
+        "created_at": "2026-10-01T16:22:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105694775454355521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1604379508143857664",
+              "start": 3,
+              "username": "SargeOP_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105694775454355521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105551586680512741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SargeOP_: BREAKING\n\nKrafton has Cancelled the development of PUBG: BLACK BUDGET, an Extraction Shooter.\n\nThe game was meant to feature:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105551548441038848",
+            "3_2105551561191813121",
+            "3_2105551569890779136",
+            "3_2105551578791096320"
+          ]
+        },
+        "author_id": "1604379508143857664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2105551586680512741",
+        "created_at": "2026-10-01T06:53:12.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105551586680512741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMldl2RKlh",
+              "end": 209,
+              "expanded_url": "https://x.com/SargeOP_/status/2105551586680512741/photo/1",
+              "media_key": "3_2105551548441038848",
+              "start": 186,
+              "url": "https://t.co/eMldl2RKlh"
+            },
+            {
+              "display_url": "pic.x.com/eMldl2RKlh",
+              "end": 209,
+              "expanded_url": "https://x.com/SargeOP_/status/2105551586680512741/photo/1",
+              "media_key": "3_2105551561191813121",
+              "start": 186,
+              "url": "https://t.co/eMldl2RKlh"
+            },
+            {
+              "display_url": "pic.x.com/eMldl2RKlh",
+              "end": 209,
+              "expanded_url": "https://x.com/SargeOP_/status/2105551586680512741/photo/1",
+              "media_key": "3_2105551569890779136",
+              "start": 186,
+              "url": "https://t.co/eMldl2RKlh"
+            },
+            {
+              "display_url": "pic.x.com/eMldl2RKlh",
+              "end": 209,
+              "expanded_url": "https://x.com/SargeOP_/status/2105551586680512741/photo/1",
+              "media_key": "3_2105551578791096320",
+              "start": 186,
+              "url": "https://t.co/eMldl2RKlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105551586680512741",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105551548441038848"
+          },
+          {
+            "media_key": "3_2105551561191813121"
+          },
+          {
+            "media_key": "3_2105551569890779136"
+          },
+          {
+            "media_key": "3_2105551578791096320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 217744,
+          "like_count": 1388,
+          "quote_count": 28,
+          "reply_count": 120,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING\n\nKrafton has Cancelled the development of PUBG: BLACK BUDGET, an Extraction Shooter.\n\nThe game was meant to feature:\n• Safe Zone\n• Zombies/Infected\n• Various biological threats https://t.co/eMldl2RKlh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2105694775454355521",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12380,
+          "following_count": 4890,
+          "like_count": 54644,
+          "listed_count": 41,
+          "media_count": 7026,
+          "tweet_count": 18370
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-18T07:34:35.000Z",
+        "description": "Gaming Industry",
+        "id": "1604379508143857664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105690639711289567",
+        "name": "SARGE ",
+        "pinned_tweet_id": "2077042663669538994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1604379508143857664/1790113916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104999198357954560/Pa4j8UOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 148,
+          "like_count": 30095,
+          "listed_count": 9,
+          "media_count": 445,
+          "tweet_count": 4537
+        },
+        "url": "",
+        "username": "SargeOP_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1529485951520477185",
+          "name": "Leaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288168909422518272",
+          "name": "Esports players"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1529485951520477185",
+          "name": "Leaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports player like Optic Scump",
+          "id": "138",
+          "name": "Esports Player"
+        },
+        "entity": {
+          "id": "1529485951520477185",
+          "name": "Leaf"
+        }
+      }
+    ],
+    "conversation_id": "2106375613158134178",
+    "created_at": "2026-10-04T04:21:07.000Z",
+    "display_text_range": [
+      103,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106600478343843888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597201653463191552",
+          "start": 0,
+          "username": "G2VALORANT"
+        },
+        {
+          "end": 20,
+          "id": "983888611463573504",
+          "start": 12,
+          "username": "leaf_cs"
+        },
+        {
+          "end": 30,
+          "id": "1229469088436539392",
+          "start": 21,
+          "username": "valynfps"
+        },
+        {
+          "end": 39,
+          "id": "2786179633",
+          "start": 31,
+          "username": "jawgemo"
+        },
+        {
+          "end": 49,
+          "id": "1315070725183610881",
+          "start": 40,
+          "username": "trentFPS"
+        },
+        {
+          "end": 58,
+          "id": "3308277720",
+          "start": 50,
+          "username": "babybay"
+        },
+        {
+          "end": 68,
+          "id": "4289007098",
+          "start": 59,
+          "username": "_shhhack"
+        },
+        {
+          "end": 76,
+          "id": "2994477057",
+          "start": 69,
+          "username": "JoshRT"
+        },
+        {
+          "end": 91,
+          "id": "1473626629016461312",
+          "start": 77,
+          "username": "valesports_cn"
+        },
+        {
+          "end": 102,
+          "id": "1539302288191528960",
+          "start": 92,
+          "username": "Re1naYang"
+        },
+        {
+          "end": 131,
+          "id": "1597240331048820738",
+          "start": 122,
+          "username": "G2League"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106600478343843888",
+    "in_reply_to_user_id": "1597201653463191552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106375613158134178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G2VALORANT @leaf_cs @valynfps @jawgemo @trentFPS @babybay @_shhhack @JoshRT @valesports_cn @Re1naYang 和LOL一样 是VCTCN最后的希望\n@G2League"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2106358824378507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtKMNiXIAA1mhr.jpg",
+        "width": 3857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1529485951520477185",
+              "name": "Leaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1529485951520477185",
+              "name": "Leaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "id": "1529485951520477185",
+              "name": "Leaf"
+            }
+          }
+        ],
+        "conversation_id": "2106375613158134178",
+        "created_at": "2026-10-04T04:21:07.000Z",
+        "display_text_range": [
+          103,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106600478343843888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597201653463191552",
+              "start": 0,
+              "username": "G2VALORANT"
+            },
+            {
+              "end": 20,
+              "id": "983888611463573504",
+              "start": 12,
+              "username": "leaf_cs"
+            },
+            {
+              "end": 30,
+              "id": "1229469088436539392",
+              "start": 21,
+              "username": "valynfps"
+            },
+            {
+              "end": 39,
+              "id": "2786179633",
+              "start": 31,
+              "username": "jawgemo"
+            },
+            {
+              "end": 49,
+              "id": "1315070725183610881",
+              "start": 40,
+              "username": "trentFPS"
+            },
+            {
+              "end": 58,
+              "id": "3308277720",
+              "start": 50,
+              "username": "babybay"
+            },
+            {
+              "end": 68,
+              "id": "4289007098",
+              "start": 59,
+              "username": "_shhhack"
+            },
+            {
+              "end": 76,
+              "id": "2994477057",
+              "start": 69,
+              "username": "JoshRT"
+            },
+            {
+              "end": 91,
+              "id": "1473626629016461312",
+              "start": 77,
+              "username": "valesports_cn"
+            },
+            {
+              "end": 102,
+              "id": "1539302288191528960",
+              "start": 92,
+              "username": "Re1naYang"
+            },
+            {
+              "end": 131,
+              "id": "1597240331048820738",
+              "start": 122,
+              "username": "G2League"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106600478343843888",
+        "in_reply_to_user_id": "1597201653463191552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106375613158134178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G2VALORANT @leaf_cs @valynfps @jawgemo @trentFPS @babybay @_shhhack @JoshRT @valesports_cn @Re1naYang 和LOL一样 是VCTCN最后的希望\n@G2League"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106358824378507264"
+          ]
+        },
+        "author_id": "1597201653463191552",
+        "conversation_id": "2106375613158134178",
+        "created_at": "2026-10-03T13:27:35.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:27:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106360615555981371",
+          "2106375613158134178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fOsLBDL81",
+              "end": 116,
+              "expanded_url": "https://x.com/G2VALORANT/status/2106375613158134178/photo/1",
+              "media_key": "3_2106358824378507264",
+              "start": 93,
+              "url": "https://t.co/7fOsLBDL81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106375613158134178",
+        "lang": "lt",
+        "media_metadata": [
+          {
+            "media_key": "3_2106358824378507264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 117599,
+          "like_count": 4770,
+          "quote_count": 27,
+          "reply_count": 33,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "CN MADE IT TO THE PLAYOFFS\n\n🈵 JI TU 🈵 BEI BI BEI 🈵 WA LIN 🈵 ZHAO GE MO 🈵 LI FU 🈵 TU REN TU 🈵 https://t.co/7fOsLBDL81"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106600478343843888",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4889,
+          "like_count": 54720,
+          "listed_count": 41,
+          "media_count": 7106,
+          "tweet_count": 18487
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2070212777734725632/z39ICAuS_bigger.jpg",
+          "description": "G2 Esports",
+          "url": "https://twitter.com/G2esports",
+          "user_id": [
+            "1124722303"
+          ]
+        },
+        "created_at": "2022-11-28T12:12:43.000Z",
+        "description": "鸡兔瓦队的家 #G2ARMY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "G2ARMY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/g2esports",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/g2esports",
+                "start": 0,
+                "url": "https://t.co/xJK4JTMx4B"
+              }
+            ]
+          }
+        },
+        "id": "1597201653463191552",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2106450083868721573",
+        "name": "G2 VALORANT (Ji Tu)",
+        "pinned_tweet_id": "2102813011429769294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597201653463191552/1790684814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102814906667958272/7oaTAyAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92786,
+          "following_count": 82,
+          "like_count": 14703,
+          "listed_count": 130,
+          "media_count": 9535,
+          "tweet_count": 22165
+        },
+        "url": "https://t.co/xJK4JTMx4B",
+        "username": "G2VALORANT",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-11T02:04:59.000Z",
+        "description": "val player for @G2VALORANT , 22 :) business inquiries : enq@ocelotsports.com | @606ericaa 💘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "G2VALORANT"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "606ericaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/1leaff",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/1leaff",
+                "start": 0,
+                "url": "https://t.co/clKdRPloAe"
+              }
+            ]
+          }
+        },
+        "id": "983888611463573504",
+        "is_identity_verified": false,
+        "location": "CVG 🤝 LAX",
+        "most_recent_tweet_id": "2106443025564221820",
+        "name": "Nathan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983888611463573504/1776480813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022886033575264256/0Lk6X7Av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78290,
+          "following_count": 1107,
+          "like_count": 31039,
+          "listed_count": 294,
+          "media_count": 787,
+          "tweet_count": 10065
+        },
+        "url": "https://t.co/clKdRPloAe",
+        "username": "leaf_cs",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-17T18:14:15.000Z",
+        "description": "23 Assyrian / Professional Valorant IGL for @G2VALORANT https://t.co/sUPP0HZNyA Represented by @OcelotSEG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "G2VALORANT"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "OcelotSEG"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Instagram.com/valynfps",
+                "end": 79,
+                "expanded_url": "http://Instagram.com/valynfps",
+                "start": 56,
+                "url": "https://t.co/sUPP0HZNyA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "konect.gg/valyn",
+                "end": 23,
+                "expanded_url": "http://konect.gg/valyn",
+                "start": 0,
+                "url": "https://t.co/1A4qyTNt3U"
+              }
+            ]
+          }
+        },
+        "id": "1229469088436539392",
+        "is_identity_verified": false,
+        "location": "LA",
+        "most_recent_tweet_id": "2106361280005021813",
+        "name": "G2 valyn",
+        "pinned_tweet_id": "1962318896159240524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229469088436539392/1775097341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952471209020727296/fYpJzhc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76355,
+          "following_count": 958,
+          "like_count": 21132,
+          "listed_count": 232,
+          "media_count": 436,
+          "tweet_count": 7444
+        },
+        "url": "https://t.co/1A4qyTNt3U",
+        "username": "valynfps",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-02T14:58:15.000Z",
+        "description": "27 | Professional Valorant Player For @G2VALORANT | enq@ocelotsports.com 🇰🇭| @st1zzyv❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "G2VALORANT"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "st1zzyv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jawgemo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jawgemo",
+                "start": 0,
+                "url": "https://t.co/lCC0R6uVzL"
+              }
+            ]
+          }
+        },
+        "id": "2786179633",
+        "is_identity_verified": true,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2106578524845088859",
+        "name": "G2 JAWGEMO",
+        "pinned_tweet_id": "1695631728256393401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2786179633/1776377437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978528301183598595/ifDvnhZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83110,
+          "following_count": 834,
+          "like_count": 34704,
+          "listed_count": 148,
+          "media_count": 1054,
+          "tweet_count": 8509
+        },
+        "url": "https://t.co/lCC0R6uVzL",
+        "username": "jawgemo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-10T23:24:34.000Z",
+        "description": "Valorant @G2VALORANT https://t.co/mSAA6HGRYF |@lilbremma ❤️ enq@OcelotSports.com for business inquiries, socials - https://t.co/A0LW02BNpc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "G2VALORANT"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "lilbremma"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/trent_fps",
+                "end": 44,
+                "expanded_url": "http://twitch.tv/trent_fps",
+                "start": 21,
+                "url": "https://t.co/mSAA6HGRYF"
+              },
+              {
+                "display_url": "linktr.ee/trent_fps",
+                "end": 138,
+                "expanded_url": "http://linktr.ee/trent_fps",
+                "start": 115,
+                "url": "https://t.co/A0LW02BNpc"
+              }
+            ]
+          }
+        },
+        "id": "1315070725183610881",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106360876815224948",
+        "name": "G2 trent",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315070725183610881/1776381314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929573300071534592/gIQqP6IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109448,
+          "following_count": 826,
+          "like_count": 39298,
+          "listed_count": 274,
+          "media_count": 266,
+          "tweet_count": 2486
+        },
+        "url": "",
+        "username": "trentFPS",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-07T01:45:25.000Z",
+        "description": "Valorant Pro @g2esports | Web3 @WayfindersGG | Contact: drewbief6@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "g2esports"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "WayfindersGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/king_babybay",
+                "end": 23,
+                "expanded_url": "http://link.me/king_babybay",
+                "start": 0,
+                "url": "https://t.co/wLmrYZlsYz"
+              }
+            ]
+          }
+        },
+        "id": "3308277720",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2106387716153684175",
+        "name": "G2 BABYBAY",
+        "pinned_tweet_id": "2069356552528560208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3308277720/1753293616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976744545057665024/vBL0Gbbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97557,
+          "following_count": 3655,
+          "like_count": 86715,
+          "listed_count": 322,
+          "media_count": 907,
+          "tweet_count": 14866
+        },
+        "url": "https://t.co/wLmrYZlsYz",
+        "username": "babybay",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-19T10:51:19.000Z",
+        "description": "🇪🇸🇸🇰 Assistant Coach for @G2VALORANT \n| https://t.co/e8WBOC8Gze\n| Former CS & VAL Pro Player",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "G2VALORANT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/shhhack",
+                "end": 63,
+                "expanded_url": "https://www.twitch.tv/shhhack",
+                "start": 40,
+                "url": "https://t.co/e8WBOC8Gze"
+              }
+            ]
+          }
+        },
+        "id": "4289007098",
+        "is_identity_verified": false,
+        "location": "A Coruña, Galicia",
+        "most_recent_tweet_id": "2106370276120514683",
+        "name": "G2 shhhack",
+        "pinned_tweet_id": "1962305427628056724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4289007098/1776373718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759322219555991552/4X91YipW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 926,
+          "like_count": 8861,
+          "listed_count": 26,
+          "media_count": 138,
+          "tweet_count": 4516
+        },
+        "url": "",
+        "username": "_shhhack",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-23T17:58:55.000Z",
+        "description": "Head Coach for @G2VALORANT | https://t.co/lv7Rwo0BAq | Represented by @OcelotSEG | Business Contact: joshrt.lee@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "G2VALORANT"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "OcelotSEG"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/JoshRTz_",
+                "end": 52,
+                "expanded_url": "http://instagram.com/JoshRTz_",
+                "start": 29,
+                "url": "https://t.co/lv7Rwo0BAq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JoshRT",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JoshRT",
+                "start": 0,
+                "url": "https://t.co/TMcV6YA4ls"
+              }
+            ]
+          }
+        },
+        "id": "2994477057",
+        "is_identity_verified": false,
+        "location": "Los Angeles / Washington DC",
+        "most_recent_tweet_id": "2106586863993581751",
+        "name": "G2 JoshRT",
+        "pinned_tweet_id": "1962341798191501347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2994477057/1776381824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963658192782782464/9oiKUVaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15431,
+          "following_count": 1902,
+          "like_count": 18472,
+          "listed_count": 59,
+          "media_count": 419,
+          "tweet_count": 7003
+        },
+        "url": "https://t.co/TMcV6YA4ls",
+        "username": "JoshRT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2100628116964294656/gZHPtb8v_bigger.png",
+          "description": "VALORANT Champions Tour",
+          "url": "https://twitter.com/ValorantEsports",
+          "user_id": [
+            "1231020013227671553"
+          ]
+        },
+        "created_at": "2021-12-22T12:09:20.000Z",
+        "description": "Official account for the VALORANT Champions Tour CN | Always rooting for #VCTCN | IL of 2024 VALORANT World Champions @EDG_Edward",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "VCTCN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "EDG_Edward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/valorantesport…",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/valorantesports_cn",
+                "start": 0,
+                "url": "https://t.co/FItyA1htlt"
+              }
+            ]
+          }
+        },
+        "id": "1473626629016461312",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106397927509983252",
+        "name": "VALORANT Champions Tour CN",
+        "pinned_tweet_id": "2101959621292560470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473626629016461312/1789542064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100117742049521664/50VdNTeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45693,
+          "following_count": 272,
+          "like_count": 1638,
+          "listed_count": 101,
+          "media_count": 10479,
+          "tweet_count": 13163
+        },
+        "url": "https://t.co/FItyA1htlt",
+        "username": "valesports_cn",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-21T17:40:52.000Z",
+        "description": "Official #VCT CN caster BaiYang",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "VCT"
+              }
+            ]
+          }
+        },
+        "id": "1539302288191528960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106369188470427817",
+        "name": "白杨Reina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1539302288191528960/1659516429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827382680755040261/azLBgc4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 393,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Re1naYang",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2070212777734725632/z39ICAuS_bigger.jpg",
+          "description": "G2 Esports",
+          "url": "https://twitter.com/G2esports",
+          "user_id": [
+            "1124722303"
+          ]
+        },
+        "created_at": "2022-11-28T14:46:35.000Z",
+        "description": "Home of @G2esports League of Legends\nLEC Grand Slam Winners 🏆 \nScrim World Champions 🏆\nMeta World Champions 🏆\n9x (Unofficial) World Champions 🏆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "G2esports"
+              }
+            ]
+          }
+        },
+        "id": "1597240331048820738",
+        "is_identity_verified": false,
+        "location": "finals (winning)",
+        "most_recent_tweet_id": "2106353700889567633",
+        "name": "G2 League of Legends",
+        "pinned_tweet_id": "2101729004692590599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597240331048820738/1787221932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089000897216970753/JxJmeE0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146490,
+          "following_count": 140,
+          "like_count": 38797,
+          "listed_count": 236,
+          "media_count": 11346,
+          "tweet_count": 31516
+        },
+        "url": "",
+        "username": "G2League",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

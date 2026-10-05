@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2101222511564259600",
+    "created_at": "2026-09-20T10:06:54.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101614066729193614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1230861777312743424",
+          "start": 0,
+          "username": "panfeng0926"
+        },
+        {
+          "end": 22,
+          "id": "723844496530673666",
+          "start": 13,
+          "username": "Sandiyaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101614066729193614",
+    "in_reply_to_user_id": "1230861777312743424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101575157936738806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@panfeng0926 @Sandiyaq yep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2101575142363279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpLdRVasAA4bFI.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2101222511564259600",
+        "created_at": "2026-09-20T10:06:54.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101614066729193614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1230861777312743424",
+              "start": 0,
+              "username": "panfeng0926"
+            },
+            {
+              "end": 22,
+              "id": "723844496530673666",
+              "start": 13,
+              "username": "Sandiyaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101614066729193614",
+        "in_reply_to_user_id": "1230861777312743424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101575157936738806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panfeng0926 @Sandiyaq yep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101575142363279360"
+          ]
+        },
+        "author_id": "1230861777312743424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101222511564259600",
+        "created_at": "2026-09-20T07:32:17.000Z",
+        "display_text_range": [
+          20,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101575157936738806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "723844496530673666",
+              "start": 0,
+              "username": "Sandiyaq"
+            },
+            {
+              "end": 19,
+              "id": "1545277694325116928",
+              "start": 10,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQcwxwlVEw",
+              "end": 68,
+              "expanded_url": "https://x.com/panfeng0926/status/2101575157936738806/photo/1",
+              "media_key": "3_2101575142363279360",
+              "start": 45,
+              "url": "https://t.co/PQcwxwlVEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101575157936738806",
+        "in_reply_to_user_id": "723844496530673666",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101575142363279360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101332484965450149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sandiyaq @YongQuan 可能你刚刚知道AI这俩字母怎么写就开始有样学样了 https://t.co/PQcwxwlVEw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2101614066729193614",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12349,
+          "following_count": 4887,
+          "like_count": 54491,
+          "listed_count": 42,
+          "media_count": 6723,
+          "tweet_count": 17992
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-21T14:28:23.000Z",
+        "description": "",
+        "id": "1230861777312743424",
+        "is_identity_verified": false,
+        "location": "Nagoya City Naka Ward, Aichi",
+        "most_recent_tweet_id": "2101575157936738806",
+        "name": "合座",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230861777312743424/1730736899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029812598728970241/P0G0MTU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 222,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "panfeng0926",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-23T12:02:31.000Z",
+        "description": "独立思考，明辨是非",
+        "id": "723844496530673666",
+        "is_identity_verified": false,
+        "location": "Ice land",
+        "most_recent_tweet_id": "2101333077268287843",
+        "name": "小南瓜🎃",
+        "pinned_tweet_id": "1984268599251623994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723844496530673666/1599319762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526561307125686273/RCoZ9_gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 666,
+          "like_count": 22849,
+          "listed_count": 9,
+          "media_count": 381,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "Sandiyaq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

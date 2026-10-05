@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106014979778334720"
+      ],
+      "media_source_tweet_id": [
+        "2106015393135394861"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106613734550753335",
+    "created_at": "2026-10-04T05:13:47.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106613734550753335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597201653463191552",
+          "start": 3,
+          "username": "G2VALORANT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wI7X8SKzvW",
+          "end": 86,
+          "expanded_url": "https://x.com/G2VALORANT/status/2106015393135394861/video/1",
+          "media_key": "13_2106014979778334720",
+          "start": 63,
+          "url": "https://t.co/wI7X8SKzvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106613734550753335",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106014979778334720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106015393135394861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G2VALORANT: The last Chinese team remaining: Ji Tu Esports https://t.co/wI7X8SKzvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10083,
+        "height": 1920,
+        "media_key": "13_2106014979778334720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106014979778334720/img/4D2senaOlPvx4MHR.jpg",
+        "public_metrics": {
+          "view_count": 94034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106014979778334720/pl/eGD0izvc7Q4Z-VHV.m3u8?v=717"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106014979778334720/vid/avc1/720x1280/K0NZqD94Jylvj9UR.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106014979778334720/vid/avc1/320x568/FbaATVf8DQ0V4aqM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106014979778334720/vid/avc1/480x852/yIQWJ-Ffk5_ucShb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106014979778334720/vid/avc1/1080x1920/KzSexmGO7fwxZBRF.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106014979778334720"
+          ],
+          "media_source_tweet_id": [
+            "2106015393135394861"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106613734550753335",
+        "created_at": "2026-10-04T05:13:47.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106613734550753335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597201653463191552",
+              "start": 3,
+              "username": "G2VALORANT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wI7X8SKzvW",
+              "end": 86,
+              "expanded_url": "https://x.com/G2VALORANT/status/2106015393135394861/video/1",
+              "media_key": "13_2106014979778334720",
+              "start": 63,
+              "url": "https://t.co/wI7X8SKzvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106613734550753335",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106014979778334720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106015393135394861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G2VALORANT: The last Chinese team remaining: Ji Tu Esports https://t.co/wI7X8SKzvW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106014979778334720"
+          ]
+        },
+        "author_id": "1597201653463191552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106015393135394861",
+        "created_at": "2026-10-02T13:36:12.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106015393135394861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wI7X8SKzvW",
+              "end": 70,
+              "expanded_url": "https://x.com/G2VALORANT/status/2106015393135394861/video/1",
+              "media_key": "13_2106014979778334720",
+              "start": 47,
+              "url": "https://t.co/wI7X8SKzvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106015393135394861",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106014979778334720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 211888,
+          "like_count": 6941,
+          "quote_count": 52,
+          "reply_count": 69,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "The last Chinese team remaining: Ji Tu Esports https://t.co/wI7X8SKzvW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106613734550753335",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4895,
+          "like_count": 54762,
+          "listed_count": 41,
+          "media_count": 7108,
+          "tweet_count": 18503
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2070212777734725632/z39ICAuS_bigger.jpg",
+          "description": "G2 Esports",
+          "url": "https://twitter.com/G2esports",
+          "user_id": [
+            "1124722303"
+          ]
+        },
+        "created_at": "2022-11-28T12:12:43.000Z",
+        "description": "鸡兔瓦队的家 #G2ARMY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "G2ARMY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/g2esports",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/g2esports",
+                "start": 0,
+                "url": "https://t.co/xJK4JTMx4B"
+              }
+            ]
+          }
+        },
+        "id": "1597201653463191552",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2106450083868721573",
+        "name": "G2 VALORANT (Ji Tu)",
+        "pinned_tweet_id": "2102813011429769294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597201653463191552/1790684814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102814906667958272/7oaTAyAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92799,
+          "following_count": 82,
+          "like_count": 14702,
+          "listed_count": 130,
+          "media_count": 9535,
+          "tweet_count": 22165
+        },
+        "url": "https://t.co/xJK4JTMx4B",
+        "username": "G2VALORANT",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

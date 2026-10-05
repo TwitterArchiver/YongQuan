@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2105882378526986695",
+    "created_at": "2026-10-04T04:14:53.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106598908743094415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2078924369410035712",
+          "start": 0,
+          "username": "YWAcqy"
+        },
+        {
+          "end": 24,
+          "id": "2036275535832293380",
+          "start": 8,
+          "username": "Xijinpingcn8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106598908743094415",
+    "in_reply_to_user_id": "2078924369410035712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106098936620703804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YWAcqy @Xijinpingcn8964 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2105882378526986695",
+        "created_at": "2026-10-04T04:14:53.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106598908743094415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2078924369410035712",
+              "start": 0,
+              "username": "YWAcqy"
+            },
+            {
+              "end": 24,
+              "id": "2036275535832293380",
+              "start": 8,
+              "username": "Xijinpingcn8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106598908743094415",
+        "in_reply_to_user_id": "2078924369410035712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106098936620703804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YWAcqy @Xijinpingcn8964 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078924369410035712",
+        "conversation_id": "2105882378526986695",
+        "created_at": "2026-10-02T19:08:10.000Z",
+        "display_text_range": [
+          17,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T20:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106098936620703804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036275535832293380",
+              "start": 0,
+              "username": "Xijinpingcn8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106098936620703804",
+        "in_reply_to_user_id": "2036275535832293380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2948,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105882378526986695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xijinpingcn8964 我希望您解散 vctcn，并且对 tyl，xlg，edg，jdg 加以叛国罪的罪名"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106598908743094415",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4888,
+          "like_count": 54712,
+          "listed_count": 41,
+          "media_count": 7106,
+          "tweet_count": 18484
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T19:28:39.000Z",
+        "description": "👀",
+        "id": "2078924369410035712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106159243330216164",
+        "name": "YWA",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105385264973832192/Dn-QO9Ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "YWAcqy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T02:55:16.000Z",
+        "description": "•在1989年6月4日，第一次参加无限制自由搏击大赛就获得了千人碾坦克冠军杯\n•不与粉红争对错，你骂我就是你对",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.tw",
+                "end": 23,
+                "expanded_url": "http://www.gov.tw",
+                "start": 0,
+                "url": "https://t.co/VZs4y5AgqG"
+              }
+            ]
+          }
+        },
+        "id": "2036275535832293380",
+        "is_identity_verified": false,
+        "location": "中華民國",
+        "most_recent_tweet_id": "2106590815376101795",
+        "name": "Xi Jin Ping",
+        "pinned_tweet_id": "2104951894477324520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036275535832293380/1791049236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098345480757620736/fT2cFw6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 8,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/VZs4y5AgqG",
+        "username": "Xijinpingcn8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106616805058060423",
+    "created_at": "2026-10-04T05:26:00.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106616805058060423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649366440808681474",
+          "start": 3,
+          "username": "is_llll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106616805058060423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106614946838524284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @is_llll: AI Agent对时间的感知跟人类真的完全不一样...我设计一个benchmark撑死5分钟跑完。Opus 5.5敢跟我说「我设计了一个benchmark，大概6小时跑完」，我指责时间太长后他说「你说的对，我砍一些，1小时跑完」。我直接眼前一黑..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106616805058060423",
+        "created_at": "2026-10-04T05:26:00.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106616805058060423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649366440808681474",
+              "start": 3,
+              "username": "is_llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106616805058060423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106614946838524284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @is_llll: AI Agent对时间的感知跟人类真的完全不一样...我设计一个benchmark撑死5分钟跑完。Opus 5.5敢跟我说「我设计了一个benchmark，大概6小时跑完」，我指责时间太长后他说「你说的对，我砍一些，1小时跑完」。我直接眼前一黑..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366440808681474",
+        "conversation_id": "2106614946838524284",
+        "created_at": "2026-10-04T05:18:36.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106614946838524284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106614946838524284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "AI Agent对时间的感知跟人类真的完全不一样...我设计一个benchmark撑死5分钟跑完。Opus 5.5敢跟我说「我设计了一个benchmark，大概6小时跑完」，我指责时间太长后他说「你说的对，我砍一些，1小时跑完」。我直接眼前一黑..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106616805058060423",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4895,
+          "like_count": 54776,
+          "listed_count": 41,
+          "media_count": 7108,
+          "tweet_count": 18509
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI ✈️ KBW🇰🇷",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2023-04-21T10:56:22.000Z",
+        "description": "06｜AI slop🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Vv_sA_MlSK03Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Vv_sA_MlSK03ZGU1",
+                "start": 0,
+                "url": "https://t.co/o22scQqc7S"
+              }
+            ]
+          }
+        },
+        "id": "1649366440808681474",
+        "is_identity_verified": false,
+        "location": "Rochester, NY",
+        "most_recent_tweet_id": "2106615593054945443",
+        "name": "LLLL🏳️‍🌈",
+        "pinned_tweet_id": "1937595042837021031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649366440808681474/1721505437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804666323064266752/D_saJw-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 877,
+          "like_count": 81998,
+          "listed_count": 10,
+          "media_count": 724,
+          "tweet_count": 6331
+        },
+        "url": "https://t.co/o22scQqc7S",
+        "username": "is_llll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106046807860203522",
+        "3_2106046807864475648",
+        "3_2106046807931580416"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106394088560095476",
+    "created_at": "2026-10-03T14:41:00.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106394088560095476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzInv5MKjk",
+          "end": 35,
+          "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+          "media_key": "3_2106046807860203522",
+          "start": 12,
+          "url": "https://t.co/vzInv5MKjk"
+        },
+        {
+          "display_url": "pic.x.com/vzInv5MKjk",
+          "end": 35,
+          "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+          "media_key": "3_2106046807864475648",
+          "start": 12,
+          "url": "https://t.co/vzInv5MKjk"
+        },
+        {
+          "display_url": "pic.x.com/vzInv5MKjk",
+          "end": 35,
+          "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+          "media_key": "3_2106046807931580416",
+          "start": 12,
+          "url": "https://t.co/vzInv5MKjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106394088560095476",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106046807860203522"
+      },
+      {
+        "media_key": "3_2106046807864475648"
+      },
+      {
+        "media_key": "3_2106046807931580416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽象男老了 就我爸这样 https://t.co/vzInv5MKjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2106046807860203522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTouadbaUAIfsfO.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106046807864475648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTouadcbgAAOfd2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106046807931580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTouadsbcAA_e5b.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106046807860203522",
+            "3_2106046807864475648",
+            "3_2106046807931580416"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106394088560095476",
+        "created_at": "2026-10-03T14:41:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106394088560095476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzInv5MKjk",
+              "end": 35,
+              "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+              "media_key": "3_2106046807860203522",
+              "start": 12,
+              "url": "https://t.co/vzInv5MKjk"
+            },
+            {
+              "display_url": "pic.x.com/vzInv5MKjk",
+              "end": 35,
+              "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+              "media_key": "3_2106046807864475648",
+              "start": 12,
+              "url": "https://t.co/vzInv5MKjk"
+            },
+            {
+              "display_url": "pic.x.com/vzInv5MKjk",
+              "end": 35,
+              "expanded_url": "https://x.com/YongQuan/status/2106394088560095476/photo/1",
+              "media_key": "3_2106046807931580416",
+              "start": 12,
+              "url": "https://t.co/vzInv5MKjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106394088560095476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106046807860203522"
+          },
+          {
+            "media_key": "3_2106046807864475648"
+          },
+          {
+            "media_key": "3_2106046807931580416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽象男老了 就我爸这样 https://t.co/vzInv5MKjk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106394088560095476",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12412,
+          "following_count": 4889,
+          "like_count": 54662,
+          "listed_count": 41,
+          "media_count": 7086,
+          "tweet_count": 18448
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

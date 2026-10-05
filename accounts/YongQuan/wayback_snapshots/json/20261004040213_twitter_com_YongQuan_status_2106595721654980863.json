@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106595714092699648"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106069010379063655",
+    "created_at": "2026-10-04T04:02:13.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106595721654980863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551537633565626368",
+          "start": 0,
+          "username": "hdslog"
+        },
+        {
+          "end": 15,
+          "id": "1357346694732521474",
+          "start": 8,
+          "username": "SiuFat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y52PgToxmK",
+          "end": 48,
+          "expanded_url": "https://x.com/YongQuan/status/2106595721654980863/photo/1",
+          "media_key": "3_2106595714092699648",
+          "start": 25,
+          "url": "https://t.co/y52PgToxmK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106595721654980863",
+    "in_reply_to_user_id": "1551537633565626368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106595714092699648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106099410807693482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hdslog @SiuFat 数据是不会骗人的 https://t.co/y52PgToxmK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_2106595714092699648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwhpAfbEAAG0Uh.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106595714092699648"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106069010379063655",
+        "created_at": "2026-10-04T04:02:13.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106595721654980863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551537633565626368",
+              "start": 0,
+              "username": "hdslog"
+            },
+            {
+              "end": 15,
+              "id": "1357346694732521474",
+              "start": 8,
+              "username": "SiuFat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y52PgToxmK",
+              "end": 48,
+              "expanded_url": "https://x.com/YongQuan/status/2106595721654980863/photo/1",
+              "media_key": "3_2106595714092699648",
+              "start": 25,
+              "url": "https://t.co/y52PgToxmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106595721654980863",
+        "in_reply_to_user_id": "1551537633565626368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106595714092699648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106099410807693482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hdslog @SiuFat 数据是不会骗人的 https://t.co/y52PgToxmK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551537633565626368",
+        "conversation_id": "2106069010379063655",
+        "created_at": "2026-10-02T19:10:03.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T20:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106099410807693482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1357346694732521474",
+              "start": 0,
+              "username": "SiuFat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106099410807693482",
+        "in_reply_to_user_id": "1357346694732521474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12117,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106069010379063655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiuFat 签运不好，要是和jdg换个位置就是第四个被淘汰的队伍了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106595721654980863",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4888,
+          "like_count": 54705,
+          "listed_count": 41,
+          "media_count": 7105,
+          "tweet_count": 18477
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-25T11:59:40.000Z",
+        "description": "Hang1ng",
+        "id": "1551537633565626368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106099410807693482",
+        "name": "erEreR",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610306706298515457/vqGyaeWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 58,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "hdslog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-04T15:17:13.000Z",
+        "description": "🇨🇳🇭🇰 𝗩𝗖𝗧𝗖𝗡 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 @VALORANT 𝗜𝗚𝗟 𝗙𝗼𝗿 @Tyloo_val 🏆💎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "VALORANT"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Tyloo_val"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/siufatbb_vlrt/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/siufatbb_vlrt/",
+                "start": 0,
+                "url": "https://t.co/xJjNvjzGKG"
+              }
+            ]
+          }
+        },
+        "id": "1357346694732521474",
+        "is_identity_verified": true,
+        "location": "HongKong ",
+        "most_recent_tweet_id": "2106069010379063655",
+        "name": "TYLOO SiuFatBB",
+        "pinned_tweet_id": "2091565966950093147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357346694732521474/1789188122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092096013360381953/oN5eHn_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46077,
+          "following_count": 668,
+          "like_count": 2613,
+          "listed_count": 22,
+          "media_count": 174,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/xJjNvjzGKG",
+        "username": "SiuFat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

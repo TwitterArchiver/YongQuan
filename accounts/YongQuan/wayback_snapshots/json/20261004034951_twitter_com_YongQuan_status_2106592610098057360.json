@@ -1,0 +1,968 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106592597263495168"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1366454810371743744",
+          "name": "VALORANT Champions Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1375110997787078659",
+          "name": "JD Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1375110997787078659",
+          "name": "JD Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1366454810371743744",
+          "name": "VALORANT Champions Tour"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+          "id": "1694474463650230272",
+          "name": "VALORANT Champions 2023"
+        }
+      }
+    ],
+    "conversation_id": "2106015878261408199",
+    "created_at": "2026-10-04T03:49:51.000Z",
+    "display_text_range": [
+      27,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106592610098057360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1231020013227671553",
+          "start": 0,
+          "username": "ValorantEsports"
+        },
+        {
+          "end": 26,
+          "id": "1110820671825813505",
+          "start": 17,
+          "username": "JDGaming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tjFMJyv0PQ",
+          "end": 74,
+          "expanded_url": "https://x.com/YongQuan/status/2106592610098057360/photo/1",
+          "media_key": "3_2106592597263495168",
+          "start": 51,
+          "url": "https://t.co/tjFMJyv0PQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592610098057360",
+    "in_reply_to_user_id": "1231020013227671553",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106592597263495168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106015878261408199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValorantEsports @JDGaming 我们收到消息，vctcn明年引入五个外援出战。 https://t.co/tjFMJyv0PQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2106592597263495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwezlZbsAAr_91.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2106015785672151040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToSMuxakAAqLMG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106592597263495168"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "2106015878261408199",
+        "created_at": "2026-10-04T03:49:51.000Z",
+        "display_text_range": [
+          27,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106592610098057360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1231020013227671553",
+              "start": 0,
+              "username": "ValorantEsports"
+            },
+            {
+              "end": 26,
+              "id": "1110820671825813505",
+              "start": 17,
+              "username": "JDGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjFMJyv0PQ",
+              "end": 74,
+              "expanded_url": "https://x.com/YongQuan/status/2106592610098057360/photo/1",
+              "media_key": "3_2106592597263495168",
+              "start": 51,
+              "url": "https://t.co/tjFMJyv0PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592610098057360",
+        "in_reply_to_user_id": "1231020013227671553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106592597263495168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106015878261408199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValorantEsports @JDGaming 我们收到消息，vctcn明年引入五个外援出战。 https://t.co/tjFMJyv0PQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106015785672151040"
+          ]
+        },
+        "author_id": "1231020013227671553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1375110997787078659",
+              "name": "JD Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1366454810371743744",
+              "name": "VALORANT Champions Tour"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "2106015878261408199",
+        "created_at": "2026-10-02T13:38:07.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106015878261408199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 57,
+              "tag": "VALORANTChampions"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1110820671825813505",
+              "start": 46,
+              "username": "JDGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxVRQfhmt2",
+              "end": 99,
+              "expanded_url": "https://x.com/ValorantEsports/status/2106015878261408199/photo/1",
+              "media_key": "3_2106015785672151040",
+              "start": 76,
+              "url": "https://t.co/zxVRQfhmt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106015878261408199",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106015785672151040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 33434,
+          "like_count": 723,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Gave it your all here in Shanghai. Thank you, @JDGaming! #VALORANTChampions https://t.co/zxVRQfhmt2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106592610098057360",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4887,
+          "like_count": 54702,
+          "listed_count": 41,
+          "media_count": 7104,
+          "tweet_count": 18475
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1867739479605489664/NsdJSu3f_bigger.jpg",
+          "description": "Riot Games",
+          "url": "https://twitter.com/riotgames",
+          "user_id": [
+            "20523846"
+          ]
+        },
+        "created_at": "2020-02-22T00:57:09.000Z",
+        "description": "The source for all things @VALORANT Champions Tour, all the time. #VCT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "VCT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "VALORANT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/valorantesports",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/valorantesports",
+                "start": 0,
+                "url": "https://t.co/msIK4ve2I8"
+              }
+            ]
+          }
+        },
+        "id": "1231020013227671553",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2106534875046240556",
+        "name": "VALORANT Champions Tour",
+        "pinned_tweet_id": "2106396970705379659",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231020013227671553/1789663746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100628116964294656/gZHPtb8v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807440,
+          "following_count": 455,
+          "like_count": 9060,
+          "listed_count": 1643,
+          "media_count": 17719,
+          "tweet_count": 30534
+        },
+        "url": "https://t.co/msIK4ve2I8",
+        "username": "ValorantEsports",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-27T08:27:40.000Z",
+        "description": "JDG FAN APP: https://t.co/6jFYq2Kl4i JDG Shop https://t.co/HNzkkybDJC: 📧jdgoverseasbusiness@jdgaming.com #JDGWin  #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 105,
+                "tag": "JDGWin"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "LPL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jdg.gamerbase.gg",
+                "end": 36,
+                "expanded_url": "https://jdg.gamerbase.gg/",
+                "start": 13,
+                "url": "https://t.co/6jFYq2Kl4i"
+              },
+              {
+                "display_url": "jdgaming.shop",
+                "end": 69,
+                "expanded_url": "https://jdgaming.shop/",
+                "start": 46,
+                "url": "https://t.co/HNzkkybDJC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jdgaming.shop",
+                "end": 23,
+                "expanded_url": "https://jdgaming.shop/",
+                "start": 0,
+                "url": "https://t.co/HNzkkybDJC"
+              }
+            ]
+          }
+        },
+        "id": "1110820671825813505",
+        "is_identity_verified": false,
+        "location": "Beijing China",
+        "most_recent_tweet_id": "2105665236099539228",
+        "name": "JD GAMING",
+        "pinned_tweet_id": "2101160626773197053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1110820671825813505/1774862495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830162673709039619/wpG1DlUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65491,
+          "following_count": 301,
+          "like_count": 9300,
+          "listed_count": 335,
+          "media_count": 3031,
+          "tweet_count": 5398
+        },
+        "url": "https://t.co/HNzkkybDJC",
+        "username": "JDGaming",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

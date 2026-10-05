@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2100924123245408652",
+    "created_at": "2026-09-19T03:35:23.000Z",
+    "display_text_range": [
+      35,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101153149906284968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 24,
+          "id": "2095542569400987648",
+          "start": 11,
+          "username": "XUEQIUxka_uk"
+        },
+        {
+          "end": 34,
+          "id": "2033504930707996672",
+          "start": 25,
+          "username": "Xyliaxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101153149906284968",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100924123245408652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @XUEQIUxka_uk @Xyliaxka 羡慕🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3003,
+        "media_key": "3_2100924112978034688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf7WX4bwAAQAkr.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2100924123245408652",
+        "created_at": "2026-09-19T03:35:23.000Z",
+        "display_text_range": [
+          35,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101153149906284968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 24,
+              "id": "2095542569400987648",
+              "start": 11,
+              "username": "XUEQIUxka_uk"
+            },
+            {
+              "end": 34,
+              "id": "2033504930707996672",
+              "start": 25,
+              "username": "Xyliaxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101153149906284968",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100924123245408652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @XUEQIUxka_uk @Xyliaxka 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100924112978034688"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2100924123245408652",
+        "created_at": "2026-09-18T12:25:18.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100924123245408652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFYMtIbMHH",
+              "end": 44,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2100924123245408652/photo/1",
+              "media_key": "3_2100924112978034688",
+              "start": 21,
+              "url": "https://t.co/BFYMtIbMHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100924123245408652",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100924112978034688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃糖2000天！\n真是一个值得纪念的日子 https://t.co/BFYMtIbMHH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2101153149906284968",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12314,
+          "following_count": 4887,
+          "like_count": 54455,
+          "listed_count": 42,
+          "media_count": 6691,
+          "tweet_count": 17945
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101148500662567183",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9741,
+          "following_count": 2325,
+          "like_count": 33558,
+          "listed_count": 25,
+          "media_count": 1722,
+          "tweet_count": 6123
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-09-03T16:02:23.000Z",
+        "description": "This is an official sub-account of @XUEQIUxka.\nVisit our official website at https://t.co/4JfhWvukWO.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "XUEQIUxka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 100,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 77,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          }
+        },
+        "id": "2095542569400987648",
+        "is_identity_verified": false,
+        "location": "XUEQIU Industrial Park",
+        "most_recent_tweet_id": "2100924878572642429",
+        "name": "雪秋小可爱 XUEQIUxka .uk",
+        "pinned_tweet_id": "2095549253116625335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095542569400987648/1788451827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095543041792847872/00d03Xts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/4JfhWvukWO",
+        "username": "XUEQIUxka_uk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "is_identity_verified": false,
+        "location": "欢迎访问我的网页↓",
+        "most_recent_tweet_id": "2100924194611753304",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033504930707996672/1774196484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

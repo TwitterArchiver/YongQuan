@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106376703065112874",
+    "created_at": "2026-10-04T03:42:30.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106590762322542938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106590762322542938",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106376703065112874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 杂鱼（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2106376630721757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtaYrVawAAUGOA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376642574860289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtaZXfawAEhynr.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376675932164097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtabTwa0AE6Olo.jpg",
+        "width": 3076
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376691824418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtacO9bYAA32O2.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106376703065112874",
+        "created_at": "2026-10-04T03:42:30.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106590762322542938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106590762322542938",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106376703065112874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 杂鱼（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106376630721757184",
+            "3_2106376642574860289",
+            "3_2106376675932164097",
+            "3_2106376691824418816"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "conversation_id": "2106376703065112874",
+        "created_at": "2026-10-03T13:31:55.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106376703065112874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376630721757184",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376642574860289",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376675932164097",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376691824418816",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106376703065112874",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106376630721757184"
+          },
+          {
+            "media_key": "3_2106376642574860289"
+          },
+          {
+            "media_key": "3_2106376675932164097"
+          },
+          {
+            "media_key": "3_2106376691824418816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大叔~ https://t.co/GBVHlbrJLx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106590762322542938",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12419,
+          "following_count": 4887,
+          "like_count": 54698,
+          "listed_count": 41,
+          "media_count": 7102,
+          "tweet_count": 18472
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高二牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/摄影📹（Canon r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos/已炸柜/家暴党",
+        "id": "1943561677762646016",
+        "is_identity_verified": false,
+        "location": "Hachinohe-shi, Aomori",
+        "most_recent_tweet_id": "2106566686241702257",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943561677762646016/1772934743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 487,
+          "like_count": 3064,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

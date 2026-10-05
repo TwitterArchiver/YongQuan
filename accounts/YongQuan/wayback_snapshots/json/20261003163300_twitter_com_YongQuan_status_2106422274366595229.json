@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106407389113331712",
+        "3_2106407389587255297",
+        "3_2106407389109067776",
+        "3_2106407389125849088"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2106422274366595229",
+    "created_at": "2026-10-03T16:33:00.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106422274366595229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UUDaWckS1i",
+          "end": 76,
+          "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+          "media_key": "3_2106407389113331712",
+          "start": 53,
+          "url": "https://t.co/UUDaWckS1i"
+        },
+        {
+          "display_url": "pic.x.com/UUDaWckS1i",
+          "end": 76,
+          "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+          "media_key": "3_2106407389587255297",
+          "start": 53,
+          "url": "https://t.co/UUDaWckS1i"
+        },
+        {
+          "display_url": "pic.x.com/UUDaWckS1i",
+          "end": 76,
+          "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+          "media_key": "3_2106407389109067776",
+          "start": 53,
+          "url": "https://t.co/UUDaWckS1i"
+        },
+        {
+          "display_url": "pic.x.com/UUDaWckS1i",
+          "end": 76,
+          "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+          "media_key": "3_2106407389125849088",
+          "start": 53,
+          "url": "https://t.co/UUDaWckS1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106422274366595229",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106407389113331712"
+      },
+      {
+        "media_key": "3_2106407389587255297"
+      },
+      {
+        "media_key": "3_2106407389109067776"
+      },
+      {
+        "media_key": "3_2106407389125849088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我以为国内审美快要完蛋的时候。。。。。重庆人的审美真的很在线啊！！！ 谁能拒绝这么可爱的小兔叽啊🥹🥹🥹 https://t.co/UUDaWckS1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2106407389113331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt2XDRbsAARS1c.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106407389587255297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt2XFCbMAE922O.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106407389109067776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt2XDQaoAA6FJr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106407389125849088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt2XDUasAAFoE8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106407389113331712",
+            "3_2106407389587255297",
+            "3_2106407389109067776",
+            "3_2106407389125849088"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106422274366595229",
+        "created_at": "2026-10-03T16:33:00.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106422274366595229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUDaWckS1i",
+              "end": 76,
+              "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+              "media_key": "3_2106407389113331712",
+              "start": 53,
+              "url": "https://t.co/UUDaWckS1i"
+            },
+            {
+              "display_url": "pic.x.com/UUDaWckS1i",
+              "end": 76,
+              "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+              "media_key": "3_2106407389587255297",
+              "start": 53,
+              "url": "https://t.co/UUDaWckS1i"
+            },
+            {
+              "display_url": "pic.x.com/UUDaWckS1i",
+              "end": 76,
+              "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+              "media_key": "3_2106407389109067776",
+              "start": 53,
+              "url": "https://t.co/UUDaWckS1i"
+            },
+            {
+              "display_url": "pic.x.com/UUDaWckS1i",
+              "end": 76,
+              "expanded_url": "https://x.com/YongQuan/status/2106422274366595229/photo/1",
+              "media_key": "3_2106407389125849088",
+              "start": 53,
+              "url": "https://t.co/UUDaWckS1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106422274366595229",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106407389113331712"
+          },
+          {
+            "media_key": "3_2106407389587255297"
+          },
+          {
+            "media_key": "3_2106407389109067776"
+          },
+          {
+            "media_key": "3_2106407389125849088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我以为国内审美快要完蛋的时候。。。。。重庆人的审美真的很在线啊！！！ 谁能拒绝这么可爱的小兔叽啊🥹🥹🥹 https://t.co/UUDaWckS1i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106422274366595229",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12414,
+          "following_count": 4889,
+          "like_count": 54679,
+          "listed_count": 41,
+          "media_count": 7088,
+          "tweet_count": 18457
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

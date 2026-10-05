@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2104341598092112378",
+    "created_at": "2026-09-28T01:47:20.000Z",
+    "display_text_range": [
+      19,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104387448503701547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1900168705847500800",
+          "start": 0,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 18,
+          "id": "1436287470207832064",
+          "start": 8,
+          "username": "wuyuandev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104387448503701547",
+    "in_reply_to_user_id": "1900168705847500800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104341598092112378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb_NB @wuyuandev 羡慕猫娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2104341590408036352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQfhvZaAAAmM5q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2104341598092112378",
+        "created_at": "2026-09-28T01:47:20.000Z",
+        "display_text_range": [
+          19,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104387448503701547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 18,
+              "id": "1436287470207832064",
+              "start": 8,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104387448503701547",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104341598092112378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB @wuyuandev 羡慕猫娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104341590408036352"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2104341598092112378",
+        "created_at": "2026-09-27T22:45:08.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104341598092112378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi3z0Rx2h9",
+              "end": 48,
+              "expanded_url": "https://x.com/wxb_NB/status/2104341598092112378/photo/1",
+              "media_key": "3_2104341590408036352",
+              "start": 25,
+              "url": "https://t.co/Qi3z0Rx2h9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104341598092112378",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104341590408036352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 503,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢 @wuyuandev 的代充喵，好便宜喵🤩 https://t.co/Qi3z0Rx2h9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2104387448503701547",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12363,
+          "following_count": 4894,
+          "like_count": 54538,
+          "listed_count": 42,
+          "media_count": 6924,
+          "tweet_count": 18226
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 我的世界里才是家 / 梗图爱好者 / 编程全靠AI / 作业写不完 / 梗图收不停",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "is_identity_verified": false,
+        "location": "我喜欢你，请和我生小草莓！",
+        "most_recent_tweet_id": "2104380785969320150",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900168705847500800/1771642631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 521,
+          "like_count": 12806,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2104343019378069728",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2104337887164854337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1633,
+          "like_count": 13152,
+          "listed_count": 10,
+          "media_count": 1099,
+          "tweet_count": 4805
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

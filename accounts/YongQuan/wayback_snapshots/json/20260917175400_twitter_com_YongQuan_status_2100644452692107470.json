@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100297329853263872",
+        "3_2100297329815482368",
+        "3_2100297329811259392"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100644452692107470",
+    "created_at": "2026-09-17T17:54:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100644452692107470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2QKyJQISwk",
+          "end": 32,
+          "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+          "media_key": "3_2100297329853263872",
+          "start": 9,
+          "url": "https://t.co/2QKyJQISwk"
+        },
+        {
+          "display_url": "pic.x.com/2QKyJQISwk",
+          "end": 32,
+          "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+          "media_key": "3_2100297329815482368",
+          "start": 9,
+          "url": "https://t.co/2QKyJQISwk"
+        },
+        {
+          "display_url": "pic.x.com/2QKyJQISwk",
+          "end": 32,
+          "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+          "media_key": "3_2100297329811259392",
+          "start": 9,
+          "url": "https://t.co/2QKyJQISwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100644452692107470",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100297329853263872"
+      },
+      {
+        "media_key": "3_2100297329815482368"
+      },
+      {
+        "media_key": "3_2100297329811259392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OMG你吓到我了 https://t.co/2QKyJQISwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2100297329853263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXBSyya8AAzriV.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2100297329815482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXBSypacAA9dpb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2100297329811259392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXBSyoaAAAJTQP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100297329853263872",
+            "3_2100297329815482368",
+            "3_2100297329811259392"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100644452692107470",
+        "created_at": "2026-09-17T17:54:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100644452692107470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QKyJQISwk",
+              "end": 32,
+              "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+              "media_key": "3_2100297329853263872",
+              "start": 9,
+              "url": "https://t.co/2QKyJQISwk"
+            },
+            {
+              "display_url": "pic.x.com/2QKyJQISwk",
+              "end": 32,
+              "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+              "media_key": "3_2100297329815482368",
+              "start": 9,
+              "url": "https://t.co/2QKyJQISwk"
+            },
+            {
+              "display_url": "pic.x.com/2QKyJQISwk",
+              "end": 32,
+              "expanded_url": "https://x.com/YongQuan/status/2100644452692107470/photo/1",
+              "media_key": "3_2100297329811259392",
+              "start": 9,
+              "url": "https://t.co/2QKyJQISwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100644452692107470",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100297329853263872"
+          },
+          {
+            "media_key": "3_2100297329815482368"
+          },
+          {
+            "media_key": "3_2100297329811259392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OMG你吓到我了 https://t.co/2QKyJQISwk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2100644452692107470",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12288,
+          "following_count": 4889,
+          "like_count": 54557,
+          "listed_count": 42,
+          "media_count": 6654,
+          "tweet_count": 17896
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

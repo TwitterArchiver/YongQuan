@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104932735353843712"
+      ],
+      "media_source_tweet_id": [
+        "2105194181828247855"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2105344773691474057",
+    "created_at": "2026-09-30T17:11:24.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105344773691474057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgte17NCSy",
+          "end": 58,
+          "expanded_url": "https://x.com/show5560/status/2105194181828247855/photo/1",
+          "media_key": "3_2104932735353843712",
+          "start": 35,
+          "url": "https://t.co/rgte17NCSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105344773691474057",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104932735353843712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105194181828247855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 国家电网旁边的幼儿园\n你懂我什么意思吧😁 https://t.co/rgte17NCSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2104932735353843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY5K57bcAA2CYN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104932735353843712"
+          ],
+          "media_source_tweet_id": [
+            "2105194181828247855"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2105344773691474057",
+        "created_at": "2026-09-30T17:11:24.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105344773691474057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgte17NCSy",
+              "end": 58,
+              "expanded_url": "https://x.com/show5560/status/2105194181828247855/photo/1",
+              "media_key": "3_2104932735353843712",
+              "start": 35,
+              "url": "https://t.co/rgte17NCSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105344773691474057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104932735353843712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105194181828247855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 国家电网旁边的幼儿园\n你懂我什么意思吧😁 https://t.co/rgte17NCSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104932735353843712"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105194181828247855",
+        "created_at": "2026-09-30T07:13:00.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105194181828247855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgte17NCSy",
+              "end": 44,
+              "expanded_url": "https://x.com/show5560/status/2105194181828247855/photo/1",
+              "media_key": "3_2104932735353843712",
+              "start": 21,
+              "url": "https://t.co/rgte17NCSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105194181828247855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104932735353843712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1180,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国家电网旁边的幼儿园\n你懂我什么意思吧😁 https://t.co/rgte17NCSy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2105344773691474057",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12365,
+          "following_count": 4888,
+          "like_count": 54612,
+          "listed_count": 41,
+          "media_count": 6996,
+          "tweet_count": 18326
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105342349157253496",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8564,
+          "following_count": 1723,
+          "like_count": 38763,
+          "listed_count": 19,
+          "media_count": 3890,
+          "tweet_count": 17264
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2106069010379063655",
+    "created_at": "2026-10-04T04:07:55.000Z",
+    "display_text_range": [
+      8,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106597156048212420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1357346694732521474",
+          "start": 0,
+          "username": "SiuFat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106597156048212420",
+    "in_reply_to_user_id": "1357346694732521474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106069010379063655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiuFat 事实就是小肥冠军赛数据倒数第一 真得好好练枪吧 光指挥肯定是不够的\n现在指挥开不出枪真的走不远\n而且你的指挥真的不能够算很好\n有时候看的真的尬住了\n做的决策真的太慢了\ncn在指挥这说实话就wsleo是合格的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2106069010379063655",
+        "created_at": "2026-10-04T04:07:55.000Z",
+        "display_text_range": [
+          8,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106597156048212420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1357346694732521474",
+              "start": 0,
+              "username": "SiuFat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106597156048212420",
+        "in_reply_to_user_id": "1357346694732521474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106069010379063655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiuFat 事实就是小肥冠军赛数据倒数第一 真得好好练枪吧 光指挥肯定是不够的\n现在指挥开不出枪真的走不远\n而且你的指挥真的不能够算很好\n有时候看的真的尬住了\n做的决策真的太慢了\ncn在指挥这说实话就wsleo是合格的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357346694732521474",
+        "conversation_id": "2106069010379063655",
+        "created_at": "2026-10-02T17:09:15.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106069010379063655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106069010379063655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I'm so sorry, it's a real shame. Returning to the international stage after a year, we didn't go any further, becoming the first team eliminated in the Shanghai Champions.\n\nI want to thank everyone who supported me , I can't reply to everyone's private messages individually, especially since I met so many kind people , player and coach at this championship. Thank you for your advice and encouragement. Communicating with you all has taught me so much. \n\nI will work hard to improve myself and I will definitely be back."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 227160,
+          "like_count": 6340,
+          "quote_count": 9,
+          "reply_count": 198,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "I'm so sorry, it's a real shame. Returning to the international stage after a year, we didn't go any further, becoming the first team eliminated in the Shanghai Champions.\n\nI want to thank everyone who supported me , I can't reply to everyone's private messages individually,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106597156048212420",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4888,
+          "like_count": 54705,
+          "listed_count": 41,
+          "media_count": 7105,
+          "tweet_count": 18478
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-04T15:17:13.000Z",
+        "description": "🇨🇳🇭🇰 𝗩𝗖𝗧𝗖𝗡 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 @VALORANT 𝗜𝗚𝗟 𝗙𝗼𝗿 @Tyloo_val 🏆💎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "VALORANT"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Tyloo_val"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/siufatbb_vlrt/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/siufatbb_vlrt/",
+                "start": 0,
+                "url": "https://t.co/xJjNvjzGKG"
+              }
+            ]
+          }
+        },
+        "id": "1357346694732521474",
+        "is_identity_verified": true,
+        "location": "HongKong ",
+        "most_recent_tweet_id": "2106069010379063655",
+        "name": "TYLOO SiuFatBB",
+        "pinned_tweet_id": "2091565966950093147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357346694732521474/1789188122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092096013360381953/oN5eHn_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46078,
+          "following_count": 668,
+          "like_count": 2613,
+          "listed_count": 22,
+          "media_count": 174,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/xJjNvjzGKG",
+        "username": "SiuFat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

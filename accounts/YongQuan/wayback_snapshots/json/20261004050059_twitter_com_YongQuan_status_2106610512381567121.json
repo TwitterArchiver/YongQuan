@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545277694325116928",
+    "conversation_id": "2105681122466414866",
+    "created_at": "2026-10-04T05:00:59.000Z",
+    "display_text_range": [
+      14,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106610512381567121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "990704047",
+          "start": 0,
+          "username": "happywei_413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106610512381567121",
+    "in_reply_to_user_id": "990704047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105681122466414866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happywei_413 别让忠诚害了你 去EDG吧，CN本来就垃\n必须想法整个五个最强的人\n效仿一下LOL的BLG\n不然根本看不到一点希望 赢一把都难"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2105681112345526272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjh0LeawAA5Z14.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2105681122466414866",
+        "created_at": "2026-10-04T05:00:59.000Z",
+        "display_text_range": [
+          14,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106610512381567121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "990704047",
+              "start": 0,
+              "username": "happywei_413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106610512381567121",
+        "in_reply_to_user_id": "990704047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105681122466414866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happywei_413 别让忠诚害了你 去EDG吧，CN本来就垃\n必须想法整个五个最强的人\n效仿一下LOL的BLG\n不然根本看不到一点希望 赢一把都难"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105681112345526272"
+          ]
+        },
+        "author_id": "990704047",
+        "conversation_id": "2105681122466414866",
+        "created_at": "2026-10-01T15:27:55.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105681122466414866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgdSftVHAW",
+              "end": 44,
+              "expanded_url": "https://x.com/happywei_413/status/2105681122466414866/photo/1",
+              "media_key": "3_2105681112345526272",
+              "start": 21,
+              "url": "https://t.co/FgdSftVHAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105681122466414866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105681112345526272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 262835,
+          "like_count": 5487,
+          "quote_count": 53,
+          "reply_count": 750,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "GG 0:2 NS\n\n今年就這樣結束了。 https://t.co/FgdSftVHAW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Tianshui, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.74238,
+                  34.57952
+                ],
+                "type": "Point"
+              },
+              "locality": "Tianshui",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜本账号由雪秋代管\n爱人❤️@XUEQIUxka\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2106610512381567121",
+        "name": "铨🍥｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12420,
+          "following_count": 4895,
+          "like_count": 54751,
+          "listed_count": 41,
+          "media_count": 7108,
+          "tweet_count": 18499
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-05T11:03:03.000Z",
+        "description": "22y play for XLG 800 0.712 BEST",
+        "id": "990704047",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105681122466414866",
+        "name": "XLG happywei",
+        "pinned_tweet_id": "1853082959122727232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990704047/1749492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870111283812675585/kA3pmVfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22252,
+          "following_count": 256,
+          "like_count": 437,
+          "listed_count": 17,
+          "media_count": 25,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "happywei_413",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
